@@ -1,0 +1,36 @@
+{% comment %}<!--
+
+Usage:
+	{% assign posts_preview_count = 10 %}
+	{% include JB/posts_preview_list %}
+
+-->{% endcomment %}
+
+<div class="posts_preview">
+{% for post in site.posts limit:posts_preview_count %}
+	<div class="post">
+		<h2><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h2>
+		<div class="date">{{ post.date | date: site.date_format }}</div>
+		<div class="content">
+			<p>{{ post.content | strip_html | truncate: 150 }}</p>
+		</div>
+		<div class="category">
+			{% unless page.categories == empty %}
+				<span>Categories: </span>
+				{% for category in post.category %}
+					<a href="{{ BASE_PATH }}{{ site.JB.categories_path }}#{{ category }}-ref">{{ category }}</a>
+				{% endfor %}
+			{% endunless %}
+		</div>
+		<div class="tags">
+			{% unless page.tags == empty %}
+				<span>Tags: </span>
+				{% for tag in post.tags %}
+					<a href="{{ BASE_PATH }}{{ site.JB.tags_path }}#{{ tag }}-ref">{{ tag }}</a>{% if tag != post.tags.last %},{% endif %}
+				{% endfor %}
+			{% endunless %}
+		</div>
+	</div>
+{% endfor %}
+</div>
+{% assign posts_preview_count = nil %}
