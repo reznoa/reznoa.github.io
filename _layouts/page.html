@@ -3,15 +3,3 @@ layout: default
 ---
 {% include JB/setup %}
 {% include themes/twitter/page.html %}
-
-<script src="http://samaxesjs.googlecode.com/files/samaxesjs.toc-1.5.min.js"></script>
-<script type="text/javascript">
-	var toc = document.getElementById('toc');
-	if (!toc) {
-		var baseElm = document.getElementsByClassName('content')[1];
-		toc = document.createElement('div');
-		toc.id = 'toc';
-		baseElm.parentNode.insertBefore(toc, baseElm);
-	}
-	samaxesJS.toc();
-</script>
