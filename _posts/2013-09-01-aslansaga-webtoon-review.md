@@ -5,9 +5,6 @@ description: ""
 category: Mediaview
 tags: [네이버웹툰, 만화, 박성용, 추리, 판타지, 영웅, 느와르]
 ---
-{% include JB/setup %}
-
-
 
 [아스란영웅전](http://comic.naver.com/webtoon/list.nhn?titleId=112931)은 중세 판타지를 배경으로, 판타지 영웅 전기를 가장한 추리 스릴러다.
 처음 봤을때는 얼핏 안어울릴것같은 조합같다만, 이 묘한 갭이 막상 보면 생각보다 매력적이다.

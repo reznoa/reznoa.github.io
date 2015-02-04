@@ -5,9 +5,6 @@ description: ""
 category: Mediaview
 tags: [★★★★, 강풀, 만화, 다음만화속세상, 순정, 웹툰, 좀비]
 ---
-{% include JB/setup %}
-
-
 
 ## 강풀의 4번째 순정만화
 

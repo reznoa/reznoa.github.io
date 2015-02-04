@@ -5,9 +5,6 @@ description: ""
 category: Mediaview
 tags: [★★★★★, 만화, 다음만화속세상, 이림, 죽음]
 ---
-{% include JB/setup %}
-
-
 
 '[죽는 남자](http://cartoon.media.daum.net/webtoon/view/man)'는 이림의 정식 데뷔작이다.[^1]
 연재 당시[^2]에도 정말 잘 만든 만화라고 생각했었는데, 다시봐도 여전히 좋고 재밌다.

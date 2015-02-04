@@ -5,9 +5,6 @@ description: ""
 category: Mediaview
 tags: [★★★, 마법소녀, 만화, 변신, 성전환, 영웅, 코미디]
 ---
-{% include JB/setup %}
-
-
 
 '[나와 히어로와 마법소녀(俺とヒーローと魔法少女)](http://sat10.web.fc2.com/)'는 개인이 웹에 연재하던 작품으로, 흔하다면 흔한 변신 히어로 물이다.
 

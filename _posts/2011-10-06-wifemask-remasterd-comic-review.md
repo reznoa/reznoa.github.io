@@ -5,9 +5,6 @@ description: ""
 category: Mediaview
 tags: [★★★★, 거북이북스, 만화, 복간, 한국만화걸작선, 허영만]
 ---
-{% include JB/setup %}
-
-
 
 ## 1~7화를 담은 복간판 각시탈
 

@@ -5,9 +5,6 @@ description: ""
 category: Game
 tags: [게임, 리그오브레전드, 한국어패치]
 ---
-{% include JB/setup %}
-
-
 
 ## 한국어 활성화, 왜?
 

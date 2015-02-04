@@ -5,9 +5,6 @@ description: ""
 category: Mediaview
 tags: [★★★★, 만화, 판타지, 신, 악마, 미연시, 와카키 타미키]
 ---
-{% include JB/setup %}
-
-
 
 '신만이 아는 세계(神のみぞ知るセカイ)'는 미소녀게임 공략을 소재로 한 와카키 타미키의 장편 만화이다.
 

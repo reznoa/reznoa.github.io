@@ -5,9 +5,6 @@ description: ""
 category: Mediaview
 tags: [★★★, 만화, 요괴, 최소영, 한국]
 ---
-{% include JB/setup %}
-
-
 
 ## 전통 이야기 발굴은 정말 필요하다
 
