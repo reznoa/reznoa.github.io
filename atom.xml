@@ -21,7 +21,11 @@ title : Atom Feed
    <link href="{{ site.production_url }}{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <id>{{ site.production_url }}{{ post.id }}</id>
+   {% if site.feed_type == "full" %}
    <content type="html">{{ post.content | xml_escape }}</content>
+   {% else %}
+   <content type="html">{{ post.content | strip_html | truncate: site.truncate_length | xml_escape }}</content>
+   {% endif %}
  </entry>
  {% endfor %}
  

@@ -12,7 +12,7 @@ Usage:
 		<h2><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h2>
 		<div class="date">{{ post.date | date: site.date_format }}</div>
 		<div class="content">
-			<p>{{ post.content | strip_html | truncate: 150 }}</p>
+			<p>{{ post.content | strip_html | truncate: site.truncate_length }}</p>
 		</div>
 		<div class="category">
 			{% unless page.categories == empty %}

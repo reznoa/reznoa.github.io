@@ -29,6 +29,10 @@ author :
 #
 production_url : http://reznoa.wo.tc
 
+# type: full | part
+feed_type: part
+truncate_length: 150
+
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
 JB :
