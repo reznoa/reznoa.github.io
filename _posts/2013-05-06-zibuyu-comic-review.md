@@ -17,15 +17,15 @@ tags: [★★★, 샤다, 만화, 중국, 요괴]
 
 [^3]: 중국 청나라 원매(袁枚)가 괴기담을 엮은 단편 소설과 이름이 같다. 괴기담과 요괴물이니 소재도 엇비슷하긴 하다만.. (웃음)
 
-[![샤다의 '아무도 모르는' 1권 표지](https://lh5.googleusercontent.com/-3mMO-aucGuc/VMaDyu487BI/AAAAAAAAOqY/mJpzcUocZp4/s280/zibuyu.jpg)](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8925297574&ttbkey=ttbreznoa0249002&COPYPaper=1)
-[![샤다의 '아무도 모르는' 2권 표지](https://lh5.googleusercontent.com/-f9R_LcT5SZ0/VMaEk0snfHI/AAAAAAAAOq0/uHcRcLf5mxY/s280/zibuyu_2.jpg)](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8925298937&ttbkey=ttbreznoa0249002&COPYPaper=1)
-[![샤다의 '아무도 모르는' 3권 표지](https://lh5.googleusercontent.com/-4axeQh7Odsk/VMaEvQ-Jx-I/AAAAAAAAOrI/O0KGdxWCdtU/s280/zibuyu_3.jpg)](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=896725671X&ttbkey=ttbreznoa0249002&COPYPaper=1)
+[![샤다의 '아무도 모르는' 1권 표지](https://lh5.googleusercontent.com/-3mMO-aucGuc/VMaDyu487BI/AAAAAAAAOqY/mJpzcUocZp4/s280/zibuyu.jpg)](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8925297574&ttbkey=ttbreznoa0249001&COPYPaper=1)
+[![샤다의 '아무도 모르는' 2권 표지](https://lh5.googleusercontent.com/-f9R_LcT5SZ0/VMaEk0snfHI/AAAAAAAAOq0/uHcRcLf5mxY/s280/zibuyu_2.jpg)](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8925298937&ttbkey=ttbreznoa0249001&COPYPaper=1)
+[![샤다의 '아무도 모르는' 3권 표지](https://lh5.googleusercontent.com/-4axeQh7Odsk/VMaEvQ-Jx-I/AAAAAAAAOrI/O0KGdxWCdtU/s280/zibuyu_3.jpg)](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=896725671X&ttbkey=ttbreznoa0249001&COPYPaper=1)
 
 그런데, 작가 이름이나 등장인물의 이름, 그리고 배경에 대한것만 잊으면 이게 중국건지 일본건지 분간하기 어렵다.
 그동안 봐왔던 일본의 요괴나 벌레(蟲) 이야기와 너무 비슷하기 때문이다.
 우리가 익숙하게 보아오던 일본의 다양한 요괴들이 어디에서 왔는지를 짐작케한다.
 
-'[백귀야행(百鬼夜行抄)](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8972599050&ttbkey=ttbreznoa0249002&COPYPaper=1)'처럼 어느 한 쪽(선과 악 또는 옳음과 그림)으로 치우치지 않는 이야기가 매력적인데, 어이없게도 고작 3권으로 끝나버린다.
+'[백귀야행(百鬼夜行抄)](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8972599050&ttbkey=ttbreznoa0249001&COPYPaper=1)'처럼 어느 한 쪽(선과 악 또는 옳음과 그림)으로 치우치지 않는 이야기가 매력적인데, 어이없게도 고작 3권으로 끝나버린다.
 
 짧게 끝난게 어이없다는건 그동안 뿌린 떡밥을 전혀 회수할 생각도 않고 끝내버리기 때문이다.
 

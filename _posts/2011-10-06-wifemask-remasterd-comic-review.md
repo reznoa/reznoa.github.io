@@ -13,7 +13,7 @@ tags: [★★★★, 거북이북스, 만화, 복간, 한국만화걸작선, 허
 
 '각시탈'은 허영만의 대표작 중 하나로, 일제시대를 배경으로 한 일종의 히어로물이다. 특징인 각시탈을 써 신분을 감추고, 아무도 모르게 나타나 맨손으로 택견을 이용해 일본놈들을 때려잡는 모습은 굉장히 매력적이다.
 
-[![복각판 각시탈 표시](https://lh4.googleusercontent.com/-7GA3Un6yLkk/VMjwmOBLgpI/AAAAAAAAOtY/FHf8NioKl4c/s450/maskofbride.jpg "원작 중 각시탈의 탄생을 그린 초반 일부만 담았다.")](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8992596871&ttbkey=ttbreznoa0249002&COPYPaper=1)
+[![복각판 각시탈 표시](https://lh4.googleusercontent.com/-7GA3Un6yLkk/VMjwmOBLgpI/AAAAAAAAOtY/FHf8NioKl4c/s450/maskofbride.jpg "원작 중 각시탈의 탄생을 그린 초반 일부만 담았다.")](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8992596871&ttbkey=ttbreznoa0249001&COPYPaper=1)
 
 [거북이북스](http://www.gobook2.com/)에서 나온 각시탈은 그 원작만화 각시탈을 복간한 것으로, '한국만화걸작선'이란 이름으로 [한국만화영상진흥원](http://www.komacon.kr/)에서 진행한 명작 만화 복간 프로젝트의 산물 중 하나다.
 

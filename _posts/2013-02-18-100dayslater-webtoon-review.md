@@ -16,9 +16,9 @@ tags: [★★★★★, 만화, 다음만화속세상, 이림, 죽음]
 
 [^2]: 연재처인 다음만화속세상에 따르면 연재기간은 다음과 같다: 2006-03-15 ~ 2007-02-07다.
 
-[![죽는 남자 1권 표지](https://lh4.googleusercontent.com/-oKZXTs4xjOg/VMmh_YCZW5I/AAAAAAAAOuc/jyfOWNCCTR8/s300/100dayslater_1.jpg)](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8989399858&ttbkey=ttbreznoa0249004&COPYPaper=1)
-[![죽는 남자 2권 표지](https://lh3.googleusercontent.com/-bPbhSPEQOF8/VMmiGxi-iBI/AAAAAAAAOuw/t9Lh3lx8EEY/s300/100dayslater_2.jpg)](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8989399882&ttbkey=ttbreznoa0249004&COPYPaper=1)
-[![죽는 남자 3권 표지](https://lh3.googleusercontent.com/-OSR3WF2WLs0/VMmiL4V6UbI/AAAAAAAAOvE/GhcW_ftreeA/s300/100dayslater_3.jpg)](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8989399904&ttbkey=ttbreznoa0249004&COPYPaper=1)
+[![죽는 남자 1권 표지](https://lh4.googleusercontent.com/-oKZXTs4xjOg/VMmh_YCZW5I/AAAAAAAAOuc/jyfOWNCCTR8/s300/100dayslater_1.jpg)](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8989399858&ttbkey=ttbreznoa0249001&COPYPaper=1)
+[![죽는 남자 2권 표지](https://lh3.googleusercontent.com/-bPbhSPEQOF8/VMmiGxi-iBI/AAAAAAAAOuw/t9Lh3lx8EEY/s300/100dayslater_2.jpg)](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8989399882&ttbkey=ttbreznoa0249001&COPYPaper=1)
+[![죽는 남자 3권 표지](https://lh3.googleusercontent.com/-OSR3WF2WLs0/VMmiL4V6UbI/AAAAAAAAOvE/GhcW_ftreeA/s300/100dayslater_3.jpg)](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8989399904&ttbkey=ttbreznoa0249001&COPYPaper=1)
 
 작품은 젊은 나이에 갑자기 죽음을 선고받은 청년의 이야기로 시작한다.
 고작 100일 남짓하는 시간만이 남은 청년은 차분히 자신의 죽음을 받아들이고 주변을 정리하기 시작한다.

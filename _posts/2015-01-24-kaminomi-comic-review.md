@@ -11,7 +11,7 @@ tags: [★★★★, 만화, 판타지, 신, 악마, 미연시, 와카키 타미
 
 '신만이 아는 세계(神のみぞ知るセカイ)'는 미소녀게임 공략을 소재로 한 와카키 타미키의 장편 만화이다.
 
-![신만세 1권 표지](https://lh4.googleusercontent.com/-8qbdOxGz_kk/VMKChhYXkQI/AAAAAAAAOlo/uWPHJXbog-Q/s0/kaminomi_1_kr_cover.jpg "'신만세'는 신만이 아는 세계에서 벌어지는 신만의 이야기다.")
+[![신만세 1권 표지](https://lh4.googleusercontent.com/-8qbdOxGz_kk/VMKChhYXkQI/AAAAAAAAOlo/uWPHJXbog-Q/w600/kaminomi_1_kr_cover.jpg "'신만세'는 신만이 아는 세계에서 벌어지는 신만의 이야기다.")](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8925893576&ttbkey=ttbreznoa0249001&COPYPaper=1)
 
 미소녀게임이 아닌 그 '공략'을 소재로 했다고 하는것은, 이 만화의 주인공이 게임처럼 여자애들을 '공략'하기 때문이다.
 현실에서 게임처럼 공략을 한다는 그 설정이 우선 재밌고, 그게 먹힌다는게 또 재미있다.

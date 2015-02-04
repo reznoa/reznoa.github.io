@@ -16,7 +16,7 @@ tags: [★★★, 만화, 요괴, 최소영, 한국]
 이런건 원래 입을 타고 전해지는거라 일부러 캐내지 않으면 그만큼 그냥 잊혀져버려서 더욱 그렇다.
 그런 점에서 수많은 참조와 리메이크로 생명을 이어나가는 일본 요괴들은 참 복 터졌달까, 부럽달까.
 
-[![아시아라이 저택의 주민들 13권 표지](https://lh5.googleusercontent.com/-aM4h2RugXx8/VMOMUSuEdHI/AAAAAAAAOnk/KpmtBjCvjOQ/s300/ashiarai_13_kr.jpg "일본은 자국 뿐 아니라 전세계의 신화와 요괴를 잘도 주무르며 놀곤 한다. 이를위해 자료조사를 하기도 하고, 부족한것을 상상력으로 채우기도 하겠지.")](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8954253482&ttbkey=ttbreznoa0249002&COPYPaper=1)
+[![아시아라이 저택의 주민들 13권 표지](https://lh5.googleusercontent.com/-aM4h2RugXx8/VMOMUSuEdHI/AAAAAAAAOnk/KpmtBjCvjOQ/s300/ashiarai_13_kr.jpg "일본은 자국 뿐 아니라 전세계의 신화와 요괴를 잘도 주무르며 놀곤 한다. 이를위해 자료조사를 하기도 하고, 부족한것을 상상력으로 채우기도 하겠지.")](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8954253482&ttbkey=ttbreznoa0249001&COPYPaper=1)
 
 아무튼, 그래서 보다 많은 이야기를 찾고 소개해주는 만화가 있었으면 했는데, 경성기담이 오랫만에 그런 역할을 조금 해주었다.
 워낙 짧아서 그리 만족스럽진 않았지만 말이다.
@@ -34,7 +34,7 @@ tags: [★★★, 만화, 요괴, 최소영, 한국]
 이런거에 관심있는 사람이 아니라면 별 재미없다 할 법 하거든.
 대중적이지 않다는 말이다.
 
-[![도깨비 신부 6권 표지](https://lh6.googleusercontent.com/-ycNQLbjaGnA/VMON2a8V_II/AAAAAAAAOoE/_doXiDNo8zY/s300/dokkaebibride_6.jpg "무당과 도깨비의 이야기를 진지하게 이야기를 풀어가지만, 관심있는 사람이 아니라면 재미없을 수 있다.")](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8960521213&ttbkey=ttbreznoa0249002&COPYPaper=1)
+[![도깨비 신부 6권 표지](https://lh6.googleusercontent.com/-ycNQLbjaGnA/VMON2a8V_II/AAAAAAAAOoE/_doXiDNo8zY/s300/dokkaebibride_6.jpg "무당과 도깨비의 이야기를 진지하게 이야기를 풀어가지만, 관심있는 사람이 아니라면 재미없을 수 있다.")](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8960521213&ttbkey=ttbreznoa0249001&COPYPaper=1)
 
 그런 점에서 이 만화가 1904년 대한 제국을 배경으로 한건 꽤 좋았다.[^1]
 배경이 과거면 좋은게, 한복이나 무당, 또는 토속신을 심각하게 믿는 사람들이 나와도 별로 어색하지 않기 때문이다.
@@ -67,8 +67,8 @@ tags: [★★★, 만화, 요괴, 최소영, 한국]
 
 총 2권에 다음과 같은 이야기들을 수록했다.
 
-[![Mr.웨인의 1904 경성기담 1권 표지](https://lh6.googleusercontent.com/-k_SRHhbomk0/VMOQJuPMQnI/AAAAAAAAOoU/do0HgbLI_0c/s290/wayne1904story_1.jpg)](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8926389871&ttbkey=ttbreznoa0249002&COPYPaper=1)
-[![Mr.웨인의 1904 경성기담 2권 표지](http://image.aladin.co.kr/product/1184/7/cover/8926392341_1.jpg)](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8926392341&ttbkey=ttbreznoa0249002&COPYPaper=1)
+[![Mr.웨인의 1904 경성기담 1권 표지](https://lh6.googleusercontent.com/-k_SRHhbomk0/VMOQJuPMQnI/AAAAAAAAOoU/do0HgbLI_0c/s290/wayne1904story_1.jpg)](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8926389871&ttbkey=ttbreznoa0249001&COPYPaper=1)
+[![Mr.웨인의 1904 경성기담 2권 표지](http://image.aladin.co.kr/product/1184/7/cover/8926392341_1.jpg)](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8926392341&ttbkey=ttbreznoa0249001&COPYPaper=1)
 
 - 1권
   - 첫번째 기담: 꼬리 잘린 고양이
