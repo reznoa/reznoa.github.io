@@ -4,6 +4,9 @@ layout: default
 {% include JB/setup %}
 {% include themes/twitter/post.html %}
 
+<link rel="stylesheet" type="text/css" href="/res/mdenh.css" />
+<script src="/res/dompos.js"></script>
+<script src="/res/mdenh.js"></script>
 <script src="http://samaxesjs.googlecode.com/files/samaxesjs.toc-1.5.min.js"></script>
 <script type="text/javascript">
 	var toc = document.getElementById('toc');
@@ -14,4 +17,7 @@ layout: default
 		baseElm.parentNode.insertBefore(toc, baseElm);
 	}
 	samaxesJS.toc();
+
+	MarkdownEnhancer.footnotePopup();
+	MarkdownEnhancer.imageBlock( document.getElementsByClassName('content')[1] );
 </script>

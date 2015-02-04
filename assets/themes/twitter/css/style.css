@@ -131,3 +131,21 @@
 	width: 14px;
 	background-position: -25px -48px;
 }
+
+div.footnotes {
+	border: 0;
+	border-top: 1px dashed #cccccc;
+	padding-top: 2em;
+	margin-top: 2em;
+}
+sup a.footnote {
+	margin: 0 2px 0 2px;
+	padding : 1px 2px;
+	font-weight: bold;
+	color: white;
+	background: #ff3333;
+
+	border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+}
