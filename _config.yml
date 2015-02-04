@@ -1,7 +1,7 @@
 # This is the default format. 
 # For more see: http://jekyllrb.com/docs/permalinks/
 # default: /:categories/:year/:month/:day/:title
-permalink: /:title
+permalink: /post/:title
 date_format: "%F"
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "sitemap.txt"]
