@@ -4,7 +4,7 @@
 permalink: /:title
 date_format: "%F"
 
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile"]
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "sitemap.txt"]
 highlighter: pygments
 
 # Themes are encouraged to use these universal variables 
