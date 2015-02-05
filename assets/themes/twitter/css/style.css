@@ -121,14 +121,15 @@
 	line-height: 14px;
 	background-image: url("../bootstrap/img/glyphicons-halflings.png");
 	color: transparent;
-	margin: 0 4px;
 }
 .posts_preview .category span:first-child {
 	width: 16px;
+	margin: 0 4px;
 	background-position: -408px -120px;
 }
 .posts_preview .tags span:first-child {
 	width: 14px;
+	margin: 0 5px;
 	background-position: -25px -48px;
 }
 
