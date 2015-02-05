@@ -159,3 +159,18 @@ sup a.footnote {
 	-moz-border-radius: 4px;
 	-webkit-border-radius: 4px;
 }
+
+/* table */
+.content table {
+	border: 0;
+	border-top: 1px solid #ccc;
+}
+.content table th,
+.content table td {
+	border: 1px solid #ccc;
+	border-top: 0;
+	padding: 0.2em 0.5em;
+}
+.content table th {
+	background: #eee;
+}
