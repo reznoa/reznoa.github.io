@@ -177,3 +177,34 @@ sup a.footnote {
 .content table th {
 	background: #eee;
 }
+
+#toc {
+	border: 1px dotted #cccccc;
+	padding-bottom: 0.5em;
+	margin: 2em 0;
+}
+#toc:before {
+	content: "TOC";
+	position: relative;
+	top: -1em;
+	margin-left: 0.5em;
+	padding: 0 0.5em;
+	background: white;
+	color: #cccccc;
+}
+#toc li {
+	list-style-type: none;
+}
+#toc ul li {
+	margin-bottom: 0.5em;
+}
+#toc ul li ul li {
+	margin-bottom: 0;
+}
+#toc ul li a {
+	font-size: 1.5em;
+	line-height: 150%;
+}
+#toc ul li ul li a {
+	font-size: 1em;
+}
