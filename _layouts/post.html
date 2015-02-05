@@ -13,9 +13,12 @@ layout: default
 
 	var toc = document.getElementById('toc');
 	if (!toc) {
-		toc = document.createElement('div');
-		toc.id = 'toc';
-		content.parentNode.insertBefore(toc, content);
+		var h2s = content.getElementsByTagName('h2');
+		if (h2s.length > 0) {
+			toc = document.createElement('div');
+			toc.id = 'toc';
+			content.parentNode.insertBefore(toc, content);
+		}
 	}
 	samaxesJS.toc();
 
