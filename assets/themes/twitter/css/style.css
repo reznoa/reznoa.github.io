@@ -33,7 +33,7 @@
 
 /* post-full*/
 .post-full .date {
-	margin-top: -1em;
+	margin: -1em 0 1em 0;
 	text-align: right;
 	font-weight: bold;
 }
