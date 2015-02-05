@@ -33,7 +33,8 @@
 
 /* post-full*/
 .post-full .date {
-	margin-bottom: 20px;
+	margin-top: -1em;
+	text-align: right;
 	font-weight: bold;
 }
 
@@ -181,7 +182,7 @@ sup a.footnote {
 #toc {
 	border: 1px dotted #cccccc;
 	padding-bottom: 0.5em;
-	margin: 2em 0;
+	margin: 1em 0 2em 0;
 }
 #toc:before {
 	content: "TOC";
