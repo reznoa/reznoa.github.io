@@ -52,7 +52,7 @@ var MarkdownEnhancer =
 MarkdownEnhancer.footnotePopup = function()
 {
 	var INDLEFTPAD = 10;
-	var BACKREFLINK = /<a href="#fnref[^"]+" [^>]+>[^<]+<\/a>/g;
+	var BACKREFLINK = /<a href="#fnref[^"]+" [^>]+>.+<\/a>/g;
 	var baseClassName;
 	var footnotePopupInUse = false;
 
