@@ -133,10 +133,20 @@
 }
 
 div.footnotes {
-	border: 0;
-	border-top: 1px dashed #cccccc;
-	padding-top: 2em;
-	margin-top: 2em;
+	border: 1px dotted #cccccc;
+	border-radius: 4px;
+	margin-top: 2.5em;
+	margin-bottom: 1.5em;
+	padding: 0 0.5em 0.5em 0.5em;
+}
+div.footnotes:before {
+	content: "註";
+	position: relative;
+	top: -1em;
+	margin-left: 0.5em;
+	padding: 0 0.5em;
+	background: white;
+	color: #cccccc;
 }
 sup a.footnote {
 	margin: 0 2px 0 2px;
