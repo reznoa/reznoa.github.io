@@ -9,15 +9,16 @@ layout: default
 <script src="/res/mdenh.js"></script>
 <script src="http://samaxesjs.googlecode.com/files/samaxesjs.toc-1.5.min.js"></script>
 <script type="text/javascript">
+	var content = document.getElementsByClassName('content')[0];
+
 	var toc = document.getElementById('toc');
 	if (!toc) {
-		var baseElm = document.getElementsByClassName('content')[1];
 		toc = document.createElement('div');
 		toc.id = 'toc';
-		baseElm.parentNode.insertBefore(toc, baseElm);
+		content.parentNode.insertBefore(toc, content);
 	}
 	samaxesJS.toc();
 
 	MarkdownEnhancer.footnotePopup();
-	MarkdownEnhancer.imageBlock( document.getElementsByClassName('content')[1] );
+	MarkdownEnhancer.imageBlock( content );
 </script>
