@@ -1,0 +1,10 @@
+{% if site.JB.search.provider and page.JB.search != false %}
+
+{% case site.JB.search.provider %}
+{% when "google" %}
+  {% include JB/search-providers/google %}
+{% when "custom" %}
+  {% include custom/search %}
+{% endcase %}
+
+{% endif %}

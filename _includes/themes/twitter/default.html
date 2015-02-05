@@ -35,6 +35,7 @@
   <body>
     <div class="navbar">
       <div class="navbar-inner">
+        {% include JB/search %}
         <div class="container-narrow">
           <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
           <ul class="nav">
@@ -62,5 +63,7 @@
     </div>
 
     {% include JB/analytics %}
+
+    <link href="{{ ASSET_PATH }}/css/style-override.css" rel="stylesheet" type="text/css" media="all">
   </body>
 </html>

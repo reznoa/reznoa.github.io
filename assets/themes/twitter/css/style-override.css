@@ -1,0 +1,16 @@
+#___gcse_0 {
+	width: 200px;
+	float: right;
+}
+.gsc-control-cse {
+	border: 0;
+	padding: 7px 0 0 0;
+	background-color: transparent;
+}
+.gsc-search-box-tools .gsc-search-box .gsc-input {
+	padding-right: 3px;
+}
+input.gsc-search-button, input.gsc-search-button:hover, input.gsc-search-button:focus {
+        padding: 5px;
+        margin-top: -1px;
+}
