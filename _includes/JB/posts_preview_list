@@ -1,9 +1,7 @@
 {% comment %}<!--
-
 Usage:
 	{% assign posts_preview_count = 10 %}
 	{% include JB/posts_preview_list %}
-
 -->{% endcomment %}
 
 <div class="posts_preview">

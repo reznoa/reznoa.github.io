@@ -2,9 +2,9 @@
 
 {% case site.JB.search.provider %}
 {% when "google" %}
-  {% include JB/search-providers/google %}
+	{% include JB/search-providers/google %}
 {% when "custom" %}
-  {% include custom/search %}
+	{% include custom/search %}
 {% endcase %}
 
 {% endif %}
