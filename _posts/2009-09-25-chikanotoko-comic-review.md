@@ -3,7 +3,7 @@ layout: post
 title: "치한남(痴漢男), 오해로부터 시작하다."
 description: ""
 category: Mediaview
-tags: [2ch, ★★★★★, 만화, 연애, 코미디, 치한, 오해]
+tags: [2ch, ★★★★★, 만화, 연애, 코미디, 치한, 오해, YOKO]
 ---
 
 '[치한남(痴漢男)](http://passionate1842.web.infoseek.co.jp/manga.htm)'[^1]은 2ch에서 인기있었던 스레[^2]를 만화로 그린 것으로, 소심한 한 오타쿠가 치한으로 오해 받으면서 벌어지는 일들을 1인칭 시점으로 일기처럼 풀어놓은 로맨틱 코미디물이다.

@@ -3,7 +3,7 @@ layout: post
 title: "오나니 마스터 쿠로사와(オナニーマスター黒沢), 자구하다."
 description: ""
 category: Mediaview
-tags: [★★★★, 만화, 자위, 집단괴롭힘, 성장, 구원, 소설원작]
+tags: [★★★★, 만화, 자위, 집단괴롭힘, 성장, 구원, 소설원작, YOKO]
 ---
 
 ![오나마스의 이미지](https://lh4.googleusercontent.com/-1QoJZtZRrtE/VMJPI7t-jQI/AAAAAAAAOkw/MZq-MrAI4_4/w700-h525-no/onamas.jpg "잘 다듬어진듯한 그림체는 아니지만, 분위기 하나는 잘 뽑아낸다.")
