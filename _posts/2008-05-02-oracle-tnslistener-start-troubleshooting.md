@@ -48,7 +48,7 @@ IP가 변경되더라도 설정 파일을 바꾸지 않아도 되기 때문이�
 참고로, 윈도우에서 호스트 이름을 확인하려면, 명령행에서 hostname이란 명령을 사용하면 된다.
 
 
-![hostname 명령 실행](https://lh3.googleusercontent.com/-GLdLyPoWnTo/VNTDymwPKKI/AAAAAAAAO1c/C3Md9iruAnM/s0/windows-hostname.png "hostname 명령을 이용하면 호스트 이름을 확인할 수 있다.")
+![hostname 명령 실행](https://lh5.googleusercontent.com/-pqMB8Du6l_A/VNUKeq4VSwI/AAAAAAAAO3A/QrAhGKgCe6U/s0/windows-hostname.png "hostname 명령을 이용하면 호스트 이름을 확인할 수 있다.")
 
 
 설정을 바꾸고 다시 서비스를 시작하면,
