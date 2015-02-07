@@ -3,7 +3,7 @@ layout: post
 title: "Oracle - AUTO INCREMENT 흉내내기"
 description: ""
 category: Developlay
-tags: [Oracle]
+tags: [Oracle, SQL, 코드조각]
 ---
 
 AUTO INCREMENT는 MySQL을 통해 익숙해진 구문인데, ID 등에 사용하면 값을 증가시키면서 자동으로 유일한 값을 넣어주는 편리한 녀석이다.

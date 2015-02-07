@@ -3,7 +3,7 @@ layout: post
 title: "DLL Export 방법"
 description: ""
 category: Developlay
-tags: [DLL, export, Windows, dumpbin, Visual Studio]
+tags: [DLL, Windows, Visual Studio]
 ---
 
 ## DLL Export란?

@@ -3,7 +3,7 @@ layout: post
 title: "OpenAPI를 이용한 지도에서 불필요한 요소 지우기"
 description: ""
 category: Developlay
-tags: [OpenAPI, Mashup, JavaScript]
+tags: [OpenAPI, Mashup, JavaScript, DHTML]
 ---
 
 OpenAPI를 이용해 지도를 표시할 수 있도록 해주는곳이라면, 대표적으로 구글과 네이버가 있다.[^1] 이런것들이 나온 후 내가 감탄한 것들이 있는데, 말하자면 매시업(Mashup)이다.

@@ -3,7 +3,7 @@ layout: post
 title: "Oracle - TNSListener 서비스가 시작되지 않을 때"
 description: ""
 category: Developlay
-tags: [Oracle, Windows]
+tags: [Oracle, Windows, 서비스]
 ---
 
 윈도우에서 Oracle의 TNSListener는 서비스로 등록된다.
