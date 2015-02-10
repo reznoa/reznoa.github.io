@@ -16,7 +16,7 @@ Usage:
 			{% unless page.categories == empty %}
 				<span><!--[if !IE]><!-->Categories: <!--<![endif]--></span>
 				{% for category in post.category %}
-					<a href="{{ BASE_PATH }}{{ site.JB.categories_path }}#{{ category }}-ref">{{ category }}</a>
+					<a href="{{ BASE_PATH }}{{ site.JB.categories_path }}#{{ category }}">{{ category }}</a>
 				{% endfor %}
 			{% endunless %}
 		</div>
@@ -24,7 +24,7 @@ Usage:
 			{% unless page.tags == empty %}
 				<span><!--[if !IE]><!-->Tags: <!--<![endif]--></span>
 				{% for tag in post.tags %}
-					<a href="{{ BASE_PATH }}{{ site.JB.tags_path }}#{{ tag }}-ref">{{ tag }}</a>{% if tag != post.tags.last %},{% endif %}
+					<a href="{{ BASE_PATH }}{{ site.JB.tags_path }}#{{ tag }}">{{ tag }}</a>{% if tag != post.tags.last %},{% endif %}
 				{% endfor %}
 			{% endunless %}
 		</div>
