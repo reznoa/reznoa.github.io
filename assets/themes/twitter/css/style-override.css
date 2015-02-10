@@ -1,18 +1,20 @@
 @charset "utf-8";
 
-#___gcse_0 {
+.gsc-control-cse {
 	width: 200px;
 	float: right;
-}
-.gsc-control-cse {
+
 	border: 0;
 	padding: 7px 0 0 0;
 	background-color: transparent;
 }
+.gsib_a {
+	padding: 1px 5px;
+}
 .gsc-search-box-tools .gsc-search-box .gsc-input {
-	padding-right: 3px;
+	padding: 0;
 }
 input.gsc-search-button, input.gsc-search-button:hover, input.gsc-search-button:focus {
 	padding: 5px;
-	margin-top: -1px;
+	margin: 0 0 0 5px;
 }
