@@ -12,22 +12,22 @@ Usage:
 		<div class="content">
 			<p>{{ post.content | strip_html | truncate: site.truncate_length }}</p>
 		</div>
-		<div class="category">
-			{% unless page.categories == empty %}
+		{% unless post.categories == empty %}
+			<div class="category">
 				<span><!--[if !IE]><!-->Categories: <!--<![endif]--></span>
 				{% for category in post.category %}
 					<a href="{{ BASE_PATH }}{{ site.JB.categories_path }}#{{ category }}">{{ category }}</a>
 				{% endfor %}
-			{% endunless %}
-		</div>
-		<div class="tags">
-			{% unless page.tags == empty %}
+			</div>
+		{% endunless %}
+		{% unless post.tags == empty %}
+			<div class="tags">
 				<span><!--[if !IE]><!-->Tags: <!--<![endif]--></span>
 				{% for tag in post.tags %}
 					<a href="{{ BASE_PATH }}{{ site.JB.tags_path }}#{{ tag }}">{{ tag }}</a>{% if tag != post.tags.last %},{% endif %}
 				{% endfor %}
-			{% endunless %}
-		</div>
+			</div>
+		{% endunless %}
 	</div>
 {% endfor %}
 </div>
