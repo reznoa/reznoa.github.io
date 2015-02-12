@@ -169,6 +169,7 @@ sup a.footnote {
 .content table {
 	border: 0;
 	border-top: 1px solid #ccc;
+	margin: 1em 0.5em;
 }
 .content table th,
 .content table td {
