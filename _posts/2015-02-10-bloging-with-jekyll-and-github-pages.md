@@ -17,16 +17,15 @@ tags: [블로그, GitHub, Jekyll]
 GitHub는 자체로 Markdown 에디터도 제공하므로, 결국 별도의 툴 없이도 텍스트 기반 포맷 문서를 이용한 사이트 제작을 할 수 있다는 말이다.
 
 GitHub Pages를 이용해 사이트를 만드는 방법은 간단하다.
-GitHub에 가입한 후, 저장소 이름을 `YOURSITEID.github.io`로 하기만 하면 되기 때문이다.
+GitHub에 가입한 후, 저장소 이름을 `YOURSITEID.github.io`로 하기만 하면 된다.
 그러면 이름과 같은 주소로 사이트에 접근할 수 있다.
 
-기본적으로 저장소에 올린 파일은 모두 웹 사이트에 올라간다고 보면 된다.
-그러니, 웹사이트에 올린 파일을 만들어 저장소에 넣으면, 곧 실제 사이트로 배포되고, 웹에서 볼 수 있게 된다.
+기본적으로 저장소에 올린 파일은 모두 웹 사이트에 올라가므로, 웹사이트에 올릴 파일을 만들어 저장소에 넣기만하면 곧 실제 사이트로 배포되고 웹에서 볼 수 있다.
 
 Jekyll 사이트도 비슷한데, 다만 Jekyll에서 사용하는 특별한 파일과 디렉토리는 사이트로 배포하지 않는다.
 그 외 디렉토리나 파일은 그대로 배포하므로 이미지나 스크립트같은 리소스가 필요하면 그냥 그대로 올리면 된다.
 
-보통은 Jekyll 사이트를 만들더라도 기본부터 만들지 않고, [JekyllBootstrap](http://jekyllbootstrap.com/)처럼 미리 댓글과 같은 기능을 쉽게 적용할 수 있도록 구현해놓은 것이나 다른 사람의 사이트를 fork해서 사용한다. 그게 편하기 때문이다. :)
+보통은 Jekyll 사이트를 만들더라도 기본부터 만들지 않고, [JekyllBootstrap](http://jekyllbootstrap.com/)처럼 미리 댓글과 같은 기능을 쉽게 적용할 수 있도록 구현해놓은 것이나 다른 사람의 사이트를 fork해서 사용한다. 그게 편하기 때문이다.
 
 
 
@@ -34,7 +33,7 @@ Jekyll 사이트도 비슷한데, 다만 Jekyll에서 사용하는 특별한 파
 
 ### Jekyll 소개
 
-Jekyll에 대한 간략한 소개와 기본으로 사용하는 디렉토리와 파일 구조에 대한 설명은 생략한다.
+Jekyll에 대한 간략한 소개와 기본으로 사용하는 디렉토리 및 파일 구조에 대한 설명은 생략한다.
 
 
 
@@ -43,7 +42,10 @@ Jekyll에 대한 간략한 소개와 기본으로 사용하는 디렉토리와 �
 GitHub 만으로도 충분히 Jekyll을 기반으로 한 사이트를 만들 수 있지만,
 그래도 역시 작업 PC에 Jekyll 환경을 구축해두면 편하다.
 태그를 수정한다던가 하는 것처럼 여러 파일에 걸친 작업도 할 수 있고,
+`git mv`같은 특별한 작업도 가능하며[^4],
 무엇보다도 저장소에 올리기 전에 제대로 뜨는지 미리 확인해 볼 수 있기 때문이다.
+
+[^4]: GitHub 사이트에서 직접 이름을 바꾸면 git mv로 처리하지 않는다. 기존 파일을 지우고 새 파일로 추가한다. (왜..;;)
 
 #### Jekyll 설치에 필요한 것들
 
@@ -107,20 +109,23 @@ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/
 brew install wget
 ~~~
 
-ruby도 Homebrew로 설치할 수 있긴 하지만, 그러려면 Homebrew를 더 복잡한 방법으로 설치해야하므로 차라리 rvm을 이용하는게 더 편하다.
+ruby도 Homebrew로 설치할 수 있긴 하지만, 그러려면 Homebrew를 더 복잡한 방법으로 설치해야하므로 차라리 rvm을 이용하는게 더 낫다.
 
 ##### Windows에서 Jekyll 설치
 
-Windows에서는 Unix 계열 OS에서 쓸 수 있는 툴(curl이라든지)을 쓰기 어려우므로, 좀 더 복잡하다.
+Windows에서는 Unix 계열 OS에서 쓸 수 있는 툴(curl이라든지)을 쓰기 어려우므로, 설치가 좀 더 복잡하다.
 그러니, VM을 이용하거나 또는 필요 툴들을 모아둔 [PortableJekyll](https://github.com/madhur/PortableJekyll)을 쓰는게 낫다.
-PortableJekyll는 저장소에 들어가 [[Download ZIP]](https://github.com/madhur/PortableJekyll/archive/master.zip)을 통해 바이너리를 받아 적당한 곳에 압축을 풀기만 하면 된다.
+PortableJekyll 설치는 저장소에서 [[Download ZIP]](https://github.com/madhur/PortableJekyll/archive/master.zip) 한 후 적당한 곳에 압축을 풀기만 하면 된다.
 
 쓰기 전에는 반드시 setpath.cmd를 실행해 환경설정을 해줘야 하는데,
 주로 PATH 설정이므로 아예 Windows 환경설정에 넣어도 된다.
 아니면, 콘솔을 띄울때 이를 실행해주도록 Jekyll용 명령 프롬프트를 만들어도 되는데, 개인적으로는 후자를 더 선호한다.
 
-소스 관리자가 계속 업데이트해두지는 않으므로, 패키지 업데이트는 개인이 직접 해야한다.
-이 작업은 시간이 꽤 걸린다.
+~~~
+%windir%\system32\cmd.exe /k c:\app\dev\JekyllPortable\setpath.cmd
+~~~
+
+PortableJekyll에 포함된 패키지를 저장소 관리자가 계속 업데이트하지 않으므로, 업데이트는 필요하면 개인이 직접 해야한다. 이 작업은 시간이 꽤 걸린다.
 
 ~~~
 gem update
@@ -138,8 +143,9 @@ update 후에는 경우에 따라 패키지 충돌이 일어날 수도 있는데
 여기서 제공하는 운영체제는 Linux Ubuntu이므로, 앞서 소개한 Linux에서의 설치 방법에 따르면 된다.
 
 Koding을 이용하면 언제 어디서나 블로깅을 위한 시스템을 쓸 수 있다는게 장점이다.
-하지만, 외국 서비스라선지 한글을 제대로 표시하지 못한다.
+하지만, 외국 서비스라선지 한글을 제대로 표시하지 못해 불편하다.
 ssh를 지원하므로 직접 붙으면 되긴 하겠다만, ssh에 익숙하지 않은 사람에겐 상당히 까다로울 것이다.
+
 무엇보다도 쓸수 있는 디스크양이 지나치게 적다. 오죽하면 gem update도 못하겠나.
 기본으로 3G를 제공하는데 gem만 설치해도 거의 다 차기 때문에, 글 몇개 안써도 금세 디스크 부족 메시지를 보게 될 것이다.[^2]
 
@@ -211,10 +217,10 @@ Jekyll이 정적 웹을 만드는 간단한 툴이지만 유용하게 쓸 수 �
 - jekyll-redirect-from
 - jekyll-sitemap
 
-카테고리나 태그의 퍼머링크를 만들어주는 플러그인은 지원하지 않기 때문에, 단일 페이지에서 앵커(Anchor)를 이용한 바로가기를 만들어야 한다.
-아니면 로컬 Jekyll에서 생성한 결과물을 GitHub에 올리던가. (쩝)[^3]
+카테고리나 태그의 퍼머링크를 만들어주는 플러그인[^3]은 지원하지 않기 때문에, 단일 페이지에서 앵커(Anchor)를 이용한 바로가기를 만들어야 한다.
+아니면 로컬 Jekyll에서 생성한 결과물을 GitHub에 올리던가. (쩝)
 
-[^3]: 예를들어, 태그 퍼머링크 플러그인이라면 [jekyll-tagging](https://github.com/pattex/jekyll-tagging)가 있다. `gem install jekyll-tagging` 명령을 통해 간단히 설치할 수 있다.
+[^3]: 예를들어, 태그 퍼머링크 플러그인이라면 [jekyll-tagging](https://github.com/pattex/jekyll-tagging)이 있다. pretty 형태를 지원하기 때문에 동적 웹처럼 멋진 퍼머링크를 만들 수 있다. `gem install jekyll-tagging` 명령을 통해 손쉽게 설치할 수 있다.
 
 GitHub Pages에서 보다 많은 플러그인을 지원해줬으면 좋겠다.
 어차피 보안 문제라는건 사용자가 플러그인 자체를 추가할 수 없는 한, 일어날 수 없는것 아닌가.
