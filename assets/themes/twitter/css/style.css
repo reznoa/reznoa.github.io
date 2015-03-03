@@ -205,3 +205,13 @@ sup a.footnote {
 	font-size: 1.5em;
 	line-height: 150%;
 }
+
+ul#snsbutton > li:first-child {
+	margin-right: 2px;
+}
+#snsbutton #twitter_iframe_widget {
+	height: 28px;
+}
+#snsbutton #twitter-widget-0 {
+	vertical-align: bottom;
+}

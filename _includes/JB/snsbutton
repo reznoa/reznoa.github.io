@@ -1,0 +1,8 @@
+<li><div id="fb-root"></div><div class="fb-like" data-href="{{ site.production_url }}{{ page.url }}" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div></li>
+<li><div class="fb-share-button" data-href="{{ site.production_url }}{{ page.url }}" data-layout="button_count"></div></li>
+<li><div id="twitter_iframe_widget"><a class="twitter-share-button" href="https://twitter.com/share" data-related="twitter" data-size="small" data-count="horizontal"></a></div></li>
+
+<script type="text/javascript">
+	/* facebook */ (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/ko_KR/sdk.js#xfbml=1&version=v2.0"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));
+	/* twitter */ window.twttr=(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],t=window.twttr||{};if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);t._e=[];t.ready=function(f){t._e.push(f);};return t;}(document,"script","twitter-wjs"));
+</script>
