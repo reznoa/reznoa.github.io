@@ -22,6 +22,6 @@ tags: [노무현, 타이포그래피]
 ![노무현 대통령 초상](https://lh4.googleusercontent.com/-DO9asQMBObg/VNYRt9tzuSI/AAAAAAAAO40/fMl7Htgbi58/w250-h290-no/nomuhyeon-portrait.jpg "노무현 대통령의 대표적인 사진 중 하나다.")
 
 
-아쉽게도 [원본을 배포하던 사람의 사이트](http://eroday.tistory.com/)가 날라가는 바람에 더 이상 원본이나 고해상도 바탕화면들은 더 이상 받을 수 없다. 아쉬운 일이다.
+아쉽게도 [원본을 배포하던 사람의 사이트](http://eroday.tistory.com/)가 날라가는 바람에 더 이상 원본이나 고해상도 바탕화면들은 받을 수 없다. 아쉬운 일이다.
 
 [촛불 형상과 함께 만든 바탕화면](http://griffin435.tistory.com/111)도 있으니, 바탕화면이 필요하다면 구경해보시라.
