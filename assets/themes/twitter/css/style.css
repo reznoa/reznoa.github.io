@@ -215,3 +215,17 @@ ul#snsbutton > li:first-child {
 #snsbutton #twitter-widget-0 {
 	vertical-align: bottom;
 }
+
+.content dt {
+	margin-top: 1em;
+	font-size: 1.5em;
+}
+.content dd {
+	margin: 0.5em 0 0 2em;
+}
+.content dd:before {
+	position: absolute;
+	content: "» ";
+	color: #ccc;
+	margin-left: -1.5em;
+}
