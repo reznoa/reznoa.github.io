@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "게임, 알아보시겠나요?"
+title: "게임, 알아보시겠는가?"
 description: ""
 category: Game
 tags: [Game, 디자인]
