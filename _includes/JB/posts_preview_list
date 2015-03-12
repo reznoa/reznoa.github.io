@@ -16,7 +16,7 @@ Usage:
 			<div class="category">
 				<span><!--[if !IE]><!-->Categories: <!--<![endif]--></span>
 				{% for category in post.category %}
-					<a href="{{ BASE_PATH }}{{ site.JB.categories_path }}#{{ category }}">{{ category }}</a>
+					<a href="{{ BASE_PATH }}{{ site.JB.categories_path }}#{{ category | downcase }}">{{ category }}</a>
 				{% endfor %}
 			</div>
 		{% endunless %}
