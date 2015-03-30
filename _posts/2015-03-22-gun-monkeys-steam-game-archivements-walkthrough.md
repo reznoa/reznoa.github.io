@@ -24,7 +24,7 @@ tags: [게임, 도전과제]
 
 ![Prime Mate](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/239450/3d59a39840d047ecaf3e6a730a948ddf64ab79dc.jpg "Play a Local Game against a real-life friend.")
 
-**[> play a game_]** 메뉴에서  **[> play a loval game_]** 버튼을 눌러 '나혼자 플레이'를 한다.
+**[> play a game\_]** 메뉴에서  **[> play a loval game\_]** 버튼을 눌러 '나혼자 플레이'를 한다.
 
 ### Cheeky Monkey
 
@@ -48,7 +48,7 @@ tags: [게임, 도전과제]
 
 ![Masochist](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/239450/1cf5474aaa5543711fbf80f611980c2d8d118ae2.jpg "Win a game with the Masochist perk.")
 
-**[> myTeam_]** 메뉴에서 $20,000를 내고 **[> MASOCHIST]**를 구매한다. 좀 비싸긴 하지만, Cocktail을 달성하기 전에는 모을 수 있을 것이다.
+**[> myTeam\_]** 메뉴에서 $20,000를 내고 **[> MASOCHIST]**를 구매한다. 좀 비싸긴 하지만, Cocktail을 달성하기 전에는 모을 수 있을 것이다.
 
 ### Fly, Monkey, Fly!
 
