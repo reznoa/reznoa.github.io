@@ -62,7 +62,8 @@ tags: [게임, 도전과제]
 
 ![Monkey Fever](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/239450/aa94d92887102e273ab104fb532cffb214bf16b9.jpg "Beat an opponent who has the Monkey Fever virus.")
 
-'원숭이 열 바이러스(Monkey Fever virus)'에 걸린 사람과 게임을 해 이긴다.
+'원숭이 열 바이러스(Monkey Fever virus)'에 걸린 사람을 죽인다.
+죽였는지 여부만을 따지며 승패는 상관없다.
 
 이 도전과제를 달성하려면 [100% Achievements Group](http://steamcommunity.com/groups/100pAG) 같은 커뮤니티에 부탁하는게 좋다. 지금에와서는 (게임 평이 안좋기 때문에) 게임 상대를 찾는것 자체가 어렵기 때문이다.
 
