@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "흥미롭지만 결국 아쉬움만을 남긴, 기간토마키아"
+title: "흥미롭지만 결국 아쉬움만을 남긴, 기간토마키아(ΓΙΓΑΝΤΟ ΜΑΧΙΑ)"
 description: ""
 category: Medeaview
 tags: [만화, 포스트 아포칼립스, 판타지, 미우라 켄타로]
 ---
 
-기간토마키아(Gigantomachia)는 그리스-로마 신화 쪽에서 나오는 티탄과 올림포스 신들의 싸움을 말하는 것으로, 이 만화는 그것을 비틀고 변형한 세계에서 펼쳐지는 모험을 그린 것이다.
+기간토마키아(ΓΙΓΑΝΤΟ ΜΑΧΙΑ / Gigantomachia)는 그리스-로마 신화 쪽에서 나오는 티탄과 올림포스 신들의 싸움을 말하는 것으로, 이 만화는 그것을 비틀고 변형한 세계에서 펼쳐지는 모험을 그린 것이다.
 
 ![기간토마키아](https://lh6.googleusercontent.com/-uUcLXXbX5NM/VSEt0Q365-I/AAAAAAAAPNo/ZjXY_QHOoCM/w270/gigantomachia.jpg "거인과 신들의 전쟁을 모티브로 한 판타지 모험 만화다.")
 
