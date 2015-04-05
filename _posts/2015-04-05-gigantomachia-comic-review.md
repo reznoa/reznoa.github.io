@@ -8,7 +8,7 @@ tags: [만화, 포스트 아포칼립스, 판타지, 미우라 켄타로]
 
 기간토마키아(ΓΙΓΑΝΤΟ ΜΑΧΙΑ / Gigantomachia)는 그리스-로마 신화 쪽에서 나오는 티탄과 올림포스 신들의 싸움을 말하는 것으로, 이 만화는 그것을 비틀고 변형한 세계에서 펼쳐지는 모험을 그린 것이다.
 
-![기간토마키아](https://lh6.googleusercontent.com/-uUcLXXbX5NM/VSEt0Q365-I/AAAAAAAAPNo/ZjXY_QHOoCM/w270/gigantomachia.jpg "거인과 신들의 전쟁을 모티브로 한 판타지 모험 만화다.")
+[![기간토마키아](https://lh6.googleusercontent.com/-uUcLXXbX5NM/VSEt0Q365-I/AAAAAAAAPNo/ZjXY_QHOoCM/w270/gigantomachia.jpg "거인과 신들의 전쟁을 모티브로 한 판타지 모험 만화다.")](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=1157542018&ttbkey=ttbreznoa0249001&COPYPaper=1)
 
 일단, 만화 자체는 나쁘지 않다. 미우라 켄타로가 펼치는 환상의 세계도, 그걸 펼쳐낸 굉장한 필체로 모두 멋지다. 좀 변태같고 또 한편으로는 다분히 노린 설정같지만 주인공과 요정간의 관계도 가벼운 코미디를 자아내기에 나쁘지 않다. 거대 거인들의 전투 역시 볼만하다.
 
