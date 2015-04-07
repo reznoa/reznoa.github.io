@@ -3,7 +3,7 @@ layout: post
 title: "간단하면서도 재밌는 전략게임, DICEWARS"
 description: ""
 category: Game
-tags: [게임, 플래시게임, 전략, 주사위]
+tags: [★★★, 게임, 플래시게임, 전략, 주사위]
 ---
 
 [DICEWARS](http://www.gamedesign.jp/flash/dice/dice.html)는 삼국지처럼 땅을 따먹는 게임으로, 거기에 주사위라는 운 요소를 도입함으로써 지나친 전략성 없이 가볍게 할 수 있게 만들었다.

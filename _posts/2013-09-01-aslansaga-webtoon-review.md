@@ -3,7 +3,7 @@ layout: post
 title: "퇴출된 백수 영웅의 판타지 추리 스릴러, 아스란영웅전"
 description: ""
 category: Mediaview
-tags: [네이버웹툰, 만화, 박성용, 추리, 판타지, 영웅, 느와르]
+tags: [★★★, 네이버웹툰, 만화, 박성용, 추리, 판타지, 영웅, 느와르]
 ---
 
 [아스란영웅전](http://comic.naver.com/webtoon/list.nhn?titleId=112931)은 중세 판타지를 배경으로, 판타지 영웅 전기를 가장한 추리 스릴러다.

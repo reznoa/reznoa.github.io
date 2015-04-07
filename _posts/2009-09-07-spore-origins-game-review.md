@@ -3,7 +3,7 @@ layout: post
 title: "이 후를 기대하게하는 게임, Spore Origins"
 description: ""
 category: Game
-tags: [게임, 진화]
+tags: [★★★, 게임, 진화]
 ---
 
 ## Spore Origins?
