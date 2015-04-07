@@ -2,7 +2,7 @@
 layout: post
 title: "저렴한 도서 생활을 위한 무료 도서 이벤트 모음"
 description: ""
-category: Book
+category: Mediaview
 tags: [책, 무료, 이벤트]
 ---
 

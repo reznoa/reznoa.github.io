@@ -2,7 +2,7 @@
 layout: post
 title: "흥미롭지만 결국 아쉬움만을 남긴, 기간토마키아(ΓΙΓΑΝΤΟ ΜΑΧΙΑ)"
 description: ""
-category: Medeaview
+category: Mediaview
 tags: [★★★, 만화, 포스트 아포칼립스, 판타지, 미우라 켄타로]
 ---
 

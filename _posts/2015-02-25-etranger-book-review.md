@@ -2,7 +2,7 @@
 layout: post
 title: "꽤 괜찮은 세계관을 구축한 이계 판타지 무협물, 에뜨랑제(Etranger)"
 description: ""
-category: Book
+category: Mediaview
 tags: [★★★, 책, 무협, 판타지, 요삼, 임허규]
 ---
 
