@@ -12,7 +12,7 @@ tags: [★★★★, 건강]
 또 앉기병(sitting disease)이 초래하는 나쁜 결과들은 무엇이고
 거기에서 벗어났을때 얻을 수 있는 효과들은 무엇인지를 담았다.
 
-[![병 없이 살려면 의자부터 끊어라(GET UP!) 표지](https://lh3.googleusercontent.com/-LVjLuIPdm3g/VTjwyV5HhEI/AAAAAAAAPTM/hnAMqnIeH88/w270/getup-book-2015.jpg "현대 도시 사회의 고질병인 '앉기병'에 대해 다뤘다.")](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8960868086&ttbkey=ttbreznoa0249001&COPYPaper=1)
+[![병 없이 살려면 의자부터 끊어라(GET UP!) 표지](https://lh3.googleusercontent.com/-LVjLuIPdm3g/VTjwyV5HhEI/AAAAAAAAPTM/hnAMqnIeH88/w270/getup-book-2015.jpg "현대 도시인들이 우울하고, 살찌고, 무기력한 이유를 '앉기'에서 찾았다.")](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8960868086&ttbkey=ttbreznoa0249001&COPYPaper=1)
 
 결론은 단순하다.
 의자에서 벗어나야 한다는거다.
