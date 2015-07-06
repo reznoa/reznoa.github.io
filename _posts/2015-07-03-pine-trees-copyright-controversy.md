@@ -2,7 +2,7 @@
 layout: post
 title: "솔섬 저작권 논란에 대한 나의 생각"
 description: ""
-category: PC
+category: Mediaview
 tags: [사진, 논란]
 ---
 
