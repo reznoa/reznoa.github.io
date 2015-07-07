@@ -21,7 +21,7 @@ function __getOperaVersion() {
 	return rv;
 }
 
-var __userAgent = (navigator.userAgent != null);
+var __userAgent = navigator.userAgent;
 var __isIE =  (navigator.appVersion.match(/MSIE/) != null);
 var __IEVersion = __getIEVersion();
 var __isIENew = __isIE && (__IEVersion >= 8);
@@ -77,16 +77,25 @@ function __getBorderWidth(element) {
 	return res;
 }
 
+function getDocumentScrollTop()
+{
+	return (document.body.scrollTop  || document.documentElement.scrollTop);
+}
+
+function getDocumentScrollLeft()
+{
+	return (document.body.scrollLeft || document.documentElement.scrollLeft);
+}
+
 //returns the absolute position of some element within document
 function getElementAbsolutePos(element) {
 	var res = new Object();
 	res.x = 0; res.y = 0;
 	if (element !== null) {
 		if (element.getBoundingClientRect) {
-			var viewportElement = document.documentElement;
 			var box = element.getBoundingClientRect();
-			var scrollLeft = viewportElement.scrollLeft;
-			var scrollTop = viewportElement.scrollTop;
+			var scrollLeft = getDocumentScrollLeft();
+			var scrollTop = getDocumentScrollTop();
 
 			res.x = box.left + scrollLeft;
 			res.y = box.top + scrollTop;
