@@ -14,14 +14,7 @@ tags: [사진, 논란]
 대항항공이 '우리에게만 있는 나라'란 광고를 했는데,
 케나의 사진 전시회를 열던 '공근혜 갤러리'에서 위 작품이 케나의 'Pine Trees, Study 1, 2007'의 저작권을 침해했다고 소송을 하며 사진 사진 저작권에 대한 논란이 일었다.
 
-<div style="text-align: center;" markdown="1">
-
-![Michael Kenna - Pine Trees, Study 1, Wolcheon, Gangwondo, South Korea, 2007](https://lh5.googleusercontent.com/-nlLFdB4jh9Q/VZnfZ2NDNPI/AAAAAAAAPa8/wkMfxiQH2DE/h190/Michael%2BKenna%2B-%2BPine%2BTrees%252C%2BStudy%2B1.jpg)
-![김성필 - 아침을 기다리며, 2010](https://lh6.googleusercontent.com/-n5PBlxOrmbo/VZnfv_hLRtI/AAAAAAAAPbM/vHpxxosc7Tw/h190/%25EA%25B9%2580%25EC%2584%25B1%25ED%2595%2584%2B-%2B%25EC%2595%2584%25EC%25B9%25A8%25EC%259D%2584%2B%25EA%25B8%25B0%25EB%258B%25A4%25EB%25A6%25AC%25EB%25A9%25B0.jpg)
-
-왼쪽이 케나, 오른쪽이 문제된 김성필의 것이다.
-
-</div>
+{% include JB/imageblock alt1="Michael Kenna - Pine Trees, Study 1, Wolcheon, Gangwondo, South Korea, 2007" src1="https://lh5.googleusercontent.com/-nlLFdB4jh9Q/VZnfZ2NDNPI/AAAAAAAAPa8/wkMfxiQH2DE/h250/Michael%2BKenna%2B-%2BPine%2BTrees%252C%2BStudy%2B1.jpg" alt2="김성필 - 아침을 기다리며, 2010" src2="https://lh6.googleusercontent.com/-n5PBlxOrmbo/VZnfv_hLRtI/AAAAAAAAPbM/vHpxxosc7Tw/h250/%25EA%25B9%2580%25EC%2584%25B1%25ED%2595%2584%2B-%2B%25EC%2595%2584%25EC%25B9%25A8%25EC%259D%2584%2B%25EA%25B8%25B0%25EB%258B%25A4%25EB%25A6%25AC%25EB%25A9%25B0.jpg" caption="왼쪽이 케나, 오른쪽이 문제된 김성필의 것이다." %}
 
 논란이 되는 것들은 이런 것들이다:
 
@@ -45,16 +38,7 @@ tags: [사진, 논란]
 이것 역시 케나 것과 달리 녹색 하늘을 표현한 것이다만,
 김성필의 것이 저작권 침해라면 임채욱의 것은 말할것도 없을 정도다.
 
-<div style="text-align: center;" markdown="1">
-
-![Michael Kenna - Pine Trees, Study 1, Wolcheon, Gangwondo, South Korea, 2007](https://lh5.googleusercontent.com/-nlLFdB4jh9Q/VZnfZ2NDNPI/AAAAAAAAPa8/wkMfxiQH2DE/h190/Michael%2BKenna%2B-%2BPine%2BTrees%252C%2BStudy%2B1.jpg)
-![김성필 - 아침을 기다리며, 2010](https://lh6.googleusercontent.com/-n5PBlxOrmbo/VZnfv_hLRtI/AAAAAAAAPbM/vHpxxosc7Tw/h190/%25EA%25B9%2580%25EC%2584%25B1%25ED%2595%2584%2B-%2B%25EC%2595%2584%25EC%25B9%25A8%25EC%259D%2584%2B%25EA%25B8%25B0%25EB%258B%25A4%25EB%25A6%25AC%25EB%25A9%25B0.jpg)
-![임채욱 - 월천리 솔섬, 2010](https://lh3.googleusercontent.com/-IX_oecRdHHk/VZnfa8236qI/AAAAAAAAPbE/YWNt0SOIhUs/h190/%25EC%259E%2584%25EC%25B1%2584%25EC%259A%25B1%2B-%2B%25EC%259B%2594%25EC%25B2%259C%25EB%25A6%25AC%2B%25EC%2586%2594%25EC%2584%25AC.jpg)
-
-왼쪽부터 케나, 김성필, 임채욱의 작품.
-그냥 딱 봐도 임채욱의 것이 더 비슷하다.
-
-</div>
+{% include JB/imageblock alt1="Michael Kenna - Pine Trees, Study 1, Wolcheon, Gangwondo, South Korea, 2007" src1="https://lh5.googleusercontent.com/-nlLFdB4jh9Q/VZnfZ2NDNPI/AAAAAAAAPa8/wkMfxiQH2DE/h185/Michael%2BKenna%2B-%2BPine%2BTrees%252C%2BStudy%2B1.jpg" alt2="김성필 - 아침을 기다리며, 2010" src2="https://lh6.googleusercontent.com/-n5PBlxOrmbo/VZnfv_hLRtI/AAAAAAAAPbM/vHpxxosc7Tw/h185/%25EA%25B9%2580%25EC%2584%25B1%25ED%2595%2584%2B-%2B%25EC%2595%2584%25EC%25B9%25A8%25EC%259D%2584%2B%25EA%25B8%25B0%25EB%258B%25A4%25EB%25A6%25AC%25EB%25A9%25B0.jpg" alt3="임채욱 - 월천리 솔섬, 2010" src3="https://lh3.googleusercontent.com/-IX_oecRdHHk/VZnfa8236qI/AAAAAAAAPbE/YWNt0SOIhUs/h185/%25EC%259E%2584%25EC%25B1%2584%25EC%259A%25B1%2B-%2B%25EC%259B%2594%25EC%25B2%259C%25EB%25A6%25AC%2B%25EC%2586%2594%25EC%2584%25AC.jpg" caption="왼쪽부터 케나, 김성필, 임채욱의 작품. 그냥 딱 봐도 임채욱의 것이 더 비슷하다." %}
 
 그 뿐인가.
 그 외에도 찾아보면 그런 정도로 비슷한 작품은 많다.
@@ -86,10 +70,7 @@ tags: [사진, 논란]
 
 [^2]: 개인적으로 '솔섬'이란 이름을 사용한것은 까일만한게 아니라고 본다. 광고 시점에는 이미 '솔섬'으로 더 알려져 있었기 때문이다. 알려진 이름으로 소개하는건 당연한 것 아닌가. 물론, 원래 이름인 '속섬'을 표기하지 않은것은 아쉬운 점이다만, 저작권 침해 문제에서 이를 따지는것은 좀 우습다고 본다.
 
-<div style="text-align: center;">
-<iframe width="420" height="315" src="https://www.youtube.com/embed/7XelcZRjvbw" frameborder="0" allowfullscreen></iframe>
-<p>정황상 케나 작품을 분명 알고 찍은 광고다. 차라리 동영상으로 찍을것이지.. 쯧</p>
-</div>
+{% include JB/youtubeblock id="7XelcZRjvbw" width="420" height="315" caption="정황상 케나 작품을 분명 알고 찍은 광고다. 차라리 동영상으로 찍을것이지.. 쯧" %}
 
 그런데, 그게 지탄할 일인가는 좀 생각해봐야한다.
 왜냐하면 앞서 이미 '저작권 침해'가 아니라고 했기 때문이다.
