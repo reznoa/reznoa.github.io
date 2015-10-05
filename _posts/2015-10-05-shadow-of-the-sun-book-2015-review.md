@@ -9,7 +9,7 @@ tags: [책, 박종휘, 일제강점기, 한국전쟁, 시리즈]
 박종휘의 '태양의 그늘'은 일제강점기 말과 한국전쟁을 배경으로 한 가족의 이야기를 담은 책이다.
 
 
-![박종휘의 태양의 그늘 표지](https://lh6.googleusercontent.com/-5NwU1ZoixaY/VhKK-HJLwbI/AAAAAAAAP-0/dZU6mfcShqk/w300/shadow-of-the-sun-book-2015-cover.jpg "태양의 그늘은 한국전쟁을 배경으로 한 가족 이야기다.")
+[![박종휘의 태양의 그늘 표지](https://lh6.googleusercontent.com/-5NwU1ZoixaY/VhKK-HJLwbI/AAAAAAAAP-0/dZU6mfcShqk/w300/shadow-of-the-sun-book-2015-cover.jpg "태양의 그늘은 한국전쟁을 배경으로 한 가족 이야기다.")](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=65094263&ttbkey=ttbreznoa0249001&COPYPaper=1)
 
 
 처음엔 두 집안의 결혼 이야기로 가볍게 시작한다.
@@ -28,7 +28,7 @@ tags: [책, 박종휘, 일제강점기, 한국전쟁, 시리즈]
 밝은 봄같던 이야기도 본론으로 들어가 어두워지게 된다.
 이 점은 오히려 일제강점기 때가 더 살기 좋았던 것처럼 비춰져 좀 의외였는데,
 이 이야기의 중심이 일제강점기 때의 독립운동이 아니라
-광복 후 벌어진 한국전쟁에 있기 때문에 그런게 아닌가 싶다.[^1]
+광복 후 벌어진 한국전쟁에 있기 때문에 그런 듯하다.[^1]
 
 [^1]: 일제 말 뿐 아니라 광복에 관한 이야기도 짧게 언급하고 지나가는걸 보면, 작가도 그렇게 생각하고 쓴게 아닐까 싶다.
 
