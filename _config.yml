@@ -149,7 +149,7 @@ gems:
 jekyll-mentions:
   base_url: https://twitter.com
 
-markdown: kramdown
+markdown: redcarpet
 
-kramdown:
-  input: GFM
+redcarpet:
+  extensions: ["tables", "autolink", "strikethrough", "space_after_headers", "with_toc_data", "fenced_code_blocks"]
