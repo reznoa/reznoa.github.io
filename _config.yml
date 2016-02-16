@@ -151,5 +151,5 @@ jekyll-mentions:
 
 markdown: kramdown
 
-kramdown
+kramdown:
   input: GFM
