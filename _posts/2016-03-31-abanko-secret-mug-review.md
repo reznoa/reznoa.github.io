@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "변색 도료를 이용한 재미있는 머그컵, 아뱅코 시크릿 머그"
+title: "변색 도료를 이용한 재미있지만 머그컵, 아뱅코 시크릿 머그"
 description: ""
 category: PC
-tags: [컵, 변색, 아뱅코]
+tags: [컵, 변색]
 ---
 
 [아뱅코 시크릿 머그](http://www.abanko.co.kr/shop/goods/goods_list.php?&category=005)는 깔끔하고 일반적인 머그컵으로,
@@ -48,8 +48,8 @@ tags: [컵, 변색, 아뱅코]
 시크릿 문구는 평상시에 안보이게 하기 위해 가능한 연하게 하기 보다는 따뜻할 때 확실히 보일 수 있도록 겹쳐서 두껍게 그리는게 좋다.
 지우개로 지우면서 전체적으로 연해지므로 더욱 그렇다.
 
-![지우기](https://lh3.googleusercontent.com/0aPeNZw2FLgf0jPkacqNNOcp_6nW_CCFe_t1zQ8Ypp3iEXmMjs4Oix9IEZ3izBVD237hKw=s600 "생각보다 지우기 힘들다. 아래쪽이 지우개로 지운 쪽, 위쪽이 아직 안지운 쪽이지만 크게 구별하기 힘들다.")
-	
+![지우기](https://lh3.googleusercontent.com/-PO5Hx0geuvE/VvyY1TFn9KI/AAAAAAAAQzE/TjPXDCpmIKYBhQpcyscE-EYd9OO4KAfPA/s600/%25E1%2584%258C%25E1%2585%25B5%25E1%2584%258B%25E1%2585%25AE%25E1%2584%2580%25E1%2585%25B5.jpg "생각보다 지우기 힘들다. 아래쪽이 지우개로 지운 쪽, 위쪽이 아직 안지운 쪽이지만 크게 구별하기 힘들다.")
+
 ![다 지운 모습](https://lh3.googleusercontent.com/_pokpcMkGehpuHRbqlF4dXJTjJrq9hwk73ZjnE6zNU8e-fjkwmGDm0aafEthUiaOD55Qxg=s600 "다 지운 후에도 흔적이 남은게 보인다. 하지만, 크게 실망할 정도는 하니다. 그냥 얼룩졌나 싶을 정도?")
 
 ![변색 후 모습](https://lh3.googleusercontent.com/_7euuBDhl4yzpEPiH3j_ZtasISMC0e8Y_WbgzABwi50OVYt1NnXJEW_sVEu2N0306UwrrA=s600 "한번 지워서 그런지 생각보다 연하게 나온다. 유성펜의 특성 상 시작점과 끝점처럼 &#40;평상시에도 티가 나던&#41; 유성펜이 많이 묻은곳만 유독 진하게 나왔다.")
@@ -94,13 +94,13 @@ QR코드? = QR코드는 홈페이지와 설명서에만 존재한다.
 (업체의 설명으로는, 변색칼라를 수작업으로 칠하는데 색이 도트(음각홈)에 채워지도록 스퀴지로 밀때 생기는 자국같은 거라고 한다.)
 그 외에도 잡티나 티타임 뚜껑의 마크에 울은 듯한 자국이 보였다.
 
-![불량 1](https://lh3.googleusercontent.com/iNZP78TU-Ns-Ki5wNYMXuFQyWaU_z8DbcEzMjsy9DY9K7RreEU2jpmhrCnolADTNGgXtOQ=s600 "도트가 고르게 찍히지 않고 뭉친게 있어 흰 잡티처럼 보인다.")
+![불량 1](https://lh3.googleusercontent.com/-S2eqk2UV17E/VvyZEDoj6iI/AAAAAAAAQzU/zc1FpnzaaZ0Hwi8gD00L4sb3Ix77TPeWA/s600/%25E1%2584%2587%25E1%2585%25AE%25E1%2586%25AF%25E1%2584%2585%25E1%2585%25A3%25E1%2586%25BC+1.jpg "도트가 고르게 찍히지 않고 뭉친게 있어 흰 잡티처럼 보인다.")
 
-![불량 2](https://lh3.googleusercontent.com/HnVtnNmwqQZCNpiL_i7xCwMuTBqsyzbzDUYCePqyunhPwZCrJAX97eBCJoHXzLXoeqbS4g=s600 "색이 제대로 칠해지지 않은 듯한 검은 티와 표면의 울은 듯한 물결")
+![불량 2](https://lh3.googleusercontent.com/-h37AnWQ2N28/VvyZPZ45CeI/AAAAAAAAQzk/bj2VBmPxJMoubjp97bajy-IqS8qp7Wy-Q/s600/%25E1%2584%2587%25E1%2585%25AE%25E1%2586%25AF%25E1%2584%2585%25E1%2585%25A3%25E1%2586%25BC+2.jpg "색이 제대로 칠해지지 않은 듯한 검은 티와 표면의 울은 듯한 물결")
 
 ![불량 3](https://lh3.googleusercontent.com/EMFaMIVAoojs-WN2btohKLrR9tpJZzrtFQreCqWLcVd4HtTyi1rikNfuY2nlQqRGYsxI4A=s600 "휘었나? 아니면 색칠 실수? 눈에 띄는 경계가 보인다.")
 
-![불량 4](https://lh3.googleusercontent.com/5CJ8x6eZlh_lr9lFN1aVzclS3zPv33_IebMux8i-B81JKbjkvvS1dZMgCrq34-9XbO2W6w=s600 "색칠 문제? 검은 잡티가 보인다.")
+![불량 4](https://lh3.googleusercontent.com/-sGpRJqqPGGI/VvyZaRBGY3I/AAAAAAAAQz4/qBMlLFnoYK4d_kWeqtaf1aoEZanGk-g4Q/s600/%25E1%2584%2587%25E1%2585%25AE%25E1%2586%25AF%25E1%2584%2585%25E1%2585%25A3%25E1%2586%25BC+4.jpg "색칠 문제? 검은 잡티가 보인다.")
 
 이것들은 제작 공정을 상상하면 충분히 나올 수 있을만한 것들이긴 하다.
 수작업으로 만든다고 하니 더 그렇다.
@@ -120,4 +120,4 @@ QR코드? = QR코드는 홈페이지와 설명서에만 존재한다.
 
 [^2]: 티백을 끼울 수 있는 차 용기에 관한 특허인 ["차 용기(TEA VESSEL)"(한국 특허 출원번호 1020080103389)](http://kpat.kipris.or.kr/kpat/biblioa.do?method=biblioFrame&applno=1020080103389)가 쓰인것으로 보인다. 변색 마크는 별도의 특허가 없거나, 아직 공개되지 않았거나, 또는 아뱅코가 아닌 다른 이름으로 등록되었을 수 있다.
 
-<div title="withblog" style="text-align: center; line-height: 1em;"><a href="https://withblog.net/campaign/link.php?p=13024d789b90bad6fe29f46ece137df060323aaadcc048ecddeeba6789fc8a99&amp;v=3&amp;utm_campaign=sponsor&amp;utm_source=withblog&amp;utm_medium=banner" target="_blank"><img src="https://withblog.net/campaign/img.php?p=13024d789b90bad6fe29f46ece137df060323aaadcc048ecddeeba6789fc8a99&amp;v=3"></a><div align="center" style="font-size: 11px;"><p style="color: #000; text-decoration: none;"></p></div></div>
+<div title="withblog" style="text-align: center; line-height: 1em;"><a href="https://withblog.net/campaign/link.php?p=13024d789b90bad6fe29f46ece137df060323aaadcc048ecddeeba6789fc8a99&amp;v=3&amp;utm_campaign=sponsor&amp;utm_source=withblog&amp;utm_medium=banner" target="_blank"><img src="https://withblog.net/campaign/img.php?p=13024d789b90bad6fe29f46ece137df060323aaadcc048ecddeeba6789fc8a99&amp;v=3"></a></div>
