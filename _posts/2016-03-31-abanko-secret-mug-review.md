@@ -52,11 +52,11 @@ tags: [컵, 변색]
 
 ![지우기](https://lh3.googleusercontent.com/-PO5Hx0geuvE/VvyY1TFn9KI/AAAAAAAAQzE/TjPXDCpmIKYBhQpcyscE-EYd9OO4KAfPA/s600/%25E1%2584%258C%25E1%2585%25B5%25E1%2584%258B%25E1%2585%25AE%25E1%2584%2580%25E1%2585%25B5.jpg "생각보다 지우기 힘들다. 아래쪽이 지우개로 지운 쪽, 위쪽이 아직 안지운 쪽이지만 크게 구별하기 힘들다.")
 
-![다 지운 모습](https://lh3.googleusercontent.com/_pokpcMkGehpuHRbqlF4dXJTjJrq9hwk73ZjnE6zNU8e-fjkwmGDm0aafEthUiaOD55Qxg=s600 "여러번에 걸쳐 지운 후에도 흔적은 남는다. 하지만, 크게 실망할 정도는 하니다. 그냥 얼룩졌나 싶을 정도?")
+![다 지운 모습](https://lh3.googleusercontent.com/_pokpcMkGehpuHRbqlF4dXJTjJrq9hwk73ZjnE6zNU8e-fjkwmGDm0aafEthUiaOD55Qxg=s600 "여러번에 걸쳐 지운 후에도 흔적은 남는다. 하지만, 크게 실망할 정도는 아니다. 그냥 얼룩졌나 싶은 정도?")
 
-![변색 후 모습](https://lh3.googleusercontent.com/_7euuBDhl4yzpEPiH3j_ZtasISMC0e8Y_WbgzABwi50OVYt1NnXJEW_sVEu2N0306UwrrA=s600 "한번 지워서 그런지 생각보다 연하게 나온다. 유성펜의 특성 상 시작점과 끝점처럼 &#40;평상시에도 티가 나던&#41; 유성펜이 많이 묻은곳만 유독 진하게 나온걸 알 수 있다.")
+![변색 후 모습](https://lh3.googleusercontent.com/_7euuBDhl4yzpEPiH3j_ZtasISMC0e8Y_WbgzABwi50OVYt1NnXJEW_sVEu2N0306UwrrA=s600 "지우개로 지워내서 그런지 한획으로만 그리면 생각보다 연하게 나온다. 유성펜의 특성 상 시작점과 끝점처럼 &#40;평상시에도 티가 나던&#41; 유성펜이 많이 묻은곳만 진하게 나왔다.")
 
-![덧칠 비교](https://lh3.googleusercontent.com/7-nQZwS_NK3uN5e3vWPmxXhKyPAS4nouYQNx7IapRCKCKTsR5SAGEl5VsGVgSy-Eb4RkHA=s600 "덧칠해야 문구가 잘 보이게 할 수 있다. 두껍게 덧칠한 곳과 안한곳의 차이는 크다.")
+![덧칠 비교](https://lh3.googleusercontent.com/7-nQZwS_NK3uN5e3vWPmxXhKyPAS4nouYQNx7IapRCKCKTsR5SAGEl5VsGVgSy-Eb4RkHA=s600 "두껍게 덧칠해야 문구가 잘 보인다. 그렇게 한 곳과 안한곳의 차이는 크다.")
 
 시크릿 문구를 다시 쓰고싶을때는 네일리무버를 사용해 지운다.
 코팅이 벗겨지지 않도록 문지르지말고 흘려보내라는데, 생각보다 잘 안지워지더라.
