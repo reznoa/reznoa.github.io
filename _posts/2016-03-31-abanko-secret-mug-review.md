@@ -36,7 +36,7 @@ tags: [컵, 변색]
 [^1]: 과거에 유행하던 비밀 메시지는 대부분 투명해지는 잉크를 사용한 것으로, 후에 그걸 변색(일회용)시키거나 특별한 조명을 쐬어 확인하는 식이었다.
 
 표면은 격자처럼 도트가 뿌려져있는데, 이것도 일부를 지워 평상시에 더 잘 안보이게 하기 위함인 듯 하다
-문구를 그린 후 지우개로 지우면 양각 부분은 쉽게 지워지고 양각 부분을 잘 지워지지 않게 되므로 일부분만 남게되어 평상시엔 더 잘 안보이게 된다.
+문구를 그린 후 지우개로 지우면 양각 부분은 쉽게 지워지고 음각 부분은 잘 안지워지므로 일부분만 남게되어 평상시엔 더 잘 안보이게 된다.
 
 아쉬운점은,
 지우개로 일부를 지우는게 그리 쉽지 않다는거다.
@@ -52,11 +52,11 @@ tags: [컵, 변색]
 
 ![지우기](https://lh3.googleusercontent.com/-PO5Hx0geuvE/VvyY1TFn9KI/AAAAAAAAQzE/TjPXDCpmIKYBhQpcyscE-EYd9OO4KAfPA/s600/%25E1%2584%258C%25E1%2585%25B5%25E1%2584%258B%25E1%2585%25AE%25E1%2584%2580%25E1%2585%25B5.jpg "생각보다 지우기 힘들다. 아래쪽이 지우개로 지운 쪽, 위쪽이 아직 안지운 쪽이지만 크게 구별하기 힘들다.")
 
-![다 지운 모습](https://lh3.googleusercontent.com/_pokpcMkGehpuHRbqlF4dXJTjJrq9hwk73ZjnE6zNU8e-fjkwmGDm0aafEthUiaOD55Qxg=s600 "다 지운 후에도 흔적이 남은게 보인다. 하지만, 크게 실망할 정도는 하니다. 그냥 얼룩졌나 싶을 정도?")
+![다 지운 모습](https://lh3.googleusercontent.com/_pokpcMkGehpuHRbqlF4dXJTjJrq9hwk73ZjnE6zNU8e-fjkwmGDm0aafEthUiaOD55Qxg=s600 "여러번에 걸쳐 지운 후에도 흔적은 남는다. 하지만, 크게 실망할 정도는 하니다. 그냥 얼룩졌나 싶을 정도?")
 
-![변색 후 모습](https://lh3.googleusercontent.com/_7euuBDhl4yzpEPiH3j_ZtasISMC0e8Y_WbgzABwi50OVYt1NnXJEW_sVEu2N0306UwrrA=s600 "한번 지워서 그런지 생각보다 연하게 나온다. 유성펜의 특성 상 시작점과 끝점처럼 &#40;평상시에도 티가 나던&#41; 유성펜이 많이 묻은곳만 유독 진하게 나왔다.")
+![변색 후 모습](https://lh3.googleusercontent.com/_7euuBDhl4yzpEPiH3j_ZtasISMC0e8Y_WbgzABwi50OVYt1NnXJEW_sVEu2N0306UwrrA=s600 "한번 지워서 그런지 생각보다 연하게 나온다. 유성펜의 특성 상 시작점과 끝점처럼 &#40;평상시에도 티가 나던&#41; 유성펜이 많이 묻은곳만 유독 진하게 나온걸 알 수 있다.")
 
-![덧칠 비교](https://lh3.googleusercontent.com/7-nQZwS_NK3uN5e3vWPmxXhKyPAS4nouYQNx7IapRCKCKTsR5SAGEl5VsGVgSy-Eb4RkHA=s600 "덧칠해야 문구가 잘 보이게 할 수 있다. 덧칠한 곳과 안한곳의 차이가 크다.")
+![덧칠 비교](https://lh3.googleusercontent.com/7-nQZwS_NK3uN5e3vWPmxXhKyPAS4nouYQNx7IapRCKCKTsR5SAGEl5VsGVgSy-Eb4RkHA=s600 "덧칠해야 문구가 잘 보이게 할 수 있다. 두껍게 덧칠한 곳과 안한곳의 차이는 크다.")
 
 시크릿 문구를 다시 쓰고싶을때는 네일리무버를 사용해 지운다.
 코팅이 벗겨지지 않도록 문지르지말고 흘려보내라는데, 생각보다 잘 안지워지더라.
@@ -68,19 +68,21 @@ tags: [컵, 변색]
 ![지운 후](https://lh3.googleusercontent.com/SM1W38cVika5_Yjbbx7UMUcXnvv9evNCE5eA-J3nWtfJrWwdv2AwghLWOVgm3-7Dh7X4Sw=s600 "네일 리무버로 비비지 말고 흘려보내 지우라는데, 생각보다 잘 안지워진다. 진하게 묻었던 부분&#40;앞에서도 눈에 뗬던 시작점과 끝점&#41;이 특히 그렇다.")
 
 티타임 뚜껑은 단순히 뚜껑에 홈만 만든게 아니라, 금속재질의 마크가 티백 실을 잘 물어주도록 되어있다.
-단순 아이디어 같지만, 싸보면 상당히 유용하다.
-티백이 맛있게 우러나는 2분정도에 색이 변하도록 만들었다는데,
+단순 아이디어 같지만, 써보면 상당히 유용하다.
+
+색은 티백이 맛있게 우러나는 2분정도에 완전히 변하도록 만들었다는데,
 차가운 상태에서 뜨거운 물을 붙고 뚜껑을 덮었을 때
 약 40초 정도에 변하기 시작해 1분 20초면 다 변화했다.
 2분정도라고 하기엔 색 변화가 꽤 빠른 편이다.
 오차율로 보면 30% 정도니 상당한 셈이다.
 내심 기대했던 기능 중 하나였기에 시간 차가 커서 조금 실망스러웠다.
+
 이 변색 시간은 또한 주변 환경이나 뜨거운 물의 양에 따라서도 다를 수 있다.
 그러니 티타임 뚜껑의 변색은, 티백 우리는 시간을 알려주는 타이머라고 생각하기 보다는, 그냥 색이 바뀌는걸 보는 재미와 어느정도 지났나 참고하는 정도로만 생각하는게 좋다.
 
-![티백 끼우기](https://lh3.googleusercontent.com/xecDQFO6YV1nu6A9RNjmrv0LW8OXvymEzgT9OhZFjCq0MmEE8dTcN6MYwu3CdsvHTeU6ig=s600 "티백 실을 확실히 물어주는 티타임 뚜껑은 아주 유용하다.")
+![티백 끼우기](https://lh3.googleusercontent.com/xecDQFO6YV1nu6A9RNjmrv0LW8OXvymEzgT9OhZFjCq0MmEE8dTcN6MYwu3CdsvHTeU6ig=s600 "티백 실을 확실히 물어주는 티타임 뚜껑은 티백을 우릴때 아주 유용하다.")
 
-![뚜껑 변색](https://lh3.googleusercontent.com/HnVtnNmwqQZCNpiL_i7xCwMuTBqsyzbzDUYCePqyunhPwZCrJAX97eBCJoHXzLXoeqbS4g=s600 "뚜껑은 시크릿 마크와 달리 노란색으로 변하는데, 추천 시간인 2분과는 오차가 컸다. 알림용으로는 크게 신용할 수 없을 듯.")
+![뚜껑 변색](https://lh3.googleusercontent.com/HnVtnNmwqQZCNpiL_i7xCwMuTBqsyzbzDUYCePqyunhPwZCrJAX97eBCJoHXzLXoeqbS4g=s600 "티타임 뚜껑은 시크릿 마크와 달리 노란색으로 변하는데, 티백이 맛있게 우러나느 시간이라는 2분과는 오차가 꽤 크다. 알림용으로는 그리 신용할 수 없을 듯.")
 
 <!--
 머그 뒷면에 QR코드가 있다는 설명도 있는데, 내가 받은 제품에는 없었다.
@@ -98,7 +100,7 @@ QR코드? = QR코드는 홈페이지와 설명서에만 존재한다.
 
 ![불량 1](https://lh3.googleusercontent.com/-S2eqk2UV17E/VvyZEDoj6iI/AAAAAAAAQzU/zc1FpnzaaZ0Hwi8gD00L4sb3Ix77TPeWA/s600/%25E1%2584%2587%25E1%2585%25AE%25E1%2586%25AF%25E1%2584%2585%25E1%2585%25A3%25E1%2586%25BC+1.jpg "도트가 고르게 찍히지 않고 뭉친게 있어 흰 잡티처럼 보인다.")
 
-![불량 2](https://lh3.googleusercontent.com/-h37AnWQ2N28/VvyZPZ45CeI/AAAAAAAAQzk/bj2VBmPxJMoubjp97bajy-IqS8qp7Wy-Q/s600/%25E1%2584%2587%25E1%2585%25AE%25E1%2586%25AF%25E1%2584%2585%25E1%2585%25A3%25E1%2586%25BC+2.jpg "색이 제대로 칠해지지 않은 듯한 검은 티와 표면의 울은 듯한 물결")
+![불량 2](https://lh3.googleusercontent.com/-h37AnWQ2N28/VvyZPZ45CeI/AAAAAAAAQzk/bj2VBmPxJMoubjp97bajy-IqS8qp7Wy-Q/s600/%25E1%2584%2587%25E1%2585%25AE%25E1%2586%25AF%25E1%2584%2585%25E1%2585%25A3%25E1%2586%25BC+2.jpg "색이 제대로 칠해지지 않아 남은 듯한 검은 티와 표면의 울은 듯한 물결")
 
 ![불량 3](https://lh3.googleusercontent.com/EMFaMIVAoojs-WN2btohKLrR9tpJZzrtFQreCqWLcVd4HtTyi1rikNfuY2nlQqRGYsxI4A=s600 "휘었나? 아니면 색칠 실수? 눈에 띄는 경계가 보인다.")
 
@@ -106,14 +108,15 @@ QR코드? = QR코드는 홈페이지와 설명서에만 존재한다.
 
 이것들은 제작 공정을 상상하면 충분히 나올 수 있을만한 것들이긴 하다.
 수작업으로 만든다고 하니 더 그렇다.
-하지만, 수작업인데도 불량으로 흠잡을만한 제품이 온다는것은, 포장하고 배송하기 전에 불량 검사를 제대로 하지 않은건 아닌가 하는 생각도 든다.
+하지만, 수작업인데도 불량으로 흠잡을만한 제품이 배달 온다는것은,
+포장하고 배송하기 전에 불량 검사를 제대로 하지 않은건 아닌가 하는 생각도 들게 한다.
 
-제품 구조에도 아쉬운점이 있는데, 시크릿마크가 컵에 붙인 형태다보니 컵과 마크가 붙은 지점이 있다는거다.
+제품 구조에도 아쉬운점이 있는데, 시크릿마크가 컵에 붙인 형태다보니 컵과 마크 사이에 붙은 지점이 있다는거다.
 그래서 차를 먹다보면 그 사이로 흘러 들어갈 수 있다.
-구조상 먼지도 끼기 쉽고, 씻을 때 미세 직물 수세미를 쓴다면 실이 낄 수도 있을것 같다.
+또, 구조상 먼지도 끼기 쉽고, 씻을 때 미세 직물 수세미를 쓴다면 실이 낄 수도 있을것 같다.
 좀 더 시크릿마크와 컵을 하나된 형태로 만들었으면 좋았으련만 아쉽다.[^2]
 
-[^2]: 어려울 수도 있다. 머그컵을 만들려면 높은 온도에서 구워야 하므로, 스텐리스스틸이나 변색칼라 같은거는 (변형될 수 있으니) 후작업으로밖에 할 수 없을것 같기도 하거든. 그렇다면, 붙이는 형태가 가장 쉽지.
+[^2]: 어려울 수도 있다. 머그컵을 만들려면 높은 온도에서 구워야 하므로, 스텐리스스틸이나 변색칼라 같은거는 (변형될 수 있으니) 후작업으로밖에 할 수 없을것 같기도 하거든. 그렇다면, 붙이는 형태가 가장 쉬운건 사실이다.
 
 그래도 문제가 있을 경우 교환을 잘 해주며,
 불만족시 일주일내 무조건 환불이라는 정책도 내세우고 있다.
