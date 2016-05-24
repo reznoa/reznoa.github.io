@@ -1,12 +1,14 @@
 ---
 layout: post
 title: "썩 괜찮은 속편, 에반 올마이티(Evan Almighty, 2007)"
-description: ""
 category: Mediaview
 tags: [★★★★★, 스티브 카렐, 영화, 코미디, 톰 새디악]
+excerpt_separator: <!--more-->
 ---
 
-에반 올마이티(Evan Almighty, 2007)는 브루스 올마이티(Bruce Almighty, 2003)를 찍은 톰 세디악(Tom Shadyac) 감독의 두번째 '올마이티 시리즈'다. 전작처럼 신이 등장해서 '어떤 게시'를 내려주면서 이야기가 시작된다.
+에반 올마이티(Evan Almighty, 2007)는 브루스 올마이티(Bruce Almighty, 2003)를 찍은 톰 세디악(Tom Shadyac) 감독의 두번째 '올마이티 시리즈'다.
+<!--more-->
+전작처럼 신이 등장해서 '어떤 게시'를 내려주면서 이야기가 시작된다.
 
 [![에반 올마이티 포스터](https://lh5.googleusercontent.com/-0b6HPwPUrpU/VNOO9BGpp_I/AAAAAAAAOyc/GRh8o5ex5Ms/w600/evanalmighty-2007.jpg "전작에선 조연이었던 에반이 나와 노아의 홍수를 재현한다.")](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9334160632&ttbkey=ttbreznoa0249001&COPYPaper=1)
 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "중고등학생을 위한 원씽, 도미노 공부법"
-description: ""
 category: Mediaview
 tags: [책, 공부]
 ---

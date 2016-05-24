@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "G3를 위한 해상도, dpi 설정 참고값"
-description: ""
+description: "G3 해상도를 바꿀 때 참고할 화면크기, dpi 값을 알아본다."
 category: PC
 tags: [Android, LG, G3, 설정, 해상도]
 ---
@@ -9,7 +9,7 @@ tags: [Android, LG, G3, 설정, 해상도]
 G3는 무리하게 WQHD를 달고 나오는 바람에 여러모로 안습이 된 비운의 기기다.
 성능과 배터리 등 거의 모든 면에서 그렇다.
 반면에 WQHD의 장점을 느낄만한것은 희박해서,
-많은 사람들이 FHD 지원을 바라마지 않는다만 ~~헬지~~LG가 과연 지원해줄지…….
+많은 사람들이 FHD 지원을 바라마지 않는다만 <del>헬지</del>LG가 과연 지원해줄지…….
 
 그 전까진 루팅이나 [adb를 이용하여 해상도를 변경]({% post_url 2016-02-16-howto-change-resolution-and-dpi-of-android-device-using-adb %})해 쓰는것도 한 방법이다.
 

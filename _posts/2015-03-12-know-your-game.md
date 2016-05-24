@@ -1,9 +1,8 @@
 ---
 layout: post
 title: "게임, 알아보시겠는가?"
-description: ""
 category: Game
-tags: [Game, 디자인]
+tags: [게임, 디자인]
 ---
 
 '[Know Your Game](https://www.behance.net/gallery/16795693/Know-Your-Game)'라는 제목으로

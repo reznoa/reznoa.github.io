@@ -1,10 +1,13 @@
 ---
 layout: post
 title: "Jekyll과 GitHub Pages를 이용해 블로깅하기"
-description: ""
 category: logholic
 tags: [블로그, GitHub, Jekyll]
 ---
+
+블로그 이전을 고민할 때, 마침 Jekyll과 GitHub Pages를 알게 되어 이를 이용해 보면서 알게된 것들을 적어본다.
+
+
 
 ## Bloging with Jekyll and GiHub Pages
 
@@ -176,16 +179,13 @@ git add [FILES...]                                 | commit 할 파일 목록에
 git commit [-m COMMIT_MESSAGE]                     | add한 파일을 commit한다.
 git push                                           | commit한 내용을 저장소에 보낸다.
 
-### GitHub 클라이언트
+### GitHub Desktop
 
-git가 어렵다면 GitHub 클라이언트를 써도 된다.
-GitHub 클라이언트는 git 개념이나 명령어 사용법을 알 필요 없이, 그냥 적당히 쓰다가 commit 메시지를 남기고, Sync를 누르기만 하면 된다.
+git가 어렵다면 [GitHub Desktop](https://desktop.github.com/)을 써도 된다.
+GitHub Desktop은 git 개념이나 명령어 사용법을 알 필요 없이, 그냥 적당히 쓰다가 commit 메시지를 남기고, Sync를 누르기만 하면 된다.
 그 외에는 아무것도 없어서 정말 간단하고 직관적이며, 그렇기 때문에 편하다.
 
-- [GitHub for Windows 7, 8 & 8.1](https://windows.github.com/)
-- [GitHub for Mac OS X 10.9 or later](https://mac.github.com/)
-
-![GitHub for Windows](https://windows.github.com/images/screenshot-overview@2x.png "간단하다! 편하다!! 멋지다!!!")
+![GitHub Desktop](https://lh3.googleusercontent.com/GZJ6OBnz_m7Q4b7k1c5wrfCqmcgbT06YlNMCmvyL119eHYyWHJ6M3YTSaAgZlz-ibqWaF_Qb6g=s650 "간단하다! 편하다!! 멋지다!!!")
 
 GitHub를 쓴다면 추천한다.
 
@@ -214,17 +214,13 @@ Jekyll이 정적 웹을 만드는 간단한 툴이지만 유용하게 쓸 수 �
 루비 스크립트를 이용해 다양한 추가 구현(플러그인)을 붙여 쓸 수 있기 때문이다.
 하지만, GitHub Pages에서는 보안상의 이유 때문에 이를 지원하지 않는다.
 
-대신 [GitHub Pages에서 미리 붙여둔 4가지 플러그인만 사용할 수 있다](https://help.github.com/articles/using-jekyll-plugins-with-github-pages/).
+대신 [GitHub Pages에 미리 붙여둔 플러그인](https://pages.github.com/versions/)이 여럿 있어, 최소한의 편의는 보장하고 있다.
+예전에는 4개(jekyll-mentions, jemoji, jekyll-redirect-from, jekyll-sitemap) 밖에 쓸 수 없었는데 그에 비하면 많이 나아진 셈이다.
+특히, 페이지를 구현할 수 있게 해주는 jekyll-paginate 지원은 정말 반갑다.
 
-- jekyll-mentions
-- jemoji
-- jekyll-redirect-from
-- jekyll-sitemap
-
-카테고리나 태그의 퍼머링크를 만들어주는 플러그인[^3]은 지원하지 않기 때문에, 단일 페이지에서 앵커(Anchor)를 이용한 바로가기를 만들어야 한다.
+하지만, 여전히 카테고리나 태그의 퍼머링크를 만들어주는 플러그인[^3]은 지원하지 않기 때문에, 단일 페이지에서 앵커(Anchor)를 이용한 바로가기를 만들어야 한다.
 아니면 로컬 Jekyll에서 생성한 결과물을 GitHub에 올리던가. (쩝)
 
 [^3]: 예를들어, 태그 퍼머링크 플러그인이라면 [jekyll-tagging](https://github.com/pattex/jekyll-tagging)이 있다. pretty 형태를 지원하기 때문에 동적 웹처럼 멋진 퍼머링크를 만들 수 있다. `gem install jekyll-tagging` 명령을 통해 손쉽게 설치할 수 있다.
 
 GitHub Pages에서 보다 많은 플러그인을 지원해줬으면 좋겠다.
-어차피 보안 문제라는건 사용자가 플러그인 자체를 추가할 수 없는 한, 일어날 수 없는것 아닌가.

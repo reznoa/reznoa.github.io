@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "'~등(等)'은 정말로 필요한가?"
-description: ""
+description: "없어져 버려야 할 '~등(等)'에 대해서 털어본다."
 category: Language
 tags: [한국어]
 ---

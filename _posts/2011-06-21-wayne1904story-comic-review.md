@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "짧아서 아쉬운 'Mr. 웨인의 1904 경성기담'"
-description: ""
+title: "짧아서 아쉬운, Mr. 웨인의 1904 경성기담"
+description: "'Mr. 웨인의 1904 경성기담'은 1904년 대한 제국을 배경으로 한 요괴 만화다."
 category: Mediaview
 tags: [★★★, 만화, 요괴, 최소영, 한국]
 ---

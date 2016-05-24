@@ -1,12 +1,13 @@
 ---
 layout: post
 title: "나의 별점 기준"
-description: ""
 category: Mediaview
 tags: []
+excerpt_separator: <!--more-->
 ---
 
 일관된 평가를 위해 나만의 별점 기준을 세워본다.
+<!--more-->
 ..만, 지극히 두리뭉실하고 사적인 잣대일 뿐이다. (웃음)
 
 별점       | 의미

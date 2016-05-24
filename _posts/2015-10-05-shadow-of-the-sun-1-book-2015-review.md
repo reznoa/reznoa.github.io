@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "재미있는 한국 소설, 태양의 그늘"
-description: ""
+title: "한국전쟁을 겪는 가족사를 담은 소설, 태양의 그늘"
 category: Mediaview
 tags: [책, 박종휘, 일제강점기, 한국전쟁, 시리즈]
 ---

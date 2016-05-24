@@ -1,12 +1,13 @@
 ---
 layout: post
 title: "우울하고, 살이 찌고, 무기력한 당신을 위한 처방전: 병 없이 살려면 의자부터 끊어라(GET UP!)"
-description: ""
 category: Mediaview
 tags: [★★★★, 건강]
+excerpt_separator: <!--more-->
 ---
 
 '병 없이 살려면 의자부터 끊어라(GET UP!)'는 '반(反)의자 운동'을 연구해온 제임스 레바인이 자신의 연구 결과와 경험을 쓴 책이다.
+<!--more-->
 책은 의자중독(chair addiction)이란 무엇이고,
 어째서 의자형(chair sentence)에서 벗어나야 하는지,
 또 앉기병(sitting disease)이 초래하는 나쁜 결과들은 무엇이고

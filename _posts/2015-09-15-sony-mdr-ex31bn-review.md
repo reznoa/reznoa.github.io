@@ -1,12 +1,13 @@
 ---
 layout: post
 title: "쓸만하지만 아쉬운, 소니 블루투스 NC 인이어 이어폰 MDR-EX31BN"
-description: ""
 category: Mediaview
-tags: [이어폰, Sony, ★★★]
+tags: [이어폰, Sony, 노이즈 캔슬링, ★★★]
+excerpt_separator: <!--more-->
 ---
 
 소니의 블루투스 NC 인이어 이어폰인 MDR-EX31BN을 3달여동안 쓰면서 느꼈던 것들이다.
+<!--more-->
 결론부터 말하자면, NC 성능이 좀 아쉬웠고 단점이 장점보다 더 눈에 많이띄는 제품이었다.
 
 <blockquote class="twitter-tweet" data-conversation="none" lang="ko"><p lang="ko" dir="ltr">소니 MDR-EX31BN을 사고, 2일째. 벌써 <a href="https://twitter.com/hashtag/%EB%8B%A8%EC%A0%90?src=hash">#단점</a>이 보인다. 일단 커널형인데 그리 편하지 않다. 캡을 한번 바꿔봐야겠다. NC는 나름 쓸만하고 블투 괜찮은데 일체형이 아니라 의외로 불편하다. 무엇보다 큰 단점은 충전할땐 기기가 꺼진다는거다. wtf</p>&mdash; <a href="https://twitter.com/reznoa/status/611443851564224512">2015-06-18</a></blockquote>

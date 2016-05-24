@@ -1,17 +1,16 @@
 ---
 layout: post
 title: "가격대 성능비가 좋은 게이밍 마우스, iMAGIC GMOUSE 2"
-description: ""
 category: Game
-tags: [게임, 마우스, 비프렌드]
+tags: [게임, 마우스]
 ---
-
-## 스펙과 외형
 
 비프렌드에서 가격대비가 좋은 마우스 iMAGIC GMOUSE 2(이하 iGM2)를 출시한다.
 최대 감도 2000 DPI에 스캔율 6000 FPS를 지녔고,
 7가지로 바꿀 수 있는 컬러 LED를 장착해 멋을 더했다.
 
+
+## 스펙과 외형
 
 ![iGM2 벌크 패키지](https://lh4.googleusercontent.com/-SPzOiVh8uHA/VkMmtRsnbdI/AAAAAAAAQCA/QvfQyPpAur8/w480/iGM2-box.jpg "필드 테스트를 위한 거여서 벌크 패키지를 받았다. 정식 출시시의 포장과 내용물(사용 설명서 등)은 아직 공개되지 않았다.")
 
@@ -38,7 +37,7 @@ tags: [게임, 마우스, 비프렌드]
 크기        | 118 x 63 x 38mm
 무게        | 100g
 케이블      | 180cm (꼬임방지)
-기타        | AVAGO 센서, OMRON 스위치, 무게추 적용, 꼬임방지 케이블, 금도금 USB 단자, 컬러 LED
+기타        | AVAGO 센서, OMRON 스위치, 무게추 적용,<br />꼬임방지 케이블, 금도금 USB 단자, 컬러 LED
 
 
 가장 먼저 눈에 띄는것은 역시 컬러 LED다.

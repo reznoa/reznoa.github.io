@@ -1,27 +1,54 @@
----
-layout: default
----
-{% include JB/setup %}
-{% include themes/twitter/post.html %}
+<!DOCTYPE html>
+<html lang="ko">
 
-<link rel="stylesheet" type="text/css" href="/res/mdenh.css" />
-<script src="/res/dompos.js"></script>
-<script src="/res/mdenh.js"></script>
-<script src="/res/samaxesjs.toc-1.5-fix1.min.js"></script>
-<script type="text/javascript">
-	var content = document.getElementsByClassName('content')[0];
+<head>
+	{% include head.html %}
 
-	var toc = document.getElementById('toc');
-	if (!toc) {
-		var h2s = content.getElementsByTagName('h2');
-		if (h2s.length > 0) {
-			toc = document.createElement('div');
-			toc.id = 'toc';
-			content.parentNode.insertBefore(toc, content);
-		}
-	}
-	samaxesJS.toc();
+	<link rel="stylesheet" href="{{ site.baseurl }}/css/mdenh.css">
+	<script src="{{ site.baseurl }}/scripts/dompos.js"></script>
+	<script src="{{ site.baseurl }}/scripts/mdenh.js"></script>
+	<script type="text/javascript">MarkdownEnhancer.initOnLoad('post-content');</script>
 
-	MarkdownEnhancer.footnotePopup();
-	MarkdownEnhancer.imageBlock( content );
-</script>
+	<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.4.0/styles/default.min.css">
+	<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.4.0/highlight.min.js"></script>
+	<script type="text/javascript">hljs.initHighlightingOnLoad();</script>
+</head>
+
+<header id="site-header">
+	{% include header.html %}
+</header>
+
+<body>
+	<article class="post container">
+		<header>
+			<h1>{{ page.title }}</h1>
+		</header>
+
+		<div class="post-datetime">
+			<time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: site.date_format }}</time>
+		</div>
+
+		<section class="post-content">
+		{{ content }}
+		</section>
+
+{% if page.tags.size > 0 %}
+		<section class="post-tags">
+		<i class="fa fa-tags" aria-hidden="true"></i>
+		{% for tag in page.tags %}
+		<a href="{{ BASE_PATH }}/tags#{{ tag }}"><span class="tag-name">{{ tag }}</span></a>
+		{% endfor %}
+		</section>
+{% endif %}
+
+		<section class="post-comments">
+			{% include disqus.html %}
+		</section>
+	</article>
+</body>
+
+<footer id="site-footer">
+	{% include footer.html %}
+</footer>
+
+</html>

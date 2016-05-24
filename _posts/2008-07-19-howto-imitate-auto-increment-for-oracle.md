@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Oracle - AUTO INCREMENT 흉내내기"
-description: ""
+description: "Oracle에서 AUTO INCREMENT를 흉내내봤다."
 category: Developlay
 tags: [Oracle, SQL, 코드조각]
 ---

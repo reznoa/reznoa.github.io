@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DbProviderFactories를 위한 machine.config 변경 방법"
-description: ""
+description: "프로바이더 독립적인 코드 사용을 위한 machine.config 변경 방법을 알아본다."
 category: logholic
 tags: [ADO.NET, Trobleshooting, 설정]
 ---

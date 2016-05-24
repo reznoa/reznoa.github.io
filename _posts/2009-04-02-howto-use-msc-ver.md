@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Visual C++ - _MSC_VER 이용하기"
-description: ""
+description: "_MSC_VER 이용 예와 VC 버전별 값을 알아본다."
 category: Developlay
 tags: [Visual Studio, 전처리, 버전]
 ---

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Oracle - TNSListener 서비스가 시작되지 않을 때"
-description: ""
+description: "HOST 설정 문제로 TNSListener가 시작되지 않을 때 해결법을 알아본다."
 category: Developlay
-tags: [Oracle, Windows, 서비스]
+tags: [Oracle, Windows, 서비스, Trobleshooting]
 ---
 
 윈도우에서 Oracle의 TNSListener는 서비스로 등록된다.

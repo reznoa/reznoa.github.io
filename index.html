@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+{% assign posts = paginator.posts | default: site.posts %}
+{% for post in posts %}
+<article class="postlist">
+	<header class="postlist-header">
+		<h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+	</header>
+	<div class="postlist-datetime">
+		<time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: site.date_format }}</time>
+	</div>
+	{% if site.paginate %}
+	<section class="postlist-excerpt">
+		{% if post.description %}
+			{{ post.description }}
+		{% else %}
+			{{ post.excerpt | strip_html }}
+		{% endif %}
+	</section>
+	{% endif %}
+	{% if post.tags.size > 0 %}
+	<div class="postlist-tags">
+		<i class="fa fa-tags" aria-hidden="true"></i>
+		{% for tag in post.tags %}
+			<a href="{{ site.baseurl }}/tags/#{{ tag | cgi_encode }}">{{ tag }}</a>
+		{% endfor %}
+	</div>
+	{% endif %}
+</article>
+{% endfor %}
+
+{% if site.paginate %}
+<nav class="pagination" role="navigation">
+	<a class="pagination-newer{% if paginator.previous_page %}" href="{{ site.baseurl }}/{% if paginator.previous_page > 1 %}page{{ paginator.previous_page }}{% endif %}{% else %} faded{% endif %}"><i class="fa fa-chevron-left" aria-hidden="true"></i> Newer</a>
+
+	<span class="pagination-page">{{ paginator.page }} of {{ paginator.total_pages }}</span>
+
+	<a class="pagination-older{% if paginator.next_page %}" href="{{ site.baseurl }}/page{{ paginator.next_page }}/{% else %} faded{% endif %}">Older <i class="fa fa-chevron-right" aria-hidden="true"></i></a>
+</nav>
+{% endif %}

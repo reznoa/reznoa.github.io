@@ -1,0 +1,11 @@
+@charset "utf-8";
+
+{% if site.google_search %}
+#google-search table, #google-search td {
+	border: 0;
+}
+.gsc-input-box, #gs_id50 {
+	margin: 0;
+	height: 30px;
+}
+{% endif %}

@@ -1,9 +1,8 @@
 ---
 layout: post
 title: "열변색 도료를 이용해 비밀문구를 넣을 수 있는 재미있는 머그컵, 아뱅코 시크릿 머그"
-description: ""
 category: Living
-tags: [컵, 열변색]
+tags: [컵, 열변색, 비밀]
 ---
 
 [아뱅코 시크릿 머그](http://www.abanko.co.kr/shop/goods/goods_list.php?&category=005)는 깔끔하고 일반적인 머그컵으로,

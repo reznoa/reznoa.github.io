@@ -1,5 +1,28 @@
----
-layout: default
----
-{% include JB/setup %}
-{% include themes/twitter/page.html %}
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+	{% include head.html %}
+</head>
+
+<header id="site-header">
+	{% include header.html %}
+</header>
+
+<body>
+	<article class="page container">
+		<header>
+			<h1>{{ page.title }}</h1>
+		</header>
+
+		<div class="page-content">
+		{{ content }}
+		</div>
+	</article>
+</body>
+
+<footer id="site-footer">
+	{% include footer.html %}
+</footer>
+
+</html>

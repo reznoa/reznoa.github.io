@@ -1,14 +1,17 @@
 ---
 layout: post
 title: "여전히 재미있는 한국의 가면 영웅, 각시탈"
-description: ""
 category: Mediaview
 tags: [★★★★, 거북이북스, 만화, 복간, 한국만화걸작선, 허영만]
+excerpt_separator: <!--more-->
 ---
 
-## 1~7화를 담은 복간판 각시탈
+'각시탈'은 허영만의 대표작 중 하나로, 일제시대를 배경으로 한 일종의 히어로물이다.
+<!--more-->
+특징인 각시탈을 써 신분을 감추고, 아무도 모르게 나타나 맨손으로 택견을 이용해 일본놈들을 때려잡는 모습은 굉장히 매력적이다.
 
-'각시탈'은 허영만의 대표작 중 하나로, 일제시대를 배경으로 한 일종의 히어로물이다. 특징인 각시탈을 써 신분을 감추고, 아무도 모르게 나타나 맨손으로 택견을 이용해 일본놈들을 때려잡는 모습은 굉장히 매력적이다.
+
+## 1~7화를 담은 복간판 각시탈
 
 [![복각판 각시탈 표시](https://lh4.googleusercontent.com/-7GA3Un6yLkk/VMjwmOBLgpI/AAAAAAAAOtY/FHf8NioKl4c/s450/maskofbride.jpg "원작 중 각시탈의 탄생을 그린 초반 일부만 담았다.")](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8992596871&ttbkey=ttbreznoa0249001&COPYPaper=1)
 

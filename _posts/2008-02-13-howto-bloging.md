@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "블로그는 이런식으로 써라"
-description: ""
 category: logholic
 tags: [블로그]
+excerpt_separator: <!--more-->
 ---
 
-'[원조 블로거 존 바거, 블로그를 말하다](http://itnews.inews24.com/php/news_view.php?g_serial=301777&amp;g_menu=020600)'라는 기사를 통해 블로그의 대략적인 역사와 약간의 팁을 얻었다.[^1]
+'[원조 블로거 존 바거, 블로그를 말하다](http://itnews.inews24.com/php/news_view.php?g_serial=301777&amp;g_menu=020600)'라는 기사를 통해 블로그의 대략적인 역사와 약간의 팁을 얻었다.<!--more-->[^1]
 
 [^1]: 기사에는 10가지 팁이 다 안나와있으며, 출처 링크도 없다. ..기자 양반. 링크 달면 잡혀가우?
 

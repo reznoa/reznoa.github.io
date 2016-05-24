@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "PHP를 위한 MySQL 암호화 함수"
-description: ""
+description: "PHP에서 쓸 수 있게 MySQL 암호화 함수를 구현해봤다."
 category: Developlay
 tags: [PHP, MySQL, 암호화, 코드조각]
 ---

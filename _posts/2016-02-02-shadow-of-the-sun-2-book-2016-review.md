@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "한국전쟁 속에서 발버둥치는 가족의 두번째 이야기, 태양의 그늘 2"
-description: ""
 category: Mediaview
 tags: [책, 박종휘, 한국전쟁, 시리즈]
+excerpt_separator: <!--more-->
 ---
 
-'태양의 그늘 2'는 3부작 중 2번째 권으로, 1부와 같은 이름에 2번째임을 나타내는 2만 덧 붙였다.
-3부작으로 결정됐었고, 1부에 따로 1부 표시가 없었기 때문에 다른 이름으로 나올 수도 있겠다 싶었는데, 그냥 한 이름으로 내기로 한 모양이다.
+'태양의 그늘 2'는 3부작 중 2번째 권이다.
+<!--more-->
+3부작으로 결정됐었고, 1부에 따로 1부임을 나타내는 표시가 없었기 때문에 다른 이름으로 나올 수도 있겠다 싶었는데, 그냥 한 이름으로 내기로 한 모양이다.
 
 [![박종휘 - 태양의 그늘 2 표지](https://lh3.googleusercontent.com/-L0JqNUO_l9Q/VrBeeFjCE1I/AAAAAAAAQk8/Y11WKY0ap5c/w300-Ic42/shadow-of-the-sun-2-book-2016-cover.jpg "태양의 그늘 2는 찢어진 가족들의 이야기를 담았다.")](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=74508534&ttbkey=ttbreznoa0249001&COPYPaper=1)
 

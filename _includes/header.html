@@ -1,0 +1,17 @@
+<div id="site-home">
+	<a href="{{ site.baseurl }}/"><img class="site-icon" src="{{ site.baseurl }}{{ site.favicon }}" /></a>
+	<span class="site-title">{{ site.title }}</span>
+</div>
+
+<nav id="site-nav">
+	<ul>
+	{% for link in site.links %}
+		<li>
+			<a {% if link.id %}id="{{ link.id }}"{% endif %} title="{{ link.title }}" href="{% unless link.external %}{{ site.baseurl }}{% endunless %}{{ link.url }}">
+				{% if link.fa_icon %}<i class="fa {{ link.fa_icon }}" aria-hidden="true"></i>{% endif %}
+				{% unless link.icon_only %}{{ link.title }}{% endunless %}
+			</a>
+		</li>
+	{% endfor %}
+	</ul>
+</nav>

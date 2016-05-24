@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "간단하면서도 재밌는 전략게임, DICEWARS"
-description: ""
 category: Game
 tags: [★★★, 게임, 플래시게임, 전략, 주사위]
 ---

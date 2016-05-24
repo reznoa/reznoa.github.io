@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "[SFC] 변변치않은 블루스(ろくでなしBLUES), 한글 패치 beta 5"
-description: ""
+title: "[SFC] 변변치않은 블루스(ろくでなしBLUES), 한국어 패치 beta 5"
+description: "만화 원작 격투 게임 변변치않은 블루스(ろくでなしBLUES)의 한국어 패치를 공개한다."
 category: Game
 tags: [SFC, 게임, 만화원작, 한국어패치]
 ---
@@ -15,7 +15,7 @@ tags: [SFC, 게임, 만화원작, 한국어패치]
 롬 구조로 단순해서 한글화 도전 겸 프로그래밍 연습 겸 겸사겸사해서 해본 거였다.
 
 
-![변변치않은 블루스(ろくでなし BLUES) 한글 패치 적용 스크린샷](https://lh5.googleusercontent.com/-UrO3a3nH78k/VNUUO8m_HYI/AAAAAAAAO3Y/jMP8BFNCdyw/s0/rblues_kr.png "초반에 오프닝으로 나오는 화면 중 일부다. 롬 구조가 단순했기 때문에 작업 자체는 어렵지 않았다.")
+![변변치않은 블루스(ろくでなし BLUES) 한국어 패치 적용 스크린샷](https://lh5.googleusercontent.com/-UrO3a3nH78k/VNUUO8m_HYI/AAAAAAAAO3Y/jMP8BFNCdyw/s0/rblues_kr.png "초반에 오프닝으로 나오는 화면 중 일부다. 롬 구조가 단순했기 때문에 작업 자체는 어렵지 않았다.")
 
 
 만화 제목은 굳이 해석하자면 '변변치않은 블루스'정도일 듯하다.
@@ -59,7 +59,7 @@ imp는 지금 생각해도 (기능적으로는) 꽤 잘 만든 놈이었다.
 
 [^4]: 물론, 그대로는 못 써먹는다. 게임마다 데이타를 저장하는 방식이 다르기 때문이다. 다른 게임에 써먹으려면 그에 맞게 조금 변형하긴 해야한다.
 
-아무튼, 처음엔 사전과 번역기로 어떻게 해보다가, 한글패치 소식을 접해오던 한식구에서
+아무튼, 처음엔 사전과 번역기로 어떻게 해보다가, 한국어 패치 소식을 접해오던 한식구에서
 『遊び』님, 『BlueR』님, 『™조로』님, 『한글화마스터』님, 『한식구』님, 『Rolan』님, 『P』님,
 『[장기튀김](http://blog.naver.com/ljw4702/)』님의 도움을 받아서 패치를 완성했다.
 특히 遊び님과 장기튀김님께 가장 많은 도움을 받았다.
@@ -90,7 +90,7 @@ imp는 지금 생각해도 (기능적으로는) 꽤 잘 만든 놈이었다.
 [^7]: 그러나, 물론, 희망사항일 뿐이다;
 
 
-- [rblues_kr_beta5.zip](https://docs.google.com/uc?id=0BwvGvF1Iv2uASGZWTjlldmJoSms&export=download "변변치않은 블루스 한글패치 beta #5")
+- [rblues_kr_beta5.zip](https://docs.google.com/uc?id=0BwvGvF1Iv2uASGZWTjlldmJoSms&export=download "변변치않은 블루스 한국어 패치 beta #5")
 
 
 뭐, 즐기시라!

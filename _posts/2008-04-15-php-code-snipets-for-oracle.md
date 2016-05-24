@@ -1,12 +1,13 @@
 ---
 layout: post
 title: "Oracle을 위한 PHP 코드조각"
-description: ""
 category: Developlay
 tags: [PHP, Oracle, 코드조각]
+excerpt_separator: <!--more-->
 ---
 
-자주 쓰지는 않기에 외우기는 귀찮은, Oracle을 위한 PHP 코드 조각이다.
+자주 쓰지는 않기에 외우기는 귀찮은, Oracle을 위한 PHP 코드조각이다.
+<!--more-->
 설명따윈 불필요하므로 코드로 말한다.
 
 ~~~

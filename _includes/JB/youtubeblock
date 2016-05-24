@@ -1,6 +1,0 @@
-<div class="imageblock" style="text-align: center;">
-	<iframe src="https://www.youtube.com/embed/{{ include.id }}" width="{{ include.width }}" height="{{ include.height }}" frameborder="0" allowfullscreen></iframe>
-{% if include.caption != null %}
-	<p class="imagecaption">{{ include.caption }}</p>
-{% endif %}
-</div>

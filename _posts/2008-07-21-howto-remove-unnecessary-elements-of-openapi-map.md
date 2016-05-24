@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "OpenAPI를 이용한 지도에서 불필요한 요소 지우기"
-description: ""
+description: "OpenAPI 매시업 지도에서 불필요한 표시 문구를 지워봤다."
 category: Developlay
 tags: [OpenAPI, Mashup, JavaScript, DHTML]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Visual C++ - vcbuild로 콘솔에서 프로젝트/솔루션 빌드하기"
-description: ""
+description: "vcbuild로 콘솔에서 솔루션 빌드하는 방법을 알아본다."
 category: Developlay
 tags: [Visual Studio, 콘솔, 스크립트, 자동화]
 ---

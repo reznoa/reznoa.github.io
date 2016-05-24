@@ -1,14 +1,15 @@
 ---
 layout: post
 title: "iOS용 Super Hexagon 기간 한정 무료"
-description: ""
 category: Game
 tags: [게임, 무료]
+excerpt_separator: <!--more-->
 ---
 
 ![Super Hexagon](http://a3.mzstatic.com/us/r30/Purple5/v4/24/59/88/245988bd-ab41-51dc-ddd2-94f1f1f8cf43/icon200x200.jpeg "Super Hexagon은 몰려드는 벽을 피하는 일종의 닷지 게임이다.")
 
 [iOS용 Super Hexagon](https://itunes.apple.com/app/super-hexagon/id549027629)이 기간 한정(~ 2015-10-30) 무료로 풀렸다.
+<!--more-->
 
 iOS 기기용 앱인 Apple Store를 통해야하며, 얻는 방법은 다음과 같다:
 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "lib를 dll로 만드는 방법"
-description: ""
 category: Developlay
 tags: [DLL, LIB]
 ---

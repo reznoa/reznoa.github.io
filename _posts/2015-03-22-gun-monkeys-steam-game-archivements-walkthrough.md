@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gun Monkey 도전과제 달성 방법"
-description: ""
+description: "망겜이지만 도전과제 100% 달성 방법을 알아본다."
 category: Game
 tags: [게임, 도전과제]
 ---

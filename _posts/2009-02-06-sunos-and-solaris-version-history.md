@@ -1,12 +1,13 @@
 ---
 layout: post
 title: "SunOS와 Solaris의 버전"
-description: ""
+description: "헷갈리는 SunOS와 Solaris 버전을 정리해봤다."
 category: PC
 tags: [SunOS, Solaris, 버전]
 ---
 
-SunOS/Solaris는 것 참 버전이 거시기 참 얄딱꾸리해서 프로그램 설치조차 제대로 못하는 경우가 많다. 버전에 맞는 패키지를 잘 골라서 깔아야 하기 떄문이다.
+SunOS/Solaris는 것 참 버전이 거시기 참 얄딱꾸리해서 프로그램 설치조차 제대로 못하는 경우가 많다.
+버전에 맞는 패키지를 잘 골라서 깔아야 하기 때문이다.
 
 만약 SunOS의 버전을 확인할 일이 있으면, '[SunOS & Solaris Version History](http://www.ocf.berkeley.edu/solaris/versions/)'에서 제공하는 표가 도움이 될 것이다. 혹시나 싶어 (날라갈까봐) 여기에도 옮겨둔다.
 

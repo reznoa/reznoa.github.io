@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "읽는 빨간책방, 우리가 사랑한 소설들"
-description: ""
+description: "빨간책방을 책으로 엮은 '우리가 사랑한 소설들'을 읽어봤다."
 category: Mediaview
 tags: [★★★, 책, 이동진, 김중혁, 라디오]
 ---

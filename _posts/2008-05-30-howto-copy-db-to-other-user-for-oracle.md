@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Oracle - DB를 다른 사용자로 복사하기"
-description: ""
 category: Developlay
 tags: [Oracle, 백업, 복구]
 ---

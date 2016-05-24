@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "강력한 원격 솔루션, xhost"
-description: ""
+description: "리눅스의 강력한 원격 솔루션인 xhost에 대해 알아본다."
 category: PC
 tags: [xhost, 원격, Linux]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DLL Export 방법"
-description: ""
+description: "DLL Export를 하는 2가지 방법을 알아본다."
 category: Developlay
 tags: [DLL, Windows, Visual Studio]
 ---

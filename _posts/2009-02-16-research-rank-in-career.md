@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "경력에 따른 연구원 직급 구분"
-description: ""
 category: Developlay
 tags: [경력]
 ---

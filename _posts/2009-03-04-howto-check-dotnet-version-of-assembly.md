@@ -1,12 +1,13 @@
 ---
 layout: post
 title: "내가 작성한 .NET 프로그램, 어떤 버전의 framework를 쓸까?"
-description: ""
+description: "프로그램 바이너리의 대상 .NET 버전을 확인하는 방법을 알아본다."
 category: Developlay
 tags: [.NET, 버전]
+excerpt_separator: <!--more-->
 ---
 
-대부분이 그렇듯 .NET Framework도 하위 호황성만 유지될 뿐, 상위 호환성은 없다.[^1]
+대부분이 그렇듯 .NET Framework도 하위 호환성만 유지될 뿐, 상위 호환성은 없다.[^1]
 .NET Framework는 상위 버전을 설치하면 하위버전도 같이 깔린다.
 .NET Framework만 따로 깔 수도 있다.
 MS가 제공하는 IDE인 VS에는 빌드 결과가 어떤 버전의 .NET Framework를 사용하게 되는지 표시해주지 않는다.

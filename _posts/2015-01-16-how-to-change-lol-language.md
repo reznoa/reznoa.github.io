@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "League of Legend - 한국어 활성화 방법"
-description: ""
+description: "League of Legend 외국 클라이언트에서 한국어를 사용하는 방법을 알아본다."
 category: Game
 tags: [게임, 리그오브레전드, 한국어패치]
 ---

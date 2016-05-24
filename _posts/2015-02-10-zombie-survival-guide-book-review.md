@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "잘 만든 좀비 설정물, 좀비 서바이벌 가이드(The Zombie Survival Guide)"
-description: ""
 category: Mediaview
 tags: [★★★★, 책, 맥스 브룩스, 장성주, 좀비]
 ---
 
-좀비 서바이벌 가이드(The Zombie Survival Guide)는 영화화도 되서 유명한 세계 대전 Z(World War Z)의 원작자 맥스 브룩스(Max Brooks)의 데뷔작으로, 어떤 상황을 만들고 그게 실제처럼 온전하도록 채우고 수정(변명)해 나가는 설정놀음, 그 중에서도 좀비 설정 놀음으로서는 단연 으뜸이다.
+좀비 서바이벌 가이드(The Zombie Survival Guide)는 영화화도 되서 유명한 세계 대전 Z(World War Z)의 원작자 맥스 브룩스(Max Brooks)의 데뷔작이다.
 
 [![좀비 서바이벌 가이드 표지](https://lh6.googleusercontent.com/-zW2qY3p6PK8/VSR-1KrBUzI/AAAAAAAAPO8/WbIpkROJolY/w240/zombie-survival-guide.jpg "이후 좀비물에 많은 영향을 끼쳤을 정도로 잘 만든 설정물이다.")](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8960172499&ttbkey=ttbreznoa0249001&COPYPaper=1)
 
-작가가 뱉어내는 좀비 설정 자체도 좋지만, 그걸 '가이드'라는 형태로 냄으로써 좀 더 좀비가 있는 세계를 실감나게 만든것도 좋다.
+어떤 상황을 만들고 그게 실제처럼 온전하도록 채우고 수정(변명)해 나가는 설정놀음, 그 중에서도 좀비 설정 놀음으로서는 단연 으뜸인데,
+작가가 뱉어내는 좀비 설정 자체도 좋지만 그걸 '가이드'라는 형태로 냄으로써 좀 더 좀비가 있는 세계를 실감나게 만든것도 좋다.
 가이드 뿐 아니라 발생 사례를 함께 수록한것도 더욱 그런 느낌을 살려준다.
 
 다만, 이런 놀이에 흥미가 없는 사람에겐 이상한 말장난이나 '지들만의 유희'처럼 보일 수도 있다.

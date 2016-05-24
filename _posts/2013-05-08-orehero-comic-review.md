@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "여장 변신 히어로 코미디, 나와 히어로와 마법소녀(俺とヒーローと魔法少女)"
-description: ""
 category: Mediaview
 tags: [★★★, 마법소녀, 만화, 변신, 성전환, 영웅, 코미디, 쿠단 소고]
 ---

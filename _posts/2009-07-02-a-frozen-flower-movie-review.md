@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "섹스신만이 남은 영화, 쌍화점(A Frozen Flower, 2008)"
-description: ""
-category: logholic
-tags: [★, 영화, 주진모, 조인성, 송지효, 고려, 게이, 불륜]
+description: "재미도 없고, 이야기도 없이 섹스신만 남긴영화 쌍화점을 까본다."
+category: Mediaview
+tags: [★, 영화, 주진모, 조인성, 송지효, 고려, 게이, 불륜, 까는리뷰]
 ---
 
-> « 주의 »
->
-> 영화 내용을 일부 포함하고있으니, 영화를 보지 않은 사람은 주의 바란다.
+<div class="im im-warning">
+영화 내용을 일부 포함하고있으니, 영화를 보지 않은 사람은 주의 바란다.
+</div>
 
 
 쌍화점은 고려말을 배경으로 한 게이 왕에 대한 영화다.

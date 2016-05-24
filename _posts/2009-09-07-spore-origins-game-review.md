@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "이 후를 기대하게하는 게임, Spore Origins"
-description: ""
+description: "Spore의 미니 게임격인 Spore Origins을 해봤다."
 category: Game
 tags: [★★★, 게임, 진화]
 ---

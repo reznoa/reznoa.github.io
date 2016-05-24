@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "재미로 만들어보는 뇌 사진(脳内メーカー)"
-description: ""
 category: Mediaview
 tags: [뇌, 재미, 테스트]
+excerpt_separator: <!--more-->
 ---
 
 이름으로 뇌속에 뭐가 들었는지 보여주는,
 [脳内メーカー][]를 소개한다.
+<!--more-->
 이걸 알게된지는 꽤 됐는데,
 그때는 왜 블로그에 소개할 생각을 못했나 모르겠다.
 

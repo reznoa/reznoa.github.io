@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "죽는 남자, 그 남자의 죽는 법."
-description: ""
 category: Mediaview
 tags: [★★★★★, 만화, 다음만화속세상, 이림, 죽음]
+excerpt_separator: <!--more-->
 ---
 
-'[죽는 남자](http://cartoon.media.daum.net/webtoon/view/man)'는 이림의 정식 데뷔작이다.[^1]
+'[죽는 남자](http://cartoon.media.daum.net/webtoon/view/man)'는 이림의 정식 데뷔작이다.<!--more-->[^1]
 연재 당시[^2]에도 정말 잘 만든 만화라고 생각했었는데, 다시봐도 여전히 좋고 재밌다.
 
 [^1]: 비공식으로는 웹툰 투고란을 통해 연재하던 'R에 관해서'이 있었다. 이게 좋은 평을 받아 정식으로 데뷔하게 된 것인데, 신기하게도 다른 작품으로 연재를 시작했다. 초기작은 후에 [리메이크](http://cartoon.media.daum.net/link/view/rr)하여 다시 연재한다.

@@ -1,0 +1,18 @@
+{% if site.google_search %}
+<div id="google-search"></div>
+<script src="//www.google.com/jsapi" type="text/javascript"></script>
+<script type='text/javascript'>
+	google.load('search', '1', {language: 'ko', style: google.loader.themes.V2_DEFAULT});
+	google.setOnLoadCallback(function(){
+		new google.search.CustomSearchControl('{{ site.google_search }}').draw('google-search');
+
+		// remove background image
+		var inputElm = document.getElementById('gsc-i-id1');
+		inputElm.style.backgroundImage = 'none';
+		if (inputElm.addEventListener)
+			inputElm.addEventListener('blur', function() {inputElm.style.backgroundImage = 'none';}, true);
+		else
+			inputElm.onblur = function() {inputElm.style.backgroundImage = 'none';};
+	}, true);
+</script>
+{% endif %}
