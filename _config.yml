@@ -1,7 +1,7 @@
 # This is the default format.
 # For more see: http://jekyllrb.com/docs/permalinks/
 # default: /:categories/:year/:month/:day/:title
-permalink: /post/:title
+permalink: /post/:title/
 date_format: "%F"
 
 title:       "reznoa의 동굴폐인 놀이터"
