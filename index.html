@@ -32,10 +32,10 @@ layout: default
 {% endfor %}
 
 {% if site.paginate %}
-<nav class="pagination" role="navigation">
+<nav id="pagination" role="navigation">
 	<a class="pagination-newer{% if paginator.previous_page %}" href="{{ site.baseurl }}/{% if paginator.previous_page > 1 %}page{{ paginator.previous_page }}{% endif %}{% else %} faded{% endif %}"><i class="fa fa-chevron-left" aria-hidden="true"></i> Newer</a>
 
-	<span class="pagination-page">{{ paginator.page }} of {{ paginator.total_pages }}</span>
+	<span class="pagination-page"><span class="pagination-page-curr">{{ paginator.page }}</span><span class="pagination-page-with-total"> of {{ paginator.total_pages }}</span></span>
 
 	<a class="pagination-older{% if paginator.next_page %}" href="{{ site.baseurl }}/page{{ paginator.next_page }}/{% else %} faded{% endif %}">Older <i class="fa fa-chevron-right" aria-hidden="true"></i></a>
 </nav>

@@ -121,20 +121,26 @@ h3 { font-size: 1.5em; }
 	padding: 0.5em 0 1em 0;
 }
 
-.pagination {
+#pagination {
 	display: block;
 	margin: 2em 0 1em 0;
 	text-align: center;
 }
-.pagination .pagination-newer,
-.pagination .pagination-older,
-.pagination .pagination-page {
+#pagination .pagination-newer,
+#pagination .pagination-older,
+#pagination .pagination-page {
+	white-space: nowrap;
 	margin: 0.25em;
 	padding: 0.5em;
 	border: 1px solid #ccc;
 	border-radius:         0.5em;
 	-moz-border-radius:    0.5em;
 	-webkit-border-radius: 0.5em;
+}
+@media screen and (max-width:320px) {
+	#pagination .pagination-page-with-total {
+		display: none;
+	}
 }
 
 /*
