@@ -23,8 +23,9 @@ highlighter: rouge
 kramdown:
  input: GFM
 
-# type: full | excerpt
-feed_type: part
+feed:
+ type:     part # full | part
+ truncate: 150  # ignored if type is full
 
 disqus_shortname: 'rezlog'
 google_analytics: 'UA-2606866-2'
@@ -62,7 +63,7 @@ links:
    fa_icon:   fa-search
    icon_only: true
  - title:     Feed
-   url:       /feed/
+   url:       /feed.xml
    fa_icon:   fa-feed
    icon_only: true
 

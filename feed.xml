@@ -15,11 +15,15 @@ permalink: /feed.xml
 		{% for post in site.posts limit:10 %}
 		<item>
 			<title>{{ post.title | xml_escape }}</title>
-			{% if site.feed_type == "full" %}
-			<description type="html">{{ post.content | xml_escape }}</description>
+			{% if site.feed.type == "full" %}
+				{% assign post_desc = post.content | xml_escape %}
 			{% else %}
-			<description type="html">{{ post.excerpt | xml_escape }}</description>
+				{% assign post_desc = post.description | default: post.excerpt | strip_html %}
+				{% if site.feed.truncate %}
+					{% assign post_desc = post_desc | truncate: site.feed.truncate %}
+				{% endif %}
 			{% endif %}
+			<description type="html">{{ post_desc }}</description>
 			<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
 			<link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
 			<guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
