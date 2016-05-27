@@ -62,7 +62,7 @@ links:
    fa_icon:   fa-search
    icon_only: true
  - title:     Feed
-   url:       /feed/
+   url:       /feed.xml
    fa_icon:   fa-feed
    icon_only: true
 
