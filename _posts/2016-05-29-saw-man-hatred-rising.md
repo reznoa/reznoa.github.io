@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "남혐의 전개 과정을 보았다"
-description: "악마의 편집인가, 마녀사냥인가, 그것도 아니면 설레발인가."
 date: 2016-05-29 16:39:05 +0900
 category: rezthink
 tags: [혐오, SNS]
