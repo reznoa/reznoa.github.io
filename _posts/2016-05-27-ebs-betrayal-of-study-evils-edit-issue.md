@@ -4,7 +4,7 @@ title: "EBS 다큐 '공부의 배신'은 '악마의 편집'...?"
 description: "악마의 편집인가, 마녀사냥인가, 그것도 아니면 설레발인가."
 date: 2016-05-27 19:11:36 +0900
 category: rezthink
-tags: [TV, 시사, 논란, 악마의 편집, 마녀사냥]
+tags: [TV, EBS, 다큐멘터리, 시사, 논란, 악마의 편집, 마녀사냥]
 ---
 
 [EBS '악마의 편집'에 상처 받은 대학생들](http://www.insight.co.kr/newsRead.php?ArtNo=62977)이란 기사를 봤다.
