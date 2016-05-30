@@ -9,3 +9,7 @@
 	height: 30px;
 }
 {% endif %}
+
+.twitter-tweet {
+	margin: 0 auto;
+}
