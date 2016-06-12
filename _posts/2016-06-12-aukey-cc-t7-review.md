@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "공간 활용이 큰 강점인 차량용 충전기, 아오키(AUKEY) CC-T7"
+title: "공간활용과 고전류 제품 지원이 좋은 차량용 충전기, 아오키(AUKEY) CC-T7"
 description: "퀵차지3.0을 지원하는 차량용충전기 CC-T7을 써봤다."
 date: 2016-06-12 16:01:32 +0900
 category: Mediaview
