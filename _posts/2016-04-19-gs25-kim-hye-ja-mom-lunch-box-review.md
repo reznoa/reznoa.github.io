@@ -30,11 +30,13 @@ tags: [음식, 도시락, 편의점, 즉석섭취식품, 전자레인지]
 3~4000원 선에서 여러 종류의 제품이 마련되어 있으며,
 모든 편의점이 모든 종류를 들여놓는것은 아닌 듯하다.
 
-![김혜자의 맘 - 불고기&김치제육](https://lh3.googleusercontent.com/EWydeG0p2nC2ryYVNTsh_WxApX0h3K1Ee05ew3J5sYSLvo5F2ZfOePYnydoMXEI4PNJvEQ7dEkk=s600 "나쁘지 않은 구성에 가격대비도 좋다.")
-
 내가 선택한 것은 고기가 들어있는 불고기&김치제육 도시락으로,
 이름처럼 두 종류의 고기 반찬이 들어있는 놈이다.
 용량 434g에 가격은 3800원이다.
+
+![김혜자의 맘 - 불고기&김치제육](https://lh3.googleusercontent.com/EWydeG0p2nC2ryYVNTsh_WxApX0h3K1Ee05ew3J5sYSLvo5F2ZfOePYnydoMXEI4PNJvEQ7dEkk=s600 "나쁘지 않은 구성에 가격대비도 좋다.")
+
+![김혜자의 맘 - 불고기&김치제육 구성](https://lh3.googleusercontent.com/I_RD8LRGwPTauRyjyhPMi0K6JV1xolniHYttalm-OY5lkAoWNhc9nhnd9evCseATMcgkhhdRhf4=s600 "2단으로 되어있으며, 가려진 1단에는 반 정도에 밥이 들어있다.")
 
 냉장유통하는 즉석 도시락인만큼 전자레인지에 1:30초(1000w) 또는 2분(700w) 돌려 뎁히는걸로 간편하게 조리해 먹을 수 있다.
 
@@ -93,8 +95,6 @@ tags: [음식, 도시락, 편의점, 즉석섭취식품, 전자레인지]
 밥량도 적은건 아니지만 조금 아쉬웠다.
 반찬이 짜기에 더욱 그랬던 것 같다.
 밥 량이 조금만 더 있거나, 싱거운 반찬이 더 있었으면 좋았을 것 같다.
-
-![김혜자의 맘 - 불고기&김치제육 구성](https://lh3.googleusercontent.com/I_RD8LRGwPTauRyjyhPMi0K6JV1xolniHYttalm-OY5lkAoWNhc9nhnd9evCseATMcgkhhdRhf4=s600 "반찬이 짠거 위주라 좀 그렇다. 싱거운게 하나 더 있었으면 좋았을 듯.")
 
 <del>
 조리 방법도 쫌 그랬는데, 설명대로 1:30초 데운걸로는 고기가 따듯해지지 않았기 때문이다.
