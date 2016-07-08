@@ -32,3 +32,5 @@ tags: [흑백논리, 성범죄]
 편협하고 극단적이며 이중적이다.
 
 한마디로 그냥 어이가 없다.
+
+![무한도전 E487 박명수로 살기 中](https://lh3.googleusercontent.com/KfaDxUAJtZym9m5anhFRo-lI4MH0eT0apGojAM6erql1xRp0Zo6saHfOl2BX2xhac-d0A19YFg=s520 "“저도 배울 만큼 배운 사람이에요”")
