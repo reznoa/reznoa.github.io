@@ -57,6 +57,8 @@ $ lsnrctl stop
 보통은 이미 만들어져 있으므로 unlock을 해준다.
 
 ~~~
+$ sqlplus "/as sysdba"
+
 SQL> ALTER USER scott IDENTIFIED BY tiger ACCOUNT UNLOCK;
 
 User altered.
@@ -69,6 +71,8 @@ User altered.
 이름을 your_user_name, 비밀번호를 your_password로 할 경우:
 
 ~~~
+$ sqlplus "/as sysdba"
+
 SQL> CREATE user your_user_name IDENTIFIED BY your_password;
 
 SQL> GRANT connect, resource TO your_user_name;
