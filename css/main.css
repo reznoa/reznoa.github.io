@@ -14,6 +14,9 @@ a:hover {
 article {
 	display: block;
 }
+code {
+	background: #f0f0f0;
+}
 del {
 	color: #ccc;
 }
