@@ -8,19 +8,28 @@ tags: [Oracle]
 
 ## 표기법
 
-이 문서의 표기는 크게 콘솔, sqlplus, 결과를 포함한다.
+이 문서의 표기는 크게 콘솔, sqlplus, 파일 내용, 결과를 포함한다.
 
 콘솔은 다음과 같이 '`$ `'로 시작한다:
 
-~~~
-$ ls
-~~~
+> ~~~
+> $ ls
+> ~~~
 
 sqlplus에서 수행할 명령은 다음과 같이 '`SQL> `'로 시작한다:
 
-~~~
-SQL> select * from dual;
-~~~
+> ~~~
+> SQL> select * from dual;
+> ~~~
+
+파일 내용은 다음처럼 '**[ ... ]**'로 감싼 파일명으로 시작하며,
+이 후 처음 나오는 블럭이 해당 파일의 내용이다:
+
+> **[fileName.c]**
+>
+> ~~~
+> printf("Hello, Oracle!\n");
+> ~~~
 
 그 외의 것들은 모두 결과다.
 결과는 문서의 단순화를 위해 과감히 생략하거나 일부 변형할 수 있다.
@@ -76,4 +85,31 @@ $ sqlplus "/as sysdba"
 SQL> CREATE user your_user_name IDENTIFIED BY your_password;
 
 SQL> GRANT connect, resource TO your_user_name;
+~~~
+
+
+
+## ODBC 사용
+
+**[~/.odbc.ini]**
+
+~~~
+[ora]
+Driver     = ~oracle/app/oracle/11g/lib/libsqora.so.11.1
+UserID     = scott
+Password   = tiger
+ServerName = //192.168.0.1:1521/orcl
+~~~
+
+**[testOracleODBC.c]**
+
+~~~
+// ...
+
+sRC = SQLDriverConnect( sHdbc, NULL,
+                        (SQLCHAR *)"DSN=ora", SQL_NTS,
+                        NULL, 0, NULL,
+                        SQL_DRIVER_NOPROMPT );
+
+// ...
 ~~~
