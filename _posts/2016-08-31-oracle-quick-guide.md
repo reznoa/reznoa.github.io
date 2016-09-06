@@ -3,7 +3,7 @@ layout: post
 title: "Oracle Quick Guide"
 description: "Oracle을 가볍게 쓸 때 필요한 몇가지 명령들을 정리해본다."
 category: Developlay
-tags: [Oracle]
+tags: [Oracle, ODBC]
 ---
 
 ## 표기법
