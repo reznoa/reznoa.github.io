@@ -2,7 +2,7 @@
 layout: post
 title: "500원에 2곡! 부담없는, 코인 노래 연습장"
 category: Mediaview
-tags: [노래]
+tags: [노래, 체험기]
 excerpt_separator: <!--more-->
 ---
 

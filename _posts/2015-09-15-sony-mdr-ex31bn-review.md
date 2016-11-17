@@ -2,7 +2,7 @@
 layout: post
 title: "쓸만하지만 아쉬운, 소니 블루투스 NC 인이어 이어폰 MDR-EX31BN"
 category: Mediaview
-tags: [이어폰, Sony, 노이즈 캔슬링, ★★★]
+tags: [이어폰, Sony, 노이즈 캔슬링, ★★★, 체험기]
 excerpt_separator: <!--more-->
 ---
 
