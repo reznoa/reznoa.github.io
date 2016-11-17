@@ -104,6 +104,14 @@ English, en_AU
 
 ## 새로운 Alpha 클라이언트의 한국어 활성화 방법
 
+<div class="im im-error" markdown="1">
+0.0.0.31 부터는 이 방법이 통하지 않는다.
+한국어로 설정하면 추가 패치를 받으려다 실패하는데,
+일부러 막은건지 알파 버전이라서 일시적으로 그런건지 모르겠다.
+
+![한국어 설정 오류](https://lh3.googleusercontent.com/-DDkDds9Gi_0/WC305qF5BkI/AAAAAAAARk8/zKy3qVS-gywMu556m8_qCfrs8XAXieIYgCKgB/s0/lol_kr_2016alpha_error_003.png)
+</div>
+
 현재(2016-11-05 기준) 알파 테스트 중인 새 클라이언트는 txt가 아닌 yaml 파일을 사용한다.
 
 고칠 파일은 다음과 같다[^2]:
