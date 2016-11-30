@@ -11,15 +11,6 @@ tags: [책, 재난, 이지메, 시간, 불교, 루스 오제키, 엘리]
 
 ![루스 오제키 - 내가 너를 구할 수 있을까](https://lh3.googleusercontent.com/-6MNEXGMQ-ZY/WD7C1_g7oEI/AAAAAAAARms/sb3gtviaKaMxi1zXtIEVeYIT0zxKz_MYACKgB/s0/a-tale-for-the-time-being-book-ko.jpg "태평양을 사이에 둔 두 사람의 서로 다른 시간대의 이야기가 교대로 펼쳐진다.")
 
-<div class="mediablock">
-<img src="http://image.yes24.com/blogimage/blog/b/o/bookhouse/20161110102140447341.jpg" alt="북 트레일러 1" />
-<img src="http://image.yes24.com/blogimage/blog/b/o/bookhouse/20161110102141335847.jpg" alt="북 트레일러 2" />
-<img src="http://image.yes24.com/blogimage/blog/b/o/bookhouse/20161110102142965013.jpg" alt="북 트레일러 3" />
-<img src="http://image.yes24.com/blogimage/blog/b/o/bookhouse/20161110102143401991.jpg" alt="북 트레일러 4" />
-<img src="http://image.yes24.com/blogimage/blog/b/o/bookhouse/20161110102144388143.jpg" alt="북 트레일러 5" />
-<img src="http://image.yes24.com/blogimage/blog/b/o/bookhouse/20161110102145553477.jpg" alt="북 트레일러 6" />
-</div>
-
 어려서부터 미국에서 산 나오는 일본에 잘 적응하지 못하는데다
 심지어 학교에서 이지메까지 당하고 있다.
 이유는 없다.
