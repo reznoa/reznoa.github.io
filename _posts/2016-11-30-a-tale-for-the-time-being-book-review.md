@@ -44,5 +44,5 @@ SF 판타지 같은 부분은 사람에 따라 호불호가 갈릴 수 있겠다
 전반적으로 매력적이다.
 
 <div class="im im-info">
-<a href="http://blog.naver.com/ellelit">엘리</a>에서 출판 전 가제본 책을 제공받음.
+<a href="http://blog.naver.com/ellelit">엘리</a>로부터 출판 전 가제본 책을 제공받아 읽어보고 작성했다.
 </div>

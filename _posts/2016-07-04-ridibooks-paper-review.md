@@ -202,6 +202,6 @@ Wi-Fi      | 802.11b/g/n, 2.4GHz
 
 
 <div class="im im-info">
-이 사용기는 <a href="http://ridibooks.com/">리디북스</a>에서 제품을 1달 무료 대여 받아 사용해보고 작성한 것이다.
+<a href="http://ridibooks.com/">리디북스</a>로부터 제품을 1달 무료 대여 받아 사용해보고 작성했다.
 반납 후 정리한지라 사진이 별로 없다;
 </div>
