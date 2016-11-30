@@ -2,7 +2,7 @@
 layout: post
 title: "한국전쟁 속에서 발버둥치는 가족의 두번째 이야기, 태양의 그늘 2"
 category: Mediaview
-tags: [책, 박종휘, 한국전쟁, 시리즈]
+tags: [책, 박종휘, 한국전쟁, 시리즈, 서평]
 excerpt_separator: <!--more-->
 ---
 
