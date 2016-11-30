@@ -7,7 +7,7 @@ tags: [책, 재난, 이지메, 시간, 불교, 루스 오제키, 엘리]
 
 루스 오제키(Ruth Ozeki)의 '내가 너를 구할 수 있을까'[^1]는 16살의 미국계 일본인 소녀 나오와 우연히 그녀의 일기장을 주운 캐나다의 소설가 루스의 이야기를 담은 소설이다.
 
-[^1]: '나의 물고기는 살게 될 거야'라는 제목으로도 소개된 바 있다. 원제는 'A Tale for the Time Being'이다.
+[^1]: '나의 물고기는 살게 될 거야'라는 제목으로도 소개된 바 있다. 원제는 'A Tale for the Time Being'.
 
 ![루스 오제키 - 내가 너를 구할 수 있을까](https://lh3.googleusercontent.com/-6MNEXGMQ-ZY/WD7C1_g7oEI/AAAAAAAARms/sb3gtviaKaMxi1zXtIEVeYIT0zxKz_MYACKgB/s0/a-tale-for-the-time-being-book-ko.jpg "태평양을 사이에 둔 두 사람의 서로 다른 시간대의 이야기가 교대로 펼쳐진다.")
 
