@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "내가 너를 구할 수 있을까"
+title: "시간과 삶과 관계에 대한 이야기, 내가 너를 구할 수 있을까"
 category: Mediaview
 tags: [책, 재난, 이지메, 시간, 불교, 루스 오제키, 엘리]
 ---
