@@ -68,15 +68,23 @@ iGM2의 클릭감은 나름 경쾌한 편이다.
 마우스 좌우에 붙인 미끌림 방지패드도 손안에서 마우스가 잘 떠나지 않게 도와준다.
 개인적으로 핑거 그립(Finger Grip)을 선호하는만큼 미끌림 방지 패드는 꽤 유용했다.
 
-하지만, 오래 쓰다보면 주로 파지하는 부분의 접착제가 녹아나와 손에 묻는다.
-이런 문제는 재질과 마감상의 문제라 한번 녹아나오기 시작하면 답이 없는데,
-추후엔 반드시 보완해야 할 것이다.
-
 > 마우스 그립에 관한 설명은 다음을 참고하시라.
 > 이미지를 함부로 가져올 수 없어 링크만 남긴다.
 >
 > - [Types Of Mouse Grip](http://www.epicgear.com/en/technologies/types-of-mouse-grip)
 > - [Choosing the best computer mouse for your need](http://bimouse.com/choosing-the-best-computer-mouse/)
+
+하지만, 오래 쓰다보면 주로 파지하는 부분의 접착제가 녹아나와 손에 묻는다.
+결국 미끌림 방지패드 부분을 모두 걷어내고 닦아내고 써야 했다.
+이런 문제는 재질과 마감상의 문제라 한번 녹아나오기 시작하면 답이 없으니
+추후엔 반드시 보완해야 할 것이다.
+
+<div class="mediablock">
+<img width="512" alt="iGM2 엄지를 파지했던 부분" src="https://lh3.googleusercontent.com/-dc6jMuqq_4A/WD79aCLHx-I/AAAAAAAARnQ/IyK4KrhQqS4BWxFNGxI7_pnm09sKIMV-wCKgB/w512/iGM2-glue-1.jpg" />
+<img width="512" alt="iGM2 새끼를 파지했던 부분" src="https://lh3.googleusercontent.com/-ssOGiJhQUGk/WD79knJaYzI/AAAAAAAARng/ML5XartMFpgwL5iFlWPyZFpbcwMsytUrwCKgB/w512/iGM2-glue-2.jpg" />
+<img width="512" alt="iGM2 녹아내린 미끌림 방지패드" src="https://lh3.googleusercontent.com/-FmaXV5aeGL8/WD79phFNk_I/AAAAAAAARnw/4bWFyE1q3LYscIDgFukm-Mpv7lv_vNWwACKgB/w512/iGM2-glue-3.jpg" />
+<p class="mediablock-caption">마우스를 파지했던 엄지와 새끼 부분 접착제가 녹아내렸다.</p>
+</div>
 
 DPI와 폴링레이트 변환은 iGM2의 핵심 기능이라 할 수 있다.
 이를 어떻게 바꾸느냐에 따라 마우스 움직임이 달라는데,
@@ -123,4 +131,6 @@ iGM2 정도로도 무난하지 않을까 싶다.
 비록 A/S도 된다지만 마우스란 본디 소모품.
 가격대 성능비가 높은 마우스도 좋은 선택일 것이다.
 
-\* 이 사용기는 아이매직(iMAGIC)으로부터 제품을 제공받아 작성한 것이다.
+<div class="im im-info">
+<a href="http://b-friend.co.kr/">비프렌드(B.FRIEND)</a>로부터 리뷰용 제품을 제공받음.
+</div>
