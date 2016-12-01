@@ -256,12 +256,15 @@ div.mediablock p.mediablock-caption{
 
 .im {
 	vertical-align: middle;
-	width: 70%;
+	width: 75%;
 	margin: 3em auto;
-	padding: 1.5em;
+	padding: 1.5em 1em 1.5em 2.5em;
 	border-radius:         0.5em;
 	-moz-border-radius:    0.5em;
 	-webkit-border-radius: 0.5em;
+}
+.im ul {
+	margin: 0;
 }
 .im-info {
 	color: #00529B;
@@ -280,7 +283,7 @@ div.mediablock p.mediablock-caption{
 	background-color: #FFBABA;
 }
 .im-info:before, .im-success:before, .im-warning:before, .im-error:before {
-	margin-right: 0.75em;
+	margin: -0.25em 0.5em 0 -0.5em;
 	font-size: 2em;
 	float: left;
 
