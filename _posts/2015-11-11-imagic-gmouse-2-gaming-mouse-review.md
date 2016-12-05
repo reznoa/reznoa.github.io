@@ -132,5 +132,5 @@ iGM2 정도로도 무난하지 않을까 싶다.
 가격대 성능비가 높은 마우스도 좋은 선택일 것이다.
 
 <div class="im im-info">
-<a href="http://b-friend.co.kr/">비프렌드(B.FRIEND)</a>로부터 제품을 제공받아 사용해보고 작성했다.
+<a href="http://b-friend.co.kr/">비프렌드(B.FRIEND)</a>로부터 리뷰를 위한 제품을 제공받아 사용해보고 작성했다.
 </div>

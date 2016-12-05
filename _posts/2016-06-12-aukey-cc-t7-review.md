@@ -123,5 +123,5 @@ tags: [충전기, AUKEY, 퀄컴, 퀵차지, 필드테스트]
 
 
 <div class="im im-info">
-<a href="http://playwares.com/">플레이웨어즈</a>를 통해 <a href="http://www.aukeykorea.com/">아오키코리아(AUKEY Korea)</a>로부터 제품을 제공받아 사용해보고 작성했다.
+<a href="http://playwares.com/">플레이웨어즈</a>를 통해 <a href="http://www.aukeykorea.com/">아오키코리아(AUKEY Korea)</a>로부터 리뷰를 위한 제품을 제공받아 사용해보고 작성했다.
 </div>
