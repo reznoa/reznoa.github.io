@@ -19,7 +19,7 @@ tags: [책, 박종휘, 일제강점기, 한국전쟁, 시리즈]
 
 ![두 집안의 가계도](https://lh4.googleusercontent.com/-EKYMH9zmSlU/VhKLA_K4fGI/AAAAAAAAP_E/4pwBDvWzAF8/s0/shadow-of-the-sun-book-2015-406p.jpg "두 집안의 이야기다.")
 
-![중매x중매](https://lh6.googleusercontent.com/-tShUeQNk2a8/VhKLAK-iX3I/AAAAAAAAP-8/afIHUzyKG5I/s0/shadow-of-the-sun-book-2015-89p.jpg "초반은 이런식으로 유쾌하게 진행된다.")
+![중매x중매](https://lh6.googleusercontent.com/-tShUeQNk2a8/VhKLAK-iX3I/AAAAAAAAP-8/afIHUzyKG5I/w612/shadow-of-the-sun-book-2015-89p.jpg "초반은 이런식으로 유쾌하게 진행된다.")
 
 
 그런데, 일본이 항복하고 광복을 맞이하면서 오히려 이들은 고난에 휩싸이게 된다.
