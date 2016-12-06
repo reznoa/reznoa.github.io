@@ -45,5 +45,8 @@ tags: [책, 박종휘, 일제강점기, 한국전쟁, 시리즈]
 
 2, 3부를 기대한다.
 
+<div class="im im-info">
+<a href="https://withblog.net">위드블로그</a>를 통해 리뷰를 위한 제품 비용 포인트백을 조건으로 구매해 읽어보고 작성했다.
+</div>
 
-<div title="withblog"><table background="https://withblog.net/campaign/img.php?p=dcc48a39185ece29a92caa637a75ce4117ed408c266365f001ff6164f50cd743&amp;v=3" cellpadding="0" cellspacing="0" style="margin:0 auto; background-size:100% 100%; background-repeat:no-repeat;"><tr><td style="background:none;"><a href="https://withblog.net/campaign/link.php?p=dcc48a39185ece29a92caa637a75ce4117ed408c266365f001ff6164f50cd743&amp;v=3&amp;utm_source=withblog&amp;utm_medium=banner&amp;utm_campaign=sponsorcampaign" style="background:none;" target="_blank"><img src="https://static.withblog.net/pub/campaign/blank_400x70.png" style="border:none; background:none;" alt="위드블로그" /></a></td></tr></table><div align="center" style="font-size:11px;"><a href="https://withblog.net/?utm_source=withblog&amp;utm_medium=banner&amp;utm_campaign=sponsor" style="color:#000; text-decoration:none;"></a></div></div>
+<div title="withblog" style="text-align: center; margin: 3em 0;"><a href="https://withblog.net/campaign/link.php?p=dcc48a39185ece29a92caa637a75ce4117ed408c266365f001ff6164f50cd743&amp;v=3&amp;utm_source=withblog&amp;utm_medium=banner&amp;utm_campaign=sponsorcampaign" style="background:none;" target="_blank"><img src="https://withblog.net/campaign/img.php?p=dcc48a39185ece29a92caa637a75ce4117ed408c266365f001ff6164f50cd743&amp;v=3" alt="위드블로그" /></a></div>

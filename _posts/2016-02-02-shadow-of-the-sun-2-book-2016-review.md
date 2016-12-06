@@ -33,4 +33,8 @@ excerpt_separator: <!--more-->
 
 예상이 맞을지도 궁금하고, 대미를 어떻게 장식할지도 궁금하다.
 
-<div title="withblog" style="text-align: center; line-height: 1em;"><a href="https://withblog.net/campaign/link.php?p=73c3af227d7923af84385eddbfdb4f03fd71bdac9ef2e70e28fe3fee5e602d78&amp;v=3&amp;utm_campaign=sponsor&amp;utm_source=withblog&amp;utm_medium=banner" target="_blank"><img src="https://withblog.net/campaign/img.php?p=73c3af227d7923af84385eddbfdb4f03fd71bdac9ef2e70e28fe3fee5e602d78&amp;v=3" alt="위드블로그"></a><div align="center" style="font-size: 11px;"><a href="https://withblog.net/?utm_campaign=sponsor&amp;utm_source=withblog&amp;utm_medium=banner" style="color: #000; text-decoration: none;"></a></div></div>
+<div class="im im-info">
+<a href="https://withblog.net">위드블로그</a>를 통해 리뷰를 위한 제품 비용 포인트백을 조건으로 구매해 읽어보고 작성했다.
+</div>
+
+<div title="withblog" style="text-align: center; margin: 3em 0;"><a href="https://withblog.net/campaign/link.php?p=73c3af227d7923af84385eddbfdb4f03fd71bdac9ef2e70e28fe3fee5e602d78&amp;v=3&amp;utm_campaign=sponsor&amp;utm_source=withblog&amp;utm_medium=banner" target="_blank"><img src="https://withblog.net/campaign/img.php?p=73c3af227d7923af84385eddbfdb4f03fd71bdac9ef2e70e28fe3fee5e602d78&amp;v=3" alt="위드블로그"></a></div>
