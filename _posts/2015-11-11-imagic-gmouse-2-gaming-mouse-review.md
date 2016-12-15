@@ -75,8 +75,8 @@ iGM2의 클릭감은 나름 경쾌한 편이다.
 > - [Choosing the best computer mouse for your need](http://bimouse.com/choosing-the-best-computer-mouse/)
 
 하지만, 오래 쓰다보면 주로 파지하는 부분의 접착제가 녹아나와 손에 묻는다.
-결국 미끌림 방지패드 부분을 모두 걷어내고 닦아내고 써야 했다.
-이런 문제는 재질과 마감상의 문제라 한번 녹아나오기 시작하면 답이 없으니
+결국 미끌림 방지패드 부분을 모두 걷어내고 닦아서 써야 했다.
+이런건 재질과 마감의 문제라 한번 녹아나오기 시작하면 답이 없다.
 추후엔 반드시 보완해야 할 것이다.
 
 <div class="mediablock">
