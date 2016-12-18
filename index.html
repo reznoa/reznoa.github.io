@@ -4,7 +4,7 @@ layout: default
 
 {% assign posts = paginator.posts | default: site.posts %}
 {% for post in posts %}
-<article class="postlist">
+<div class="postlist">
 	<header class="postlist-header">
 		<h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
 	</header>
@@ -12,13 +12,13 @@ layout: default
 		<time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: site.date_format }}</time>
 	</div>
 	{% if site.paginate %}
-	<section class="postlist-excerpt">
+	<div class="postlist-excerpt">
 		{% if post.description %}
 			{{ post.description }}
 		{% else %}
 			{{ post.excerpt | strip_html }}
 		{% endif %}
-	</section>
+	</div>
 	{% endif %}
 	{% if post.tags.size > 0 %}
 	<div class="postlist-tags">
@@ -28,11 +28,11 @@ layout: default
 		{% endfor %}
 	</div>
 	{% endif %}
-</article>
+</div>
 {% endfor %}
 
 {% if site.paginate %}
-<nav id="pagination" role="navigation">
+<nav id="pagination">
 	<a class="pagination-newer{% if paginator.previous_page %}" href="{{ site.baseurl }}/{% if paginator.previous_page > 1 %}page{{ paginator.previous_page }}{% endif %}{% else %} faded{% endif %}"><i class="fa fa-chevron-left" aria-hidden="true"></i> Newer</a>
 
 	<span class="pagination-page"><span class="pagination-page-curr">{{ paginator.page }}</span><span class="pagination-page-with-total"> of {{ paginator.total_pages }}</span></span>

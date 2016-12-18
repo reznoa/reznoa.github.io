@@ -14,11 +14,11 @@
 	<script type="text/javascript">hljs.initHighlightingOnLoad();</script>
 </head>
 
-<header id="site-header">
-	{% include header.html %}
-</header>
-
 <body>
+	<header id="site-header">
+		{% include header.html %}
+	</header>
+
 	<article class="post container">
 		<header>
 			<h1>{{ page.title }}</h1>
@@ -28,27 +28,27 @@
 			<time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: site.date_format }}</time>
 		</div>
 
-		<section class="post-content">
+		<div class="post-content">
 		{{ content }}
-		</section>
+		</div>
 
 {% if page.tags.size > 0 %}
-		<section class="post-tags">
+		<div class="post-tags">
 		<i class="fa fa-tags" aria-hidden="true"></i>
 		{% for tag in page.tags %}
 		<a href="{{ BASE_PATH }}/tags#{{ tag }}"><span class="tag-name">{{ tag }}</span></a>
 		{% endfor %}
-		</section>
+		</div>
 {% endif %}
 
-		<section class="post-comments">
+		<div class="post-comments">
 			{% include disqus.html %}
-		</section>
+		</div>
 	</article>
-</body>
 
-<footer id="site-footer">
-	{% include footer.html %}
-</footer>
+	<footer id="site-footer">
+		{% include footer.html %}
+	</footer>
+</body>
 
 </html>

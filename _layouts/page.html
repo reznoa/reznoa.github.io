@@ -5,11 +5,11 @@
 	{% include head.html %}
 </head>
 
-<header id="site-header">
-	{% include header.html %}
-</header>
-
 <body>
+	<header id="site-header">
+		{% include header.html %}
+	</header>
+
 	<article class="page container">
 		<header>
 			<h1>{{ page.title }}</h1>
@@ -19,10 +19,10 @@
 		{{ content }}
 		</div>
 	</article>
-</body>
 
-<footer id="site-footer">
-	{% include footer.html %}
-</footer>
+	<footer id="site-footer">
+		{% include footer.html %}
+	</footer>
+</body>
 
 </html>
