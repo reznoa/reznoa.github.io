@@ -20,6 +20,33 @@ code {
 del {
 	color: #ccc;
 }
+blockquote {
+	background: url("/images/quote-start.png") no-repeat;
+	margin: 1.5em;
+	padding-top:  16px;
+	padding-left: 16px;
+}
+blockquote p:first-child {
+	margin-top: 0;
+}
+blockquote p:last-child {
+	margin-bottom: 0;
+}
+/*
+blockquote {
+	padding-right: 16px;
+	padding-bottom: 16px;
+}
+blockquote:after {
+	content: " ";
+	width: 32px;
+	height: 32px;
+	float: right;
+	margin-top: -16px;
+	margin-right: -16px;
+	background: url("/images/quote-end.png") no-repeat;
+}
+*/
 table {
 	border-top: 1px solid #ccc;
 	border-left: 1px solid #ccc;
