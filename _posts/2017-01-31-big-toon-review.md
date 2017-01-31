@@ -2,8 +2,8 @@
 layout: post
 title: "서울문화사의 남성향 웹툰 서비스, 빅툰"
 description: "한국의 3대 만화 출판사 중 하나인 서울문화사에서 운영하는 웹툰 서비스 '빅툰'을 소개한다."
-category: PC
-tags: [PC]
+category: Mediabiew
+tags: [만화, 웹툰, 서울문화사]
 ---
 
 ## 서비스 소개
