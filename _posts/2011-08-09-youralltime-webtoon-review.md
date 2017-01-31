@@ -2,7 +2,7 @@
 layout: post
 title: "좀비가 되어도 남을, 당신의 모든 순간"
 category: Mediaview
-tags: [★★★★, 강풀, 만화, 다음만화속세상, 순정, 웹툰, 좀비]
+tags: [★★★★, 강풀, 책, 만화, 다음만화속세상, 순정, 웹툰, 좀비]
 ---
 
 '[당신의 모든 순간](http://cartoon.media.daum.net/webtoon/view/youralltime)'(이하 당모순)은 강풀이 내놓은 4번째 순정만화로, 순정물로는 특이하게 '좀비'를 소재로 한 만화다.

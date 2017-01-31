@@ -2,7 +2,7 @@
 layout: post
 title: "비참한 삶 속 발버둥, 강철 무지개"
 category: Mediaview
-tags: [★★★, 책, 최인석, SF, 아나키즘, 서평]
+tags: [★★★, 책, 소설, 최인석, SF, 아나키즘, 서평]
 ---
 
 [![최인석의 '강철 무지개' 표지](https://lh3.googleusercontent.com/-txC7mpsP_jM/VQOw-xhDhOI/AAAAAAAAPDo/DEkcx6ZZyjo/w240/steel-rainbow-2014-book.jpg "'겨울은 강철 무지개'라니.. 참 잘 지은 말이다.")](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=898431854X&ttbkey=ttbreznoa0249001&COPYPaper=1)

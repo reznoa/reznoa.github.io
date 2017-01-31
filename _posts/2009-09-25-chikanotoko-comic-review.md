@@ -2,7 +2,7 @@
 layout: post
 title: "치한남(痴漢男), 오해로부터 시작하다."
 category: Mediaview
-tags: [2ch, ★★★★★, 만화, 연애, 코미디, 치한, 오해, YOKO]
+tags: [2ch, ★★★★★, 책, 만화, 연애, 코미디, 치한, 오해, YOKO]
 excerpt_separator: <!--more-->
 ---
 

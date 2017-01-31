@@ -2,7 +2,7 @@
 layout: post
 title: "죽는 남자, 그 남자의 죽는 법."
 category: Mediaview
-tags: [★★★★★, 만화, 다음만화속세상, 이림, 죽음]
+tags: [★★★★★, 책, 만화, 다음만화속세상, 이림, 죽음]
 excerpt_separator: <!--more-->
 ---
 

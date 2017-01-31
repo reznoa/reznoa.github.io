@@ -2,7 +2,7 @@
 layout: post
 title: "여전히 재미있는 한국의 가면 영웅, 각시탈"
 category: Mediaview
-tags: [★★★★, 거북이북스, 만화, 복간, 한국만화걸작선, 허영만]
+tags: [★★★★, 거북이북스, 책, 만화, 복간, 한국만화걸작선, 허영만]
 excerpt_separator: <!--more-->
 ---
 

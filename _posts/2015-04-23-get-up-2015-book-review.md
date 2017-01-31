@@ -2,7 +2,7 @@
 layout: post
 title: "우울하고, 살이 찌고, 무기력한 당신을 위한 처방전: 병 없이 살려면 의자부터 끊어라(GET UP!)"
 category: Mediaview
-tags: [★★★★, 건강, 서평]
+tags: [★★★★, 책, 건강, 서평]
 excerpt_separator: <!--more-->
 ---
 
