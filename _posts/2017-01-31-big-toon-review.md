@@ -149,11 +149,17 @@ tags: [만화, 웹툰, 서울문화사]
 다양한 취향을 만족시킬 수 없게 한 것은 썩 좋은 선택이 아니다.
 추후에라도 두 사이트를 통합해 단일 서비스로 만들면 좋겠다.
 
+![마녀코믹스](https://lh3.googleusercontent.com/-z20QNxqukns/WJDIm8STzFI/AAAAAAAASwE/O2AGrg-fsuImUQWrI9DpY2XgnmNPQUNOgCLcB/w270/mcomics.jpg "굳이 별도 서비스로 나눠서 순정만화를 보려면 마녀코믹스로 가야만 한다.")
+
 다음으로 얘기하고 싶은건, 서비스하는 만화 이미지의 질에 대해서다.
 빅툰은 이미지 질이 컨텐츠에 따라서 다르고 질도 타 서비스에 비해 딸린다.
 타 서비스의 경우 단행본 가로 픽셀 기준으로 보면 1024p ~ 1280p 정도 하는데,
 빅툰은 높아야 1024p고 대부분은 720p로 서비스 하는것 처럼 보인다.
 즉, 소위 말하는 고화질(또는 HD) 제공이 적다는거다.
+
+![크기 비교 (빅툰, L사, R사)](https://lh3.googleusercontent.com/-IGEh21evibk/WJDEWIvtoII/AAAAAAAASvo/ct5N3BLmt1Q2L34_uiRxLdz40s4j2ztXwCLcB/w604/lltk-compare-size.jpg "크기 비교. 왼쪽부터 빅툰, L사, R사")
+
+![화질 비교 (빅툰, L사, R사)](https://lh3.googleusercontent.com/-T7OVd1yVgnU/WJDEaj5B-yI/AAAAAAAASvw/-4aigW7Nb0wNcTEtWoGnfri0HpElhwnawCLcB/w604/lltk-compare-quality.png "화질 비교. 왼쪽부터 빅툰, L사, R사")
 
 이미 타 서비스에서는 고화질로 제공하는 작품을
 빅툰이 저화질로 제공하는걸 보면 컨텐츠 자체가 고화질 제작이 안되서 그런건 아니다.
