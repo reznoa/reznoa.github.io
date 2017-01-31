@@ -5,7 +5,7 @@ category: Mediaview
 tags: [영화, 셜록 홈즈, 인간, 소설원작, 빌 콘던, 이언 매켈런, 로라 리니, 마일로 파커]
 ---
 
-영화 '미스터 홈즈(Mr. Holmes, 2015)'는 미치 컬린의 소설 '[셜록 홈즈의 마지막 날들(A Slight Trick of the Mind)]({% post_url 2016-12-31-a-slight-trick-of-the-mind-book-review %})'을 원작으로한 영화다.
+영화 '미스터 홈즈(Mr. Holmes, 2015)'는 미치 컬린의 소설 '[셜록 홈즈 마지막 날들(A Slight Trick of the Mind)]({% post_url 2016-12-31-a-slight-trick-of-the-mind-book-review %})'을 원작으로한 영화다.
 
 ![영화 미스터 홈즈(Mr. Holmes, 2015) 포스터](https://lh3.googleusercontent.com/-_3A7kdRqs1A/WGfDhZOWfwI/AAAAAAAASiI/XYqqGBGgPOYDCZHI40dguDVHKBh1lf69wCKgB/w320/mr-holmes-2015-movie.jpg "원작 소설을 잘 각색했다.")
 

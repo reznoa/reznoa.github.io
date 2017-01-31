@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "인간 홈즈의 말년과 인생, 그리고 고독에 대한 이야기 - 셜록 홈즈의 마지막 날들"
+title: "인간 홈즈의 말년과 인생, 그리고 고독에 대한 이야기 - 셜록 홈즈 마지막 날들"
 category: Mediaview
 tags: [책, 셜록 홈즈, 인간, 미치 컬린, 백영미, 황금가지, 서평]
 ---
 
-셜록 홈즈의 마지막 날들(A Slight Trick of the Mind)은 셜록 홈즈가 은퇴하고 난 뒤의 삶을 상상하여 쓴 책이다.
+셜록 홈즈 마지막 날들(A Slight Trick of the Mind)은 셜록 홈즈가 은퇴하고 난 뒤의 삶을 상상하여 쓴 책이다.
 
 얼마 전[^1] 개봉한 [영화 미스터 홈즈(Mr. Holmes, 2015)]({% post_url 2016-12-31-mr-holmes-2015-movie-review %})의 원작 소설이기도 한데,
 개인적으론 '셜록 홈즈'란 이름이 워낙 추리물의 냄새가 짙고(그래서 책과 별로 안어울리고),
@@ -15,7 +15,7 @@ tags: [책, 셜록 홈즈, 인간, 미치 컬린, 백영미, 황금가지, 서�
 
 [^2]: 홈즈의 이름을 전면에 내세운건 아마 그의 이름값을 이용하고자 함인 듯 하다. ..별로 좋은 선택이 아니다.
 
-![미치 컬린 - 셜록 홈즈의 마지막 날들](https://lh3.googleusercontent.com/-UdCkswk1ETQ/WGexXFCaYLI/AAAAAAAAShw/_VuNon5CmnM_uTYyVum1TYv1uLVkJAu6ACKgB/w317/a-slight-trick-of-the-mind-book.jpg "셜록 홈즈 은퇴한 후를 그린 팬 메이드 소설이다.")
+![미치 컬린 - 셜록 홈즈 마지막 날들](https://lh3.googleusercontent.com/-UdCkswk1ETQ/WGexXFCaYLI/AAAAAAAAShw/_VuNon5CmnM_uTYyVum1TYv1uLVkJAu6ACKgB/w317/a-slight-trick-of-the-mind-book.jpg "셜록 홈즈 은퇴한 후를 그린 팬 메이드 소설이다.")
 
 책을 보고 처음 든 생각은,
 셜록 홈즈를 조금 다른 시선으로 그린게 신선하다는 거였다.
