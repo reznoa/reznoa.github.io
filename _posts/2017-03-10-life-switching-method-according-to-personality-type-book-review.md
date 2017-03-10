@@ -22,6 +22,8 @@ tags: [책, 성격, 자기계발, 수희향, 더난출판, 서평]
 
 책에서 말하는 애니어그램의 3가지 에너지장과 9가지 유형은 다음과 같다:
 
+![9가지 성격 유형](https://lh3.googleusercontent.com/-wbJvsWd_Rzw/WMLN6zHHv3I/AAAAAAAATFc/GiNIWA2ieNgwQUSSnJbHPqoCq3Gb3LJnACE0/s0/personality-type-enneagram.gif)
+
 - 직관형
   - 연약한 골목대장
   - 고지식한 완벽주의자
