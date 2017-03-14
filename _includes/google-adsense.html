@@ -1,0 +1,9 @@
+{% if site.safe or site.google_adsense.client and site.google_adsense.slot %}
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="{{ site.google_adsense.client }}"
+     data-ad-slot="{{ site.google_adsense.slot }}"
+     data-ad-format="auto"></ins>
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+{% endif %}

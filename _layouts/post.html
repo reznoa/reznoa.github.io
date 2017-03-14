@@ -28,6 +28,8 @@
 			<time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: site.date_format }}</time>
 		</div>
 
+		{% include google-adsense.html %}
+
 		<div class="post-content">
 		{{ content }}
 		</div>
