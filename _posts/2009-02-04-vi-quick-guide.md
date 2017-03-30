@@ -72,6 +72,7 @@ vi 단축키는 '[Graphical vi-vim Cheat Sheet and Tutorial](http://www.viemu.co
 
 ## 참고
 
+* [초보자를 위한 Vim 입문서](https://www.joinc.co.kr/w/Site/Vim/Documents/UsedVim#AEN2)
 * [VI 편집기 - 변수설정](http://qaos.com/sections.php?op=viewarticle&artid=109)
 * [vi 에서 화살표가 이상하게 나올때.. setnocp](http://n-3.net/blog/sunteq/entry/vi-%EC%97%90%EC%84%9C-%ED%99%94%EC%82%B4%ED%91%9C%EA%B0%80-%EC%9D%B4%EC%83%81%ED%95%98%EA%B2%8C-%EB%82%98%EC%98%AC%EB%95%8C-setnocp)
 * [vim 을 제대로 한번 마스터 해볼까나...](http://kicom95.egloos.com/904035)
