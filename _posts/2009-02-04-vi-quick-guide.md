@@ -23,15 +23,19 @@ sudo apt-get install vim
 더욱 편하게 하기 위해서 환경 설정도 해보자.
 vim의 환경 설정 파일은 `~/.vimrc`다.
 만약 파일이 없다면 새로 만들어주면 된다.
+취향에 맞는 설정만 골라 넣어준ㄷ.
 
 ~~~
-set nocp       " 방향키를 쓸 수 있게 해준다.
-set number     " 라인번호 출력
-set tabstop=4  " Tab을 눌렀을 때 8칸 대신 4칸 이동
-set bs=2       " allow backspacing over everything in insert mode
-set showmatch  " 대치 되는 괄호 보여 주기
-set ignorecase " 검색할때 대소문자 무시
-set nowrapscan " 끝까지 찾았을때 처음부터 다시 찾지 않음
+set nocp         " 방향키를 쓸 수 있게 해준다.
+set number       " 라인번호 출력
+set tabstop=4    " Tab을 눌렀을 때 8칸 대신 4칸 이동
+set bs=2         " allow backspacing over everything in insert mode
+set showmatch    " 대치 되는 괄호 보여 주기
+set ignorecase   " 검색할때 대소문자 무시
+set nowrapscan   " 끝까지 찾았을때 처음부터 다시 찾지 않음
+set nofoldenable " disable folding
+set mouse=a      " enable automatic visual mode on mouse select
+" set mouse=-a   " disable
 
 " 문법 강조 기능 사용
 if has("syntax")
