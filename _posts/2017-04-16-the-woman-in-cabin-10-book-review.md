@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 
 '10호실의 여자(The Woman in Cabin 10)'(가칭)는 루스 웨어(Ruth Ware)의 스릴러 소설이다.
 <!--more-->
-베스트셀러이며 영화화 얘기도 있는 '인 어 다크, 다크 우드(In a Dark, Dark Wood)'의 후속작이며 평도 좋아서 기대도 컸다.
+베스트셀러이며 영화화 얘기도 있는 '인 어 다크, 다크 우드(In a Dark, Dark Wood)'의 자기작이며 평도 좋아서 기대도 컸다.
 
 
 ![루스 웨어 - 10호실의 여자](https://lh3.googleusercontent.com/-FBVpRfnRiWo/WPN5L2pAp1I/AAAAAAAAThU/vETG9AfV5X8-ZCJmw1MWHBUqzLwGP3oOgCE0/s360/the-woman-in-cabin-10-book.jpg "바다위 선상이라는 일종의 밀실에서 벌어지는 살인사건을 다뤘다.")
