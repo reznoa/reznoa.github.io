@@ -107,7 +107,7 @@ export PATH=$ORACLE_HOME/bin:$PATH
 Driver     = /home/ora12/db/product/12.1.0/dbhome_1/lib/libsqora.so.12.1
 UserID     = scott
 Password   = tiger
-ServerName = //192.168.0.1:1521/orcl
+ServerName = //localhost:1521/orcl
 ~~~
 
 **[testOracleODBC.c]**
