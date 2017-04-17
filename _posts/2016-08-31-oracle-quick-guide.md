@@ -3,7 +3,7 @@ layout: post
 title: "Oracle Quick Guide"
 description: "Oracle을 가볍게 쓸 때 필요한 몇가지 명령들을 정리해본다."
 category: Developlay
-tags: [Oracle, ODBC]
+tags: [Oracle, ODBC, Troubleshooting]
 ---
 
 ## 표기법
@@ -121,4 +121,14 @@ sRC = SQLDriverConnect( sHdbc, NULL,
                         SQL_DRIVER_NOPROMPT );
 
 // ...
+~~~
+
+
+
+## Troubleshooting
+
+### ORA-01950: no privileges on tablespace 'USERS'
+
+~~~
+SQL> ALTER USER your_user_name QUOTA UNLIMITED ON USERS;
 ~~~
