@@ -3,7 +3,7 @@ layout: post
 title: "DbProviderFactories를 위한 machine.config 변경 방법"
 description: "프로바이더 독립적인 코드 사용을 위한 machine.config 변경 방법을 알아본다."
 category: logholic
-tags: [ADO.NET, Trobleshooting, 설정]
+tags: [ADO.NET, Troubleshooting, 설정]
 ---
 
 .NET Data Provider는 2.0부터 Common 클래스를 제공하면서

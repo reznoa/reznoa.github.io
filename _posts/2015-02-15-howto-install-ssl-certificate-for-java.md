@@ -2,7 +2,7 @@
 layout: post
 title: "Java에서의 SSL 연결을 위한 인증서 추가 방법"
 category: logholic
-tags: [Java, SSL, Trobleshooting]
+tags: [Java, SSL, Troubleshooting]
 ---
 
 Java에서 HTTPS처럼 SSL을 쓰는 주소로 접속하려고 할 때, 다음과 같은 에러가 나는 경우가 있다: "Unable to Find Valid Certification Path to Requested Target"
