@@ -91,11 +91,20 @@ SQL> GRANT connect, resource TO your_user_name;
 
 ## ODBC 사용
 
+**[~/.bash_profile]**
+
+~~~
+export ODBCINI=~/.odbc.ini
+export ORACLE_HOME=/home1/ora12/db/product/12.1.0/dbhome_1
+export LD_LIBRARY_PATH=$ORACLE_HOME/lib:$LD_LIBRARY_PATH
+export PATH=$ORACLE_HOME/bin:$PATH
+~~~
+
 **[~/.odbc.ini]**
 
 ~~~
 [ora]
-Driver     = ~oracle/app/oracle/11g/lib/libsqora.so.11.1
+Driver     = /home/ora12/db/product/12.1.0/dbhome_1/lib/libsqora.so.12.1
 UserID     = scott
 Password   = tiger
 ServerName = //192.168.0.1:1521/orcl
