@@ -181,4 +181,4 @@ tags: [영화, 우주, 괴물, 다니엘 에스피노사, 제이크 질런홀, �
 ![영화 데드풀 中](https://lh3.googleusercontent.com/-XD9asBeasGw/WOoudt_928I/AAAAAAAATXw/Ha3MABIqXYg1WMm2uKBaM3e9m0THj6kyQCE0/w560/deadpool-2016-movie-screenshot-99.jpg "“까꿍~ 잠깐 데스(Death) 좀 만나고 왔어.”")
 
 
-설정도 이야기도 더 허술한 일명 삼류 영화도 특유의 유쾌함으로 영화 자체는 즐길 수 있음을 생각하면, 결국 이쪽도 저쪽도 아닌 어설픔이 이 영화의 별로인 이유가 아닐까 싶다.
+설정도 이야기도 더 허술한 일명 삼류 영화도 특유의 유쾌함으로 영화 자체는 즐길 수 있음을 생각하면, 결국 이쪽도 저쪽도 아닌 어설픔이 이 영화가 별로인 이유가 아닐까 싶다.
