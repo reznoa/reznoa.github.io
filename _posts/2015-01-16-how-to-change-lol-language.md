@@ -6,6 +6,14 @@ category: Game
 tags: [게임, 리그오브레전드, 한국어패치]
 ---
 
+<div class="im im-error" markdown="1">
+새로운 클라이언트는 0.0.0.31 즈음부터 막혔으나,
+이전 클라이언트는 계속 유효했었다.
+그러나, 이제는 두 클라이언트 모두 한국어 활성화가 불가능하다.
+
+라이엇에서 일부러 막은 것으로 보인다. ㅠ
+</div>
+
 ## 한국어 활성화, 왜?
 
 League of Legend는 다양한 국가에서 각자의 언어로 서비스하고있다. 당연히 한국에서도 한국어 서비스를 한다. 그렇다면, 왜 한국어 활성화가 필요한걸까.
@@ -103,14 +111,6 @@ English, en_AU
 
 
 ## 새로운 Alpha 클라이언트의 한국어 활성화 방법
-
-<div class="im im-error" markdown="1">
-0.0.0.31 부터는 이 방법이 통하지 않는다.
-한국어로 설정하면 추가 패치를 받으려다 실패하는데,
-일부러 막은건지 알파 버전이라서 일시적으로 그런건지 모르겠다.
-
-![한국어 설정 후 에러](https://lh3.googleusercontent.com/-g9SfQhgHwM4/WFKu6qtAuKI/AAAAAAAARrU/ncjDW2cCHPgESCRdJ9noitOGpdHuSK1vQCKgB/s0/lol_kr_2016alpha_error_003.png)
-</div>
 
 현재(2016-11-05 기준) 알파 테스트 중인 새 클라이언트는 txt가 아닌 yaml 파일을 사용한다.
 
