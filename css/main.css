@@ -195,7 +195,7 @@ h3 { font-size: 1.5em; }
 
 .tagbox {
 	line-height: 200%;
-	text-align: justify;
+	text-align: center;
 }
 .postlist .postlist-tags {
 	line-height: 150%;
@@ -220,6 +220,7 @@ h3 { font-size: 1.5em; }
 	-webkit-border-radius: 1em;
 }
 .tagbox a {
+	white-space: pre;
 	padding: 0.3em 0.5em;
 }
 .postlist .postlist-tags a {
@@ -236,7 +237,6 @@ h3 { font-size: 1.5em; }
 	border: 1px solid #69f;
 }
 .tagbox .tag-size {
-	white-space: nowrap;
 	font-size: 0.7em;
 	padding: 1px;
 	background: #ddd;
