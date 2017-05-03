@@ -6,9 +6,9 @@ permalink: /categories/
 
 {% assign sorted_categories = site.categories | sort %}
 
-<div class="tagbox">
+<div class="categorybox">
 	{% for category in sorted_categories %}
-	<a href="{{ BASE_PATH }}{{ site.JB.categories_path }}#{{ category[0] }}"><span class="tag-name">{{ category[0] }} <span class="tag-size">{{ category[1].size }}</span></a>
+	<a href="{{ BASE_PATH }}{{ site.JB.categories_path }}#{{ category[0] }}"><span class="category-name">{{ category[0] }} <span class="category-size">{{ category[1].size }}</span></a>
 	{% endfor %}
 </div>
 

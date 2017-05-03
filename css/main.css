@@ -193,8 +193,11 @@ h3 { font-size: 1.5em; }
 	max-width: 100%;
 }
 
+.categorybox,
 .tagbox {
 	line-height: 200%;
+}
+.tagbox {
 	text-align: center;
 }
 .postlist .postlist-tags {
@@ -208,6 +211,7 @@ h3 { font-size: 1.5em; }
 	text-indent: -0.7em;
 	margin-left: 2em;
 }
+.categorybox a,
 .tagbox a,
 .postlist .postlist-tags a,
 .post-tags a {
@@ -219,6 +223,7 @@ h3 { font-size: 1.5em; }
 	-moz-border-radius:    1em;
 	-webkit-border-radius: 1em;
 }
+.categorybox a,
 .tagbox a {
 	white-space: pre;
 	padding: 0.3em 0.5em;
@@ -230,12 +235,14 @@ h3 { font-size: 1.5em; }
 .post-tags a {
 	padding: 0.2em 0.5em;
 }
+.categorybox a:hover,
 .tagbox a:hover,
 .postlist .postlist-tags a:hover,
 .post-tags a:hover {
 	background: #9cf;
 	border: 1px solid #69f;
 }
+.categorybox .category-size,
 .tagbox .tag-size {
 	font-size: 0.7em;
 	padding: 1px;
