@@ -8,7 +8,7 @@ permalink: /tags/
 
 <div class="tagbox">
 	{% for tag in sorted_tags %}
-	<a href="{{ BASE_PATH }}/tags#{{ tag[0] }}"><span class="tag-name">{{ tag[0] }} <span class="tag-size">{{ tag[1].size }}</span></a>
+	<a href="{{ BASE_PATH }}/tags#{{ tag[0] }}"><span class="tag-name">{{ tag[0] }} <span class="tag-size">{{ tag[1].size }}</span></span></a>
 	{% endfor %}
 </div>
 
