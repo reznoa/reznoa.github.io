@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Oracle - 명령행에서 간단한 쿼리 바로 실행하기"
-category: Developlay
+category: Programing
 tags: [Oracle, 스크립트]
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "썩 괜찮은 속편, 에반 올마이티(Evan Almighty, 2007)"
-category: Mediaview
+category: 영상
 tags: [★★★★★, 스티브 카렐, 영화, 코미디, 톰 새디악]
 excerpt_separator: <!--more-->
 ---

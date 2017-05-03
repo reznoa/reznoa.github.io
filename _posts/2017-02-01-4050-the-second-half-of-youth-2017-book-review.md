@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "잘못 정의 내려진 '중년'들에게 바치는 격려사 - 4050 후기청년"
-category: Mediaview
+category: 도서
 tags: [책, 인문, 송은주, 더난출판, 서평]
 ---
 

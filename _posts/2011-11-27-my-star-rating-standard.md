@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "나의 별점 기준"
-category: Mediaview
+category: ETC
 tags: []
 excerpt_separator: <!--more-->
 ---

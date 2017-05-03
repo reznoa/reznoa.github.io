@@ -2,7 +2,7 @@
 layout: post
 title: "ProFTPD에서 root의 접근을 허용하기"
 description: "편의를 위해 root 접근을 허용하는 방법을 알아본다."
-category: PC
+category: 컴퓨터
 tags: [Linux, ProFTPD, 설정]
 ---
 

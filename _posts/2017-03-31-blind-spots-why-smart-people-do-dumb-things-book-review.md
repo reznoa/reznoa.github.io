@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "이해의 폭을 넓혀주는 맹점 이해서 - 나는 왜 자꾸 바보짓을 할까?"
-category: Mediaview
+category: 도서
 tags: [책, 심리, 매들린 L. 반 헤케, 다산북스, 서평]
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "퇴출된 백수 영웅의 판타지 추리 스릴러, 아스란영웅전"
-category: Mediaview
+category: 도서
 tags: [★★★, 네이버웹툰, 책, 만화, 박성용, 추리, 판타지, 영웅, 느와르]
 excerpt_separator: <!--more-->
 ---

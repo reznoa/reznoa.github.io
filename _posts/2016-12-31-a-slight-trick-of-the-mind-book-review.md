@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "인간 홈즈의 말년과 인생, 그리고 고독에 대한 이야기 - 셜록 홈즈 마지막 날들"
-category: Mediaview
+category: 도서
 tags: [책, 소설, 셜록 홈즈, 인간, 미치 컬린, 백영미, 황금가지, 서평]
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "잘 만든 좀비 설정물, 좀비 서바이벌 가이드(The Zombie Survival Guide)"
-category: Mediaview
+category: 도서
 tags: [★★★★, 책, 맥스 브룩스, 장성주, 좀비, 서평]
 ---
 

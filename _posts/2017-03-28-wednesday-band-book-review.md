@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "꿈을 좇는 중년 중고 음악가들의 밴드 분투기 - 수요일에 하자"
-category: Mediaview
+category: 도서
 tags: [책, 소설, 밴드, 이광재, 다산북스, 서평]
 ---
 

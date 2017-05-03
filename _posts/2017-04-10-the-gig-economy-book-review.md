@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "자기계발서로는 무난하나 한편으론 씁쓸했던 책 - 긱 이코노미"
-category: Mediaview
+category: 도서
 tags: [책, 경제, 자기계발, 다이앤 멀케이, 더난출판, 서평]
 ---
 

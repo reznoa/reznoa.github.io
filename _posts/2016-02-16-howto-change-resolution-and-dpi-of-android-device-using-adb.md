@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "adb를 이용한 Android 해상도, dpi 변경"
-category: PC
+category: 컴퓨터
 tags: [Android, adb, 설정, 해상도]
 ---
 

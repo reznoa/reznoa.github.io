@@ -2,7 +2,7 @@
 layout: post
 title: "vi 쓰기"
 description: "vi를 쓸 때 유용한 설정을 정리해본다."
-category: PC
+category: 컴퓨터
 tags: [vi, 설정]
 ---
 

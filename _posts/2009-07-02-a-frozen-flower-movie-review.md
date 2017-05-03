@@ -2,7 +2,7 @@
 layout: post
 title: "섹스신만이 남은 영화, 쌍화점(A Frozen Flower, 2008)"
 description: "재미도 없고, 이야기도 없이 섹스신만 남긴영화 쌍화점을 까본다."
-category: Mediaview
+category: 영상
 tags: [★, 영화, 주진모, 조인성, 송지효, 고려, 게이, 불륜, 까는리뷰]
 ---
 

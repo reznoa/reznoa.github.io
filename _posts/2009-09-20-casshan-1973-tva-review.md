@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "캐산? 추억은 추억속에만 남겨두오;"
-category: Mediaview
+category: 영상
 tags: [★, 캐산, 타츠노코 프로덕션, SF, TV, 애니메이션, 로봇, 인조인간, 환경파괴, 까는리뷰]
 excerpt_separator: <!--more-->
 ---

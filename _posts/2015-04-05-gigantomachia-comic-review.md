@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "흥미롭지만 결국 아쉬움만을 남긴, 기간토마키아(ΓΙΓΑΝΤΟ ΜΑΧΙΑ)"
-category: Mediaview
+category: 도서
 tags: [★★★, 책, 만화, 포스트 아포칼립스, 거인, 레슬링, 판타지, 미우라 켄타로]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "오나니 마스터 쿠로사와(オナニーマスター黒沢), 자구하다."
 description: "잘 만든 성장만화 쿠로사와를 소개한다."
-category: Mediaview
+category: 도서
 tags: [★★★★, 책, 만화, 자위, 집단괴롭힘, 성장, 구원, 소설원작, YOKO]
 ---
 

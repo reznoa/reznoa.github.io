@@ -2,7 +2,7 @@
 layout: post
 title: "Java에서 Cookie 사용하는 방법"
 description: "Java에서 Cookie를 쓰는 방법을 알아본다."
-category: Developlay
+category: Programing
 tags: [Java, HTTP, Cookie, 코드조각]
 ---
 

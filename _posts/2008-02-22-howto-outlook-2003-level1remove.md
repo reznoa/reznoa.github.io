@@ -2,7 +2,7 @@
 layout: post
 title: "아웃룩 2003에서 보안상의 문제로 첨부파일을 다운로드 받을 수 없을 때"
 description: "아웃룩 2003에서 보안문제로 첨부파일을 다운로드 받을 수 없을 때 해결법을 알아본다."
-category: PC
+category: 컴퓨터
 tags: [아웃룩, 보안, 설정]
 ---
 

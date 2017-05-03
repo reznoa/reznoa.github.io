@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "재미로 만들어보는 뇌 사진(脳内メーカー)"
-category: Mediaview
+category: ETC
 tags: [뇌, 재미, 테스트]
 excerpt_separator: <!--more-->
 ---

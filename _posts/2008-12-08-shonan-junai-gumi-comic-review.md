@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "후지사와 토오루의 출세작, 상남 2인조(湘南純愛組!)"
-category: Mediaview
+category: 도서
 tags: [★★★, 책, 만화, 후지사와 토오루, 학원물]
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "먹을만한 편의점 도시락, 김혜자의 맘 - 불고기&김치제육 도시락"
-category: cook & food
+category: 식도락
 tags: [음식, 도시락, 편의점, 즉석섭취식품, 전자레인지]
 ---
 

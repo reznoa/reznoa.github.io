@@ -3,7 +3,7 @@ layout: post
 title: "[C#] ZipArchive를 이용한 ZIP 파일 수정이 잘 안될 때"
 description: "ZipArchive를 이용해 ZIP 파일을 수정해도 수정내용이 파일에 잘 반영이 안될 때 유용한 코드에 대해 알아본다."
 date: 2016-08-25 11:58:31 +0900
-category: Developlay
+category: Programing
 tags: [C#, ZIP, Dispose, 코드조각]
 ---
 

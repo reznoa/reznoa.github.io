@@ -2,7 +2,7 @@
 layout: post
 title: "텔넷(telnet) 서비스 설치 방법"
 description: "리눅스에서 텔넷 서비스를 설치하는 방법을 알아본다."
-category: PC
+category: 컴퓨터
 tags: [telnet, Linux]
 ---
 

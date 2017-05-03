@@ -2,7 +2,7 @@
 layout: post
 title: "C# - IPAddress를 long으로 변환하기"
 description: "C#에서 IPAddress를 long으로 변환하는 방법을 알아본다."
-category: Developlay
+category: Programing
 tags: [C#, Byte Ordering, 코드조각]
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "중국의 요괴 이야기, 아무도 모르는(子不語)"
-category: Mediaview
+category: 도서
 tags: [★★★, 샤다, 책, 만화, 중국, 요괴]
 excerpt_separator: <!--more-->
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "가격대 성능비가 좋은 게이밍 마우스, iMAGIC GMOUSE 2"
-category: Game
+category: 생활/가전
 tags: [게임, 마우스, 필드테스트]
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "매우 민감한 사람들의 행복한 삶을 위한 조언 - 센서티브"
-category: Mediaview
+category: 도서
 tags: [책, 심리, 일자 샌드, 김유미, 다산북스, 서평]
 ---
 

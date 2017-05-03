@@ -3,7 +3,7 @@ layout: post
 title: "싸고 먹을만한, 한우물 곤드레나물밥"
 description: "한우물에서 나온 곤드레나물밥을 먹어봤다."
 date: 2016-05-24 16:59:53 +0900
-category: cook & food
+category: 식도락
 tags: [음식, 냉동식품, 전자레인지, 곡류가공품]
 ---
 

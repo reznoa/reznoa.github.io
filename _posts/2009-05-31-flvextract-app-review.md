@@ -2,7 +2,7 @@
 layout: post
 title: "FLV 파일 분해기, FLV Extract"
 description: "FLV 파일을 분해해주는 FLV Extract를 소개한다."
-category: logholic
+category: 컴퓨터
 tags: [FLV, 추출]
 ---
 

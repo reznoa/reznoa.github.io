@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Java에서의 SSL 연결을 위한 인증서 추가 방법"
-category: logholic
+category: Programing
 tags: [Java, SSL, Troubleshooting]
 ---
 

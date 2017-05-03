@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "영웅도 악마도 아닌 사람의 이야기 - 기록 너머에 사람이 있다"
-category: Mediaview
+category: 도서
 tags: [책, 인간, 안종오, 다산북스, 서평]
 ---
 

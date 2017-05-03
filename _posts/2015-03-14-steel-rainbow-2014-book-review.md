@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "비참한 삶 속 발버둥, 강철 무지개"
-category: Mediaview
+category: 도서
 tags: [★★★, 책, 소설, 최인석, SF, 아나키즘, 서평]
 ---
 

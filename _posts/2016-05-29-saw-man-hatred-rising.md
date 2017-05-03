@@ -3,7 +3,7 @@ layout: post
 title: "남혐의 전개 과정을 보았다"
 description: "그럴듯하게 시작한 글이 어떤식으로 남혐으로 치닫는지 본 것 같다."
 date: 2016-05-29 16:39:05 +0900
-category: rezthink
+category: 시사
 tags: [시사, 혐오, SNS]
 ---
 

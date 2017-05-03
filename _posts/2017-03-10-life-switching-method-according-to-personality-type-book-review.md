@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "9가지 성격 유형에 따른 삶 변화 방법 - 운을 경영하라"
-category: Mediaview
+category: 도서
 tags: [책, 성격, 자기계발, 수희향, 더난출판, 서평]
 ---
 

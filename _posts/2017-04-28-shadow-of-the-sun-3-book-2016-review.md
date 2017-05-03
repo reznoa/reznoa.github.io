@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "인간과 나라에 대한 이상을 담아 마무리한, 태양의 그늘 3"
-category: Mediaview
+category: 도서
 tags: [책, 소설, 박종휘, 은행나무, 서평, 위블]
 ---
 

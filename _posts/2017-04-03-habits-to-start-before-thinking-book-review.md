@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "바로 행동하여 변화하는 방법 - 생각하기 전에 시작하는 습관"
-category: Mediaview
+category: 도서
 tags: [책, 자기계발, 마스노 슌묘, 위즈덤하우스, 서평]
 ---
 

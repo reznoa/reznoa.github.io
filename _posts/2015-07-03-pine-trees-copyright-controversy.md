@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "솔섬 저작권 논란에 대한 나의 생각"
-category: Mediaview
+category: 시사
 tags: [사진, 논란, 저작권]
 ---
 

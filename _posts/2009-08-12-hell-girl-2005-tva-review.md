@@ -2,7 +2,7 @@
 layout: post
 title: "재미없는 복수극, 지옥소녀(地獄少女)"
 description: "단편이엇으면 딱 좋았을, 볼수록 재미없는 지옥소녀를 까본다."
-category: Mediaview
+category: 영상
 tags: [★, 애니메이션, 스튜디오 딘, 오모리 타카히로, 와타나베 히로시, 복수, 도시전설, 까는리뷰]
 ---
 

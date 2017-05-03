@@ -48,10 +48,10 @@ links:
    url:       /archive/
    fa_icon:   fa-calendar
    icon_only: true
-#- title:     Categories
-#  url:       /categories/
-#  fa_icon:   fa-tags
-#  icon_only: true
+ - title:     Categories
+   url:       /categories/
+   fa_icon:   fa-sitemap
+   icon_only: true
  - title:     Tags
    url:       /tags/
    fa_icon:   fa-tags

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "10호실 여자를 두고 벌어지는 미스터리 스릴러 - 10호실의 여자(The Woman in Cabin 10)(가제)"
-category: Mediaview
+category: 도서
 tags: [책, 미스터리, 스릴러, 루스 웨어, 유혜인, 위즈덤하우스, 서평]
 excerpt_separator: <!--more-->
 ---

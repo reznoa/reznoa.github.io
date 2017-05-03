@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "생각보다 쉽고 효과적인 발상법 - 크로스오버 아이디어"
-category: Mediaview
+category: 도서
 tags: [책, 자기계발, 레이먼 벌링스, 마크 헬리번, 정용숙, 더난출판, 서평]
 ---
 

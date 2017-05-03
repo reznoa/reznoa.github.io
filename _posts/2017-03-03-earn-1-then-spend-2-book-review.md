@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "절망의 시대를 사는 늦깍기 아빠의 육아 분투기 - 오늘 한 푼 벌면 내일 두 푼 나가고"
-category: Mediaview
+category: 도서
 tags: [책, 체험기, 육아, 경제, 우석훈, 다산북스, 서평]
 ---
 

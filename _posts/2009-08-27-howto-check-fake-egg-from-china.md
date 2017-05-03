@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "중국에서 만든 가짜 닭알 구별 방법"
-category: cook & food
+category: 시사
 tags: [닭알, 가짜, 음식, 중국]
 ---
 

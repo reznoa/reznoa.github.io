@@ -2,7 +2,7 @@
 layout: post
 title: "원작의 이름이 아까운, 로미오x줄리엣(ロミオ×ジュリエット)"
 description: "실컷 기대하고 봤다가 실망만한 로미오x줄리엣에 대해 까본다."
-category: Mediaview
+category: 영상
 tags: [☆, GONZO, 셰익스피어, 소설원작, 리메이크, 애니메이션, 까는리뷰]
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jekyll과 GitHub Pages를 이용해 블로깅하기"
-category: logholic
+category: 컴퓨터
 tags: [블로그, GitHub, Jekyll]
 ---
 

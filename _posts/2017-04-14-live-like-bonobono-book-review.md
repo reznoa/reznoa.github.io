@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "만화 보노보노로 보는 인생 이야기 - 보노보노처럼 살다니 다행이야"
-category: Mediaview
+category: 도서
 tags: [책, 에세이, 김신회, 이가라시 미키오, 다산북스, 서평]
 ---
 

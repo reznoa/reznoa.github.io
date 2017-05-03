@@ -3,7 +3,7 @@ layout: post
 title: "노출과 음주에 대한 박명수의 생각, 잘못된 것일까?"
 description: "여성 범죄에 대해서 한마디 했다가 대차게 까이고 있는 박명수의 발언을 냉정히 생각해봤다."
 date: 2016-06-22 19:27:32 +0900
-category: rezthink
+category: 시사
 tags: [시사, 흑백논리, 노출, 성범죄]
 ---
 

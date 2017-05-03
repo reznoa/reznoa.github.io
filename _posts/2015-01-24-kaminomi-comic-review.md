@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "신만이 아는 세계 - 오타쿠, 세계를 구축하다."
-category: Mediaview
+category: 도서
 tags: [★★★★, 책, 만화, 판타지, 신, 악마, 미연시, 와카키 타미키]
 ---
 

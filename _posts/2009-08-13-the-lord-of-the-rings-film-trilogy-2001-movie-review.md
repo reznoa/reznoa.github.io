@@ -2,7 +2,7 @@
 layout: post
 title: "과대평가된 중세 판타지 영화, 반지의 제왕(The Lord of the Rings Film Trilogy)"
 description: "흥행과 인기, 평까지 모두 좋았지만 사실은 거품같았던 '반지의 제왕'을 까본다."
-category: Mediaview
+category: 영상
 tags: [★★, 북유럽, 신화, 영화, 판타지, 호빗, J.R.R. 톨킨, 소설원작, 피터 잭슨, 리브 타일러, 미란다 오토, 비고 모르텐슨, 숀 애스틴, 앤디 서키스, 올랜도 블룸, 이안 맥켈런, 일라이저 우드, 존 라이스-데이비스, 크리스토퍼 리, 까는리뷰]
 ---
 

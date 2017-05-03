@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "여자의 일생? 거지같은 인생...!"
-category: Mediaview
+category: 영상
 tags: [영화, 소설원작, 스테판 브리제, 쥐디트 셰믈라]
 excerpt_separator: <!--more-->
 ---

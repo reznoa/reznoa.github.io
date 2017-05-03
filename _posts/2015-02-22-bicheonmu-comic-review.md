@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "김혜린의 대표 역사 무협 순정 만화, 비천무(飛天舞)"
-category: Mediaview
+category: 도서
 tags: [★★★★, 책, 만화, 역사, 무협, 순정, 김혜린]
 ---
 

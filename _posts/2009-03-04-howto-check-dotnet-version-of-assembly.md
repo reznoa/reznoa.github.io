@@ -2,7 +2,7 @@
 layout: post
 title: "내가 작성한 .NET 프로그램, 어떤 버전의 framework를 쓸까?"
 description: "프로그램 바이너리의 대상 .NET 버전을 확인하는 방법을 알아본다."
-category: Developlay
+category: Programing
 tags: [.NET, 버전]
 excerpt_separator: <!--more-->
 ---

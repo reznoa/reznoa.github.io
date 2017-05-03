@@ -2,7 +2,7 @@
 layout: post
 title: "디버깅을 위한 gdb Quick Guide"
 description: "gdb를 이용해 디버깅을 할 때 유용한 몇가지 명령들을 정리해본다."
-category: Developlay
+category: Programing
 tags: [gdb]
 ---
 

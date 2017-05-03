@@ -2,7 +2,7 @@
 layout: post
 title: "Winamp 설정 파일을 위치 바꾸기"
 description: "백업과 관리 편의를 위해 Winamp 설정 파일의 위치를 바꾸는 법을 알아본다."
-category: PC
+category: 컴퓨터
 tags: [Winamp, 설정]
 ---
 

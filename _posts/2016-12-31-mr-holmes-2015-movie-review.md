@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "원작 소설을 잘 각색한 영화, 미스터 홈즈(Mr. Holmes, 2015)"
-category: Mediaview
+category: 영상
 tags: [영화, 셜록 홈즈, 인간, 소설원작, 빌 콘던, 이언 매켈런, 로라 리니, 마일로 파커]
 ---
 

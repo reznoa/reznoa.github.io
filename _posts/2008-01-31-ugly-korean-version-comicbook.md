@@ -2,7 +2,7 @@
 layout: post
 title: "정식 한국어판 만화의 참을 수 없는 짜증"
 description: "정식 한국어판 만화의 짜증나는 심의 편집에 대해 뱉어본다."
-category: Mediaview
+category: 도서
 tags: [만화, 검열, 불만]
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "망설이는 사람들을 위한 뽐뿌 - 나는 경매로 당당하게 사는 법을 배웠다"
-category: Mediaview
+category: 도서
 tags: [책, 자기계발, 부동산, 경매, 박수진, 다산북스, 서평]
 ---
 

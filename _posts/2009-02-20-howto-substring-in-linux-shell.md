@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Linux 셸에서 문자열 자르는 방법"
-category: PC
+category: Programing
 tags: [Linux, 스크립트, 문자열조작]
 ---
 

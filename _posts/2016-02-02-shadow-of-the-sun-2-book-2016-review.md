@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "한국전쟁 속에서 발버둥치는 가족의 두번째 이야기, 태양의 그늘 2"
-category: Mediaview
+category: 도서
 tags: [책, 소설, 박종휘, 한국전쟁, 은행나무, 서평, 위드블로그]
 excerpt_separator: <!--more-->
 ---

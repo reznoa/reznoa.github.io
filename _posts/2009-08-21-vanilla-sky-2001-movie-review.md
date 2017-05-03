@@ -2,7 +2,7 @@
 layout: post
 title: "SF 로맨스로 재탄생한, 바닐라 스카이(Vanilla Sky)"
 description: "미스터리 스릴러에서 SF 로맨스로 변신한 리메이크 영화, 바닐라 스카이에 대해 털어본다."
-category: Mediaview
+category: 영상
 tags: [★★, SF, 미스터리, 로맨스, 영화, 리메이크, 카메론 크로우, 톰 크루즈, 페넬로페 크루즈, 카메론 디아즈]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "아쉬움도 많지만 쓸만한 이북리더, 리디북스 페이퍼"
 description: "많은 기대를 했던 전자종이 단말 리디북스 페이퍼를 써봤다."
-category: Mediabiew
+category: 생활/가전
 tags: [리디북스, 전자종이, 이북, Android, 까는리뷰, 체험기]
 ---
 

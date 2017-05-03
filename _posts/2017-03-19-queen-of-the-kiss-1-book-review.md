@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "미스터리라기엔 미묘한 로맨스 소설 - 키스의 여왕 1"
-category: Mediaview
+category: 도서
 tags: [책, 소설, 법정, 미스터리, 로맨스, 이재익, 위즈덤하우스, 서평]
 ---
 

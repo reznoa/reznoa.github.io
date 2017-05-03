@@ -2,7 +2,7 @@
 layout: post
 title: "JavaScript - 선택된 라디오 버튼 값 얻기"
 description: "JavaScript에서 라디오 버튼값을 얻는데 쓰는 코드조각이다."
-category: Developlay
+category: Programing
 tags: [JavaScript, 코드조각]
 ---
 

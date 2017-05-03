@@ -2,7 +2,7 @@
 layout: post
 title: "관절과 연골에 도움을 주는 유기유황, 엠에스엠500"
 description: "관절에 좋다는 엠에스엠500을 짧게 체험해봤다."
-category: Health
+category: 건강
 tags: [건강, 체험기]
 ---
 

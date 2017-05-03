@@ -2,7 +2,7 @@
 layout: post
 title: "Windows 좀비 서비스 죽이기"
 description: "좀비 서비스를 죽이는 방법을 알아본다."
-category: PC
+category: 컴퓨터
 tags: [Windows, 서비스, 좀비]
 ---
 

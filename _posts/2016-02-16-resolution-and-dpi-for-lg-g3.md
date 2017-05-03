@@ -2,7 +2,7 @@
 layout: post
 title: "G3를 위한 해상도, dpi 설정 참고값"
 description: "G3 해상도를 바꿀 때 참고할 화면크기, dpi 값을 알아본다."
-category: PC
+category: 컴퓨터
 tags: [Android, LG, G3, 설정, 해상도]
 ---
 

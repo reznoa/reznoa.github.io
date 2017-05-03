@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "더 없이 섹시한 로맨틱 코미디, 나나와 카오루(ナナとカオル)"
-category: Mediaview
+category: 도서
 tags: [★★★★, 책, 만화, SM, 연애, 코미디, 아마즈메 류타]
 excerpt_separator: <!--more-->
 ---

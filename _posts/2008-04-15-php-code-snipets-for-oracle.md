@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Oracle을 위한 PHP 코드조각"
-category: Developlay
+category: Programing
 tags: [PHP, Oracle, 코드조각]
 excerpt_separator: <!--more-->
 ---

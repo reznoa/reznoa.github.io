@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "타이포그래피로 그린 故 노무현 전 대통령 초상"
-category: Mediaview
+category: 시사
 tags: [노무현, 타이포그래피]
 ---
 

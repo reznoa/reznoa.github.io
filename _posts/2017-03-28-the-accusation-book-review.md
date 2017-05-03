@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "제목 그대로인 르포같은 소설 - 고발"
-category: Mediaview
+category: 도서
 tags: [책, 소설, 북한, 반디, 다산북스, 서평]
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "명상의 이해와 수행을 위한 명상 입문서 - 명상 인문학"
-category: Mediaview
+category: 도서
 tags: [책, 자기계발, 도, 김승호, 다산북스, 서평]
 ---
 

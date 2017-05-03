@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "재미있고 흥미롭고 또한 씁쓸한 전쟁사 음식 이야기, 전쟁사에서 건진 별미들"
-category: Mediaview
+category: 도서
 tags: [책, 전쟁, 음식, 윤덕노, 더난출판, 서평]
 ---
 

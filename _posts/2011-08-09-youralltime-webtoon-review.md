@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "좀비가 되어도 남을, 당신의 모든 순간"
-category: Mediaview
+category: 도서
 tags: [★★★★, 강풀, 책, 만화, 다음만화속세상, 순정, 웹툰, 좀비]
 ---
 

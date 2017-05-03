@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "블로그는 이런식으로 써라"
-category: logholic
+category: ETC
 tags: [블로그]
 excerpt_separator: <!--more-->
 ---

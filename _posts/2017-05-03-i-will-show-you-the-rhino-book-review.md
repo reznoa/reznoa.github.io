@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "역사와 픽션, 미스터리가 잘 버무려진 소설 - 코뿔소를 보여주마"
-category: Mediaview
+category: 도서
 tags: [책, 소설, 조완선, 연쇄살인, 시국사건, 다산북스, 서평]
 ---
 

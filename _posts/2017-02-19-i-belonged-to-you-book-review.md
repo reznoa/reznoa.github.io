@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "사랑과 인생에 대한 가볍고도 무거운 단편집 - 너의 세계를 지나칠 때"
-category: Mediaview
+category: 도서
 tags: [책, 소설, 장자자, 정세경, 은행나무, 서평]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "SunOS와 Solaris의 버전"
 description: "헷갈리는 SunOS와 Solaris 버전을 정리해봤다."
-category: PC
+category: 컴퓨터
 tags: [SunOS, Solaris, 버전]
 ---
 

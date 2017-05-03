@@ -2,7 +2,7 @@
 layout: post
 title: "Git & GitHub Quick Guide"
 description: "Git을 가볍게 쓸 때 필요한 몇가지 명령들을 정리해본다."
-category: Developlay
+category: 컴퓨터
 tags: [Git, GitHub]
 ---
 

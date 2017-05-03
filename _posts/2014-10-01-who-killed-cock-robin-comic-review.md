@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "시체와 인질을 앞두고 벌어지는 살인범 찾기, 누가 울새를 죽였나?"
-category: Mediaview
+category: 도서
 tags: [★★★, 책, 만화, 마사토끼, 나노, 두뇌게임]
 excerpt_separator: <!--more-->
 ---
