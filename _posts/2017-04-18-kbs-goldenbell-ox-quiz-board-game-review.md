@@ -42,7 +42,7 @@ tags: [보드게임, 퀴즈, KBS, 코리아보드게임즈]
 ![제품 상세 정보](https://lh3.googleusercontent.com/e1UT9UTK7o5Sz_7u2oR1yDgJXUtJ9Ru5_JyruaFu-W42pmfd0eOHVwtxc79x1H9PSEGb7nXH4Q=s512)
 
 버튼은 기기를 켰을때나 퀴즈 정답을 선택했을 경우 등에 불이 들어오도록 만들어
-누가 어떤 버튼을 눌렀는지 확인하기 쉽다.
+누가 어떤 버튼을 눌렀는지 확인하기 쉽도록 했다.
 
 ![불이 들어온 모습](https://lh3.googleusercontent.com/maJxDGVdX1ydn3Jc0NzfJxXpN3JRPwMMydJPa3vMJ8mzhkApVk03pagdZ0fXCDq-gVRaxceGCg=s512)
 
