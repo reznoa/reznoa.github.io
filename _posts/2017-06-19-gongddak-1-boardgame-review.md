@@ -2,12 +2,14 @@
 layout: post
 title: "한국사를 보드게임에 담아낸, 공딱 - 한국사 보드게임 Vol.1"
 category: Game
-tags: [책, 보드게임, 한국사, 공공누리, 일러스트넷]
+tags: [책, 보드게임, 한국사, 공공누리, 일러스트넷, 바이일러스트]
 ---
 
 "공딱 - 한국사 보드게임 Vol.1"은 선사시대부터 삼국통일 까지의 한국사를 담은 보드게임이다.
 
-![패키지](https://lh3.googleusercontent.com/y1OtXrNvYGSVw5KTu8y79QkpuOG6Ca7fBXeP5f6cFVUV0ytcCFMpRX5U6t33yES0bGrH7h7YZA=s640)
+![패키지](https://lh3.googleusercontent.com/y1OtXrNvYGSVw5KTu8y79QkpuOG6Ca7fBXeP5f6cFVUV0ytcCFMpRX5U6t33yES0bGrH7h7YZA=w640)
+
+![구성물](https://lh3.googleusercontent.com/JHFljAXZblTohwU_d_ZyYh83JYw9HSAkH5BpOeD5QTTczTp1NWxXFQWOX5P6icoFiuqibgT-Qg=w640)
 
 항목      | 내용
 ----------|-------------------
@@ -16,15 +18,9 @@ tags: [책, 보드게임, 한국사, 공공누리, 일러스트넷]
 게임 시간 | 30분
 출시 년도 | 2017/04
 제조사    | 일러스트넷
+유통사    | 바이일러스트
 사용 언어 | 한국어
 정가      | 29,700원
-
-각 칸은 역사적 사실이나 유물 등을 시대 순으로 나열했으며
-뒷면에는 왕의 계보도를 수록하여
-한국사의 흐름을 알 수 있도록 했다.
-한국사를 담은만큼 사회교과 교수의 감수를 받은것도 눈에 띈다.
-
-![구성물](https://lh3.googleusercontent.com/JHFljAXZblTohwU_d_ZyYh83JYw9HSAkH5BpOeD5QTTczTp1NWxXFQWOX5P6icoFiuqibgT-Qg=s640)
 
 게임 구성물은 다음과 같다:
 
@@ -39,11 +35,18 @@ tags: [책, 보드게임, 한국사, 공공누리, 일러스트넷]
 
 ![게임판](https://lh3.googleusercontent.com/NpZ77EBH4IY1nlcxvkGJldqmds3R4FyQkiY_yJOYkkMEeYmlKCay_Q0GbNhev8GbkJUvCEkUPQ=s640)
 
+![게임판 뒷면](https://lh3.googleusercontent.com/ZWavj4hdgaaif9TdwWREZ7czFfPEWQx4M096JFwDlpRg343D45FYUp-2N0hSaICPZmK5xlGzCA=s640)
+
 게임은 기본적으로 '윷놀이'와 비슷하다.
 기본적으로 팀전이며 주사위를 던진 후 말을 움직여서 모든 말이 도착점에 먼저 들어가면 이기는 게임이다.
 이런점은 또한 '인생게임'과도 좀 비슷하다.
 추가로 몇몇 칸에는 위로 올라가거나 밑으로 떨어지라는 화살표가 있는데,
 말이 4개나 되므로 왠만하면 떨어지는 칸은 밝을 일이 없다.
+
+각 칸은 역사적 사실이나 유물 등을 시대 순으로 나열했으며
+뒷면에는 왕의 계보도를 수록하여
+한국사의 흐름을 알 수 있도록 했다.
+한국사를 담은만큼 사회교과 교수의 감수를 받은것도 눈에 띈다.
 
 상대편 말이 있는곳으로 가면 상대의 말을 잡을 수 있는것도 윷놀이와 동일하다.
 다만, 4개의 말엔 계급이 있어서 그에따라 잡거나 역으로 잡힐 수도 있어
@@ -79,8 +82,8 @@ tags: [책, 보드게임, 한국사, 공공누리, 일러스트넷]
 ![별매 딱지](https://lh3.googleusercontent.com/WahRdyktA8Dd3XEuD2A-yO8EK4DrIjFyXjHW9UM8weiDOp1cw3eQ8G_LIVl23ruDs0_N9QoHtQ=s640)
 
 '딱지'는 개별로 가지고 놀 수도 있으며, 필요하다면 별매도 가능하다.
-옛날 딱지와 달리 두께가 엄청 얇아서 날리거나 치기 같은걸 하기는 어려워 보인다.
-조금 아쉽긴 한데, 그런 용도로 갖고 놀것이 아니라면 보관에는 더 용이하므로 장단이 있다.
+옛날 딱지와 달리 두께가 엄청 얇아서 날리거나 치기 같은걸 하기는 조금 어려워 보인다.
+이점은 조금 아쉽기도 한데, 그런 용도로 갖고 놀것이 아니라면 보관에는 더 용이하므로 장단이 있긴 하다.
 
 ![딱지 - QR 코드](https://lh3.googleusercontent.com/QfwKRRRgt2b4yBjRnMXzYfjs5x8LNpkv7iuGAus9EtXvWDBewZa1fDHlecUAhcnem-8QTwt-4w=w320)
 ![공딱 퀴즈](https://lh3.googleusercontent.com/1HMWx84_2ijoHoUGJlA94gdsCKyXgxPqKXj2yBV94LKiTxxKRLz79hekjRpNtcJ-Mi_ylzNjDw=w320)
@@ -88,7 +91,8 @@ tags: [책, 보드게임, 한국사, 공공누리, 일러스트넷]
 딱지 뒷면의 QR 코드는 해당 딱지와 관련된 문제로 바로 연결할 수 있는 주소를 담고있는데,
 해당 사이트는 가입하면 점수와 랭킹도 관리할 수 있다.
 스마트폰을 갖고있다면 한국사 퀴즈에 도전하는것도 한 놀이 방법이다.
-다만, QR 코드를 사용하면서도 모바일을 고려하지 않은것은 좀 아쉬웠다.
+다만, QR 코드를 사용해 스마트폰으로 접속할 수 있게 만들었으면서도
+모바일을 함께 고려해서 만들지 않은것은 아쉬운 점이다.
 추후 업데이트를 기대해본다.
 
 '딱지'나 '공딱 카드', 계급 등의 세세한 규칙은 하는 사람들끼리 자유롭게 조절해도 된다.
