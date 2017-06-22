@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "아이나비 2017 신제품 발표회 - HERO is COMING"
-description: "아이나비 2017 신제품 발표회에 다녀왔다."
+description: "아이나비 2017 신제품 발표회 \"HERO is COMING\" 에 다녀왔다."
 category: 생활/가전
-tags: [아이나비]
+tags: [아이나비, 내비게이션, 블랙박스]
 ---
 
 ### 발표회 모습
 
 지난 2017-06-20, 아이나비의 신제품 발표회가 있었다.
-발표회에선 한단계 발전한 플래그십 네비게이션 아이나비X3와 블랙박스 QXD1000a를 발표했으며,
+발표회에선 한단계 발전한 플래그십 내비게이션 아이나비X3와 블랙박스 QXD1000a를 발표했으며,
 전시를 통해 실제 제품을 사용해볼 수 있도록 했다.
 
 ![발표회장 바깥 모습](https://lh3.googleusercontent.com/UIIQMyPgXCNWloq-PLTTFndAYMMs9AVYTL3s1SeTFHCZp-60s0fGqxjYWQwgkzgjeWHVX15plg=s640)
@@ -43,9 +43,9 @@ tags: [아이나비]
 
 
 
-### 탐나는 네비게이션, 아이나비 X3
+### 탐나는 내비게이션, 아이나비 X3
 
-아이나비의 주력 제품인 네비게이션 아이나비X3의 핵심 기능은 AR이다.
+아이나비의 주력 제품인 내비게이션 아이나비X3의 핵심 기능은 AR이다.
 이를 위해 기존 X1 대비 CPU는 3배, GPU는 6.5배, AR Camera 성능은 100배까지 높였다.
 이를 통해 빠른 처리속도를 이끌어냈다.
 
@@ -63,7 +63,7 @@ X1 대비 4배의 픽셀 표현력, 50배의 색 표현력, 100배의 저조도 
 실제로 X3의 AR 시연 영상을 보면 감탄이 나온다.
 마치 사이버 포뮬러에서나 보던 미래의 자동차용 디스플레이가 X3에 들어온 느낌이다.
 물론, 아직은 전면 디스플레이가 사용화되지 않았고
-X3의 AR은 네비게이션 화면에만 표시되는 것이기에 실제 사용감은 그렇게까지 놀랍진 않을것이다.
+X3의 AR은 내비게이션 화면에만 표시되는 것이기에 실제 사용감은 그렇게까지 놀랍진 않을것이다.
 하지만, 미래의 모습을 그려보기에 충분할만큼 매력적이었다.
 
 ![보행자 인식 솔루션](https://lh3.googleusercontent.com/-OkliNCKHzt4/WUvXpEVWy-I/AAAAAAAAU6E/2ihjEOB7FSwXZacoZvQA2JpbZ1T_aorOQCE0YBhgL/s640/inavi-showcase-2017-x3-04.jpg)
@@ -105,6 +105,8 @@ X3 체험존에 장착된 AVM이 맘에 들었던것은,
 ![AVM 풀뷰](https://lh3.googleusercontent.com/0F39EPl1_MCAI8w4B2Sap5Z6pbPX9qIy4qfv1ImLpsuiknly77O4SFcr8feRNViFgw65GjEvqw=s640)
 
 ![AVM 사이드뷰](https://lh3.googleusercontent.com/EIPR-e998Fk0LPQ98BnG15b34Ws0C2ncHGoF-xh-ekQnLSZ5DmxXhHcNVa_E_ZfNbIh1Kw8UVQ=s640)
+
+![AVM 사이드 카메라](https://lh3.googleusercontent.com/-1JRDt7dY3_w/WUvfc732QqI/AAAAAAAAU8w/btEVfB_Ysk0XslJ5exWBNaxncfBTUxeqgCE0YBhgL/s640/inavi-showcase-2017-x3-avm-sidecamera.jpg)
 
 다만, 사이드 카메라가 사이드 미러 밑에 장착되어있어 사이드 미러를 접는다면 어떻게 되는건지 의아했다.
 한국은 좁은곳이 많아 사이드 미러를 접고 주차를 해야할 경우도 많기 때문이다.
@@ -167,9 +169,9 @@ Drive X라는 이름의 안전 기능도 제공한다.
 사실 마블 콜라보의 첫 제품으로 블랙박스 아이언맨 에디션을 내놓은것은 좀 의외였다.
 처음에 보여준 X3의 이미지 영상도 다분히 아이언맨을 연상시켰고,
 UI를 적용하기에도 화면 조작이 적은 블랙박스보다는
-네비게이션이 더 어울린다고 생각하기 때문이다.
+내비게이션이 더 어울린다고 생각하기 때문이다.
 그래서 마블과의 콜라보가 놀라웠던것이 비해, 제품은 크게 놀랍지 않았다.
-개인적으로는 추후 네비게이션의 마블 에디션이 나오기를 기대한다.
+개인적으로는 추후 내비게이션의 마블 에디션이 나오기를 기대한다.
 
 
 
@@ -181,7 +183,7 @@ UI를 적용하기에도 화면 조작이 적은 블랙박스보다는
 먼저, 주최측에서는 30분 일찍 와달라고 했었는데 막상 일찍 갔다고 딱히 뭐가 있는게 아니었다.
 물론 전시된 제품을 구경할 수는 있었지만,
 전시 패널은 모두 꺼놨기 때문에 (발표가 끝나고 켰다) 반쪽짜리 구경이기도 했다.
-그래서 발표를 기다리는 사람들도 더러 보였다.
+그래서 그냥 발표를 기다리는 사람들도 더러 보였다.
 굳이 일찍 오라고 할 필요가 있었나 싶다.
 
 가장 안좋았던건 스탠딩 방식이었다는거다.
@@ -192,6 +194,8 @@ UI를 적용하기에도 화면 조작이 적은 블랙박스보다는
 장소만의 문제는 아니었다는거다.
 준비가 미흡했다고 밖에는 볼 수 없다.
 
+![참석자 시선](https://lh3.googleusercontent.com/JGDU3KFE_e1X7C_5kUwCj3YI2JjmyrkFpsAScGGx_Sy1hUCu4IdLqGTTjR9VW_sFjH5SzEqvLw=s640)
+
 준비한 다과도 굳이 짧은 시간을 정해 먹을 수 있도록 한게 별로였다.
 덕분에 회장에 모인 사람들이 모두 줄서서 차례를 기다려야만 했기 때문이다.
 차라리 그 시간이 한번이라도 더 구경할 수 있도록 하는게 낫지 않은가.
@@ -199,9 +203,14 @@ UI를 적용하기에도 화면 조작이 적은 블랙박스보다는
 준비한 때부터 꽤 시간이 흘렀기 때문에 눅눅해져 있기도 하더라.
 미리 정한 간식 시간을 두기보다는 자유롭게 가져다가 먹으면서 발표를 들을 수 있게 하는건 어땠을까 하는 싶다.
 
+![줄선 참가자들](https://lh3.googleusercontent.com/4a5kBZBR0Cu_kXMP4Y1C8iVqNiilMv2SqXBbqAdOjF1mt5ALz0gPhJPoLAoUZCpgVJy5sQcqgQ=s640)
+
 아이나비의 신제품 발표회는 이번이 처음이 아니다.
 X1이 나왔을때도 신제품 발표회를 했었는데,
 그 때는 장소도 좀 더 넓었고 앞 사람 때문에 가린다던가 하는 문제도 없었다.
 내용은 괜찮았지만, 발표 방식은 그때보다 더 후퇴한 것 같다.
+
+![2014 발표회 1](https://lh3.googleusercontent.com/-1oUg2tA3mvI/WUvjqiTu_gI/AAAAAAAAU-g/360ennzV0d4_qz8BWZsGJXM6ClWq5QCQACE0YBhgL/s320/inavi-showcase-2014-x1-02.jpg)
+![2014 발표회 2](https://lh3.googleusercontent.com/-Ar8GSTr2aIg/WUvjUrMmbxI/AAAAAAAAU-Q/tGSviVAbqPQ__hLANHlTR6J8zdYlIilbQCE0YBhgL/s320/inavi-showcase-2014-x1-01.jpg)
 
 다음 발표회는 더 나아지길 바란다.
