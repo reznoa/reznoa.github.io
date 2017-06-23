@@ -47,7 +47,7 @@ tags: [아이나비, 내비게이션, 블랙박스]
 
 아이나비의 주력 제품인 내비게이션 아이나비X3의 핵심 기능은 AR이다.
 이를 위해 기존 X1 대비 CPU는 3배, GPU는 6.5배, AR Camera 성능은 100배까지 높였다.
-이를 통해 빠른 처리속도를 이끌어냈다.
+이를 통해 빠른 처리속도를 이끌어낸다.
 
 ![스펙 비교](https://lh3.googleusercontent.com/-MygeWEi4pLk/WUvW9T2lblI/AAAAAAAAU5k/XHZr6klwHcAsgfMQPQrRGnrg2aA5MtpEgCE0YBhgL/s640/inavi-showcase-2017-x3-01.jpg)
 
@@ -60,9 +60,11 @@ X1 대비 4배의 픽셀 표현력, 50배의 색 표현력, 100배의 저조도 
 
 ![AR Camera 비교](https://lh3.googleusercontent.com/-VfVTK0TufQg/WUvXW2Eb8PI/AAAAAAAAU50/eehZRPxtJO4V7RvqpGoYICvQHPI0wm7cACE0YBhgL/s640/inavi-showcase-2017-x3-02.jpg)
 
+![저조도 테스트](https://lh3.googleusercontent.com/-FcgX13Ntjmc/WUxgGW_D1NI/AAAAAAAAU_E/MIhr2dHdbvwfUUfPzvjEITSgcxhNCTMpACE0YBhgL/s640/inavi-showcase-2017-x3-08.jpg)
+
 실제로 X3의 AR 시연 영상을 보면 감탄이 나온다.
 마치 사이버 포뮬러에서나 보던 미래의 자동차용 디스플레이가 X3에 들어온 느낌이다.
-물론, 아직은 전면 디스플레이가 사용화되지 않았고
+물론, 아직은 전면 디스플레이가 상용화되지 않았고
 X3의 AR은 내비게이션 화면에만 표시되는 것이기에 실제 사용감은 그렇게까지 놀랍진 않을것이다.
 하지만, 미래의 모습을 그려보기에 충분할만큼 매력적이었다.
 
@@ -71,7 +73,7 @@ X3의 AR은 내비게이션 화면에만 표시되는 것이기에 실제 사용
 X3는 또한 보행자 인식 솔루션을 제공한다.
 발전된 AR Camera를 이용해 사람을 인식하고, 이를 이용해 운전자에게 경고음을 냄으로써
 부주의나 사각으로 인한 보행자 사고를 어느정도 예방할 수 있게 해준다.
-실제로 길을 찾다가 위험했던 경험이 있었던지라 실제 사용했을 때 이 기능이 얼마나 유용할지 더 기대가 되었다.
+한번은 길을 찾다가 위험했던 경우도 있었던지라 실제 사용했을 때 이 기능이 얼마나 유용할지 더 기대가 되었다.
 
 ![내 경로 / 제안 경로](https://lh3.googleusercontent.com/-rPv9lVBdc6w/WUvX1TNkUNI/AAAAAAAAU6U/p5lZraBb9y0GicFjdaAK7bF2a7iamrHmgCE0YBhgL/s640/inavi-showcase-2017-x3-05.jpg)
 
@@ -153,8 +155,8 @@ Drive X라는 이름의 안전 기능도 제공한다.
 
 ![The New DRIVE X](https://lh3.googleusercontent.com/-hunqIaXs7T0/WUvZp1-PGUI/AAAAAAAAU8I/As2TuzBUp74CDWULylCCW4AEIlLgYtV5QCE0YBhgL/s640/inavi-showcase-2017-qxd1000a-05.jpg)
 
-그리고 깜짝 공개가 있었는데, 바로 마블 콜라보레이션이다.
-그 첫 제품이 QXD1000a 아이언맨 에디션이다.
+그리고 깜짝 공개로 마블 콜라보레이션 발표가 있었다.
+그 첫 제품으로 QXD1000a 아이언맨 에디션을 선보였다.
 
 ![아이언맨 에디션](https://lh3.googleusercontent.com/-4TgTZVWtnFc/WUvZ76LlHbI/AAAAAAAAU8Y/h4xVFaDYG58nkLkETisB1O7NnlULoGqVwCE0YBhgL/s640/inavi-showcase-2017-qxd1000a-06.jpg)
 
@@ -170,15 +172,15 @@ Drive X라는 이름의 안전 기능도 제공한다.
 처음에 보여준 X3의 이미지 영상도 다분히 아이언맨을 연상시켰고,
 UI를 적용하기에도 화면 조작이 적은 블랙박스보다는
 내비게이션이 더 어울린다고 생각하기 때문이다.
-그래서 마블과의 콜라보가 놀라웠던것이 비해, 제품은 크게 놀랍지 않았다.
-개인적으로는 추후 내비게이션의 마블 에디션이 나오기를 기대한다.
+그래서 마블과의 콜라보가 놀라웠던것이 비해, 첫 마블 에디션 제품은 별로 놀랍지 않았다.
+개인적으로는 추후 마블 에디션 내비게이션이 나오는걸 기대해보고 있다.
 
 
 
 ### 발표회에대한 아쉬운 점
 
 발표회는 제품에 많은 관심을 갖게 했다는 점에서는 나쁘지 않았지만,
-전체적으로는 그렇게 잘 했다고는 하기 힘든 발표회였다.
+전체적으로는 그렇게 잘 했다고는 하기 힘든 행사였다.
 
 먼저, 주최측에서는 30분 일찍 와달라고 했었는데 막상 일찍 갔다고 딱히 뭐가 있는게 아니었다.
 물론 전시된 제품을 구경할 수는 있었지만,
@@ -199,9 +201,9 @@ UI를 적용하기에도 화면 조작이 적은 블랙박스보다는
 준비한 다과도 굳이 짧은 시간을 정해 먹을 수 있도록 한게 별로였다.
 덕분에 회장에 모인 사람들이 모두 줄서서 차례를 기다려야만 했기 때문이다.
 차라리 그 시간에 한번이라도 더 구경할 수 있도록 하는게 낫지 않은가.
-준비한 간식 중에는 빵이나 과자에 샐러드나 참치같은걸 올린것도 있었는데,
-준비한 때부터 꽤 시간이 흘렀기 때문에 눅눅해져 있기도 하더라.
-미리 정한 간식 시간을 두기보다는 자유롭게 가져다가 먹으면서 발표를 들을 수 있게 하는건 어땠을까 하는 싶다.
+간식 중에는 빵과 과자 위에 샐러드나 참치같은걸 올린것도 있었는데,
+준비한지 꽤 시간이 흘렀기 때문에 다소 눅눅해져 있기도 했다.
+미리 정한 간식 시간을 두기보다는 자유롭게 가져다가 먹으면서 발표를 들을 수 있게 하는건 어땠을까 싶다.
 
 ![줄선 참가자들](https://lh3.googleusercontent.com/4a5kBZBR0Cu_kXMP4Y1C8iVqNiilMv2SqXBbqAdOjF1mt5ALz0gPhJPoLAoUZCpgVJy5sQcqgQ=s640)
 
