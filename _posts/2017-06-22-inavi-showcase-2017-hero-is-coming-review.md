@@ -17,7 +17,7 @@ tags: [아이나비, 내비게이션, 블랙박스]
 ![발표회장 안 모습](https://lh3.googleusercontent.com/rtRq1779bBsWCPVCRjT4D6kL8HQvvF_mHIIThQR9sDecBLOzoyRpt3VZ7bln7jdEN2sMN7fOtw=s640)
 
 발표는 학동역 Interwired Studio에서 이뤄졌으며,
-미리 선정한 신제품 체험단 일동과 라이브 영상 촬영팀, 그리고 몇몇 초대 손님들이 모은 듯 했다.
+미리 선정한 신제품 체험단 일동과 라이브 영상 촬영팀, 그리고 몇몇 초대 손님들이 모인 듯 했다.
 
 ![명찰](https://lh3.googleusercontent.com/-IilECwgRXuM/WUvWcfgSPoI/AAAAAAAAU5Q/IUSXgjZ_X_kYZbFdnAd3JcvXg_ML2TLWwCE0YBhgL/s640/inavi-showcase-2017-namecard.jpg)
 
