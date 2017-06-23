@@ -78,7 +78,7 @@ X3는 또한 보행자 인식 솔루션을 제공한다.
 ![내 경로 / 제안 경로](https://lh3.googleusercontent.com/-rPv9lVBdc6w/WUvX1TNkUNI/AAAAAAAAU6U/p5lZraBb9y0GicFjdaAK7bF2a7iamrHmgCE0YBhgL/s640/inavi-showcase-2017-x3-05.jpg)
 
 경로 탐색 방식도 한단계 진화했다.
-많은 사람들이 길을 알면 아는 길로, 아니면 네비가 안내하는 길로 가는데
+많은 사람들이 길을 알면 아는 길로, 아니면 내비가 안내하는 길로 가는데
 X3의 '내 경로' 기능을 이용하면 어떤 길이 더 나을지를 비교할 수 있다.
 '제안경로' 기능도 한단계 발전해서 해안 도로를 달리고 싶다던가 하는 식의
 감성적인 면을 반영한 경로 선택도 가능하다고 한다.
@@ -142,9 +142,10 @@ CTS는 간단하게 말하면 아이나비만의 센서 설정값이라고 보�
 
 ![주차녹화](https://lh3.googleusercontent.com/-fGDqEVm9Wb0/WUvZBBr900I/AAAAAAAAU7o/Bt4zMAmW43w2vPYuNwzw82W9fLS1HZl-QCE0YBhgL/s640/inavi-showcase-2017-qxd1000a-03.jpg)
 
-추가로 iVolt 보조기구가 있는데, 이 놈은 일종의 보조 배터리다.
-이를 이용하면 무려 6일 가량의 주차 녹화를 차량 배터리 사용 없이 할 수 있다고 한다.
-추가로 스마트폰을 이용해 앞으로 가능한 주차 녹화 시간을 확인한다던가 하는 편의 기능도 제공한다.
+녹화를 위한 보조기구로 iVolt라는것도 있는데, 이 놈은 일종의 보조 배터리라 보면 된다.
+꽤 대용량인데다 QXD1000a의 저전력 주차 녹화 기능도 있어
+최대 6일 가량의 주차 녹화를 차량 배터리 사용 없이 할 수도 있다고 한다.
+iVolt는 단순 배터리가 아닌 추가 기능도 갖추고 있어 스마트폰을 이용해 상태나 남은 주차 녹화 가능 시간 등을 편리하게 확인해 볼 수도 있다.
 
 ![iVolt](https://lh3.googleusercontent.com/9ffyjZ3Fcz5HCuxiNu3MOVthmXt0JH00xTMIAKKdKCU-P6ukTa2-pIPLx5ETzWsA6qiP_nRulQ=s640)
 
