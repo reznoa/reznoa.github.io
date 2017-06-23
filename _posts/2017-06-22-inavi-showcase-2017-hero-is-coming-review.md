@@ -28,7 +28,7 @@ tags: [아이나비, 내비게이션, 블랙박스]
 ![다과](https://lh3.googleusercontent.com/B3P_CqE4y6ebJw34PnlN70vWi29ax1T1cfEV9KoTFeehk6OT2iGicOo2bbeGb-VYNpdhooaINw=s640)
 
 한쪽에는 가볍게 먹을 수 있는 다과도 준비해서 주요 발표 후엔 자유롭게 먹을 수 있도록 했다.
-저녁이 가까운 시간이라 그런지 안그래도 한참 출출할때 먹는 간식거리는 꽤 괜찮았다.
+저녁이 가까운지라 안그래도 출출했기에 이런 배려는 꽤 좋았다.
 
 ![식순](https://lh3.googleusercontent.com/Zo_O0OrGW_rWYZfmf38zJURMhkUSVbsD1tU4hz28Nz1DfHEcTX-7BC0AgifJrPACUC1Iz9LX5Q=s640)
 
