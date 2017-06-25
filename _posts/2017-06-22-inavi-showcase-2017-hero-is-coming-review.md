@@ -51,9 +51,9 @@ tags: [아이나비, 내비게이션, 블랙박스]
 
 ![스펙 비교](https://lh3.googleusercontent.com/-MygeWEi4pLk/WUvW9T2lblI/AAAAAAAAU5k/XHZr6klwHcAsgfMQPQrRGnrg2aA5MtpEgCE0YBhgL/s640/inavi-showcase-2017-x3-01.jpg)
 
-AR Camera는 HD를 지원하기 위해 STARVIS 센서 사용했다.
+AR Camera는 HD를 지원하기 위해 STARVIS 센서를 사용했다.
 X1 대비 4배의 픽셀 표현력, 50배의 색 표현력, 100배의 저조도 특성 강화를 이뤄
-낮 뿐 아니라 밤에도 보다 선명한 영상을 얻을 수 있다.
+낮 뿐 아니라 밤에도 보다 선명한 영상을 얻는다.
 극단적으로 야간 산길에서 미등만으로도 뚜렷하게 앞 사물을 구분할 수 있을 정도다.
 이게 중요한 이유는 AR이 영상처리를 통해 이뤄지기 때문이다.
 선명한 영상을 얻을 수 있다는것은 더 나은 인식률을 보일 수 있다는 말이기도 하다.
@@ -72,8 +72,8 @@ X3의 AR은 내비게이션 화면에만 표시되는 것이기에 실제 사용
 
 X3는 또한 보행자 인식 솔루션을 제공한다.
 발전된 AR Camera를 이용해 사람을 인식하고, 이를 이용해 운전자에게 경고음을 냄으로써
-부주의나 사각으로 인한 보행자 사고를 어느정도 예방할 수 있게 해준다.
-한번은 길을 찾다가 위험했던 경우도 있었던지라 실제 사용했을 때 이 기능이 얼마나 유용할지 더 기대가 되었다.
+부주의나 사각때문에 일어날 수 있는 보행자 사고를 어느정도 예방할 수 있게 해준다.
+이전에 한번 길을 찾다가 위험했던 경험이 있었기에 이 기능이 얼마나 유용할지 더 기대가 되었다.
 
 ![내 경로 / 제안 경로](https://lh3.googleusercontent.com/-rPv9lVBdc6w/WUvX1TNkUNI/AAAAAAAAU6U/p5lZraBb9y0GicFjdaAK7bF2a7iamrHmgCE0YBhgL/s640/inavi-showcase-2017-x3-05.jpg)
 
@@ -96,12 +96,12 @@ PLog라 이름붙인 이 기능은 위치 기반 빅데이타를 이용해서
 
 그 외에 내가 관심을 크게 가진것은 AVM(Around View Monitor)이었다.
 AVM은 마치 차 위에서 내려다 보는듯한 뷰를 제공해줌으로써
-사각으로 인한 사고를 줄여주고 주차를 훨씬 편리하게 해주는 기능이다.
-대게는 전후방 카메라 영상을 알고리즘을 이용해 합성해 보여준다.
+사각으로 인한 사고를 줄여주고 주차를 더욱 편리하게 해주는 기능으로,
+대게는 전후방 카메라로 얻은 영상을 알고리즘을 이용해 합성해 보여준다.
 때문에 사각에 대해 잘못된 정보를 줄 수도 있으며(즉, 모니터에는 아무것도 안보이지만, 사실은 그 사이 고양이같은게 들어와 있을 수 있다.),
-좌우에 해당하는 영상이 충분히 수집되기 전까지는 뒤틀린 주변모습을 보여주기도 한다.
+좌우에 해당하는 영상이 충분히 수집되기 전까지는 뒤틀린 주변모습을 보여주는 문제가 있다.
 X3 체험존에 장착된 AVM이 맘에 들었던것은,
-그런 문제를 해결하기 위해 양 사이드에 추가 카메라를 사용한다는거다.
+이를 해결하기 위해 양 사이드에 추가 카메라를 사용한다는거다.
 총 4대의 카메라를 이용해 만들어진 영상은 기존것보다 훨씬 깔끔하며 사각도 없어 보였다.
 
 ![AVM 풀뷰](https://lh3.googleusercontent.com/0F39EPl1_MCAI8w4B2Sap5Z6pbPX9qIy4qfv1ImLpsuiknly77O4SFcr8feRNViFgw65GjEvqw=s640)
@@ -116,7 +116,7 @@ X3 체험존에 장착된 AVM이 맘에 들었던것은,
 
 
 
-### 저조도에서도 선명한 영상을 뽑아내는, QXD1000a. 그리고 깜짝 공개
+### 저조도에서도 강력한 QXD1000a. 그리고 깜짝 공개
 
 새로운 블랙박스 플래그십 제품인 QXD1000a는 야간 촬영에 큰 장점을 가진 제품이다.
 
@@ -143,8 +143,8 @@ CTS는 간단하게 말하면 아이나비만의 센서 설정값이라고 보�
 ![주차녹화](https://lh3.googleusercontent.com/-fGDqEVm9Wb0/WUvZBBr900I/AAAAAAAAU7o/Bt4zMAmW43w2vPYuNwzw82W9fLS1HZl-QCE0YBhgL/s640/inavi-showcase-2017-qxd1000a-03.jpg)
 
 녹화를 위한 보조기구로 iVolt라는것도 있는데, 이 놈은 일종의 보조 배터리라 보면 된다.
-꽤 대용량인데다 QXD1000a의 저전력 주차 녹화 기능도 있어
-최대 6일 가량의 주차 녹화를 차량 배터리 사용 없이 할 수도 있다고 한다.
+꽤 대용량인데다 QXD1000a의 저전력 주차 녹화와도 시너지가 좋아서
+이를 사용하면 최대 6일 가량의 주차 녹화를 차량 배터리 사용 없이 할 수 있다고 한다.
 iVolt는 단순 배터리가 아닌 추가 기능도 갖추고 있어 스마트폰을 이용해 상태나 남은 주차 녹화 가능 시간 등을 편리하게 확인해 볼 수도 있다.
 
 ![iVolt](https://lh3.googleusercontent.com/9ffyjZ3Fcz5HCuxiNu3MOVthmXt0JH00xTMIAKKdKCU-P6ukTa2-pIPLx5ETzWsA6qiP_nRulQ=s640)
@@ -211,9 +211,9 @@ UI를 적용하기에도 화면 조작이 적은 블랙박스보다는
 아이나비의 신제품 발표회는 이번이 처음이 아니다.
 X1이 나왔을때도 신제품 발표회를 했었는데,
 그 때는 장소도 좀 더 넓었고 앞 사람 때문에 가린다던가 하는 문제도 없었다.
-내용은 괜찮았지만, 발표 방식은 그때보다 더 후퇴한 것 같다.
+내용은 괜찮았지만, 발표 방식은 그때보다 후퇴한 것 같다.
 
 ![2014 발표회 1](https://lh3.googleusercontent.com/-1oUg2tA3mvI/WUvjqiTu_gI/AAAAAAAAU-g/360ennzV0d4_qz8BWZsGJXM6ClWq5QCQACE0YBhgL/s320/inavi-showcase-2014-x1-02.jpg)
 ![2014 발표회 2](https://lh3.googleusercontent.com/-Ar8GSTr2aIg/WUvjUrMmbxI/AAAAAAAAU-Q/tGSviVAbqPQ__hLANHlTR6J8zdYlIilbQCE0YBhgL/s320/inavi-showcase-2014-x1-01.jpg)
 
-다음 발표회는 더 나아지길 바란다.
+다음 발표회에서는 이런점도 더 개선되었으면 한다.
