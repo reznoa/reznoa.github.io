@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "펭귄같은 청년의 성스런 성장기 - 굿 이브닝, 펭귄"
-category: 책
+category: 도서
 tags: [책, 소설, 김학찬, 다산북스, 서평]
 ---
 

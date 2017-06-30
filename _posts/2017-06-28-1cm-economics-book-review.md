@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "사진과 시사를 곁들인 쉽고 가벼운 경제 이야기 - 1cm 경제학"
-category: 책
+category: 도서
 tags: [책, 경제, 연합인포맥스, 윤현정, 다산북스, 서평]
 ---
 
