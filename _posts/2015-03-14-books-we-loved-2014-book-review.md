@@ -3,7 +3,7 @@ layout: post
 title: "읽는 빨간책방, 우리가 사랑한 소설들"
 description: "빨간책방을 책으로 엮은 '우리가 사랑한 소설들'을 읽어봤다."
 category: 도서
-tags: [★★★, 책, 이동진, 김중혁, 라디오, 서평]
+tags: [★★★, 책, 이동진, 김중혁, 라디오, 서평, 위즈덤하우스, 예담]
 ---
 
 [![이동진, 김중혁의 '우리가 사랑한 소설들' 표지](https://lh4.googleusercontent.com/-Eqna_nDZSOs/VQOzpyY2Z1I/AAAAAAAAPD4/iWlQN7reWjU/w240/books-we-loved-2014-book.jpg "'읽는 빨간책방'. 한마디로 그거다.")](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=895913855X&ttbkey=ttbreznoa0249001&COPYPaper=1)

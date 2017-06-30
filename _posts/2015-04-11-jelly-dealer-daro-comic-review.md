@@ -2,7 +2,7 @@
 layout: post
 title: "완결되지 않은 듯해 아쉬운 판타지 젤리 상인 모험물, 젤리장수 다로"
 category: 도서
-tags: [★★★, 책, 만화, 김민희, 판타지, 모험]
+tags: [★★★, 책, 만화, 김민희, 판타지, 모험, 코미디, 서울문화사]
 excerpt_separator: <!--more-->
 ---
 

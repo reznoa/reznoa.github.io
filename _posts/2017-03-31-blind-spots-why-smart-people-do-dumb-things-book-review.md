@@ -2,7 +2,7 @@
 layout: post
 title: "이해의 폭을 넓혀주는 맹점 이해서 - 나는 왜 자꾸 바보짓을 할까?"
 category: 도서
-tags: [책, 심리, 매들린 L. 반 헤케, 다산북스, 서평]
+tags: [책, 심리, 매들린 L. 반 헤케, 다산북스, 다산초당, 서평]
 ---
 
 '매들린 L. 반 헤케(Madeleine L. Van Hecke)'의 '나는 왜 자꾸 바보짓을 할까?(Blind Spots: Why Smart People Do Dumb Things)'는 '생각의 맹점'을 다룬 책으로, 왜 합리적이고 똑똑한 사람들도 말도 안 되는 실수를 저지르거나 오류에 빠지는지를 잘 설명해준다.
