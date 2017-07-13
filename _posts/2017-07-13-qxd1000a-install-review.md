@@ -9,6 +9,7 @@ tags: [아이나비, 블랙박스, 체험단, 장착]
 ![로고](https://lh3.googleusercontent.com/-ZOHfv5nwg-M/WWdZVUbc4QI/AAAAAAAAVTY/zn8ULiJl2KETvSp09ow3hvLqfIaWtzhWQCE0YBhgL/s640/QXD1000%25CE%25B1+LOGO.png)
 
 1. [아이나비 블랙박스 QXD1000α 장착 후기]({% post_url 2017-07-13-qxd1000a-install-review %})
+2. [아이나비 블랙박스 QXD1000α 주행 영상 후기]({% post_url 2017-07-13-qxd1000a-drive-record-review %})
 
 - - - - -
 
