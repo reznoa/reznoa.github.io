@@ -4,7 +4,7 @@ title: "아이나비 블랙박스 QXD1000α 주행 영상 후기"
 description: "아이나비 블랙박스 QXD1000α의 주간, 야간, 우천시 주행 영상을 살펴본다."
 date: 2017-07-13 23:21:06 +0900
 category: "생활/가전"
-tags: [아이나비, 블랙박스, 체험단, 영상]
+tags: [아이나비, 블랙박스, 체험단]
 ---
 
 ![로고](https://lh3.googleusercontent.com/-ZOHfv5nwg-M/WWdZVUbc4QI/AAAAAAAAVTY/zn8ULiJl2KETvSp09ow3hvLqfIaWtzhWQCE0YBhgL/s640/QXD1000%25CE%25B1+LOGO.png)
