@@ -5,7 +5,7 @@ category: 도서
 tags: [책, 소설, 장기기증, 장기이식, 마일리스 드 케랑갈, 정혜용, 열린책들, 서평]
 ---
 
-'마일리스 드 케랑갈(Maylis De Kerangal)'의 '살아 있는 자를 수선하기(Réparer les vivants / Heal the Living)'는
+'마일리스 드 케랑갈(Maylis De Kerangal)'의 '살아 있는 자를 수선하기(Réparer les vivants / The Heart)'는
 장기기증과 이식을 소재로 한 의학 소설이다.
 
 ![표지](https://lh3.googleusercontent.com/-W17-T31it-4/WWunKTODGEI/AAAAAAAAVXo/cJK_4y1fqk8N0T552bH7a3FZYfa8W2AlQCE0YBhgL/s420/heal-the-living-book-3d.jpg "기증자의 사망에서부터 수술까지 장기이식 과정을 따라가며 이야기를 풀어낸다.")
