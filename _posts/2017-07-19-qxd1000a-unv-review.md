@@ -65,7 +65,7 @@ OFF 영상 화면은 자동차의 외곽선이 흐리고 나무나 쇠창살 부
 ![UNV on](https://lh3.googleusercontent.com/-sy-HQLisax8/WW96gAN2VAI/AAAAAAAAVZ4/-Ucfolq42lkxfXl1Rd9ZyTnN2kokcSYzQCE0YBhgL/w340/qxd1000a-unv-on.jpg)
 
 당연히 왼쪽이 일반 카메라로 찍은 사진이다.
-UNV이 얼마나 선명하게 구분할 수 있는 야간 영상을 찍어주는지 알 수 있다.
+UNV가 얼마나 선명하게 구분할 수 있는 야간 영상을 찍어주는지 알 수 있다.
 
 여기서는 주차 모드시의 UNV만을 살펴보고 주행(상시 모드)시의 비교는 굳이 하지 않았는데,
 주행시엔 도로의 가로등과 헤드라이트를 통해 충분한 빛을 얻을 수 있기 때문이다.
