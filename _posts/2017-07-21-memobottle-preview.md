@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "최고의 휴대성을 보장하는 물병 - 메모보틀(memobottle)"
+title: "전통적인 모양을 깨 휴대성을 높인 아이디어 물병 - 메모보틀(memobottle)"
 category: 아이디어
 tags: [아이디어]
 ---
