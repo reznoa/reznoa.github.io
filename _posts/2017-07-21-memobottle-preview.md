@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "전통적인 모양을 깨 휴대성을 높인 아이디어 물병 - 메모보틀(memobottle)"
+title: "익숙한 모양에서 벗어나 휴대성을 크게 높인 아이디어 물병 - 메모보틀(memobottle)"
 category: 아이디어
 tags: [아이디어]
 ---
