@@ -39,7 +39,7 @@ A6   | 375ml | 195mm x 112mm x 30mm | $28.00
 크기가 실제 사용하기에 좀 애매하다 싶었나보다.
 
 또, 당초엔 [Eastman Tritan™ 합성폴리에스터](http://www.eastman.com/Markets/Tritan_Safe/Pages/Tritan_Safe_Korean.aspx)를 사용해
-BPA-Free 뿐 아니라 식기세척기에서도 사용할 수 있도록 하겠다 했었는데,
+BPA-Free 일 뿐 아니라 식기세척기에서도 사용할 수 있도록 하겠다 했었는데,
 현재 판매 제품은 식기세척기 사용이 안되고
 탄산음료 역시 담지 말라고 표기되어있다.
 최종 제품을 만들때 재료를 바꾼 모양이다.
