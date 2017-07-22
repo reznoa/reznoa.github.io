@@ -6,6 +6,11 @@ category: 컴퓨터
 tags: [Windows, RDP]
 ---
 
+<div class="im im-error" markdown="1">
+Windows 10은 Creative Update 이후 제대로 동작하지 않는다.
+해결법을 찾을지, 지원을 중단할지 확실치 않다.
+</div>
+
 ## 소개
 
 Windows는 다양한 기능들을 제공하며,
