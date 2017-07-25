@@ -11,7 +11,8 @@ tags: [아이나비, 블랙박스, 체험단]
 
 1. [아이나비 블랙박스 QXD1000α 장착 후기]({% post_url 2017-07-13-qxd1000a-install-review %})
 2. [아이나비 블랙박스 QXD1000α 주행 영상 후기]({% post_url 2017-07-13-qxd1000a-drive-record-review %})
-2. [아이나비 블랙박스 QXD1000α 울트라 나이트 비전(Ultra Night Vision) 후기]({% post_url 2017-07-19-qxd1000a-unv-review %})
+3. [아이나비 블랙박스 QXD1000α 울트라 나이트 비전(Ultra Night Vision) 후기]({% post_url 2017-07-19-qxd1000a-unv-review %})
+4. [아이나비 블랙박스 QXD1000α ADAS 기능 후기]({% post_url 2017-07-24-qxd1000a-adas-review %})
 
 - - - - -
 
