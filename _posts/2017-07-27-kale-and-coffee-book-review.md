@@ -14,7 +14,7 @@ excerpt_separator: <!--more-->
 
 ![표지](https://lh3.googleusercontent.com/-v4KWl96PihM/WXnhC2Bg4SI/AAAAAAAAVuk/1H6Sr7Gf9uQvZghysr2SMRnSXYmCKe6JQCE0YBhgL/s360/kale-and-coffee-book.jpg "유익한 내용을 재미있게 풀어냈다.")
 
-"건강한 음식이 우리를 병들게 만든다!"는 도발적인 부주제를 붙인 이 책은
+"건강한 음식이 우리를 병들게 만든다"는 도발적인 부주제를 붙인 이 책은
 소위 '건강한 식단', '**다이어트법(식이요법)'이 얼마나 잘못되었는지 먼저 꼬집는다.
 그 실례로 건강 프로그램을 찍었던 경험을 들었는데,
 역시 현실은 저런 거구나 싶달까.
