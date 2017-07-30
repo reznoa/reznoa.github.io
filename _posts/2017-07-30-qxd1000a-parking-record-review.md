@@ -30,7 +30,7 @@ tags: [아이나비, 블랙박스, 체험단]
 아이나비 블랙박스 QXD1000α는 그런 문제를 최소화하면서도
 주차 중 녹화의 질과 양에 문제가 없도록 저전력 주차 녹화를 강화했다.
 
-![녹화시간 3배](https://lh3.googleusercontent.com/-bOG226Ev5W0/WX4rtFgPmcI/AAAAAAAAV7o/xEQIJkHw9LUB1jxfQGbLnWzapAmVnC-mgCE0YBhgL/s0/qxd1000a-parking-record-time-3x.jpg)
+![녹화시간 3배](https://lh3.googleusercontent.com/-bOG226Ev5W0/WX4rtFgPmcI/AAAAAAAAV7o/xEQIJkHw9LUB1jxfQGbLnWzapAmVnC-mgCE0YBhgL/s640/qxd1000a-parking-record-time-3x.jpg)
 
 물론, 기본이 되는 것은 저전력 설계다.
 이를 통해 QXD1000α는 기존 대비 3배 이상의 장시간 주차 녹화 시간을 자랑하게 됐다.
@@ -40,11 +40,11 @@ tags: [아이나비, 블랙박스, 체험단]
 추가로 스마트폰을 통해 배터리 잔량과 보관상태, 남은 녹화 가능 시간, 주차 중 이벤트 발생으로 인한 녹화 횟수를 무선으로 확인할 수 있다고 한다.
 iVolt의 후속작인 iVolt Connected는 아직 출시되지 않았다.
 
-![iVolt Connected](https://lh3.googleusercontent.com/9ffyjZ3Fcz5HCuxiNu3MOVthmXt0JH00xTMIAKKdKCU-P6ukTa2-pIPLx5ETzWsA6qiP_nRulQ=s0)
+![iVolt Connected](https://lh3.googleusercontent.com/9ffyjZ3Fcz5HCuxiNu3MOVthmXt0JH00xTMIAKKdKCU-P6ukTa2-pIPLx5ETzWsA6qiP_nRulQ=s640)
 
 주차 녹화 모드도 모션 감지, 타임랩스, 저전력 총 3가지를 준비해 상황에 따라 선택해서 사용할 수 있게 했다.
 
-![주차 모드 옵션](https://lh3.googleusercontent.com/-9opSx1QThCM/WX4sLrIKBiI/AAAAAAAAV74/Vja8CLJPGlIXM5hUMXHcHkU90uATTclAQCE0YBhgL/s0/QXD1000_Setting-003-s3.png)
+![주차 모드 옵션](https://lh3.googleusercontent.com/-9opSx1QThCM/WX4sLrIKBiI/AAAAAAAAV74/Vja8CLJPGlIXM5hUMXHcHkU90uATTclAQCE0YBhgL/w320/QXD1000_Setting-003-s3.png)
 
 '모션 감지' 모드는 카메라에 움직임이 감지되면 녹화하는 모드다.
 사람이 지나간다던가, 차가 지나간다든가 할 때가 대표적이다.
@@ -79,7 +79,7 @@ QXD1000α는 추가로 배터리 전압값에 따라 블랙박스를 자동으�
 기본은 차량 전압과 같은 12V/24V로 설정되어 있다.
 필요하다면 설정을 바꿔 방전에 더 신경 쓰거나, 블랙박스 작동 시간에 더 할애할 수도 있다.
 
-![녹화 종료 전압 설정](https://lh3.googleusercontent.com/-rCM2E68Wckw/WX4wBPmfi0I/AAAAAAAAV8Q/n7MIkueIas0_JZzvl-1XcRDKy5ijSqplgCE0YBhgL/s0/QXD1000_Setting-003-3.png)
+![녹화 종료 전압 설정](https://lh3.googleusercontent.com/-rCM2E68Wckw/WX4wBPmfi0I/AAAAAAAAV8Q/n7MIkueIas0_JZzvl-1XcRDKy5ijSqplgCE0YBhgL/w320/QXD1000_Setting-003-3.png)
 
 자동차 배터리 충전 주기는 대체로 1주일 정도다.
 배터리의 용량과 수명에 따라 방전될 때까지 걸리는 시간은 다르겠지만,
