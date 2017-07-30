@@ -192,6 +192,10 @@ h3 { font-size: 1.5em; }
 .post-content img {
 	max-width: 100%;
 }
+.post-content > p > img:first-child:last-child {
+	margin: auto;
+	display: block;
+}
 
 .categorybox,
 .tagbox {
