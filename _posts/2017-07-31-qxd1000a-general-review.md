@@ -21,7 +21,7 @@ QXD1000α는 아이나비의 플래그십 블랙박스다.
 
 ![QXD1000α 제품 이미지](https://lh3.googleusercontent.com/-8OOXpIbKWVY/WX-DqIsNGBI/AAAAAAAAV_g/fnRfsT7X5ngowFjxn-PS5r2js-FPlWmYwCE0YBhgL/s640/qxd1000a.jpg)
 
-플래그십 블랙박스이지만, 이게 최고급 제품인 것은 아니다.
+플래그십 제품이지만, 최고급 제품인 것은 아니다.
 더 고급 모델인 QUANTUM이 있기 때문이다.
 QXD1000α는 그 한 단계 아래인 고급형,
 디지털카메라로 말하자면 '하이엔드 카메라' 정도에 위치한 놈이다.
