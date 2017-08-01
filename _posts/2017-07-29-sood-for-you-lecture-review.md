@@ -8,7 +8,7 @@ tags: [강좌, 칫솔질, 큐라덴, 위블]
 
 ## SOOD 강좌 소개
 
-![SOOD for YOU](http://curaden.co/data/goods/17/04/16/1000000102/1000000102_detail_026.jpg "깨끗하고 건강한 당신의 이를 위한 올바른 칫솔질, SOOD")
+![SOOD for YOU](https://lh3.googleusercontent.com/-U8xNwI77gEs/WYBFq88pmqI/AAAAAAAAWAc/cnweCmt2ETAsqD-TYZX_lfaF8LEJxYq2ACE0YBhgL/s0/sood-for-you.jpg "깨끗하고 건강한 당신의 이를 위한 올바른 칫솔질, SOOD")
 
 "SOOD for YOU"는 충치와 잇몸질환, 그리고 그걸 예방하기 위한 칫솔질에 대한 강좌다.
 
@@ -40,7 +40,7 @@ SOOD 강좌는 다음과 같은 3파트로 나눌 수 있다.
 놔두면 점점 뭉쳐 조직을 이루고,
 조직을 이룬 세균은 이에 해로운 작용을 해 썩게 만든다.
 
-![Dental Biofilm](https://blog.dentalplans.com/wp-content/uploads/2016/10/2015-10-Biofilm-teeth.jpg "프라크(Plaque)로 많이 알려진 세균막이 모든 문제의 원인이다.")
+![Dental Biofilm](https://lh3.googleusercontent.com/-2FjneN-X1sY/WYBGH1sUvSI/AAAAAAAAWAs/8lAWajyBPUs1x6cnuKs5pn46GyAxPEH-wCE0YBhgL/s0/dental-biofilm.jpg "프라크(Plaque)로 많이 알려진 세균막이 모든 문제의 원인이다.")
 
 이 세균막은 또한 놔두면 쌓여서 덩어리를 이루는데,
 이렇게 죽은 세균과 무기질이 쌓여 뭉친 것을 치석이라고 한다.
@@ -142,7 +142,7 @@ pH에 따른 치아 마모 정도에 대한 실험 결과에 따른 것이다.
 오히려 뾰족한 끝이 잇몸을 찔러 상처를 낼 수 있다.
 진짜 미세모는 모가 뿌리부터 끝까지 모두 가늘어야 한다.
 
-![자칭 미세모](http://curaden.co/data/editor/board/inform/e487f65ea41ef3b4.jpg "대부분 '미세모'는 끝만 뾰족하게 만든 것이다.")
+![자칭 미세모](https://lh3.googleusercontent.com/-u9U3kcy7fs0/WYBGdGFWbuI/AAAAAAAAWA8/ytHNbm6X5KsZYmFFlPkAizWjNasH_fV9wCE0YBhgL/w640/fake-fine-brush.jpg "대부분 '미세모'는 끝만 뾰족하게 만든 것이다.")
 
 칫솔모의 디자인이 울퉁불퉁한 것도 별로다.
 만약 모 모양과 이가 잘 맞는다면 효과가 있을 수도 있겠지만,
@@ -155,7 +155,7 @@ pH에 따른 치아 마모 정도에 대한 실험 결과에 따른 것이다.
 만약, 칫솔 정보에 모의 가늘기와 수에 대해 표시가 되어있다면, 이걸 기준으로 삼는다.
 만약 둘 다 표시되어있지 않다면, 나일론으로 된 굵은 모로 만든 칫솔이므로 고민하지 말고 거르면 된다.
 
-![진짜 미세모](http://curaden.co/data/editor/board/inform/81e204439501db74.png "진짜 미세모는 뿌리부터 끝까지 가는 것이다.")
+![진짜 미세모](https://lh3.googleusercontent.com/-nUiNpjsL8pg/WYBG9lAur6I/AAAAAAAAWBM/ozOs_UsiPwsBXSEFG4_r6O7s3PIoiWlLQCE0YBhgL/w640/real-fine-brush.jpg "진짜 미세모는 뿌리부터 끝까지 가는 것이다.")
 
 칫솔은 끝이 살짝 벌어진 정도가 되는 3개월마다 바꾸는 게 좋다.
 이는 칫솔모 끝으로 닦는 것인데, 끝이 벌어지면 그 역할을 제대로 하기 어렵기 때문이다.
@@ -214,7 +214,7 @@ pH에 따른 치아 마모 정도에 대한 실험 결과에 따른 것이다.
 여기에는 치실보다 치간칫솔이 더 좋다.
 치실은 이와의 접촉면이 적어서 큰 칫솔질 효과를 기대하기 어렵기 때문이다.
 
-![이쑤시개, 치간칫솔, 치실 비교](https://lh3.googleusercontent.com/-GgIZIbxwMRY/WXzWDtmcL2I/AAAAAAAAV2s/_fEWSblxbtEjxcjqmOniXGZkciwDM8R9wCE0YBhgL/s0/compare-toothpick-interdental-brush-floss.png "이쑤시개와 치실은 접촉면에서 치간칫솔을 이길 수 없다.")
+![이쑤시개, 치간칫솔, 치실 비교](https://lh3.googleusercontent.com/-GgIZIbxwMRY/WXzWDtmcL2I/AAAAAAAAV2s/_fEWSblxbtEjxcjqmOniXGZkciwDM8R9wCE0YBhgL/w640/compare-toothpick-interdental-brush-floss.png "이쑤시개와 치실은 접촉면에서 치간칫솔을 이길 수 없다.")
 
 <!--
 ![치실, 치간칫솔 비교](http://curaden.co/data/editor/board/inform/e1990cb2d3a3e840.jpg "치실은 이 모양에 따라 접촉면이 적을 수 있다.")
@@ -231,7 +231,7 @@ pH에 따른 치아 마모 정도에 대한 실험 결과에 따른 것이다.
 각 이 사이의 틈은 각기 다르므로,
 자신에게 맞는 크기의 치간칫솔을 3~4개 정도 사용하는 게 좋다.
 
-![치간칫솔에 따른 차이](http://curaden.co/data/editor/board/inform/341e5eb320ae7e87.jpg "털이 길고 틈에 맞는 제품을 사용해야 제대로 된 효과를 기대할 수 있다.")
+![치간칫솔에 따른 차이](https://lh3.googleusercontent.com/-Jr_hq0hmCLI/WYBHUlh5iXI/AAAAAAAAWBg/6VQ-LiITwS8a86hcpeutGnZNFDCsY545ACE0YBhgL/w640/interdental-brush-comp.jpg "털이 길고 틈에 맞는 제품을 사용해야 제대로 된 효과를 기대할 수 있다.")
 
 치간칫솔을 쓸 때는 틈에 넣고 한 번만 왔다 갔다 하면 충분하다.
 치간칫솔질의 목적은 세균 조직을 흐트러뜨리기 위한 것이기 때문이다.
