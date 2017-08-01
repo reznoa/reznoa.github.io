@@ -275,18 +275,12 @@ pH에 따른 치아 마모 정도에 대한 실험 결과에 따른 것이다.
 강좌는 치과의사가 했지만, 그 주최자는 큐라프록스(Curaprox) 제품을 판매하는 [큐라덴 코리아](http://curaden.co/)다.
 그러니 당연히 칫솔질을 위한 좋은 도구로 큐라프록스 제품을 소개하고,
 실습에도 역시 큐라프록스 제품을 사용한다.
-<!--
-강좌비 3만원도 거의 실습을 위해 제공하는 큐라프록스 제품 비용이라고 볼법하다.
--->
-3시간 가까이 들은 강좌의 결론이 '우리 제품 짱짱맨'인 것처럼 느껴 지기기도 하는 이유다.
+유료인 강좌비 3만 원도 사실상 실습을 위해 제공하는 큐라프록스 제품 비용이라고 볼 수 있다.
+SOOD for YOU는 사실상 광고와 상품판매도 겸한 강좌인 셈이다.
 
-<!--
-![큐라프록스 제품군](http://curaden.co/data/editor/board/inform/917733c388c3d60a.jpg "SOOD for YOU는 광고와 상품판매를 겸한 강좌다.")
--->
+![제공 제품](https://lh3.googleusercontent.com/uanFS5OPw5Uusd_2exOFkb12WoHxtWZSC91fxYea_HBHe9s5q-FHnMTYX1AtVKMVmCxLTFHKpBri_Q=s0 "칫솔 2개, 치간칫솔 세트, 치약 샘플, 그리고 손거울을 제공한다.")
 
-![제공 제품](https://lh3.googleusercontent.com/uanFS5OPw5Uusd_2exOFkb12WoHxtWZSC91fxYea_HBHe9s5q-FHnMTYX1AtVKMVmCxLTFHKpBri_Q=s0 "SOOD for YOU는 광고와 상품판매를 겸한 강좌다. 참가비는 3만 원이며 칫솔 2개, 치간칫솔 세트, 치약 샘플, 그리고 손거울을 준다.")
-
-그런데도 그게 기분 나쁘지만은 않았던 건,
+그런데 그게 기분 나쁘지는 않았던 건,
 일단 교육 내용이 좋고,
 게다가 제공하는 큐라프록스 제품도 좋았기 때문이다.
 원래부터 미세모를 선호해왔던 나로서는, 좋은 제품을 소개받았다는 느낌도 들었다.
