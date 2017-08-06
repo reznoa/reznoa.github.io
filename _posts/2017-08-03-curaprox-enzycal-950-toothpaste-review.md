@@ -2,7 +2,7 @@
 layout: post
 title: "No 계면활성제, Yes 불소, 저 마모도, 저 자극성 치약 - 큐라프록스 엔자이칼 950"
 description: "치약의 중요한 선택 기준을 모두 만족하는 치약 큐라프록스 엔자이칼 950을 사용해봤다."
-category: 생활/가전
+category: "건강"
 tags: [큐라덴, 치약]
 ---
 
