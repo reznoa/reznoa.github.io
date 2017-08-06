@@ -84,7 +84,7 @@ $ sqlplus "/as sysdba"
 
 SQL> CREATE user your_user_name IDENTIFIED BY your_password;
 
-SQL> GRANT connect, resource TO your_user_name;
+SQL> GRANT connect, dba, resource TO your_user_name;
 ~~~
 
 
