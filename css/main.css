@@ -299,13 +299,25 @@ div.mediablock p.mediablock-caption{
 }
 
 .im {
-	vertical-align: middle;
+	display: flex;
+	align-items: center;
+
 	width: 75%;
 	margin: 3em auto;
-	padding: 1.5em 1em 1.5em 4.5em;
+	padding: 1.5em;
 	border-radius:         0.5em;
 	-moz-border-radius:    0.5em;
 	-webkit-border-radius: 0.5em;
+}
+.im:before {
+	display: flex;
+	align-items: center;
+	margin-right: 0.4em;
+
+	font-size: 3em;
+	font-family:FontAwesome;
+	-webkit-font-smoothing:antialiased;
+	-moz-osx-font-smoothing:grayscale
 }
 .im ul {
 	margin: 0;
@@ -328,15 +340,6 @@ div.mediablock p.mediablock-caption{
 .im-error {
 	color: #D8000C;
 	background-color: #FFBABA;
-}
-.im-info:before, .im-success:before, .im-warning:before, .im-error:before {
-	margin: -0.32em 0 0 -1.15em;
-	font-size: 3em;
-	float: left;
-
-	font-family:FontAwesome;
-	-webkit-font-smoothing:antialiased;
-	-moz-osx-font-smoothing:grayscale
 }
 .im-info:before {
 	content:"\f05a";
