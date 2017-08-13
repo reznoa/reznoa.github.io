@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "일반텍스트로 체크리스트를 만드는 방법"
-description: "일반텍스트로 "
+description: "체크리스트 만들기 좋은 텍스트 표현법을 소개한다."
 category: 컴퓨터
 tags: [체크리스트]
 ---
