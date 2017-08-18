@@ -17,14 +17,14 @@ tags: [아이나비, 블랙박스, 체험단]
 
 - - - - -
 
-아이나비 블랙박스 QXD1000α가 가장 내세우는 것은 녹화 영상이다.
+아이나비 블랙박스 QXD1000α가 가장 내세우는 것은 녹화 기능이다.
 그 중에서도 블랙박스의 도움이 가장 절실한 야간 영상에서의 강점을 내세운다.
 육안으로도 파악하기 어려운 사물도 식별할 수 있는 나이트 비전,
 울트라 나이트 비전(Ultra Night Vision, 이하 UNV)이다.
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/tHwC4iUYAcI" frameborder="0" allowfullscreen></iframe></center>
 
-UNV의 기본은 센서다.
+나이트 비전의 기본은 센서다.
 그래서 QXD1000α는 SONY Starvis CMOS IMX291 센서를 사용했다.
 Starvis 센서는 별이 선명히 보일 정도의 저조도에서도 뛰어난 이미지를 얻는걸로 유명하다.
 아이나비는 여기에 CTS Technology(Contrast Tuning & Stability Technology)를 더했다.
@@ -52,7 +52,7 @@ Starvis 센서가 워낙 저조도에 강하다보니 OFF 시에도 괜찮은 �
 만약 그렇게 단순하게 했다면 가로등 빛이 걷잡을 수 없이 번져나오는 영상이 나왔을 것이기 때문이다.
 더 밝은 영상이 나오면서도 빛 번짐은 최소화 한 것만봐도 CTS를 자랑할만해 보인다.
 
-다음은 더 자세히 볼 수 있도록 암부의 일부를 보정없이 잘라낸 것이다.
+다음은 더 자세히 볼 수 있도록 암부 일부를 보정없이 잘라낸 것이다.
 
 ![UNV off crop](https://lh3.googleusercontent.com/-AcQkuli0MwE/WW96upLQjnI/AAAAAAAAVaI/f3cdmHn3EeANDMBcm4G3UEL1mO4v8eGQQCE0YBhgL/w340/qxd1000a-unv-off-crop.jpg)
 ![UNV on crop](https://lh3.googleusercontent.com/-aH-KXDRBhOQ/WW968myExFI/AAAAAAAAVaY/GF05zRuuOisqexWsG2Wjqt5B9bWtoQoCQCE0YBhgL/w340/qxd1000a-unv-on-crop.jpg)
@@ -61,7 +61,7 @@ Starvis 센서가 워낙 저조도에 강하다보니 OFF 시에도 괜찮은 �
 OFF 영상 화면은 자동차의 외곽선이 흐리고 나무나 쇠창살 부분도 잘 드러나지 않는다.
 하지만 ON 영상 화면은 자동차의 외곽선도 선명하고 나무의 형체와 담장의 쇠창살 모양 역시 잘 드러나있다.
 
-여기서 비교를 위해 일반 카메라로 찍은 사진을 공개한다.
+이 쯤에서 비교를 위해 일반 카메라로 찍은 사진을 공개해 보겠다.
 얼마나 어두웠는지를 보이기 위한 대조군이므로 감도나 셔터 스피드는 따로 조절하지 않고 찍었다.
 
 ![UNV 대조군](https://lh3.googleusercontent.com/-Ot3zKwvZ21k/WW9_sf4uReI/AAAAAAAAVbU/MtPVpnXTKnIzw0dCKphDzz2Yr_I2bjD2gCE0YBhgL/w340/qxd1000a-unv-controlgroup.jpg)
