@@ -43,10 +43,10 @@ tags: [프리뷰, 아이디어 제품, 열쇠]
 ![자동감김 줄](https://lh3.googleusercontent.com/-nQpIkiKZIGs/WZhXGp2pBTI/AAAAAAAAWUc/OaTJPT72NAklhjCq4IZDRXVoJCW0ydGxwCE0YBhgL/w320/keysmart-util-quick-retract.jpg)
 
 병따개, USB 메모리, 자동 감김 줄(Quick Retract), 디봇툴(잔디 보수기) 등
-추가로 액세서리도 판매하는데
-다 별로 살 필요 없어 보인다.
-그나마 유용해 보이는 자동 감김 줄도
-나일론 줄에 플라스틱이라 얼마나 튼튼할지 의문이고.
+추가 액세서리도 판매하는데 대게는 별 쓸모 없어 보인다.
+굳이 열쇠집에 달아야 할 필요는 없기 때문이다.
+그나마 유용해 보이는건 자동 감김 줄인데,
+이것도 나일론 줄에 플라스틱이라 얼마나 튼튼할지 모르겠다.
 
 가격은 기본 제품이 $19.99 USD, 2~14키 확장팩이 $1.98 USD다.
 한국 쇼핑몰에서도 팔고 있는데 기본 제품이 23,000원, 확장팩은 7,000원으로 좀 더 비싸다.
