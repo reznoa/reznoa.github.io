@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "멀티툴처럼 모을 수 있게 해주는 열쇠집 - 키스마트(KeySmart)"
+title: "멀티툴처럼 키를 모을 수 있게 해주는 열쇠집 - 키스마트(KeySmart)"
 category: "아이디어 제품"
 tags: [프리뷰, 아이디어 제품, 열쇠]
 ---
