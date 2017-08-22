@@ -199,13 +199,13 @@ h3 { font-size: 1.5em; }
 
 .categorybox,
 .tagbox {
-	line-height: 200%;
+	line-height: 210%;
 }
 .tagbox {
 	text-align: center;
 }
 .postlist .postlist-tags {
-	line-height: 170%;
+	line-height: 160%;
 }
 .post-tags {
 	line-height: 200%;
@@ -222,10 +222,17 @@ h3 { font-size: 1.5em; }
 	text-decoration: none;
 	color: black;
 	white-space: nowrap;
-	border: 1px solid #ccc;
-	border-radius:         1em;
-	-moz-border-radius:    1em;
-	-webkit-border-radius: 1em;
+	background: #f3f3f3;
+	border: 1px solid transparent;
+	border-radius:         0.5em;
+	-moz-border-radius:    0.5em;
+	-webkit-border-radius: 0.5em;
+}
+.categorybox a:before,
+.tagbox a:before,
+.postlist .postlist-tags a:before,
+.post-tags a:before {
+	content: "#";
 }
 .categorybox a,
 .tagbox a {
@@ -251,9 +258,9 @@ h3 { font-size: 1.5em; }
 	font-size: 0.7em;
 	padding: 1px;
 	background: #ddd;
-	border-radius:         1em;
-	-moz-border-radius:    1em;
-	-webkit-border-radius: 1em;
+	border-radius:         0.5em;
+	-moz-border-radius:    0.5em;
+	-webkit-border-radius: 0.5em;
 }
 
 div.footnotes {
