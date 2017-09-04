@@ -132,4 +132,4 @@ GI가 높으면 음식을 먹은 후 혈당이 급격히 올라갔다가 떨어�
 
 
 
-<div style="text-align: center; padding: 1em;"><a href="http://reviewplace.co.kr/detail.php?number=9600" target="_blank"><img src="http://reviewplace.co.kr/blog_traffic.php?key=OTYwMHxyZXpub2E%3D" border="0"></a></div>
+<div style="text-align: center; padding: 1em;"><a href="http://reviewplace.co.kr/detail.php?number=9600" target="_blank"><img src="http://reviewplace.co.kr/blog_traffic.php?key=OTYwMHxyZXpub2E%3D" border="0" alt="본 포스팅은 실제 상품/서비스 외에 경제적 대가 없이 건강한 리뷰문화를 만들기 위해 작성한 진솔한 후기입니다."></a></div>
