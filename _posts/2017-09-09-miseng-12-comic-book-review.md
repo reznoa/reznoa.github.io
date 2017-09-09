@@ -31,6 +31,13 @@ tags: [책, 만화, 윤태호, 위즈덤하우스, 서평]
 ![]()
 ![단행본](https://lh3.googleusercontent.com/fzbTnk2audFKJc65PPT288hqV94FldulxMiXD5IlCTlrWYGcPcevXxiC_VMDuykQ-N-spg1NtFC9xA=h400)
 
+위즈덤하우스에서는 단행본으로 보는 사람들을 위해
+미생 시즌2 줄거리 3분 요약 동영상도 공개했는데,
+크고 굵직한 것들을 짧게 잘 정리했으므로
+책을 보기전에 기억을 되살리는데 좋다.
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/VrYB3fDX27A" frameborder="0" allowfullscreen></iframe></center>
+
 <div class="im im-warning">
 책 내용에 대해서도 얘기하므로 주의 바란다.
 </div>
