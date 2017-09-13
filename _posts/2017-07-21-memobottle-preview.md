@@ -9,8 +9,10 @@ tags: [프리뷰, 아이디어 제품, 물병]
 
 ![제품 이미지](https://cdn.shopify.com/s/files/1/0895/4522/products/A5_Hero__1.jpg)
 
+<p class="center" markdown="1">
 ![이미지 샷 1](https://cdn.shopify.com/s/files/1/0895/4522/products/A5_3_1024x1024-1_320x320.jpg)
 ![이미지 샷 2](https://cdn.shopify.com/s/files/1/0895/4522/products/A5_4_320x320.jpg)
+</p>
 
 물병은 보통 원기둥 모양으로 되어있는데,
 이런 물병의 단점은 휴대가 어렵다는거다.

@@ -360,3 +360,7 @@ div.mediablock p.mediablock-caption{
 .im-error:before {
 	content:'\f057';
 }
+
+.center {
+	text-align: center;
+}

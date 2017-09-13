@@ -39,8 +39,10 @@ tags: [프리뷰, 아이디어 제품, 열쇠]
 줄을 달든 자동차키를 달든 고리는 대부분이 쓸 텐데,
 왜 굳이 별도 부품으로 만들었나 모르겠다.
 
+<p class="center" markdown="1">
 ![병따개 부품](https://lh3.googleusercontent.com/-zgW3vSn1dsE/WZhX4eTHpJI/AAAAAAAAWUw/u3uAFF0AsYYj92TCs_85AsFTQikXJuhbwCE0YBhgL/w320/keysmart-acc-bottle-opener.png)
 ![자동감김 줄](https://lh3.googleusercontent.com/-nQpIkiKZIGs/WZhXGp2pBTI/AAAAAAAAWUc/OaTJPT72NAklhjCq4IZDRXVoJCW0ydGxwCE0YBhgL/w320/keysmart-util-quick-retract.jpg)
+</p>
 
 병따개, USB 메모리, 자동 감김 줄(Quick Retract), 디봇툴(잔디 보수기) 등
 추가 액세서리도 판매하는데 대게는 별 쓸모 없어 보인다.

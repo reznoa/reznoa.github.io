@@ -57,7 +57,7 @@ tags: [책, 건강, 카비타 데브간, 다산북스, 스토리3.0, 서평]
 아마 '한국에선 그게 더 잘 팔릴 것'이란 마케팅의 판단에 의한 것이겠지만,
 내용에 비해선 역시 좀 아쉬운 점이다.
 
-<p style="text-align: center;" markdown="1">
+<p class="center" markdown="1">
 ![커버](https://lh3.googleusercontent.com/-O-qyKc8-YHY/Wbaqj9yTETI/AAAAAAAAXJI/hhofgwTh0y4xXTVpXfu3Hx7ROK_OM0LqACE0YBhgL/s360/dont-diet-book.jpg)
 ![삽화](https://lh3.googleusercontent.com/-QeqKll5xFEY/Wbazm987dTI/AAAAAAAAXJg/BlVqxUDLsGEt-GgqnbPby2mpcyvQRlxNQCE0YBhgL/s360/dont-diet-book-pic.jpg)
 </p>

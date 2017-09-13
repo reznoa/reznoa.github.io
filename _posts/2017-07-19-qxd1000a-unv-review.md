@@ -40,8 +40,10 @@ CTS는 간단하게 말하면 아이나비만의 센서 설정값이다.
 
 다음은 UNV OFF/ON 녹화 영상을 캡쳐한 것이다.
 
+<p class="center" markdown="1">
 ![UNV off](https://lh3.googleusercontent.com/-N3XrAX9HJZc/WW96YwvUaUI/AAAAAAAAVZo/FUQgCSb3yyEhgAIfL3_kWUz6WNyt9HryACE0YBhgL/w340/qxd1000a-unv-off.jpg)
 ![UNV on](https://lh3.googleusercontent.com/-sy-HQLisax8/WW96gAN2VAI/AAAAAAAAVZ4/-Ucfolq42lkxfXl1Rd9ZyTnN2kokcSYzQCE0YBhgL/w340/qxd1000a-unv-on.jpg)
+</p>
 
 왼쪽이 OFF, 오른쪽이 ON이다.
 도시에는 왠만하면 다 가로등이 있고(위 테스트 장소에도 가로등이 있다),
@@ -54,8 +56,10 @@ Starvis 센서가 워낙 저조도에 강하다보니 OFF 시에도 괜찮은 �
 
 다음은 더 자세히 볼 수 있도록 암부 일부를 보정없이 잘라낸 것이다.
 
+<p class="center" markdown="1">
 ![UNV off crop](https://lh3.googleusercontent.com/-AcQkuli0MwE/WW96upLQjnI/AAAAAAAAVaI/f3cdmHn3EeANDMBcm4G3UEL1mO4v8eGQQCE0YBhgL/w340/qxd1000a-unv-off-crop.jpg)
 ![UNV on crop](https://lh3.googleusercontent.com/-aH-KXDRBhOQ/WW968myExFI/AAAAAAAAVaY/GF05zRuuOisqexWsG2Wjqt5B9bWtoQoCQCE0YBhgL/w340/qxd1000a-unv-on-crop.jpg)
+</p>
 
 당연히 왼쪽이 OFF, 오른쪽이 ON이다.
 OFF 영상 화면은 자동차의 외곽선이 흐리고 나무나 쇠창살 부분도 잘 드러나지 않는다.
@@ -64,8 +68,10 @@ OFF 영상 화면은 자동차의 외곽선이 흐리고 나무나 쇠창살 부
 이 쯤에서 비교를 위해 일반 카메라로 찍은 사진을 공개해 보겠다.
 얼마나 어두웠는지를 보이기 위한 대조군이므로 감도나 셔터 스피드는 따로 조절하지 않고 찍었다.
 
+<p class="center" markdown="1">
 ![UNV 대조군](https://lh3.googleusercontent.com/-Ot3zKwvZ21k/WW9_sf4uReI/AAAAAAAAVbU/MtPVpnXTKnIzw0dCKphDzz2Yr_I2bjD2gCE0YBhgL/w340/qxd1000a-unv-controlgroup.jpg)
 ![UNV on](https://lh3.googleusercontent.com/-sy-HQLisax8/WW96gAN2VAI/AAAAAAAAVZ4/-Ucfolq42lkxfXl1Rd9ZyTnN2kokcSYzQCE0YBhgL/w340/qxd1000a-unv-on.jpg)
+</p>
 
 당연히 왼쪽이 일반 카메라로 찍은 사진이다.
 UNV가 얼마나 선명하게 구분할 수 있는 야간 영상을 찍어주는지 알 수 있다.

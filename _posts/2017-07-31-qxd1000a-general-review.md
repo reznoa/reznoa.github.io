@@ -44,8 +44,10 @@ QXD1000α의 특장점은 다음과 같다:
 
 ![Sony Starvis + CTS](https://lh3.googleusercontent.com/-eE4RuPm2W8E/WX93PuNRqhI/AAAAAAAAV9c/DRiXCgrw4z4RjT63BarN97eT5p2hUh0igCE0YBhgL/s480/qxd1000a-overview-starvis%252Bcts.jpg)
 
+<p class="center" markdown="1">
 ![UNV 대조군](https://lh3.googleusercontent.com/-Ot3zKwvZ21k/WW9_sf4uReI/AAAAAAAAVbU/MtPVpnXTKnIzw0dCKphDzz2Yr_I2bjD2gCE0YBhgL/w340/qxd1000a-unv-controlgroup.jpg)
 ![UNV on](https://lh3.googleusercontent.com/-sy-HQLisax8/WW96gAN2VAI/AAAAAAAAVZ4/-Ucfolq42lkxfXl1Rd9ZyTnN2kokcSYzQCE0YBhgL/w340/qxd1000a-unv-on.jpg)
+</p>
 
 주차 녹화는 기본인 '충격 시 녹화'뿐 아니라
 움직임을 감지했을 때 녹화해주는 '모션 감지',

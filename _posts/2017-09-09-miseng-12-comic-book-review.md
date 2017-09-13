@@ -25,7 +25,7 @@ tags: [책, 만화, 윤태호, 위즈덤하우스, 서평]
 단행본에서는 도저히 어떻게 할 수 없었나 보다.
 딱 보기에도 대사를 그림 밖에 적기엔 컷이 너무 작기 때문이다.
 
-<p style="text-align: center;" markdown="1">
+<p class="center" markdown="1">
 ![웹툰](https://lh3.googleusercontent.com/-HzZHPK0bBLQ/WbP6dQ-NeYI/AAAAAAAAXGI/K4FSxfkot2wnzNNrJCj0ZsKbhMJfuWviQCE0YBhgL/h400/miseng-2-36-20.jpg)
 ![단행본](https://lh3.googleusercontent.com/fzbTnk2audFKJc65PPT288hqV94FldulxMiXD5IlCTlrWYGcPcevXxiC_VMDuykQ-N-spg1NtFC9xA=h400)
 </p>

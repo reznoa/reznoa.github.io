@@ -46,8 +46,10 @@ tags: [책, 그림책, 반려동물, 가족, 노유경, 북극곰, 서평, 예�
 별것 아닌듯한 이야기로
 반려견과의 관계와 공감이란 무엇인지 전해준다.
 
+<p class="center" markdown="1">
 ![온가족](https://lh3.googleusercontent.com/J5PiDa13djVm5FucQvKS-7YzBeOKil6ZQCLhHvQ2Jw6alOH-XY3Yp7-IxeBFbqYo0pI4qZGQidAvdw=w340)
 ![우리는](https://lh3.googleusercontent.com/9_wEdm1jkacLx8s-dieZg-q3080M7GPRP-954Y5Bs7z5gtRL9xvXdJd3LGIgyaRoiN_HZbYVLjQU2A=w340)
+</p>
 
 그리고 가족이란 무엇인지,
 내 가족은 누구인지를 생각해보게 한다.

@@ -69,8 +69,10 @@ tags: [보드게임, 퀴즈, 한국사, 공공누리, 일러스트넷, 바이일
 스티커가 뗐다 붙일 수 있는 매직 스티커가 아니라서 어디에 붙일지 고민하게 만든다.
 매직 스티커까지는 아니더라도 일회용 스티커보다는 차라리 토큰으로 만드는게 더 낫지 않았을까 싶다.
 
+<p class="center" markdown="1">
 ![딱지](https://lh3.googleusercontent.com/keKyf4G8VcBTcxqUaNi7YT7d3TqZy20aWcmk0CxTreyTH15zjw3vgFAbFkUq9Kmn4DIAIbGokA=h240)
 ![딱지 두께](https://lh3.googleusercontent.com/qyOtHgK1_ViA0U3y48kFCCPxJaIYS6pUuhuIZ4MTuHgPOSSMkez9XoNci_Yu2bCHyS3nsAQzsw=h240)
+</p>
 
 '딱지'는 주사위를 보정하거나, '공딱 카드'를 얻기위한 '한국사 퀴즈'를 푸는 용도로 사용할 수 있다.
 퀴즈는 O/X나 단답형이 있는데, 뒷면을 보면 답을 알 수 있으므로 퀴즈에 사용할 때는 딱지를 숨기거나 랜덤으로 뽑아서 사용하는게 좋다.
@@ -88,8 +90,10 @@ X(곱하기)가 나오면 주사위 눈에 따라서 한번에 수십칸을 이�
 옛날 딱지와 달리 두께가 엄청 얇아서 날리거나 치기 같은걸 하기는 조금 어려워 보인다.
 이점은 조금 아쉽기도 한데, 그런 용도로 갖고 놀것이 아니라면 보관에는 더 용이하므로 장단이 있긴 하다.
 
+<p class="center" markdown="1">
 ![딱지 - QR 코드](https://lh3.googleusercontent.com/QfwKRRRgt2b4yBjRnMXzYfjs5x8LNpkv7iuGAus9EtXvWDBewZa1fDHlecUAhcnem-8QTwt-4w=w320)
 ![공딱 퀴즈](https://lh3.googleusercontent.com/1HMWx84_2ijoHoUGJlA94gdsCKyXgxPqKXj2yBV94LKiTxxKRLz79hekjRpNtcJ-Mi_ylzNjDw=w320)
+</p>
 
 딱지 뒷면의 QR 코드는 해당 딱지와 관련된 문제로 바로 연결할 수 있는 주소를 담고있는데,
 해당 사이트는 가입하면 점수와 랭킹도 관리할 수 있다.
