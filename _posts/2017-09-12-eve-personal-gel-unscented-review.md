@@ -123,14 +123,14 @@ https://www.isntree.com/board/board.html?code=isskin83_board9&page=3&type=v&num1
 어떨지 한번 써보고 싶어진다.
 
 몸 안에 쓰는 제품이므로 사용기한도 잘 확인해야 한다.
-유기농의 비율이 높으니 사용기한은 짧을 것 같은데,
-천연방부제가 포함되어있어 그런지 의외로 사용기한이 길다.
-제조 후 약 1년 정도 사용할 수 있는 듯하다.
+사용기한은 튜브 끝에 양각으로 새겨져 있으며,
+얼핏 보면 잘 보이지 않으나 빛에 비춰보면 어렵지 않게 확인할 수 있다.
 
 ![사용 기한](https://lh3.googleusercontent.com/q6_cPqJ-Uq8kLjW1OXGmnASgEXm3N2kAWGNJNQBjoKIjwAVAS5tTHZsO7KkoNeqJEzLWU3xK34CkIA=s640)
 
-사용기한은 튜브 끝에 양각으로 새겨져 있으며,
-얼핏 보면 잘 보이지 않으나 빛에 비춰보면 어렵지 않게 확인할 수 있다.
+사용기한은 제조일로부터 18개월이다.
+유기농의 비율이 높으니 짧지 않을까 했었는데,
+천연방부제가 포함되어있어 그런지 의외로 길다.
 
 
 
