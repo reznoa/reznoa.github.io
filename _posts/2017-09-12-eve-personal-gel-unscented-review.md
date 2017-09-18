@@ -3,7 +3,7 @@ layout: post
 title: "안전하고 사용감 좋은 러브젤, 이브젤(EVE Personal Gel)"
 description: "유기농 재료와 순수 자연 유래 성분을 사용해 먹어도 되는 안전한 러브젤, 이브젤(EVE Personal Gel)을 사용해봤다."
 category: "생활/가전"
-tags: [성인용품, 러브젤, 인스팅터스, 리뷰플레이스]
+tags: [성인용품, 러브젤, 인스팅터스, EVE, 리뷰플레이스]
 ---
 
 ## 소개
