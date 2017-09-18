@@ -114,9 +114,18 @@ h3 { font-size: 1.5em; }
 	color: #36f;
 }
 
+#site-bannber {
+	padding: 1em;
+	margin-top: 2em;
+	text-align: center;
+}
+#site-bannber img {
+	border: 0;
+	vertical-align: middle;
+}
+
 #site-footer {
 	border-top: 1px solid #ccc;
-	margin-top: 2em;
 	padding: 1.5em;
 	background: black;
 }
