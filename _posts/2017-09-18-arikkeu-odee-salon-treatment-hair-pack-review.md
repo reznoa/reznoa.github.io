@@ -67,10 +67,11 @@ tags: [헤어, 리뷰플레이스]
 그 동안 충분히 제품 성분이 흡수될 수 있고
 따로 시간을 보내지 않아도 되서 좋다.
 
-<p class="center" markdown="1">
+<div class="mediablock" markdown="1">
 ![사용 전](https://lh3.googleusercontent.com/0KDqbY8sfIz1u2ozQlGimQjP1fvEc3TtJ9lUHnBYPhx9F4dR-Rko1B3buGpuToV5cdfPVc75D-xIIg=h200)
 ![사용 후](https://lh3.googleusercontent.com/hTAWJtUuF70Q6LJPQBYafN63FtOe-Vr8XCEnSSn5ePRpyDepBNwrucM1zsvS5tT1Mlqq3LQdUb4Edw=h200)
-</p>
+<p class="mediablock-caption">사진으론 잘 표현이 안되는데, 만져보면 확실히 효과를 알 수 있다.</p>
+</div>
 
 사용감은 꽤 양호하다.
 한방 성분이 들어가 특유의 약재 냄새가 나긴 하지만 코를 찌를 정도로 강하진 않아 부담스럽지 않다.
