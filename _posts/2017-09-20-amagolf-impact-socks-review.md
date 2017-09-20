@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "편하고 미끌림이 덜한 양말 - 아마골프 임팩트골프양말(AMA Golf Impact Socks)"
-description: "동의보감에 기록된 한방 오디 성분으로 수분 & 영양 케어를 해주는 오디 살롱 트리트먼트 헤어팩을 사용해봤다."
+description: "'액션 사이클(Action Cycle)'을 통해 강력한 미끄럼 방지를 제공하는 아마골프의 임팩트 양말을 신어봤다."
 category: "생활/가전"
 tags: [양말, 미끄럼 방지, 아마골프, 리뷰플레이스]
 ---
