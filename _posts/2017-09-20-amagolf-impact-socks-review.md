@@ -26,7 +26,7 @@ tags: [양말, 미끄럼 방지, 아마골프, 리뷰플레이스]
 
 ![착용](https://lh3.googleusercontent.com/RCj4WaqXvJK-zyS3sbMDopx0Mcpi28Xo6MxLHYVHBhsX9OQvjalYKNY0UVNcUbLf9HwkNETxvJa4Qg=s640)
 
-미끄럼 방지 기능은 '액션 사이클'이라 부르는
+미끄럼 방지 기능은 '액션 사이클(Action Cycle)'이라 부르는
 양말 바닥의 원을 그리고 있는 문양을 통해 제공된다.
 이 부분은 목장갑 고무처럼 마찰력이 높은데,
 이게 접촉면을 꽉 잡아서 미끄러짐을 막아준다.
