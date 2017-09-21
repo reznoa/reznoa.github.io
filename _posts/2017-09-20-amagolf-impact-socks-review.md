@@ -52,7 +52,7 @@ tags: [양말, 미끄럼 방지, 아마골프, 리뷰플레이스]
 
 <div class="mediablock" markdown="1">
 ![착용 예](https://lh3.googleusercontent.com/KfIMH7ZC2apobsk6NB3bNpYWD7Vq7-iJINlkx0PUCZOqwzrEAzIy-9lmDLqQf_RnZEJ2e86XVe1fEg=s640)
-<p class="mediablock-caption">※ 이 사진은 단순 착용 컷으로, 제품의 특징과는 상관 없음.</p>
+<p class="mediablock-caption">※ 이 사진은 제품 기능성과 상관없는 단순 착용 컷임.</p>
 </div>
 
 미끌림을 막아주는 액션 사이클도 바깥에만 있기 때문에
