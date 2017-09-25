@@ -149,7 +149,7 @@ On이 쓰인 오른쪽을 밀면 열린다.
 교환할때도 편도 2,500원이 아닌 왕복 5,000원을 모두 소비자가 부담해야한다.
 구매할 때 참고 바란다.
 
-제품 정보와 구매는 [공식 홈페이지](http://www.cmglobalcorp.com/)와
+제품에 대한 추가 정보와 구매는 [공식 홈페이지](http://www.cmglobalcorp.com/)와
 [매직Q 스토어팜](http://storefarm.naver.com/magic-q)을 참고한다.
 
 
