@@ -21,10 +21,10 @@ WING은 위아래로 고리가 있고
 보관용 고리를 위로 하면 날개가 아래로 떨어지면서 알아서 접히기 때문이다.
 
 <p class="center" markdown="1">
-![WING 표기 1](https://lh3.googleusercontent.com/jlV2M4rIsHgGSjhIUjmusFcBz1VFAPu3dVkMuUAxDX8oJ6SaPmJld_YphqlEF1YIOoX-zX__I4GoBw=h360)
-![WING 표기 2](https://lh3.googleusercontent.com/C5LraJK24VR2UStZ7CPzIXxj8volUEQLmkAMeB_CuGoNj-SXSK-seYJ9MRYx4z8nXs5XdFEGkcNS0w=h360)
-![WING 표기 3](https://lh3.googleusercontent.com/Kkt9I7BnhzV8-ZCy0OEnCTOYXzVM0BE-joQKgBaz_7ER5LDlsgYix8Zyy_i8xoxkloyV78x4Kg9aQQ=h360)
-![WING 표기 4](https://lh3.googleusercontent.com/o_VbxMGLbC9LCz0pnh6ScMZcGPqkhYoroqYNaAtMYhyFh_E2SLxW4V2YCkoFTsgZKWkwwa4b5bG8Bw=h360)
+![WING 표기 1](https://lh3.googleusercontent.com/jlV2M4rIsHgGSjhIUjmusFcBz1VFAPu3dVkMuUAxDX8oJ6SaPmJld_YphqlEF1YIOoX-zX__I4GoBw=s480)
+![WING 표기 2](https://lh3.googleusercontent.com/C5LraJK24VR2UStZ7CPzIXxj8volUEQLmkAMeB_CuGoNj-SXSK-seYJ9MRYx4z8nXs5XdFEGkcNS0w=s480)  
+![WING 표기 4](https://lh3.googleusercontent.com/o_VbxMGLbC9LCz0pnh6ScMZcGPqkhYoroqYNaAtMYhyFh_E2SLxW4V2YCkoFTsgZKWkwwa4b5bG8Bw=s480)
+![WING 표기 3](https://lh3.googleusercontent.com/Kkt9I7BnhzV8-ZCy0OEnCTOYXzVM0BE-joQKgBaz_7ER5LDlsgYix8Zyy_i8xoxkloyV78x4Kg9aQQ=s480)
 </p>
 
 WING의 장점은 크게 3가지다.
