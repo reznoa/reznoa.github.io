@@ -54,6 +54,8 @@ tags: [마스크, 유타카메이크, 리뷰플레이스]
 물을 마시거나 음식을 먹는 등 입을 사용하는 행위를 마스크 제거 없이 할 수 있다는것도 장점이다.
 마스크를 착용하면 말이 뭉개지기 쉬운데, 그럴 염려도 없다.
 
+![장점](https://lh3.googleusercontent.com/-MMniHFrfbj4/Wd1RfgZQnnI/AAAAAAAAYn0/clOv9iexnVABw88GPjVUFieIHXq7tOkMwCE0YBhgL/w480/yutaka-make-mask-shell-benefit.jpg)
+
 코에 끼우는 것이니 코가 아프지 않을까 싶기도 하겠지만,
 코를 집는 정도까진 아니므로 그런 걱정은 하지 않아도 된다.
 
