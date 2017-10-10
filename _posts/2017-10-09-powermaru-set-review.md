@@ -85,7 +85,7 @@ tags: [건강, 보양식, 추출가공식품, 힘찬마루, 리뷰플레이스]
 
 세트 구매시 선물로 파우치커터기도 제공하는데,
 별거 아닌것 같아 보여도 막상 써보면 상당히 좋다.
-한두번 사용해보면 가위보다 편하게 파우치를 잘라낸 수 있다.
+한두번 사용해보면 가위보다 편하게 파우치를 잘라낼 수 있다.
 자석이 있어 냉장고 등에 붙여두고 사용할 수 있는것도 좋다.
 
 ![파우치커터](https://lh3.googleusercontent.com/9Cc_cLSCLH-YNUrUT1IqKe0i-PgI3_FRp_SKZThuW4lUIdzckovwuEdgRwSGW0z1g4yTa0gOQGKPGg=s640)
