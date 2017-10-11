@@ -76,10 +76,10 @@ WING은 날개 부분에 각각 5개씩 행어 구멍이 있는데,
 
 ![WING 행어 구멍](https://lh3.googleusercontent.com/wN_UeJdwLNecICZG9uimSgpPfeJpK8hbBurHx6OvCUSZ-UnlNa6RH_bGNw6diYoJUyXmGVMt6YrqIQ=s640)
 
-또 잘 보면 WING 표면을 울퉁불퉁하게 처리한걸 알 수 있는데,
-이 거친 표면은 옷이 쉽게 흘러내리지 않게 해준다.
+또 잘 보면 WING 표면을 매끄럽지않게 처리한걸 알 수 있는데,
+이 울퉁불퉁하게 표면은 옷이 쉽게 흘러내리지 않게 해준다.
 
-![거친 표면](https://lh3.googleusercontent.com/IannswjIjLHYXDWKSQf5Gyujf_pPAF0-MhETjPAlLVhd9gQmn-CgxISKdhvhWmiLrhx6YYB1Tr1ClQ=s640)
+![울퉁불퉁한 표면](https://lh3.googleusercontent.com/IannswjIjLHYXDWKSQf5Gyujf_pPAF0-MhETjPAlLVhd9gQmn-CgxISKdhvhWmiLrhx6YYB1Tr1ClQ=s640)
 
 소재가 ABS니 표면을 조금 울퉁불퉁하게 했다고 얼마나 효과가 있을까 싶겠지만,
 이게 막상 써보면 의외로 효과가 있다.
