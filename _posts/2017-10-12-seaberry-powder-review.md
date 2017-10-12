@@ -87,4 +87,4 @@ tags: [산자나무, 비타민, 신선맘, 리뷰플레이스]
 
 
 
-<div style="text-align: center; padding: 1em;"><a href="http://reviewplace.co.kr/detail.php?number=10071" target="_blank"><img src="http://reviewplace.co.kr/blog_traffic.php?key=MTAwNzF8cmV6bm9h" border="0" alt="본 포스팅은 실제 상품/서비스 외에 경제적 대가 없이 건강한 리뷰문화를 만들기 위해 작성한 진솔한 후기입니다."></a></div>
+<div style="text-align: center; padding: 1em;"><a href="http://reviewplace.co.kr/detail.php?number=10080" target="_blank"><img src="http://reviewplace.co.kr/blog_traffic.php?key=MTAwODB8cmV6bm9h" border="0" alt="본 포스팅은 실제 상품/서비스 외에 경제적 대가 없이 건강한 리뷰문화를 만들기 위해 작성한 진솔한 후기입니다."></a></div>
