@@ -3,13 +3,13 @@ layout: post
 title: "물 없이 간편하게 사용할 수 있는 손 소독제, 페스트세븐 클리닉크린겔"
 description: "겔 타입으로 물 없이 손을 소독할 수 있는 페스트세븐의 손 소독제 클리닉크린겔을 써봤다."
 category: "생활/가전"
-tags: [소독제, 의약외품, 페스트세븐, 리뷰플레이스]
+tags: [소독제, 의약외품, 바퀴제로, 페스트세븐, 그린월드팜, 리뷰플레이스]
 ---
 
 ## 제품 소개 및 사용 후기
 
-'페스트세븐 클리닉크린겔 손소독제(Pestseven Hand Sanitizer)'는
-바퀴제로로 유명한 페스트세븐(Pest 7)에서 나온 에탄올 기반의 겔 타입 손 소독제다.
+바퀴제로에서 판매하는 '페스트세븐 클리닉크린겔 손소독제(Pestseven Hand Sanitizer)'는
+페스트세븐(Pest 7)에서 나온 에탄올 기반의 겔 타입 손 소독제다.
 
 ![제품](https://lh3.googleusercontent.com/NGOR5IglI1-8SpY5zwLNgCSIK7gNtrSLKGThITzPNtLp7DpJmRzlrJ0f9vpoer0hBw_QkDUbLBoBGQ=s640)
 
