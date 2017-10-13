@@ -10,7 +10,7 @@ tags: [책, 경제, 자본주의, 주식회사, 미즈노 가즈오, 이용택, 
 왜 이렇게 문제가 많은지
 그 태생부터를 적나라하게 살펴보는 책이다.
 
-![표지](https://lh3.googleusercontent.com/-RhGaEZZZp-A/WeDOVRq70BI/AAAAAAAAY84/CTWGqQNaVpAwOETfLy9pYiPxCzNcvpYnwCE0YBhgL/s480/end-of-joint-stock-company-book.jpg)
+![표지](https://lh3.googleusercontent.com/-ubzDlsXESbA/WeDULHXHJVI/AAAAAAAAY9U/_XpM4hR7tl4pqD8wVyrRzggVHIcxOA0IgCE0YBhgL/s480/end-of-joint-stock-company-book-3d.jpg)
 
 먼저 저자는 자본 제국의 시대가 이미 왔음을 알리며
 최근 일어났던 일본의 경제 정책들이 사실은 어떤 것이었나를 신랄하게 파헤친다.
