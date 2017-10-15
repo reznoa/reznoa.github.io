@@ -82,11 +82,11 @@ tags: [염색, 냄새, 다리야, 리뷰플레이스]
 특허 기술을 통해 모발 손상까지 최소화했다고 한다.
 이를 위해 로얄 제리 추출물, 동백오일, 고분자 실크 프로틴, 식물성 프로틴 등을 좋은 성분을 사용했다.
 
-<div class="imageblock" markdown="1">
+<div class="mediablock" markdown="1">
 ![before](https://lh3.googleusercontent.com/LGBwdjcgC_5HAbi_Hc4CZzw32r6QGF3MXfnpJKx-xC1jZWRXXGL7dmMOfnS9aYSTlleYS2CY2xLxfg=s320)
 ![after](https://lh3.googleusercontent.com/TH3Mhx2LuiJSHZjYsHA6nwvdbM9zdqZz4STRU7Ut4ZRAGTd7O3bRdGQnn71_TEjYu-wDBbVbglZrhw=s320)
 <p class="mediablock-caption">왼쪽이 before, 오른쪽이 after다. 진하게 되서 거의 티가 안난다.</p>
-</p>
+</div>
 
 결과는 생각보다 진하게 나와서 거의 티가 안나게 됐다.
 살짝만 밝아 은은한 진한 갈색으로 자연스러운 머리색을 내보려고 '다크브라운'을 선택했는데,
