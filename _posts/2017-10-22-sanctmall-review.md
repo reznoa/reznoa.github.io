@@ -34,19 +34,43 @@ tags: [쇼핑몰, 유기농, 독일, 해외직구, 리뷰플레이스]
 
 나는 여러가지 구경하다가 초콜릿을 선택해 구매해 보았다.
 초콜릿은 과자를 잘 먹지 않는 내가 거의 유일하다 할만큼 잘 사먹는 것이다.
-그래서 다른 탐나는 것도 많았지만, 유기농 초콜릿은 과연 얼마나 좋을지 궁금해 사보았다.
-(그런데, 상품 페이지나 제품 표기를 다시 보니 유기농 제품이라는 표시가 없다.
-쌍트 베른하르트의 제품이긴 하지만 유기농 제품 여부는 확실치 않으니 혹시나 오해 없기 바란다.)
+그래서 다른 탐나는 것도 많았지만, 유기농 초콜릿은 과연 얼마나 좋을지 궁금했다.
+그래서 초콜릿을 고르고, 거기에 가격을 맞추려고 에너바를 추가했다.
+
+(상품 페이지나 제품 표기를 다시 보니 유기농 제품이라는 표시가 없다.
+쌍트 베른하르트의 제품이긴 하지만 유기농 제품 여부는 확실치 않으니
+혹시나 이 제품을 살 사람은 오해 없기 바란다.)
+
+![패키지](https://lh3.googleusercontent.com/czYmXuZMhry0P628YNQVrUwfFSdwJe_k7Se9n0jbJgb-UfzlTM5ERlwGueRDg9EQ16y9lEV6LrHHiQ=s560)
+
+![배송품](https://lh3.googleusercontent.com/6e-ey1FzVJ2b58o8Cc8FTLlbdPnwv6IGsQks2WD4ATZIM86-u4VW-dgx0DFRYO2WwHMNJQmCxUevMA=s560)
+
+배송은 주문과 결제 후 약 10일 정도 걸렸으며,
+박스에는 안전한 배송을 위한 보충제와 광고지 등이 들어있었다.
 
 내가 선택한 제품은 '프리미엄 다크 초콜릿 70 % 코코아 · 두루미드카카오 100g'로,
 70% 함량 코코아에 버터, 설탕, 바닐라 또는 계피 등의 향신료를 첨가한 다크 초콜릿이다.
 또 추가로, 로스팅해 잘게 부순 카카오 빈을 첨가했는데,
 간단하게는 비유하자면 크런키의 고급스러운 버전이라고 볼 수 있을 것 같다.
 
+한국에서 보던것과 달리 알미늄 대신 비닐로 내부 포장을 한것과
+종이 패키지 겉면이 봉해져있지 않고 모두 터져 있다는 점이 특이했다.
+
+<p class="center" markdown="1">
+![뚜껑](https://lh3.googleusercontent.com/mcZdMhDS2RxKWHDXUYNirunqhzBo3w07kgabuVm8SBLd7_bYgm9b--K3szEOqxp2iKQ4G_L_lZPrDw=h480)
+![표기](https://lh3.googleusercontent.com/KJYdMsGmORpGkHOwIcfjOH4zdm-YJlQBqAcO2m3hsmbn512xsjxzsZvrVOXdA2CEV3zQVsgvj_LD7A=h480)
+</p>
+
+![제품](https://lh3.googleusercontent.com/-4vl1RPXZ1UTmY4d7NFm6TLJmDlK5fFXVmrBjcGjr04pgd6V89-eLxOM2K75lptPn1r1OffqXG4QZA=s560)
+
 진한 다크 초콜릿을 좋아하기에 함량이 70%로 좀 낮은건 아쉬웠는데,
 맛과 향도 괜찮고
 잘게 부숴넣은 카카오 빈이 바삭거리는 식감과 고소함을 주어
 전체적으로는 꽤 좋았다.
+
+![제품 1](https://lh3.googleusercontent.com/R28XxCjjmx9LLlMY7F_0HcL6KTONg3UW6jdzfjLvzy2p6xTbQ6EtM-5lgIE9Kg7240x-XDGfga0xhw=s560)
+
+![제품 2](https://lh3.googleusercontent.com/iEWriNbICJcEdhrDaXg0P69WSlogU7XWJRGXoiAbZ1IeEyC0VaohvVY5KDlzjywNfJC7xn6ZB8E2-w=s560)
 
 이 제품은 쌍트몰에서 파는 초콜릿 중에서는 프리미엄에 속하는 것이어서
 가격이 좀 더 나가
