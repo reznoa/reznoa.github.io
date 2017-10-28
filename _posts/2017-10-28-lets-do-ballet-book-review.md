@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "유쾌하고 재밌는 발레 에세이 - 발레나 해 볼까?"
+title: "유쾌하고 재밌는 발레 카툰 에세이 - 발레나 해 볼까?"
 category: 도서
-tags: [책, 에세이, 발레, 발레 몬스터, 이지수, 위즈덤하우스, 예담, 서평]
+tags: [책, 에세이, 발레, 카툰, 발레 몬스터, 이지수, 위즈덤하우스, 예담, 서평]
 ---
 
 '[Ballet Monsters(芭蕾群陰)](https://www.facebook.com/balletballetmonsters/)'의
