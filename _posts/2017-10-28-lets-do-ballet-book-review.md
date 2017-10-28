@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "유쾌하고 재밌는 발레 에세이 - 발레나 해볼까?"
+title: "유쾌하고 재밌는 발레 에세이 - 발레나 해 볼까?"
 category: 도서
 tags: [책, 에세이, 발레, 발레 몬스터, 이지수, 위즈덤하우스, 예담, 서평]
 ---
 
 '[Ballet Monsters(芭蕾群陰)](https://www.facebook.com/balletballetmonsters/)'의
-'발레나 해볼까?(全民跳芭蕾)'는
+'발레나 해 볼까?(全民跳芭蕾)'는
 발레와 관련된 이야기들을
 매력적이고 유쾌한 그림으로 풀어낸 그림 에세이다.
 
