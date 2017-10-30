@@ -13,8 +13,8 @@ tags: [코골이, 코막힘, 비강확장기, 진화메디칼, 휴메트론, 리
 ![제품](https://lh3.googleusercontent.com/DM6ChD1bX9gA-rndHJE-F5zjmQKO2iaVJehOMIm6Hyp9-7t5B6uoCD4uO0PSA6U8d9P6WKY8KcDYhw=s560)
 
 <p class="center" markdown="1">
-![표기 1](https://lh3.googleusercontent.com/CGtcBlAMvdnmEFihdH4vVGHiSdt4xPiGFnYs4BBDiPRYHrHDVbAaBwgkQ_DQv1tYhp3V54AQhBshtQ=s320)
-![표기 2](https://lh3.googleusercontent.com/KS1nGixh3h7K55i4hbeHFCMTUvZoOFIi1PCilm-MYUYGq0PVvNZVsjqanu-4lju560S2nirlu426GQ=s320)
+![표기 1](https://lh3.googleusercontent.com/CGtcBlAMvdnmEFihdH4vVGHiSdt4xPiGFnYs4BBDiPRYHrHDVbAaBwgkQ_DQv1tYhp3V54AQhBshtQ=w320)
+![표기 2](https://lh3.googleusercontent.com/KS1nGixh3h7K55i4hbeHFCMTUvZoOFIi1PCilm-MYUYGq0PVvNZVsjqanu-4lju560S2nirlu426GQ=w320)
 </p>
 
 코골이를 위한 보조 기구는 여러가지가 있으며,
@@ -104,19 +104,22 @@ tags: [코골이, 코막힘, 비강확장기, 진화메디칼, 휴메트론, 리
 그러나, 사용 후에는 저강도의 코골이가 간헐적으로 감지될 뿐,
 전체적으로는 평이한게 한눈에 보인다.
 
-호흡을 개선해주므로 피곤함 완화 등의 효과도 볼 수 있다고 하는데,
-아쉽게도 사용기간이 길지 않아서 그런지
-그런 효과는 크게 느낄 수 없었다.
-
 코골이는 자신뿐 아니라 같이 자는 사람의 '수면 질'에도 영향을 끼친다.
 오죽하면 견디지 못하고 각방을 쓰기도 할까.
 그러나, 그게 코골이 문제 자체를 해결해주는 건 아니다.
 다른 사람 뿐 아니라 본인에게도 코골이는 안좋은 영향을 주므로,
 문제를 회피하기 보다는 스노링 같은 보조 기구를 사용해 보는것이 어떨까 싶다.
 
+![설명](https://lh3.googleusercontent.com/GYi4GZ4xFzwued-PiJn90KbftCn70p3i0gyEXD_X_zdL2g3NPOhEdA13T8t4jb83swqJY3a6RZ9X8w=s640)
+
+호흡 개선을 통한 부수 효과(피곤함 완화, 졸음운전 방지 등)는 제대로 체험해보지 못했는데,
+사용기간이 그리 길지 않았기 때문이다.
+하지만, 코골이 완화 효과가 꽤 좋다는걸 확인했으니,
+이 부수 효과들도 일단은 기대 하고 있다.
 
 
-## 가격 및 이용 안내
+
+## 가격 및 구매 안내
 
 휴메트론 스노링 구매는 온라인 쇼핑몰에서 할 수 있는데,
 해당 링크는 [공식 홈페이지의 설명 페이지](http://www.humetron.com/renew/product02-1-3.php)에서 확인할 수 있다.
