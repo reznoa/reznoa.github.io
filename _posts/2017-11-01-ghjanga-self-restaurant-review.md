@@ -30,16 +30,16 @@ tags: [장어, 숯불구이, 강화도, 리뷰플레이스]
 그렇다고 갯벌에 사는 특별한 종류인것은 아니다.
 보통 '장어'하면 떠올리는 '민물장어'와 종류 자체는 같다.
 다만, 그것을 75일 이상 갯벌에 풀어놓고 자연방목을 함으로써
-일정기간 자연식을 한 장어인 것이다.
+일정기간 자연식을 한 장어다.
 갯벌에 풀어놓는 양식 방식의 특성상
-일반 양식장보다 운동량이 많아 지방기가 적고 살이 탄탄한게 특징이라고 한다.
+일반 양식장보다 운동량이 많아 지방기가 적고 살이 탄탄하며,
+등이 진한 특갈황색을 띄는게 특징이라고 한다.
 
 강화갯벌장어 영어조합법인 양식장에서는 국내산 무항생제 자포니카종 민물장어를 사용해
-갯벌장어를 만든다고 한다.
-
-가능하면 양식장도 구경해보고 싶었는데,
+갯벌장어를 만든다고 하는데,
+가능하면 양식장도 구경해보고 싶었지만
 양식장 위치가 직영식당과는 떨어져있고 시간도 저녁 때여서 미처 구경을 가보지는 못했다.
-아쉽지만, [공식 홈페이지](http://www.ghjanga.com/)에 가면 사진으로나마 구경해볼 수 있다.
+[공식 홈페이지](http://www.ghjanga.com/)에 가면 사진으로나마 어떤식으로 키우는지 구경해볼 수 있다.
 
 ![갱화갯벌장어 소개](https://lh3.googleusercontent.com/-cpK7heCqHC4/Wfjw9bbKfnI/AAAAAAAAaSg/ul8PebieCu0CRHTrYNELZu8qDr1BRpYDQCE0YBhgL/s560/ghjanga.jpg)
 
@@ -65,11 +65,15 @@ tags: [장어, 숯불구이, 강화도, 리뷰플레이스]
 반찬으로는 상추, 고추, 생강, 부추, 마늘, 쌈장, 깻잎 절임, 무김치, 오이지, 말린새우, 된장국이 나온다.
 이것들은 가게 한쪽에 셀프코너 놓여있으므로 부족하면 자유롭게 가져다 먹을 수 있다.
 
-![반찬 1](https://lh3.googleusercontent.com/ZPtYCR6O7RMDxlSZxd0PjQiBaqLP3eYCi0L5hR4jYfSXGYIMqfORwkyB9SwbTnveQbD1WhqHfgLx4Q=s560)
+<p class="center" markdown="1">
+![반찬 1](https://lh3.googleusercontent.com/ZPtYCR6O7RMDxlSZxd0PjQiBaqLP3eYCi0L5hR4jYfSXGYIMqfORwkyB9SwbTnveQbD1WhqHfgLx4Q=s320)
+![반찬 2](https://lh3.googleusercontent.com/UtTEfITlNDmtYbkYnZSbtRLlZUqUZtPvyQxiLhV3pyFLRQ1MkPRwWHKSs_WwbuRYhffd6it2tIxSFA=s320)
+</p>
 
-![반찬 2](https://lh3.googleusercontent.com/UtTEfITlNDmtYbkYnZSbtRLlZUqUZtPvyQxiLhV3pyFLRQ1MkPRwWHKSs_WwbuRYhffd6it2tIxSFA=s560)
-
-![반찬 3](https://lh3.googleusercontent.com/tX8umMngAd-aMFTokq5M2SorgKislRLBs-0Dy2Eh9I-0iS52sMDTeAs4Ah6wWFPBR2mkmmQnaquSXg=s560)
+<p class="center" markdown="1">
+![반찬 3](https://lh3.googleusercontent.com/tX8umMngAd-aMFTokq5M2SorgKislRLBs-0Dy2Eh9I-0iS52sMDTeAs4Ah6wWFPBR2mkmmQnaquSXg=s320)
+![셀프코너](https://lh3.googleusercontent.com/FDAv1RDx6GLX3W0nyxwuTiBbTlU7UPNAUbJ6zimkS9gtE80_kTe433wKSM8orsGlB81-Zsie5QhQ_w=s320)
+</p>
 
 구운 장어는 그냥 먹어도 괜찮지만,
 데리야끼 소스와 함께 먹으면 더욱 맛있다.
