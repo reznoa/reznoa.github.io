@@ -21,7 +21,15 @@ tags: [향수, 디퓨저, 주니캔들, 리뷰플레이스]
 
 ![뷰티 앤 부티](https://lh3.googleusercontent.com/-ZDWncq8VcXo/WgRqa0V_9pI/AAAAAAAAan4/fA1YqBjCVggXgFFNXxc1ciq-_rqldTifwCE0YBhgL/s560/june-candle-spring-day-diffuser-tv.jpg)
 
-봄날 디퓨저는 향수가 든 병과 향을 퍼트리기 위한 섬유스틱 5개, 그리고 꽃으로 구성되어있다.
+봄날 디퓨저의 최고 특징은 좋은 재료로 제래도 만들었다는거다.
+식용 가능한 발효주정을 사용한 슈퍼베이스와
+최고급 미국산 향료를 사용했을 사용했고,
+향료도 35%의 높은 비율을 차지한다.
+덕분에 유해물질없이 안전하면서 진한 향을 낸다.
+
+![위해우려제품 자가검사 F-A09B-I007004-A170](https://lh3.googleusercontent.com/-Dk5N0Ki4YoY/WgRwrOzFCyI/AAAAAAAAaoQ/pkVOlZnRz0Uvqjvlm264UvBdCkmiNgR2QCE0YBhgL/s560/june-candle-spring-day-diffuser-kc.jpg)
+
+제품은 향수가 든 병과 향을 퍼트리기 위한 섬유스틱 5개, 그리고 꽃으로 구성되어있다.
 섬유트틱은 향수를 빨아들여 공기중으로 자연스럽게 날려보내는 역할을 한다.
 몇개나 꼽느냐에 따라서 향의 정도가 달라진다.
 꽃은 스틱과 동일한 섬유질로 되어있는데,
