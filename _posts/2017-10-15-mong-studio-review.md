@@ -114,6 +114,8 @@ tags: [사진, 스튜디오, 리뷰플레이스]
 
 ## 이용 안내
 
+![가격표](https://lh3.googleusercontent.com/zIp31xP9sLfvDT-_Pdy5FSmqqm4DBFh9w7wWlE4ZwKhLuOxp0juq7VARsHZ9Gff3c_xy-Iy2yo_cjg=s560)
+
 사진 종류에 따른 가격은 다음과 같다:
 
 분류 | 반명함   | 여권     | 신분증   | 미국비자 | 명함
