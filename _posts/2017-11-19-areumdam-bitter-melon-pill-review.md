@@ -39,6 +39,8 @@ P-인슐린(P-insulin),
 이 정도면 굳이 합성 비타민을 찾지 않아도
 충분히 필요량을 섭취할 수 있어 보인다.
 
+![비타민 비교](https://lh3.googleusercontent.com/-yLV3B4whWK4/WhF_qb0I08I/AAAAAAAAa9k/N_XXpkMnUecu-j-SVZNXBfJSquJ2zJwWwCE0YBhgL/s560/areumdam-bitter-melon-pill-vitamin.jpg)
+
 Bitter Melon(쓴 메론이란 뜻)이라고도 불릴만큼 쓴 여주의
 쓴 맛을 내는 모모르데신 역시
 위장보호와 식욕 증진에 효과가 있다.
