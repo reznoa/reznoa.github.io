@@ -39,6 +39,11 @@ excerpt_separator: <!--more-->
 페이지를 넘길 때마다 작가의 아이디어에 감탄하게 된다.
 그래서 마치 하나의 예술 작품을 보는 것 같다.
 
+<p class="center" markdown="1">
+![구멍(Hullet) 표지](https://lh3.googleusercontent.com/-tAm16-zdUZQ/WhFbCedtmTI/AAAAAAAAa5c/pltUEUxx37oarddva-8o_TbGEag9ql64gCE0YBhgL/w319/hullet_book.jpg)
+![구멍(Hullet) 11p](https://lh3.googleusercontent.com/-SWomZY5Ox00/WhFbMLWVaII/AAAAAAAAa5s/y9Sn9E_nxxsu5HDRQMs4c8JuiTGH2bE0gCE0YBhgL/w319/hullet_book_p011.jpg)
+</p>
+
 애초에 저자가 고민에 대한 처방으로 그림책을 제시할 수 있었던 것도
 바로 그런 그림책의 특성 때문이 아니었을까 싶다.
 얼핏 보면 짧고 별거 없어 보이지만,
