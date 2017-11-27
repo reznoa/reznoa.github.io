@@ -2,7 +2,7 @@
 layout: post
 title: "놓친 인연에 대한 이야기와 그림 - 그때 말할걸 그랬어"
 category: 도서
-tags: [책, 에세이, 일러스트, 소피 블래콜, 최세희, 위즈덤하우스, 아르테, 서평]
+tags: [책, 에세이, 일러스트, 소피 블래콜, 최세희, 북이십일, 아르테, 서평]
 ---
 
 [소피 블래콜(Sophie Blackall)](http://www.sophieblackall.com/)의
