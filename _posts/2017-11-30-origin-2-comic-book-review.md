@@ -37,7 +37,7 @@ tags: [책, 만화, 윤태호, 김현경, 더미, 위즈덤하우스, 서평]
 왜 그래야 하는지까지는 설명해주지 않는다.
 그리고 문화로 굳어져 버린 지금, 왜 그래야 하는지 설명하는 것도 어렵다.
 
-![p160](https://lh3.googleusercontent.com/pMOz_tlk2DkRdGHjbFWQbyNw5ErAqzZNya7ew42Cr5Nl_PJLeP9sci_SLbiR-g0u8Lq4swOgfxZziw=s480)
+![p160-3](https://lh3.googleusercontent.com/pMOz_tlk2DkRdGHjbFWQbyNw5ErAqzZNya7ew42Cr5Nl_PJLeP9sci_SLbiR-g0u8Lq4swOgfxZziw=s480)
 
 그런 점에서,
 작가가 몇몇 에티켓들을 예로 들며
@@ -52,12 +52,27 @@ tags: [책, 만화, 윤태호, 김현경, 더미, 위즈덤하우스, 서평]
 에티켓에 대한 정보 자체를 얻는 데는 좀 부족하다는 얘기다.
 그래서 극중에 나오는 사례들도 뭔가 깔끔하게 정리되는 느낌이 안든다.
 교양서적이란 지식 습득을 위한 역할도 하는 것임을 생각하면 좀 아쉬운 점이다.
+(물론, 이건 2부를 통해 어느정도 보충하기는 한다.)
+
+![p91-6](https://lh3.googleusercontent.com/nwwHidzR3o3qmMiedgAn6ZQjQyIosIxjnOmDOL9L51wrcIBjk8Ju4FhXYHkyQzU-RS1k-Pu-oEF4iQ=s360)
+
+2부인 '오리진 교양'에서는 좀 더 본격적으로 에티켓에 대해서 다루는데,
+여기서도 '현대의 에티켓' 보다는
+에티켓이란 무엇이고 어떤 역사를 가졌는지를 주로 얘기한다.
+
+그중에서도 에티켓이 '유행'에 따라 바뀌어 왔으며,
+또한 '본능의 자연스러운 충족을 억압하는 방향'으로 변화해 왔다고 하는 게 재미있었다.
+이건 에티켓이란 게 전혀 '마땅한 것'이 아님을 반증하는 것이기 때문이다.
+
+하지만, 그렇기 때문에 오히려 에티켓이 인간을 인간답게 만들어 주는 것이다.
+본능을 거스르는 동물, 그것이야말로 인간이기 때문이다.
+에티켓을 지키지 않는다는 건 인간이기를 포기한다는 것, 짐승이나 매한가지다.
 
 ![p181](https://lh3.googleusercontent.com/PWnysvbzUitwGkwBo949uOfKd326IcpSgn7kgGEQiSZAzJeB3PhqWTay4ftXqYQUROdonv0SUA5VzQ=s480)
 
-만화로서는 1권보다 더 나아졌다.
-여전히 매끄럽지 않은 면이 없는 것은 아니나,
-이야기 진행도 나쁘지 않고 설명 부분이 튀는 느낌도 비교적 적었다.
+오리진 만화는 1권보다 더 나아졌다.
+여전히 매끄럽지 않은 면이 있기는 하나,
+이야기 진행도 나쁘지 않고 설명 부분이 튀는 느낌도 줄었다.
 이야기를 통해 교양을 전달한다는 '내러티브 교양 만화'가 점점 자리를 잡아가는 것 같다.
 
 3권도 기대한다.
