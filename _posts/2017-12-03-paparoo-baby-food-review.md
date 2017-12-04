@@ -19,9 +19,9 @@ tags: [쌀, 이유식, 유기농, 파파루, 리뷰플레이스]
 이유식 제품은 크게 2가지로 구성되어있다.
 하나는 쌀, 다른 하나는 야채 분말이다.
 
-![야채 분말 1](https://lh3.googleusercontent.com/10AB_Ci0D98UdrAiwOBrY62uW3MECM5LopqA6OD3WrixSLMbjeeRELv15_V4iihS9yaEvNaoYuDXwQ=s560)
+![야채 분말 모음](https://lh3.googleusercontent.com/10AB_Ci0D98UdrAiwOBrY62uW3MECM5LopqA6OD3WrixSLMbjeeRELv15_V4iihS9yaEvNaoYuDXwQ=s560)
 
-![야채 분말 2](https://lh3.googleusercontent.com/gSgs7FfCTeFAmNYf_1PXcrm7NF9Y4cLGIJlZXeRRF7_UeZy1Yx-3XZkLMMELFUnLBWoXWy9uG-epAA=s560)
+![야채 분말 고구마](https://lh3.googleusercontent.com/Jyrv_ses-26gFMa9_UXPqbPF_eCVgkO45aPM9Q-5stAnPqUaOun7JaHgaFhzCJfnDGIkGeEUvyvnUQ=s560)
 
 주 재료인 쌀은 유기농인증과 유기가공식품 인증을 받은 100% 유기농 쌀 제품이다.
 단계에 따라 백미와 현미를 먹기 좋은 크기로 분쇄해 담았다.
