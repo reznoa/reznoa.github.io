@@ -87,9 +87,12 @@ tags: [칸탈루프, 멜론, 추출분말, 과채가공품, 비원허브, 리뷰
 이걸 아래로 밀어넣어 고정되게 해야한다.
 그렇지 않으면 뚜껑이 제대로 꽉 닫히지 않는다.
 
-![용기 1](https://lh3.googleusercontent.com/2aswA7ExhIS36WoQgMIiU8C9wghgTogR0Ivd3R5f2brH6sR2kbiIv5CCTXNFWR_o2fDwgUuidR_uwQ=s560)
+![용기 1](https://lh3.googleusercontent.com/B_gPVAJnLjuDyLn__3UVLeNcEun28DFg-BXbc0-ffBsaBesNIhW691xOqt8LuCGf7CK9c1peI01U2A=s330)
 
-![용기 2](https://lh3.googleusercontent.com/8w7C6IWGL2_n3b3xCD2mW-pGA236KG420-FgN1eSubgqfiPqpRLjRzjFxhX52P_3eru3y7eyn6vnsw=s560)
+<p class="center" markdown="1">
+![용기 2](https://lh3.googleusercontent.com/2aswA7ExhIS36WoQgMIiU8C9wghgTogR0Ivd3R5f2brH6sR2kbiIv5CCTXNFWR_o2fDwgUuidR_uwQ=s330)
+![용기 3](https://lh3.googleusercontent.com/8w7C6IWGL2_n3b3xCD2mW-pGA236KG420-FgN1eSubgqfiPqpRLjRzjFxhX52P_3eru3y7eyn6vnsw=s330)
+</p>
 
 계량스푼은 1g짜리라고 했는데,
 실제 제품에는 0.6g 짜리라고 쓰여있다.
@@ -100,7 +103,8 @@ tags: [칸탈루프, 멜론, 추출분말, 과채가공품, 비원허브, 리뷰
 통이 둥그러서 스푼 위쪽을 떨궈내기도 쉽지 않다.
 약제가 아니라 조금 부족하거나 모자라더라도 별 문제는 없겠으나,
 기껏 정확히 뜰 수 있도록 준비한 계량형 스푼이 무색하다.
-스푼이 통보다 커 안에 넣을 순 없으므로 따로 챙겨가지고 다녀야 하는것도 조금 아쉽다.
+스푼이 통보다 커 안에 넣을 순 없으므로 따로 챙겨가지고 다녀야 하는것도
+휴대성을 떨어뜨려 조금 아쉽다.
 
 
 
