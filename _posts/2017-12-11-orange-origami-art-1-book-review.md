@@ -17,7 +17,7 @@ tags: [책, 예술, 귤, 오카다 요시히로, 카미야 케이스케, 정미�
 한국에서도 인터넷을 통해 신기하고 놀라운 예술 공예로 여러번 이슈가 된바 있는데,
 그게 이번에 2014년 네팔(Nepali)에 이어 두번째로 2017년 공식 한국 발간을 하게 된 것이다.
 
-![한국어판 출판](https://lh3.googleusercontent.com/-tW4h3lQvC9o/Wi58k3uucHI/AAAAAAAAb9w/eayuRgK7EJc1JabkmaVq3sXETK_KEza6gCE0YBhgL/s560/orange-origami-art-2017-korean-version-debut.jpg)
+![한국어판 출판](https://lh3.googleusercontent.com/-tW4h3lQvC9o/Wi58k3uucHI/AAAAAAAAb9w/eayuRgK7EJc1JabkmaVq3sXETK_KEza6gCE0YBhgL/s640/orange-origami-art-2017-korean-version-debut.jpg)
 
 책은 기본적으로 귤 껍질을 어떻게 까서 다양한 모양을 낼지 그 도면을 소개한 것이다.
 이것만으로도 굉장히 신기하고 놀랍긴하지만,
@@ -32,16 +32,8 @@ tags: [책, 예술, 귤, 오카다 요시히로, 카미야 케이스케, 정미�
 [^1]: 이 책을 쓰고 그린 카미야 케이스케는 콩트 모임 '[테니스 코트(テニスコート)](http://tenusugawa.com/)'의 멤버이기도 하다. 이 책은 그런 콩트력을 발휘해 만든 것으로 보인다.
 
 <p class="center" markdown="1">
-![p4](https://lh3.googleusercontent.com/-0_55mPL0_L0/Wi6JVAxEEII/AAAAAAAAb_o/DCPpSjazYqIPNFfSdzAtFnxIfDfApR_MACE0YBhgL/w330/orange-origami-art-1-book-p4.jpg)
-![p5](https://lh3.googleusercontent.com/-Gq2GD-1YmLM/Wi6JbA_YBmI/AAAAAAAAb_4/E5gyKpzjSA8FF5AuVpnkcmQ7u6OCxRduwCE0YBhgL/w330/orange-origami-art-1-book-p5.jpg)
-![p6](https://lh3.googleusercontent.com/-whHBaMIRbVo/Wi6JgiSRajI/AAAAAAAAcAI/YBNETmrGFmYi9hLuJo7ORkX2aH3BJoBVwCE0YBhgL/w330/orange-origami-art-1-book-p6.jpg)
-![p7](https://lh3.googleusercontent.com/-FpTSrvMhK0Q/Wi6JoaIxzpI/AAAAAAAAcAY/zoOy_kYdH4Yu7IJtxVNR9aNppbXyWf9UgCE0YBhgL/w330/orange-origami-art-1-book-p7.jpg)
-![p8](https://lh3.googleusercontent.com/-buHyv_pgDBc/Wi6JtifPT2I/AAAAAAAAcAo/4vGXMutIVmUYcx-ZueoCFE4kI4q7ZfjBQCE0YBhgL/w330/orange-origami-art-1-book-p8.jpg)
-![p9](https://lh3.googleusercontent.com/-J-FVquuZ2V0/Wi6Jy4KEOGI/AAAAAAAAcA4/FdeXRHKBkZoybaPHYYksn2dxqHMCvPNigCE0YBhgL/w330/orange-origami-art-1-book-p9.jpg)
-![p10](https://lh3.googleusercontent.com/-r5FbzjBtXGQ/Wi6J4FCD-oI/AAAAAAAAcBQ/55Kzkh8JpgoeC8sfdnMbgCav2t5CJ_RtQCE0YBhgL/w330/orange-origami-art-1-book-p10.jpg)
-![p11](https://lh3.googleusercontent.com/-gc6pIsO9N54/Wi6J8il6lYI/AAAAAAAAcBg/DQ2sJg1z_gAy5m98crPnasjg2AVXe9gdgCE0YBhgL/w330/orange-origami-art-1-book-p11.jpg)
-![p12](https://lh3.googleusercontent.com/-nOFgEkAUz7Q/Wi6KBWw8vvI/AAAAAAAAcBw/Qz9TCZMEVXcJ_GXUZsTGU2fs-bSnspVJACE0YBhgL/w330/orange-origami-art-1-book-p12.jpg)
-![p13](https://lh3.googleusercontent.com/-mPSYJ06Gclc/Wi6KF-QRcaI/AAAAAAAAcCA/olfHYyA_kDwJnrRZ8Kaau90Rdq_mkZpXQCE0YBhgL/w330/orange-origami-art-1-book-p13.jpg)
+![p8](https://lh3.googleusercontent.com/-buHyv_pgDBc/Wi6JtifPT2I/AAAAAAAAcAo/4vGXMutIVmUYcx-ZueoCFE4kI4q7ZfjBQCE0YBhgL/w320/orange-origami-art-1-book-p8.jpg)
+![p9](https://lh3.googleusercontent.com/-J-FVquuZ2V0/Wi6Jy4KEOGI/AAAAAAAAcA4/FdeXRHKBkZoybaPHYYksn2dxqHMCvPNigCE0YBhgL/w320/orange-origami-art-1-book-p9.jpg)
 </p>
 
 그래서 이 책은 2번에 걸쳐 볼 수밖에 없다.
@@ -53,10 +45,7 @@ tags: [책, 예술, 귤, 오카다 요시히로, 카미야 케이스케, 정미�
 
 이 책을 보고 깔 수 있는 동물 25 종은 다음과 같다:
 
-<p class="center" markdown="1">
-![p3](https://lh3.googleusercontent.com/-fqGHKnEg7YU/Wi6H1-_h6gI/AAAAAAAAb_Q/Mxm4jyBtZeIwft9Y2-V4LADI_C9LPLrFgCE0YBhgL/w330/orange-origami-art-1-book-p3.jpg)
-![p2](https://lh3.googleusercontent.com/-fzf7CvUCbCs/Wi6Htcd72lI/AAAAAAAAb_A/k6GpH466PYMB6HFIhu43RzGQ49q85St6QCE0YBhgL/w330/orange-origami-art-1-book-p2.jpg)
-</p>
+![차례](https://lh3.googleusercontent.com/-chWpQjowCNY/Wi6NOfmkRWI/AAAAAAAAcCY/znUHOftFFwcBG-FmhDYDMaict8fPz8b8wCE0YBhgL/s640/orange-origami-art-1-book-p2%257E3.jpg)
 
 No | 모양      | 난이도
 ---|-----------|-----------
