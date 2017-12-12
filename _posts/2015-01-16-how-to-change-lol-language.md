@@ -1,18 +1,10 @@
 ---
 layout: post
-title: "League of Legend - 한국어 활성화 방법"
-description: "League of Legend 외국 클라이언트에서 한국어를 사용하는 방법을 알아본다."
+title: "League of Legend, NA 등 외국 서버에서 한국어로 보는 방법"
+description: "League of Legend 외국 서버에서 한국어를 사용하는 방법을 소개한다."
 category: Game
 tags: [게임, 리그오브레전드, 한국어패치]
 ---
-
-<div class="im im-error" markdown="1">
-새로운 클라이언트는 0.0.0.31 즈음부터 막혔으나,
-이전 클라이언트는 계속 유효했었다.
-그러나, 이제는 두 클라이언트 모두 한국어 활성화가 불가능하다.
-
-라이엇에서 일부러 막은 것으로 보인다. ㅠ
-</div>
 
 ## 한국어 활성화, 왜?
 
@@ -23,140 +15,97 @@ League of Legend는 다양한 국가에서 각자의 언어로 서비스하고�
 
 
 
-## 정식 클라이언트의 한국어 활성화 방법
+## 라이엇에게 불만
 
-### 원하는 서버의 지원 언어에 한국어 추가하기
+롤에는 크게 2가지 클라이언트가 있다.
+글로벌 클라이언트와 한국 클라이언트.
+왜 굳이 이렇게 나뉘어 있는지 모르겠는데,
+혹시 외국과 달리 개인 인증을 해야하는 한국의 특이함 때문은 아닐까 짐작해본다.
+(사실 정말로 그렇다고 해도, 비겁한 변명에 불과하다.)
 
-다음 파일을 연다[^1]:
-`${LOL_HOME}\Rads\projects\lol_patcher\managedfiles\0.0.0.48\regions.txt`
+그래도 다행히 언어 설정을 바꾸면 한국어를 손쉽게 쓸 수 있었는데,
+대체 뭐가 불만이었는지 한국어를 아예 사용할 수 없도록 막아버렸다.
 
-내용은 다음과 같다(편의상 공백은 일부 제거했다):
-
-~~~
-na,   na,   en_US,                               A
-br,   br,   pt_BR,                               A
-tr,   tr,   tr_TR,                               A
-euw,  euw,  en_GB|de_DE|es_ES|fr_FR|it_IT,       A
-eune, eune, en_GB|cs_CZ|el_GR|hu_HU|pl_PL|ro_RO, A
-ru,   ru,   ru_RU,                               A
-la1,  la1,  es_MX,                               A
-la2,  la2,  es_MX,                               A
-oc1,  oc1,  en_AU,                               A
-~~~
-
-원하는 서버에 ko_KR을 추가한다.
-
-예를들어, 북미 서버에서 한글로 하고싶다면 북미서버 줄을 다음과 같이 고친다(편의상 공백은 일부 제거했다):
-
-~~~
-na,   na,   en_US|ko_KR,                         A
-~~~
-
-이걸로 이제 한국어를 고를 수 있게 됐다.
+대체, 왜 그러는가.
 
 
 
-### regions.txt 수정 결과
+## 한국어 클라이언트를 이용해 외국 서버에서 게임하기
 
-regions.txt 파일을 고치면 게임할 때 한국어를 사용할 수는 있지만, 런처에서 언어 선택할 때 한국어가 제대로 표시되지 않는다.
-라벨없이 얇은 줄로 표시되는데, 그래도 그걸 선택하면 한국어가 제대로 나온다.
+다행히 한국 클라이언트와 글로벌 클라이언트는
+서버 목록과 언어 설정을 제외하고는
+기본적으로 같다.
 
-![languages.txt 패치 전 한국어 표시 모습](https://lh3.googleusercontent.com/-uHUdHiwORFg/VI7qRSrzX9I/AAAAAAAAN9M/jDuphEUBgic/s600/lol-kr-1.jpg "한국어는 빈 항목으로 표시된다.")
+그리고 설정 파일은 `system.yaml`라는 이름의 yaml 파일로 저장되어있다.
+yaml은 간단한 규칙을 가진 텍스트 파일이라
+notepad나 vi 등으로 열어 쉽게 수정할 수 있다.
 
-![한국어가 나오는 모습](https://lh6.googleusercontent.com/-iS6TqaQPF14/VI7qdxPsqJI/AAAAAAAAN9c/KmngNjLRddo/s600/lol-kr-2.jpg "북미 서버지만 확실히 한국어로 나오는걸 확인할 수 있다.")
+위치는 다음과 같다:
+`${LOL_HOME}\RADS\projects\league_client\releases\0.0.0.113\deploy\system.yaml`
 
-그런데, 하나를 더 고치면 런처의 언어 선택 목록에서도 한국어를 제대로 표시할 수 있다.
+여기서 `0.0.0.113`는 버전 넘버라
+새 패치가 적용되면 바뀔 수 있다.
+그럴경우 가장 큰 값 아래에 있는 놈이 실제 사용하는 파일이다.
 
+이걸 조금만 손보면 한국 클라이언트로 외국 서버에 접속해 게임할 수 있다.
 
-
-### 런처에서 한국어 나오게 하기
-
-다음 파일을 연다[^1]:
-`${LOL_HOME}\RADS\projects\lol_patcher\managedfiles\0.0.0.48\languages.txt`
-
-내용은 다음과 같다:
+다음은 NA 서버에 접속할 수 있도록 바꾼 것이다:
 
 ~~~
-English, en_US
-Português, pt_BR
-Türkçe, tr_TR
-English, en_GB
-Deutsch, de_DE
-Español, es_ES
-Français, fr_FR
-Italiano, it_IT
-Čeština, cs_CZ
-Ελληνικά, el_GR
-Magyar, hu_HU
-Polski, pl_PL
-Română, ro_RO
-Русский, ru_RU
-Español, es_MX
-English, en_AU
-~~~
-
-맨 위에 다음 내용을 추가한다:
-
-~~~
-한국어, ko_KR
-~~~
-
-
-### languages.txt 수정 결과
-
-이제 런처를 실행하고 언어 선택 목록 상자를 보면 한국어가 제대로 표시되는걸 볼 수 있다.
-
-![languages.txt 패치 후 한국어 표시 모습](https://lh3.googleusercontent.com/-uXizWa5Z6CQ/VLj6U3xX5uI/AAAAAAAAOiU/kc2LbMfnW0M/s600/lol-kr-2-fix.jpg "런처에서도 한국어가 잘 나온다.")
-
-
-
-## 새로운 Alpha 클라이언트의 한국어 활성화 방법
-
-현재(2016-11-05 기준) 알파 테스트 중인 새 클라이언트는 txt가 아닌 yaml 파일을 사용한다.
-
-고칠 파일은 다음과 같다[^2]:
-`${LOL_HOME}\RADS\projects\league_client\releases\0.0.0.29\deploy\system.yaml`
-
-열어보면 접속 서버와 사용 가능한 언어가 다음과 같이 설정되어있다:
-
-~~~
-  NA:
+  KR:
     available_locales:
-    - en_US
-    default_locale: en_US
-~~~
-
-원하는 서버를 찾아 available_locales 항목에 한국어를 추가해주면 한국어를 사용할 수 있다.
-
-예를들어, 북미 서버에 한국어를 추가한다면 다음처럼 수정한다:
-
-~~~
-  NA:
-    available_locales:
-    - en_US
     - ko_KR
-    default_locale: en_US
+    default_locale: ko_KR
+    rso_platform_id: NA1
+    servers:
+      chat:
+        allow_self_signed_cert: false
+        chat_host: chat.na2.lol.riotgames.com
+        chat_port: 5223
+      discoverous_service_location: lolriot.pdx2.na1
+      email_verification:
+        external_url: https://prod.email-verification.accounts.riotgames.com/api
+      entitlements:
+        entitlements_url: https://entitlements.auth.riotgames.com/api/token/v1
+      lcds:
+        lcds_host: prod.na2.lol.riotgames.com
+        lcds_port: 2099
+        login_queue_url: https://lqak.na2.lol.riotgames.com/login-queue/rest/queues/lol
+        use_tls: true
+      license_agreement_urls:
+        terms_of_use: http://na.leagueoflegends.com/{language}/legal/termsofuse
+      payments:
+        payments_host: https://plstore2.na.lol.riotgames.com
+      prelogin_config:
+        prelogin_config_url: https://prod.config.patcher.riotgames.com
+      rms:
+        rms_heartbeat_interval_seconds: 60
+        rms_url: wss://us.edge.rms.si.riotgames.com:443
+      service_status:
+        api_url: https://status.leagueoflegends.com/shards/na/synopsis
+        human_readable_status_url: https://status.leagueoflegends.com/#na
+      store:
+        store_url: https://store.na2.lol.riotgames.com
+    web_region: na
 ~~~
 
-그리고 다시 실행하면 '지역/언어' 옵션에서 한국어를 선택할 수 있다.
+위 내용은 글로벌 서버의 NA 항목에서 가져온 것이다.
+다만, available_locales와 default_locale만을 ko_KR로 바꿨다.
 
-![2016 Alpha 클라이언트에서 한국어를 활성화한 모습](https://lh3.googleusercontent.com/QKEnZXKJILYT-DOLgUVsoXD-mbhMF_0H5e-z0skVN_iOPlHnv9gETsjuU7qQ_5eXhy-NRBjJ0w=s600 "방법은 다르지만 새 Alpha 클라이언트도 한국어를 쓸 수 있다.")
-
-
-
-## 알려진 문제
-
-게임을 실행하기전에 런처에서 언어를 바꾸면 언어 파일을 업데이트하고, 곧 지정한 언어로 표시된다.
-게임 내에서도 글귀는 물론 음성까지 모두 한글로 잘 나온다.
-
-![북미서버를 한국어로 접속한 모습](https://lh4.googleusercontent.com/-_e2nu0JZ5sA/VI7qy0KKFbI/AAAAAAAAN9s/elK9gdL5rKI/s600/lol-kr-3.jpg "로비에서 콘텐츠를 로딩하지 못할 수도 있다.<br />보여주더라도 그 내용은 한국 서버를 기준으로 한다.")
-
-다만, 홈 화면에는 아무것도 뜨지 않을 수 있다.
-뜨더라도 한국 서버를 기준으로 한 내용이 뜨므로, 실제 자신이 접속한 서버와는 다른 알림 내용이 나타날 수 있다.
-이는 내부에서 사용하는 플래시 파일과 정보를 가져오는 주소가 한국어를 기준으로 한 것이라서 그런  듯하다.
-한국어로 보기 위해서는 감수해야 할 점이다.
+이걸 기존 KR 항목과 바꿔친다.
+그러면 클라이언트에서는 서버 항목이 'KR'로 뜨지만,
+실제로는 NA로 접속한다.
 
 
 
-[^1]: 버전(예에서는 0.0.0.48)은 다를 수 있다.
-[^2]: 버전(예에서는 0.0.0.29)은 다를 수 있다.
+## 주의사항
+
+만약 서버 주소가 바뀌거나,
+패치 반영 시기가 다르다면
+제대로 접속되지 않을 수 있다.
+
+그럴때는 한국과 원하는 국가(위에서는 NA)의 패치 버전이 같은지 확인하고,
+같다면 글로벌 클라이언트의 최신 `system.yaml` 내용을 이용해
+한국 클라이언트의 설정을 바꾸면 다시 잘 될 것이다.
+
+적어도 라이엇이 다시 막기 전까지는 말이다.
