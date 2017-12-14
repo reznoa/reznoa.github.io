@@ -99,16 +99,20 @@ tags: [강남, 신논현역, 왁싱, 위블]
 스크럽 관리를 해야하는 5일 후에는 잊지 말라고 문자도 보내주는데,
 알람 역할을 해서 유용하다.
 
+
+
+## 이용 안내
+
+헬로왁싱은 연중무휴로 운영하므로 원하는 시간을 예약해서 관리 받기에도 좋다.
+예약은 전화 02-514-8258로 하면 되며,
+스마트폰 예약 앱을 통해서도 가능하다.
+
 왁싱 가격은 시술 종류와 남,여에 따라 다음과 같다:
 
 <p class="center" markdown="1">
 ![여성왁싱 비용](https://lh3.googleusercontent.com/-xYUeyGMNG0E/WjGdl62LHjI/AAAAAAAAcQs/9a8UhqXqhIAvrxJQM0Yv0XSEjxU4CQNOgCE0YBhgL/w330/hellowaxing-price-w.jpg)
 ![남성왁싱 비용](https://lh3.googleusercontent.com/-1X3yCl3ec1A/WjGdu3nnPNI/AAAAAAAAcQ8/dq3pkgQ2WPcNBMZgeqoStyQ5hW8J4SNxwCE0YBhgL/w330/hellowaxing-price-m.jpg)
 </p>
-
-샵은 연중무휴로 운영하므로 원하는 시간을 예약해서 관리 받기에도 좋다.
-예약은 전화 02-514-8258로 하면 되며,
-스마트폰 예약 앱을 통해서도 가능하다.
 
 주차는 건물 1층에 할 수 있는데,
 차 2~4대 정도가 들어갈 공간밖에 없다.
