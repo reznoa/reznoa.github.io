@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "접어서 가방에 넣어가지고 다닐 수 있는 자전거 헬멧 - 모퍼(Morpher)"
-category: "아이디어 제품"
-tags: [프리뷰, 아이디어 제품, 자전거, 헬멧]
+category: "아이디어"
+tags: [프리뷰, 아이디어, 자전거, 헬멧]
 ---
 
 [모퍼(Morpher)](https://www.morpherhelmet.com/)는

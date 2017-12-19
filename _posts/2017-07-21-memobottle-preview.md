@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "익숙한 모양에서 벗어나 휴대성을 크게 높인 아이디어 물병 - 메모보틀(memobottle)"
-category: "아이디어 제품"
-tags: [프리뷰, 아이디어 제품, 물병]
+category: "아이디어"
+tags: [프리뷰, 아이디어, 물병]
 ---
 
 [메모보틀(memobottle™)](https://www.memobottle.com/)은 책처럼 납작한 네모모양으로 만들어 휴대성을 높인 물병이다.

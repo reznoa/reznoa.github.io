@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "작게 말아 쉽게 휴대할 수 있으나 가성비는 아쉬운 태양광 충전기 - 헬리온(HeLi-on)"
-category: "아이디어 제품"
-tags: [프리뷰, 아이디어 제품, 태양광발전]
+category: "아이디어"
+tags: [프리뷰, 아이디어, 태양광발전]
 ---
 
 [헬리온(HeLi-on)](http://heli-on.com/)은 말 수 있어 휴대성이 높은 태양광 충전기다.
