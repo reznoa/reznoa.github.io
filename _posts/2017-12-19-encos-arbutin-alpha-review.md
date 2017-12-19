@@ -118,8 +118,8 @@ tags: [화장품, 미백, 이엔코스, 리뷰플레이스]
 다음은 1주일 사용 전, 후를 맨 얼굴로 찍어본 것이다.
 
 <div class="mediablock" markdown="1">
-![전](https://lh3.googleusercontent.com/eESD4bFEdboRe9frMz36c0faTlt3ljKgLG8Sq1-9F4ZxgabUXsx23R94jpbmmx7drtYOFJUhauvpkg=w320)
-![후](https://lh3.googleusercontent.com/4HWMMiXI4y3M4k8Uia8vwlq2TaVQ4zcwFETOQ7aH1I6H-mgNB4B7uJzHGBUPyeyxwv40sorEsezgaA=w320)
+![전](https://lh3.googleusercontent.com/eESD4bFEdboRe9frMz36c0faTlt3ljKgLG8Sq1-9F4ZxgabUXsx23R94jpbmmx7drtYOFJUhauvpkg=w240)
+![후](https://lh3.googleusercontent.com/4HWMMiXI4y3M4k8Uia8vwlq2TaVQ4zcwFETOQ7aH1I6H-mgNB4B7uJzHGBUPyeyxwv40sorEsezgaA=w240)
 <p class="mediablock-caption">앞이 사용 전, 뒤가 사용 1주일 후다.</p>
 </div>
 
