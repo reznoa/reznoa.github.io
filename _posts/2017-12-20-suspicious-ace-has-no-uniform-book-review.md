@@ -54,8 +54,11 @@ tags: [책, 야구, 미스터리, 추리, 최혁곤, 이용균, 박효원, 황�
 기껏 캐릭터도 만들어 표지를 그렸는데,
 삽화라도 좀 넣어주지 싶은 아쉬움도 남았다.
 
+![주 캐릭터 3인](https://lh3.googleusercontent.com/-GcuoYItJ_gg/Wjp0bf3TuCI/AAAAAAAAcoA/FUDDanvWyKU3hUFWRJHCSkHGiANHhCgOgCE0YBhgL/s560/suspicious-ace-has-no-uniform-book-chars.jpg)
+
 아, 그래서 별로냐고?
 그건 아니지.
 다만, 개인적으로는 작가의 다음 작품이 더 기대된다.
 또 야구 얘기를 써도 좋고,
 다른 스포츠 미스터리 소설을 써도 좋을 것 같다.
+(그런 의미에서 제목도 '야구와 미스터리의 진정한 만남'라고 했다.)
