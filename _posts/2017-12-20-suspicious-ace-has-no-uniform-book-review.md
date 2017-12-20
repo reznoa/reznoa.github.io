@@ -51,8 +51,10 @@ tags: [책, 야구, 미스터리, 추리, 최혁곤, 이용균, 박효원, 황�
 
 덧붙여, 소설을 읽으면서 계속 '만화나 드라마 였다면 더 좋지 않았을까'하는 생각이 들었다.
 글보다 그림이나 영상으로 보는게 더 좋을것 같은 장면이 있어서다.
-기껏 캐릭터도 만들어 표지를 그렸는데,
+기껏 캐릭터도 만들어서 표지를 그렸는데[^1],
 삽화라도 좀 넣어주지 싶은 아쉬움도 남았다.
+
+[^1]: ['수상한 에이스는 유니폼이 없다' 책 표지 디자인](http://notefolio.net/our_own_night/87702) 참고.
 
 ![주 캐릭터 3인](https://lh3.googleusercontent.com/-GcuoYItJ_gg/Wjp0bf3TuCI/AAAAAAAAcoA/FUDDanvWyKU3hUFWRJHCSkHGiANHhCgOgCE0YBhgL/s560/suspicious-ace-has-no-uniform-book-chars.jpg)
 
