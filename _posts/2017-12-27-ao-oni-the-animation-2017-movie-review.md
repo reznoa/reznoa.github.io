@@ -22,7 +22,7 @@ RPG Maker로 만든 게임이라 한계도 많지만,
 
 그래서 다양하게 미디어 믹스가 이뤄졌는데,
 영상물로도 이미 실사 영화 2편과 TV용 단편 애니메이션이 만들어진 바 있다.
-이 영화는 무려 4번째 영상화인 셈이다.
+이번이 무려 4번째 영상화인 셈이다.
 게다가 망했던 실사 영화와 달리 원작을 기묘하게 비틀어 코믹 애니메이션으로 만들었던
 [스튜디오 딘(スタジオディーン, Studio DEEN)](http://www.deen.co.jp/)이 이번 영화판을 만든다고해서 조금 기대 할만도 했다.
 
@@ -37,8 +37,8 @@ RPG Maker로 만든 게임이라 한계도 많지만,
 이건 작화나 연출이 문제기 때문이기도 하다.
 
 <div class="mediablock">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kC4cXdOycV8" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-<p class="mediablock-caption">예고편을 볼 때부터 사실 이미 불안하긴 했다;</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pmtyjSPvvVo" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<p class="mediablock-caption">예고편을 볼 때부터 사실 이미 좀 불안하긴 했다;</p>
 </div>
 
 아오오니는 3D를 카툰 렌더링해서 만들었는데,
@@ -76,5 +76,5 @@ RPG Maker로 만든 게임이라 한계도 많지만,
 차라리 게임 팬들을 위한 서비스로
 TV에서 특선 방영 정도 하면 적당하지 않았을까 싶다.
 
-이게 극장 영화라니.
+이게 극장판 애니메이션이라니.
 용기에 참 감탄한다.
