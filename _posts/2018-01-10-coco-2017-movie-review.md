@@ -36,7 +36,9 @@ tags: [영화, 뮤지컬, 애니메이션, 멕시코, 음악, 디즈니, 픽사,
 많은 사람에게 대중적으로 다가갈 수 있게 잘 선택한 것 같다.
 
 <div class="mediablock">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D7lzgFeXzdE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LmS5KMJTWlA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DrJgbghWuFw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <p class="mediablock-caption">왜 더빙 예고편은 공개하지 않는것인가, 디즈니 픽사여!</p>
 </div>
 
