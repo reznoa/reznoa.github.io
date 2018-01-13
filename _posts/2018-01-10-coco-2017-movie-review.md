@@ -35,7 +35,7 @@ tags: [영화, 뮤지컬, 애니메이션, 멕시코, 음악, 디즈니, 픽사,
 뮤지컬이 의외로 호불호가 갈린다는걸 생각하면
 많은 사람에게 대중적으로 다가갈 수 있게 잘 선택한 것 같다.
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/Rvr68u6k5sI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/LmS5KMJTWlA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
 
 이야기는 미국, 디즈니가 의례 그렇듯 가족주의에 쩔어 있다. (웃음)
 이건 애초에 소재부터가 '망자의 날'이기 때문에 어쩔 수 없어 보이기도 하는데,
