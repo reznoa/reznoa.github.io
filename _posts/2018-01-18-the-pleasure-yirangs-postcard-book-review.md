@@ -2,7 +2,7 @@
 layout: post
 title: "예쁘고 따뜻한 꽃 그림 엽서 묶음 - 이랑의 엽서북 : the PLEASURE"
 category: 도서
-tags: [책, 엽서, 미술, 꽃, 김이랑, 책밥, 서평]
+tags: [책, 엽서, 미술, 수채화, 꽃, 김이랑, 책밥, 서평]
 ---
 
 '이랑의 엽서북 : the PLEASURE'는
