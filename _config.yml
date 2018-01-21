@@ -77,3 +77,6 @@ gems:
  - jemoji
  - jekyll-sitemap
  - jekyll-paginate
+
+exclude:
+ - _posts/2018-01-21-beauty-in-beauty-sweat-pad-review.md
