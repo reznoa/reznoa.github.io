@@ -6,7 +6,7 @@ tags: [영화, 액션, 오우삼, 장한위, 후쿠야마 마사하루, 치 웨�
 ---
 
 영화 맨헌트(追捕, ManHunt, 2017)는
-오랜만에 보는 오우삼(吳宇森, Jhon Woo)의 영화다.
+오랜만에 보는 오우삼(吳宇森, Jhon Woo) 감독의 영화다.
 
 ![한국 포스터](https://lh3.googleusercontent.com/H3SFpd_SxhncJx7yrHjTzZrNEK7nZR77SSNpfQqfW_NY6RvV7UPb3fQOq9w0avbZLPLm-__w2G_hfA=s480)
 
