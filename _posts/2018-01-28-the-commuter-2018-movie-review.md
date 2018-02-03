@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "통근열차에서 벌어지는 가벼운 액션 영화 - 커뮤터(The Commuter, 2018)"
-category: 도서
+category: 영상
 tags: [영화, 액션, 자우메 코예트세라, 리암 니슨, 베라 파미가, 패트릭 윌슨, 샘 닐]
 ---
 
