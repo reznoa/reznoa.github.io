@@ -14,7 +14,7 @@ tags: [염색, 달팽이, 아론, 뉴겐코스메틱, 리뷰플레이스]
 가장 먼저 패키지와 사은품 구성이 눈에 띈다.
 기본적으로 필요한 볼, 브러쉬 외에도
 비닐 장갑과 어깨 비닐, 헤어캡 등을 같이 주므로
-시술할 때 보다 좋다.
+시술할 때 좋다.
 
 ![제품 구성 1](https://lh3.googleusercontent.com/k_6uV1nwOGBNg4CVMK42rVwZfMgqv9KMmjtqC3y2qBpkAo1j2MIwODd2uDOOOtYYrSXG_fp6xqhIqg=s560)
 
@@ -123,6 +123,10 @@ tags: [염색, 달팽이, 아론, 뉴겐코스메틱, 리뷰플레이스]
 
 구매는 [아론샵](http://www.aaronshop.co.kr/shop/shopdetail.html?branduid=1031510)에서 할 수 있으며,
 가격은 15,000원이다.
+
+선택 가능한 색상과 모발에 따른 결과 예상 표는 다음과 같다:
+
+![모발에 따른 시술시 컬러](https://lh3.googleusercontent.com/fVQW__uvdH_iByymjw6rWLCxrEsP5bgrUJOma7cryF2EnQAWDmmlwpcx3wR1YTAvG3dgH4WrVSIB0A=s640)
 
 본인의 머리색과 상태에 따라 결과가 달라지므로,
 기존의 경험과 현재의 상태를 고려해 선택하는게 좋다.
