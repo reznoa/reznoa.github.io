@@ -8,7 +8,7 @@ tags: [책, 청소년, 단편, 소설, 동화, 양인자, 푸른책들, 서평]
 '가출 같은 외출'는
 양인자의 단편 5개를 엮을 단편집이다.
 
-![표지](https://lh3.googleusercontent.com/rumcgQwJx2iOaWu2kttoDnKPcq-aPeLgWTo8Vo4Yzq75l4s0gB2O4RYxg4htv9NU-7z4n96j4PCO5Q=s480)
+![표지](https://lh3.googleusercontent.com/D9oXIMFH3R74P_LX5CONKJiBKkZ9vRTwkOSJddeTpjCdswyHy6GcVYwkQTzG1SCmWwQ5_KCAAD77tA=s480)
 
 수록 단편들은 청소년 소설인 것 치고는 특이하게도
 꽤 어두운 현실의 이면을 주제로 삼았다.
