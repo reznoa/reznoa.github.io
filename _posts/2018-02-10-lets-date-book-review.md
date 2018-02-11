@@ -8,7 +8,7 @@ tags: [책, 소설, 청소년, 단편, 진희, 푸른책들, 서평]
 '데이트하자!'는
 5편의 단편을 통해 청소년의 생각과 감정들을 귀엽게 담아낸 소설집이다.
 
-![표지](https://lh3.googleusercontent.com/htsMcgbPMLqAqanv5N35BqdHV0et-JXDFk3woEIUo_p7tkaTSFQAGffzAwzaW0Aj9byKCatinkcLtg=s480)
+![표지](https://lh3.googleusercontent.com/PrgYOiiOn9KJju7eSAQKaxTzNwrSlaZLvZ2_x5-VMPVJ1cKs1XPKTFXV3l34xRK6LO627VjVRuT29A=s480)
 
 각 단편은 서로 각자의 이야기를 담고 있는데,
 그러면서도 또한 연결점이 있어
