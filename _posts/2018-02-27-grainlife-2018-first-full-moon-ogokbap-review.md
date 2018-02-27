@@ -24,7 +24,7 @@ tags: [잡곡, 밥, 오곡밥, 곡물생활, 괴산잡곡농산, 리뷰플레이
 
 그러나, 농사를 짓지 않는 대부분의 현대 가정에서는
 크게 마음을 먹지 않으면 오곡밥을 해먹기가 그렇게 쉽지는 않다.
-오곡밥모음은 그런 사람들이 간편해 준비해 먹기 좋은 제품이다.
+오곡밥모음은 그런 사람들이 간편하게 준비해 먹기 좋은 제품이다.
 
 ![제품 2](https://lh3.googleusercontent.com/haYRGO4Gd4ccdf4Ufw8wWBHe90ns3ivMhDX5yP0cp9PsQxwZd7d78FIAjwuZytebzE5TIq8Zo_ZFJA=s560)
 
