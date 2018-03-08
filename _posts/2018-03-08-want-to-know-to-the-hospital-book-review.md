@@ -26,6 +26,8 @@ tags: [책, 그림책, 네티 반 카트호벤, 마욜레인 휜트, 최재숙, 
 몸이 아픈 아기들은 인큐베이터 안에 들어간다는 것,
 입원실 침대는 등받이가 올라가기도 하고 접히기도 한다는 것 등이다.
 
+![방사선](https://lh3.googleusercontent.com/ctY0aI4j-S1ziSEs3FJbQmiGUxNOOZ0TifwftTUXycNJ6LCFiH_KbvIXVV8OAd5Q2RN_zV6Nv7mJAg)
+
 그렇게 병원 곳곳을 둘러보고
 친구와 병원놀이도 하며 노는 사이
 어느새 수술시간이 다가오자,
