@@ -1,0 +1,55 @@
+---
+layout: post
+title: "책속을 넘나드는 기발한 추적극 - 늑대가 나타났다"
+category: 도서
+tags: [책, 그림책, 동화, 마티외 라브와, 이순영, 북극곰, 서평, 예스24 리뷰어클럽]
+---
+
+'마티외 라브와(Mathieu Lavoie)'의
+'늑대가 나타났다(Le loup dans le livre)'는
+늑대가 다른 이들을 잡으러 가는 것을 그린 그림책이다.
+
+![표지](https://lh3.googleusercontent.com/a78ss_QPA50JPxe68xJnZ5h6wt0KN8awbXQlOp3fgJsiIp9_NNjWYo7qAWxnPOsaFupo52h0FdgZbA=s480)
+
+늑대는 '히히히!' 웃으며 나타나
+빨간모자 동화책 속으로 들어간다.
+그러자 늑대를 피해 빨간모자와 할머니, 그리고 사냥꾼이 동화책에서 도망나온다.
+그리고 이웃한 동화책으로 피신한다.
+
+![1](https://lh3.googleusercontent.com/k-lXiTXmy0chG76L1HiuFUoiqaGCCF8MoOsBzMpIg4NTzC1ylWVezM2dnKAMBGfJQQMn1h9PwwbPPg=s560)
+
+이들이 피신한 동화는 '아기 돼지 삼 형제'.
+늑대는 또 다시 '히히히!'하고 웃으며
+동화책 속으로 들어간다.
+그러자 이제 아기 돼지 삼 형제까지 포함한 무리가
+동화책에서 도망나와 다른 동화책으로 피신한다.
+
+![3](https://lh3.googleusercontent.com/exSTZHJTsjhqioc4TyGXlWc0fhBOC0wpClVh6LGyS7n-TSW1kOh2QzyBpsaFIlh0-DDXoAIdgbwrPQ=s560)
+
+늑대의 추적은 계속된다.
+늑대가 쫒아오면 동화책 속 등장인물들은 다른 곳으로 도망가고,
+이를 반복한다.
+
+과연 결말은 어떻게 될까.
+이 동화책에는 모두 5개의 동화가 등장한다.
+늑대 하면 떠오르는 '빨간모자'와 '아기 돼지 삼 형제'는 물론
+잘 모르는 사람도 있는
+'스갱 아저씨의 염소'와 '피터와 늑대',
+그리고 마지막 '엄지 동자'로 이어진다.
+
+책속을 넘나드는 발상이 기발한 이 추적극은
+흥미로운 반전을 보여주며 색다른 관점과 생각을 전해주기도 한다.
+단순한 모양에 원색을 사용한 그림도 매력적이고,
+늑대가 나와 얼핏 무서울 것 같지만
+놀이처럼 그려져서 유쾌하게 볼 수 있다.
+
+이 책에는 5개의 동화만 나오지만,
+추적이 계속되는 다른 동화도 계속해서 등장할 수 있다.
+자기가 본 동화들을 뒤로 연결지어
+책에서처럼 이어 보는것도 나름 재미있을 것 같다.
+
+
+
+<div class="im im-info">
+이 리뷰는 예스24 리뷰어클럽을 통해 제작사로부터 상품을 제공받아 작성되었습니다.
+</div>
