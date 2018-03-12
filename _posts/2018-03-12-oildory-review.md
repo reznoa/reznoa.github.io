@@ -14,6 +14,8 @@ tags: [자동차, 펌프, 로컴, 리뷰플레이스]
 
 ![깔때기](https://lh3.googleusercontent.com/eh2Rc1oD5TTINQqXAWvMpfe8DYcZ0AkTFglNPOIScwco3SzKT2EFF4DgXxSanE39G7TCP9Tn21PFtQ=s560)
 
+![표기](https://lh3.googleusercontent.com/jL3IfN2DbwVp_ZESk5EVS3lFLN1qeCyQL3k5uqwKZmU8gD9hZ8J5uEHbLboqTK2XPjfA1_PiNTYvmQ=w360)
+
 구성은 간단해서,
 오일돌이 본체와 거기에 연결된 호스가 전부다.
 게다가 손으로 움직이는 수동 제품이라 모터 등 전기 장치나 배터리도 없다.
