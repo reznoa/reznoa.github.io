@@ -27,6 +27,10 @@ tags: [책, 그림책, 기억력, 트레이시 패키암 앨로웨이, 캐서린
 '잘 잊어버린다'는 설정을 통해
 점점 더 많은 것을 기억해보게 하는것도 좋았다.
 
+![6~7](https://lh3.googleusercontent.com/bXiyCyhj2HdDfpNHEKvMtYpO2Nc6BxS1ndK8h5rpnxruXHqSp5TUk39eG79gpujGgg4c1PEME7lYnA=s560)
+
+![24~25](https://lh3.googleusercontent.com/nN1L05OzXzFxnPO1y9ZK583J0Pt2n1ARdYbYhtXlioCRzt2ntZP_DZOkRHEwzS83HcZfi_YE5WcPmg=s560)
+
 10가지 물건을 외우는 것은 얼핏 간단해 보이지만
 막상 해보면 그렇게 쉽지많은 않다.
 특히 외자마자 뱉어내는 게 아니라
