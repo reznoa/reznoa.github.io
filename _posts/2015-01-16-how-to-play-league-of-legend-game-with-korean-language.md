@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "League of Legend, NA 등 외국 서버에서 한국어로 보는 방법"
-description: "League of Legend 외국 서버에서 한국어를 사용하는 방법을 소개한다."
+title: "League of Legend 외국 서버 한국어로 즐기는 방법"
+description: "League of Legend 외국 서버를 이용할 때도 한국어로 볼 수 있는 방법이 있어 소개한다."
 category: Game
 tags: [게임, 리그오브레전드, 한국어패치]
 ---
 
-<div class="im im-error" markdown="1">
-8.3 패치에서 다시 막은 듯하다. 쩝;
+<div class="im im-info" markdown="1">
+8.5 클라이언트에서 system.yaml를 바꾸는 방법이 다시 먹힌다. :)
 </div>
 
 
@@ -46,37 +46,54 @@ League of Legend는 다양한 국가에서 각자의 언어로 서비스하고�
 yaml은 간단한 규칙을 가진 텍스트 파일이라
 notepad나 vi 등으로 열어 쉽게 수정할 수 있다.
 
-위치는 다음과 같다:
-`${LOL_HOME}\RADS\projects\league_client\releases\0.0.0.113\deploy\system.yaml`
+위치는 다음과 같다:  
+`RADS\projects\league_client\releases\0.0.0.127\deploy\system.yaml`
 
-여기서 `0.0.0.113`는 버전 넘버라
+여기서 "0.0.0.127"은 버전 넘버라
 새 패치가 적용되면 바뀔 수 있다.
 그럴경우 가장 큰 값 아래에 있는 놈이 실제 사용하는 파일이다.
-
 이걸 조금만 손보면 한국 클라이언트로 외국 서버에 접속해 게임할 수 있다.
 
-다음은 NA 서버에 접속할 수 있도록 바꾼 것이다:
+바꿀 것은 KR 항목으로,
+글로벌 클라이언트의 해당 서버 항목(예를들어, 북미면 NA 항목)의 내용을 가져와 바꿔치면 된다.
+바꿀 항목은 available_locales, default_locale를 제외한 나머지다.
+다만, rso 항목은 서버 상관없이 동일하므로,
+실제론 rso_platform_id 이하 내용만 바꾸면 된다.
+
+그러면 클라이언트에서는 비록 지역이 'KR'로 뜨지만,
+실제로는 바꾼 서버로로 접속해 게임을 즐길 수 있다.
+
+다음은 8.5 한국어 클라이언트로 NA 서버에 접속할 때 사용할 system.yaml 내용이다:
 
 ~~~
   KR:
     available_locales:
     - ko_KR
     default_locale: ko_KR
+    rso:
+      allow_lq_fallback: false
+      kount:
+        collector: prod02.kaxsdc.com
+        merchant: '108000'
+      token: eyJhbGciOiJSUzI1NiJ9.eyJhdWQiOiJodHRwczpcL1wvYXV0aC5yaW90Z2FtZXMuY29tXC90b2tlbiIsInN1YiI6ImxvbCIsImlzcyI6ImxvbCIsImV4cCI6MTUyNTkyNTE4NiwiaWF0IjoxNDk0ODIxMTg2LCJqdGkiOiI3NGJjZDRiMS1hNDcyLTQyNTYtYTQwMi0zNjlmODdmOGRkM2MifQ.wl8yxfCNNpOHJlvpaLR4fjcoHBF3VrW93bzO-XvjBG_6n3x4oiXfwnQZDfyMZ45DsK6lckKQ1PMPz7hFUcvhuzROt9_AW_YUieWS0cG2GkNo6WzjGOAsJ_okWPmXSSjQV2axGhyI3bsnAug48TQ4FDYVPXg_qginDM8FxfNqBqHg3s6HbLmsd6qSpfBD6iBiNMQfxigEub6wk6ug01h9Zg4qCEiS-ShRsJebW16nRXx7htQpN7wfaH5XVdsthBu2ZUUWKrGzZon-OvH77geysk6RZV1N8ZaR_6kG8UAlumCoM4ADS5OOVXcsBN56qBGkRm_TydulZfmEs50Pt1BCvQ
     rso_platform_id: NA1
     servers:
+      account_recovery:
+        forgot_password_url: https://recovery.riotgames.com/{{lang}}/forgot-password?region={{region}}
+        forgot_username_url: https://recovery.riotgames.com/{{lang}}/forgot-username?region={{region}}
       chat:
         allow_self_signed_cert: false
         chat_host: chat.na2.lol.riotgames.com
         chat_port: 5223
       discoverous_service_location: lolriot.pdx2.na1
       email_verification:
-        external_url: https://prod.email-verification.accounts.riotgames.com/api
+        external_url: https://email-verification.riotgames.com/api
       entitlements:
         entitlements_url: https://entitlements.auth.riotgames.com/api/token/v1
       lcds:
         lcds_host: prod.na2.lol.riotgames.com
         lcds_port: 2099
-        login_queue_url: https://lqak.na2.lol.riotgames.com/login-queue/rest/queues/lol
+        login_queue_url: https://lq.na2.lol.riotgames.com/login-queue/rest/queues/lol
         use_tls: true
       license_agreement_urls:
         terms_of_use: http://na.leagueoflegends.com/{language}/legal/termsofuse
@@ -92,15 +109,18 @@ notepad나 vi 등으로 열어 쉽게 수정할 수 있다.
         human_readable_status_url: https://status.leagueoflegends.com/#na
       store:
         store_url: https://store.na2.lol.riotgames.com
+      voice:
+        access_token_uri: https://us.vts.si.riotgames.com/access_token/v1
+        auth_token_uri: https://us.vts.si.riotgames.com/auth_token/v1
+        use_external_auth: true
+        voice_domain: riotp0use1.vivox.com
+        voice_url: https://riotp0use1.www.vivox.com/api2
     web_region: na
 ~~~
 
-위 내용은 글로벌 서버의 NA 항목에서 가져온 것이다.
-다만, available_locales와 default_locale만을 ko_KR로 바꿨다.
-
-이걸 기존 KR 항목과 바꿔친다.
-그러면 클라이언트에서는 서버 항목이 'KR'로 뜨지만,
-실제로는 NA로 접속한다.
+만약을 위해 system.yaml 파일은 백업해 두는것을 권한다.
+'전체 복구' 기능을 사용할 수도 있지만,
+해당 파일만 원래대로 되돌리는것이 더 간편하기 때문이다.
 
 
 
