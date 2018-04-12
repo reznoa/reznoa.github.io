@@ -9,7 +9,7 @@ tags: [책, 불교, 코이케 류노스케, 유윤한, 21세기북스, 북이십
 '생각 버리기 연습(考えない練習)'은
 말 그대로 어떻게 하면 생각을 버릴 수 있을지를 담은 책이다.
 
-![표지](https://lh3.googleusercontent.com/lWYosh8mSzpoYvif8JYWLsPFHulc6tUxFDfEnzFABXVsRT09U1xJipnp3CQk2aJ-uX1zgYZ_s43kfQ=s480)
+![표지](https://lh3.googleusercontent.com/eAVTMekBfXeJJYgrc5YecTqoo2kzTteFRyYBO5jaqwTAwgbXi3xGttHQ3S0akNVK8i1afTCGH7JRvA=s480)
 
 생각을 버린다고 해서, 모든 생각을 버리고 무념하라고까지 얘기하는 것은 아니다.
 단지, 지나치게 많은 생각,
