@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Feed43로 RSS 만들기 - 네이버 포스트 (전체)"
+title: "Feed43으로 RSS 만들기 - 네이버 포스트 (전체)"
 description: "Feed43으로 네이버 포스트를 RSS로 만드는데 필요한 정보를 공개한다."
 category: 컴퓨터
 tags: [RSS, Feed43, 네이버 포스트]
