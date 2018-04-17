@@ -18,7 +18,7 @@ http://post.naver.com/my/series/detail.nhn?memberNo=?&seriesNo=?
 Item (repeatable) Search Pattern:
 {% raw %}
 ~~~
-<li class="">{_}<a href="{%}&navigationType=push" class="spot_post_area">{_}<div class="spot_thumb_area ">{_}<img src="{%}" onerror="this.onerror=null;defaultVolumeImageOnerror(this);" alt="본문 사진">{_}</div>{_}<p class="spot_post_date">{%} <span class="lt_bar"><span>{*}</span> 읽음</span></p>{_}<div class="spot_post_name">{_}<span class="ell">{_}{%}</span>{_}</div>
+<li class="">{_}<a href="{%}&navigationType=push" class="spot_post_area">{_}<div class="spot_thumb_area ">{_}<img src="{%}" onerror="this.onerror=null;defaultVolumeImageOnerror(this);" alt="본문 사진">{*}</div>{_}<p class="spot_post_date">{%} <span class="lt_bar"><span>{*}</span> 읽음</span></p>{_}<div class="spot_post_name">{_}<span class="ell">{_}{%}</span>{_}</div>
 ~~~
 {% endraw %}
 
