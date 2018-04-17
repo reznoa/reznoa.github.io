@@ -373,3 +373,61 @@ div.mediablock p.mediablock-caption{
 .center {
 	text-align: center;
 }
+
+
+/* SlideJS */
+
+.slidejs {
+	display:none;
+	margin: 1em 0;
+}
+
+.slidesjs-container {
+	margin-bottom:10px;
+}
+
+.slidesjs-previous,
+.slidesjs-next {
+	display: none;
+}
+
+.slidesjs-pagination {
+	display: table;
+	margin: 0 auto 1em auto;
+	list-style: none;
+}
+
+.slidesjs-pagination li {
+	float: left;
+	margin: 0 1px;
+}
+
+.slidesjs-pagination li a {
+	display: block;
+	width: 13px;
+	height: 0;
+	padding-top: 13px;
+	background-image: url("/images/pagination.png");
+	background-position: 0 0;
+	float: left;
+	overflow: hidden;
+}
+
+.slidesjs-pagination li a.active,
+.slidesjs-pagination li a:hover.active {
+	background-position: 0 -13px
+}
+
+.slidesjs-pagination li a:hover {
+	background-position: 0 -26px
+}
+
+.slidejs a:link,
+.slidejs a:visited {
+	color: #333
+}
+
+.slidejs a:hover,
+.slidejs a:active {
+	color: #9e2020
+}

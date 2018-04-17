@@ -38,6 +38,19 @@ tags: [책, 소설, 모에가라, 김해용, 밝은세상, 서평]
 현재와 과거를 오가며 보여주는 상징적인 장면들도 그렇고,
 결국 왜 헤어졌다는 건지도 명확하게 읽히지 않는다.
 
+<div id="slides" class="slidejs">
+<img src="http://image.aladin.co.kr/product/13920/26/cardview/8984373494_f1.jpg" />
+<img src="http://image.aladin.co.kr/product/13920/26/cardview/8984373494_t1.jpg" />
+<img src="http://image.aladin.co.kr/product/13920/26/cardview/8984373494_t2.jpg" />
+<img src="http://image.aladin.co.kr/product/13920/26/cardview/8984373494_t3.jpg" />
+<img src="http://image.aladin.co.kr/product/13920/26/cardview/8984373494_t4.jpg" />
+<img src="http://image.aladin.co.kr/product/13920/26/cardview/8984373494_t5.jpg" />
+<img src="http://image.aladin.co.kr/product/13920/26/cardview/8984373494_t6.jpg" />
+<img src="http://image.aladin.co.kr/product/13920/26/cardview/8984373494_t7.jpg" />
+<img src="http://image.aladin.co.kr/product/13920/26/cardview/8984373494_t8.jpg" />
+</div>
+<script>$("#slides").slidesjs({width:560,height:560});</script>
+
 애초 이 소설은
 [트위터](https://twitter.com/Pirate_Radio_)에서 140자씩 쓰던 것이 시작이었다고 한다.
 그걸 보완해 [cakes](https://cakes.mu/series/3635)에 연재했고,
