@@ -32,6 +32,11 @@ tags: [게임, 보드게임, 카드게임, 레진코믹스, 코리아보드게�
 - 게임규칙서
 - 박스
 
+이 중 팀 타일과 점수 토큰은 틀에 들어있는데,
+커펀이 제대로 안되어 있는 경우도 있으므로 펀칭할 때 조심해야 한다.
+
+![컷팅 미스](https://lh3.googleusercontent.com/wgY7a7bhc8mFJIDyWGaimhTmfGRoQjwHm6Ar7Td7pGEsY_pkgkUfW2TXlTovTiN36hXsbzhyRT86Sw=s560)
+
 게임은
 만 8세 이상을 대상으로 하고,
 3~6명이 플레이 가능하며,
@@ -84,3 +89,9 @@ tags: [게임, 보드게임, 카드게임, 레진코믹스, 코리아보드게�
 텀블벅에서 성공적으로 펀딩을 마치고 정식으로 발매
 https://tumblbug.com/woorigame
 -->
+
+
+
+<div class="im im-info">
+이 리뷰는 예스24 리뷰어클럽을 통해 제작사로부터 상품을 제공받아 작성되었습니다.
+</div>
