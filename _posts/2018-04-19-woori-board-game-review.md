@@ -33,7 +33,7 @@ tags: [게임, 보드게임, 카드게임, 레진코믹스, 코리아보드게�
 - 박스
 
 이 중 팀 타일과 점수 토큰은 틀에 들어있는데,
-커펀이 제대로 안되어 있는 경우도 있으므로 펀칭할 때 조심해야 한다.
+컷팅이 제대로 안되어 있는 경우도 있으므로 펀칭할 때 조심해야 한다.
 
 ![컷팅 미스](https://lh3.googleusercontent.com/wgY7a7bhc8mFJIDyWGaimhTmfGRoQjwHm6Ar7Td7pGEsY_pkgkUfW2TXlTovTiN36hXsbzhyRT86Sw=s560)
 
