@@ -24,6 +24,8 @@ tags: [책, 미술, 수묵화, 서예, 캘리그래피, 최남길, 소통, 서�
 그래서 한글 캘리그래피는 어려운 점이 많다.
 글자의 모양이나 받침 등의 이유로 가독성을 유지하기 어렵기 때문이다.
 
+![22](https://lh3.googleusercontent.com/RrZpZ2t1vW_V9D9p7doatVU_1tcSrO4fdDCLyabqAViecUrkj86dTCb0pQq05MF8y1-wQFKStcaAhg)
+
 그런점에서 담묵 최남길의 캘리그래피는
 이미지로서의 모양과
 글자로서의 가독성을 상당히 잘 갖춘 편이다.
