@@ -33,13 +33,26 @@ Cygwin을 쓸 경우:
 
 
 
-## 기존 저장소, GitHub에 올리기
+## GitHub에 올리기
 
 순서는 다음과 같다:
 
-1. base 저장소 생성
-2. GitHub에 push
-3. 로컬 복사본의 원격 저장소 URL 변경
+1. 새 git 저장소 생성
+2. base 저장소 생성
+3. GitHub에 push
+4. 로컬 복사본의 원격 저장소 URL 변경
+
+
+### 새 git 저장소 생성
+
+~~~
+$ cd PROJECT
+$ git init
+Initialized empty Git repository in PROJECT
+
+$ git add PROJECTFILE
+$ git commit -m "COMMITLOG"
+~~~
 
 
 ### bare 저장소 생성
