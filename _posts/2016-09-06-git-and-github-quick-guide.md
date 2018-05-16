@@ -46,6 +46,7 @@ Cygwin을 쓸 경우:
 ### 새 git 저장소 생성
 
 ~~~
+$ mkdir PROJECT
 $ cd PROJECT
 $ git init
 Initialized empty Git repository in PROJECT
