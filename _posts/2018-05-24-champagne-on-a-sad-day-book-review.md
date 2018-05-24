@@ -10,7 +10,7 @@ tags: [책, 술, 와인, 정지현, 그여자가웃는다, 아현, 서평]
 
 ![표지](https://lh3.googleusercontent.com/5zyOc4UsSuhmB3FPRSqd08apXxZtxnOSFjvj61X_zc-wd-WcFO1QfW-PZlnSDBqCUa6UfdPgI1cjvg=s480)
 
-와인은 포도를 숙석시켜 만든 음료다.
+와인은 포도를 숙성시켜 만든 음료다.
 그 특유의 맛과 향은 여러 사람들을 매혹시키며,
 또한 알콜을 함유한 술이라 기분좋게 취하게 해준다.
 이 책은 그런 와인에 대한 몇가지 정보와
