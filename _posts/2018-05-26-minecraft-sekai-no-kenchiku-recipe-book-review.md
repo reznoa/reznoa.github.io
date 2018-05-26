@@ -11,7 +11,7 @@ tags: [책, 마인크래프트, 건축, 히류, 돈보코, 하야시, 곰다비,
 '달인과 함께 하는 마인크래프트 세계 건축 여행: 아시아와 아프리카(Minecraft 世界の建築レシピ)'는
 마인크래프트를 이용해 만들 수 있는 다양한 건축물들을 담은 책이다.
 
-![표지](https://lh3.googleusercontent.com/H3qOpHkXiN2dn4vnV7tyqEPmllkL7XUd5vEIGoeCnpzuXAZRtcKA8WO2gJSeyGrFb-aujR5C82LfLw=s480)
+![표지](https://lh3.googleusercontent.com/i7lwFcvqurt2VOM38-lFvUHtxZxGsBs2X9z8VC1xEFgUvm56TgA-e_ZCl1nUt9G89aPMyqlbhQb2BQ=s480)
 
 마인크래프트는 가상 세계에서 다양한 블럭들을 쌓을 수 있는 게임이다.
 마치 레고처럼 말이다.
@@ -29,6 +29,8 @@ tags: [책, 마인크래프트, 건축, 히류, 돈보코, 하야시, 곰다비,
 계단같은 특수한 블럭을 제외하면 정육면체밖에 없는 블럭을 이용해
 이렇게까지 만들어 낼 수 있다니 새삼 놀라울 따름이다.
 제작과정도 나름 잘 설명해논 편이다.
+
+![26~27](https://lh3.googleusercontent.com/zxkxzv4lW60YX28kDtOPebNkwp7YsjUctPqZhsehOvxSrBa71sUbxpqLTslm1gS5_g9eAYIdfePQEQ)
 
 물론, 아쉬운 점도 있다.
 레고와 달리 현실적이지 않은 구조물이라는 게 그 하나다.
