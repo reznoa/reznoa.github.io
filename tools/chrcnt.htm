@@ -1,0 +1,80 @@
+<html>
+<head>
+<title>글자수 세기</title>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<style type="text/css">
+	#TextContents {
+		width : 640px;
+		height: 480px;
+	}
+	#TextLen { font-size: 2.0em; }
+	#ByteLen { font-size: 1.2em; }
+	.Len0    { color: #999; }
+	.Len1    { color: #F66; }
+	.Len500  { color: #993; }
+	.Len800  { color: #3C3; }
+	.Len1000 { color: #C3C; }
+</style>
+<script type="text/javascript">
+	function CalcTextLength()
+	{
+		var textDat = TextContents.value;
+		if (!OptWoS.checked)
+			textDat = textDat.replace(/\s/gm,'');
+		var textLen = textDat.length;
+		var byteLen = GetByteLength(textDat);
+		TextLen.innerHTML = ToFormatedNumber(textLen)
+		ByteLen.innerHTML = ToFormatedNumber(byteLen)
+		TextLen.className = GetLenClass(textLen);
+	}
+
+	function GetLenClass(n)
+	{
+		if (n >= 1000) return "Len1000";
+		if (n >=  800) return "Len800";
+		if (n >=  500) return "Len500";
+		if (n >=    1) return "Len1";
+		return "Len0";
+	}
+
+	function ToFormatedNumber(n)
+	{
+		return n.toString().replace(/(\d)(?=(\d\d\d)+(?!\d))/g, "$1,");
+	}
+
+	function GetByteLength(s)
+	{
+		var n = 0;
+		for (var i = 0; i < s.length; i++) {
+			var ch = s.charAt(i);
+			if (escape(ch).length > 4) { // 한글
+				n += 2;
+			}
+			else if (ch == '\n' || ch == '\r' ) { // 줄바꿈
+				n += 1;
+			}
+			else if (ch == '<' || ch == '>') { // 특수문자
+				n += 4;
+			}
+			else {
+				n += 1;
+			}
+		}
+		return n;
+	}
+</script>
+</head>
+<body onload="CalcTextLength()">
+	<div>
+		글자수: <span id="TextLen">0</span>
+		(<span id="ByteLen">0</span> B)
+	</div>
+	<div>
+		<textarea id="TextContents" onkeyup="CalcTextLength()" onchange="CalcTextLength()"></textarea>
+	</div>
+	<div>
+		<input type="checkbox" id="OptWoS" onchange="CalcTextLength()" />
+		<span onclick="OptWoS.click();">공백 포함</span>
+	</div>
+</body>
+</html>
