@@ -2,7 +2,7 @@
 layout: post
 title: "바이크로 남북한 가로지르기 - 한반도를 달리다"
 category: 도서
-tags: [책, 여행기, 개러스 모건, 조앤 모건, 이은별, 이은샘, 넥서스BOOKS, 넥서스, 서평, 리뷰어클럽]
+tags: [책, 여행기, 북한, 바이크, 개러스 모건, 조앤 모건, 이은별, 이은샘, 넥서스BOOKS, 넥서스, 서평, 리뷰어클럽]
 ---
 
 '모건 부부(Gareth Morgan & Joanne Morgan)'의
