@@ -6,7 +6,7 @@ tags: [책, 에세이, 직장생활, 코미디, 페이샤오마, 허유영, 유�
 ---
 
 대만출신 일러스트레이터 '페이샤오마(裴小馬 / Pony Pei)'의
-'회사는 다닐 만하니?(Office Life)'는
+'회사는 다닐 만하니?(上班族人蔘 / Office Life)'는
 회사살이를 하면서 겪는 일들과 거기에서 유용할만한 팁들을 유쾌하게 엮은 에세이다.
 
 ![표지](https://lh3.googleusercontent.com/VYw0TTe9E1nROOI75FuXsZeFZGIeVQUHhWun0fh0ooFk1WYVW6ILaM8bnYQ7Ko1cn_GbIuguOilUCw=s480)
