@@ -3,12 +3,15 @@ layout: post
 title: "바이크로 남북한 가로지르기 - 한반도를 달리다"
 category: 도서
 tags: [책, 여행기, 북한, 바이크, 개러스 모건, 조앤 모건, 이은별, 이은샘, 넥서스BOOKS, 넥서스, 서평, 리뷰어클럽]
+excerpt_separator: <!--more-->
 ---
 
 '모건 부부(Gareth Morgan & Joanne Morgan)'의
 '한반도를 달리다(Kimchi Kiwis: Motorcycling North Korea)'는
 2015년에 발간된 '발칙한 여행자'의 개정판으로,
-바이크를 이용한 남북한 종단 여행 경험을 담은 여행기다.
+바이크를 이용한 남북한 종단 여행 경험을 담은 여행기다.<!--more-->[^1]
+
+[^1]: 책 맨 뒤쪽에 '발칙한 여행자'의 흔적이 남아있다. 실수이려나? 아니면, 이스터 에그?
 
 ![표지](https://lh3.googleusercontent.com/_7GigetDAUv27cOfwj_gMeT-lGRdjrjjOGJ_oMoL4ILM7pfYRpFvPMgHBetuMJYF9DtH-kSJQsLmhw=s480)
 
