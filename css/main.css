@@ -114,6 +114,12 @@ h3 { font-size: 1.5em; }
 	color: #36f;
 }
 
+#site-donate {
+	position: fixed;
+	bottom: 0.5em;
+	right: 0.5em;
+}
+
 #site-bannber {
 	padding: 1em;
 	margin-top: 2em;
