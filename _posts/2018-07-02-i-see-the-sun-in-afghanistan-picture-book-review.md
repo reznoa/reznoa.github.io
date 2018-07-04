@@ -6,7 +6,7 @@ tags: [책, 그림책, 아프가니스탄, 데디 킹, 주디스 잉글레세, �
 ---
 
 '데디 킹(Dedie King)'이 쓰고
-'주디스 잉글레세(Judith Inglese)'이 그린
+'주디스 잉글레세(Judith Inglese)'가 그린
 '아프가니스탄에서 태양을 보다(I See the Sun in Afghanistan)'는
 아프가니스탄의 일상을 담은 그림책이다.
 
