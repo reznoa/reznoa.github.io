@@ -5,8 +5,8 @@ category: 도서
 tags: [책, 자기계발, 직업, 윤정은, 비전코리아, 비전비엔피, 서평]
 ---
 
-'출근만 하면 다 될 줄 알았어'의 개정판인,
-'퇴근 말고 퇴사가 하고 싶다'는
+'퇴근 말고 퇴사가 하고 싶다'는,
+'출근만 하면 다 될 줄 알았어'의 개정판으로,
 직장생활에 지쳐 고민하는 사람들을 위한 생각거리와 조언을 담은 책이다.
 
 ![표지](https://lh3.googleusercontent.com/E8OMMeVNC8dRcBYrVG_PeDq_RUkzTgID4SIBEqoIgu3kvlJU_11FoX3dWr8W82L5MmMs3IZGZLAGKg=s480)
