@@ -400,6 +400,7 @@ div.mediablock p.mediablock-caption{
 .slidesjs-pagination {
 	display: table;
 	margin: 0 auto 1em auto;
+	padding: 0;
 	list-style: none;
 }
 
