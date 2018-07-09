@@ -24,13 +24,13 @@ tags: [책, 그림책, 갈대, 송언, 김선남, 봄봄, 아름다운 그림책
 이 책은 그런 갈대의 삶과 모습을
 계절의 변화와 주변의 모습과 함께 담아내었다.
 
-<div id="slides" class="slidejs">
-<img alt="1"  src="https://lh3.googleusercontent.com/Wx-awDAe51voo5gKhkglT_hnpzQKu2qKmrAezucGdHgyyGRVy7VwdH2yYlvqQWCNlyyCb4Sjb-8GfA=s560" />
-<img alt="6"  src="https://lh3.googleusercontent.com/2G6srw0Kn2fDLNKUvmzmOZKyuwepkUvvOqraCsPXY2EnEpsHcfLof30gJFl0rNzdF_mtEFCjTGZoAQ=s560" />
-<img alt="12" src="https://lh3.googleusercontent.com/xvyB3jll1pxzrETPeOPUudK2i91xM6E52rUNqLke5_Gjb2k1zMDWSUBGnc-obD0opXMeHtm8zGl38A=s560" />
-<img alt="13" src="https://lh3.googleusercontent.com/RwBmn6ELlJ5XrFPr4VCxPlyZSDmI2CvibSr-5u_1Dsm1tg--NZy7UKgUqGgcdEfYYJVmAKCtNQQ28g=s560" />
+<div class="slider">
+<div><img alt="1" src="https://lh3.googleusercontent.com/Wx-awDAe51voo5gKhkglT_hnpzQKu2qKmrAezucGdHgyyGRVy7VwdH2yYlvqQWCNlyyCb4Sjb-8GfA=s560" /></div>
+<div><img alt="6" src="https://lh3.googleusercontent.com/2G6srw0Kn2fDLNKUvmzmOZKyuwepkUvvOqraCsPXY2EnEpsHcfLof30gJFl0rNzdF_mtEFCjTGZoAQ=s560" /></div>
+<div><img alt="12" src="https://lh3.googleusercontent.com/xvyB3jll1pxzrETPeOPUudK2i91xM6E52rUNqLke5_Gjb2k1zMDWSUBGnc-obD0opXMeHtm8zGl38A=s560" /></div>
+<div><img alt="13" src="https://lh3.googleusercontent.com/RwBmn6ELlJ5XrFPr4VCxPlyZSDmI2CvibSr-5u_1Dsm1tg--NZy7UKgUqGgcdEfYYJVmAKCtNQQ28g=s560" /></div>
 </div>
-<script>$("#slides").slidesjs({width:560,height:355});</script>
+<script>$(".slider").slick({dots: true});</script>
 
 어린이를 위한 그림책이라고 하기엔 좀 어렵게 쓰였는데,
 문장이 시적이라 더 그런면이 있다.
