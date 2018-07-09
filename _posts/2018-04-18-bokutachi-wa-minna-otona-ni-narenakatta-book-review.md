@@ -39,15 +39,15 @@ tags: [책, 소설, 모에가라, 김해용, 밝은세상, 서평]
 결국 왜 헤어졌다는 건지도 명확하게 읽히지 않는다.
 
 <div class="slider">
-<div><img src="http://image.aladin.co.kr/product/13920/26/cardview/8984373494_f1.jpg" /></div>
-<div><img src="http://image.aladin.co.kr/product/13920/26/cardview/8984373494_t1.jpg" /></div>
-<div><img src="http://image.aladin.co.kr/product/13920/26/cardview/8984373494_t2.jpg" /></div>
-<div><img src="http://image.aladin.co.kr/product/13920/26/cardview/8984373494_t3.jpg" /></div>
-<div><img src="http://image.aladin.co.kr/product/13920/26/cardview/8984373494_t4.jpg" /></div>
-<div><img src="http://image.aladin.co.kr/product/13920/26/cardview/8984373494_t5.jpg" /></div>
-<div><img src="http://image.aladin.co.kr/product/13920/26/cardview/8984373494_t6.jpg" /></div>
-<div><img src="http://image.aladin.co.kr/product/13920/26/cardview/8984373494_t7.jpg" /></div>
-<div><img src="http://image.aladin.co.kr/product/13920/26/cardview/8984373494_t8.jpg" /></div>
+<div><img alt="1" src="https://lh3.googleusercontent.com/qqDHvjkk7QBXg_hc9v8U0V-Ap1jPlneFIWe0e_3Vqrm_RzR8u3kbot4xKKKFdPAEcWl4iclRSpa2VA=s560" /></div>
+<div><img alt="2" src="https://lh3.googleusercontent.com/jAN_7iAb5yvaPSQ0VfLdkiB-I9DguLHftWJ8Km1vFine7G4xqRB0ZeDhUmHMtzSIzYoceVffCK8xsQ=s560" /></div>
+<div><img alt="3" src="https://lh3.googleusercontent.com/YU8Sz6B438LN794xABwV_3RJ_tBfPfKK-80GxO_xifpy98pE3sBd8zJPX2N3utwhrz18EV_MWJ-heg=s560" /></div>
+<div><img alt="4" src="https://lh3.googleusercontent.com/keGHFgvTpQUwkS2Jc8ULvBlOBBnO0aBsrMhCyNTnzjzDNFZIcJfR04BG8GRO2D5Kgu6M51oail-FqA=s560" /></div>
+<div><img alt="5" src="https://lh3.googleusercontent.com/k2BwmgbgmvAUY3rnl5T2MiPImVk78LzbnysExtfhyGG0mh3mSIwcdWaYChpphj9ADp-eshjSWAi6Gg=s560" /></div>
+<div><img alt="6" src="https://lh3.googleusercontent.com/Gr70RXY0x1rdyDo8kKmtWjrnEhYe0mis-WZpE2kwnODpZTJ3UvEYgLZNTkDa4j7KEkWrngVHknX4VA=s560" /></div>
+<div><img alt="7" src="https://lh3.googleusercontent.com/tOUNBLbhmG0CFZzUOQqxEMLPpvwBjP3F-hQwcAEoY2tG_LV1AfEJcZN6IyxZhl_P3dmzedbI4VWFPA=s560" /></div>
+<div><img alt="8" src="https://lh3.googleusercontent.com/x1DSsGKiAApZs2IIsHRCLhZxnifQIDQJ0otmLd_t5iKuAdBq4nIo7eT7Z-i3DTwmdwHQHnDyD1N3_Q=s560" /></div>
+<div><img alt="9" src="https://lh3.googleusercontent.com/WNVd1Be5lajPfYbpTBzpkTV-FSx5eJq0isLfrC0Z2FJ47pd3WletZJaVnV5WP67DLnRpHLyPnqO9nw=s560" /></div>
 </div>
 <script>$(".slider").slick({dots: true});</script>
 
