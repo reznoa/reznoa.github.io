@@ -153,3 +153,52 @@ remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
 To https://github.com/GITHUBID/PROJECT.git
    d13d285..52ab072  master -> master
 ~~~
+
+
+
+### fork 저장소 동기화 하기
+
+GItHub의 다음 두 글 참고:
+
+- [Configuring a remote for a fork](https://help.github.com/articles/configuring-a-remote-for-a-fork/)
+- [Syncing a fork](https://help.github.com/articles/syncing-a-fork/)
+
+명령만 모음:
+
+~~~
+$ git remote -v
+origin  https://github.com/YOUR_USERNAME/YOUR_FORK.git (fetch)
+origin  https://github.com/YOUR_USERNAME/YOUR_FORK.git (push)
+
+$ git remote add upstream https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git
+
+$ git remote -v
+origin    https://github.com/YOUR_USERNAME/YOUR_FORK.git (fetch)
+origin    https://github.com/YOUR_USERNAME/YOUR_FORK.git (push)
+upstream  https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git (fetch)
+upstream  https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git (push)
+
+$ git fetch upstream
+remote: Counting objects: 75, done.
+remote: Compressing objects: 100% (53/53), done.
+remote: Total 62 (delta 27), reused 44 (delta 9)
+Unpacking objects: 100% (62/62), done.
+From https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY
+ * [new branch]      master     -> upstream/master
+
+$ git checkout master
+Switched to branch 'master'
+
+$ git merge upstream/master
+Updating a422352..5fdff0f
+Fast-forward
+ README                    |    9 -------
+ README.md                 |    7 ++++++
+ 2 files changed, 7 insertions(+), 9 deletions(-)
+ delete mode 100644 README
+ create mode 100644 README.md
+~~~
+
+솔직한 심정:
+이딴거 정리해서 올리지 말고, 싱크 버튼 좀 추가해!
+왜 안하는 거야? ;
