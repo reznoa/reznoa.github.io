@@ -6,7 +6,7 @@ tags: [책, 소설, 역사, 가상역사, 임진왜란, 김충선, 이주호, �
 ---
 
 '김충선과 히데요시(가제)'는
-임진왜란 당시 조선에 귀하하여 조총 개발과 보급을 한 것으로 알려진 사야가(沙也可),
+임진왜란 당시 조선에 귀화하여 조총 개발과 보급을 한 것으로 알려진 사야가(沙也可),
 김충선(金忠善)의 이야기를 상상해 그린 가상역사 소설이다.
 
 ![김충선 초상](https://lh3.googleusercontent.com/nmtA5kXxEVMGdYpFczRUJqSA8W7UQZqy0owcApbOEX-0BMbrTN8YI_TPwrZewiPjP7K-C1R5BP87LA=s480)
