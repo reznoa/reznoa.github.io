@@ -5,7 +5,7 @@ category: 도서
 tags: [책, 소설, 청소년, 뱀파이어, 피트 존슨, 이가희, 가람어린이, 벽장 속의 도서관, 서평]
 ---
 
-'뱀파이어 사냥꾼(Vampire Hunters)'는
+'뱀파이어 사냥꾼(The Vampire Hunters)'는
 '피트 존슨(Pete Johnson)'의
 청소년 뱀파이어 4부작(Vampire Quartet)의 두번째 이야기다.
 

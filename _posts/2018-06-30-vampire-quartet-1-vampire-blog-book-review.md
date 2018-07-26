@@ -5,7 +5,7 @@ category: 도서
 tags: [책, 소설, 청소년, 뱀파이어, 피트 존슨, 김화경, 가람어린이, 벽장 속의 도서관, 서평]
 ---
 
-'뱀파이어 블로그(Vampire Blog)'는
+'뱀파이어 블로그(The Vampire Blog)'는
 '피트 존슨(Pete Johnson)'의
 청소년 뱀파이어 4부작(Vampire Quartet)의 첫번째 이야기다.
 
