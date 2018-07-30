@@ -98,6 +98,20 @@ origin  https://github.com/PROJECTOWNER/PROJECT.git (push)
 
 ## 기본 명령
 
+### 사용자 설정
+
+~~~
+$ git config --global user.name "YOUR NAME"
+$ git config --global user.email YOUR@EMAIL.com
+~~~
+
+commit 할 때 기록할 사용자 정보 설정한다.
+
+'--global' 옵션을 빼고 개별 프로젝트마다 설정할 수도 있다.
+
+개별 설정이 글로벌 설정보다 우선하며,
+둘 다 없으면 설정을 요구한다.
+
 ### checkout HEAD: 변경 내용 취소 (svn revert)
 
 ~~~
