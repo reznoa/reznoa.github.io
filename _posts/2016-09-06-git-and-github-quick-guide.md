@@ -17,7 +17,8 @@ tags: [Git, GitHub]
 변수는 다음처럼 사용한다:
 
 - PROJECT: 프로젝트 이름 및 프로젝트 코드를 담은 디렉토리 이름
-- GITHUBID: GitHub 사용자 이름
+- PROJECTOWNER: 프로젝트 리파지토리를 소유한 사용자 이름
+- GITHUBID: push하는데 사용할 GitHub 사용자 이름
 
 이 값들은 각자에 맞는 값으로 바꿔 사용해야한다.
 
@@ -69,7 +70,7 @@ done.
 
 ~~~
 $ cd PROJECT.git
-$ git push --mirror https://github.com/GITHUBID/PROJECT.git
+$ git push --mirror https://github.com/PROJECTOWNER/PROJECT.git
 ~~~
 
 ~~~
@@ -86,11 +87,11 @@ $ git remote -v
 origin  c:\repos\PROJECT.git (fetch)
 origin  c:\repos\PROJECT.git (push)
 
-$ git remote set-url origin https://github.com/GITHUBID/PROJECT.git
+$ git remote set-url origin https://github.com/PROJECTOWNER/PROJECT.git
 
 $ git remote -v
-origin  https://github.com/GITHUBID/PROJECT.git (fetch)
-origin  https://github.com/GITHUBID/PROJECT.git (push)
+origin  https://github.com/PROJECTOWNER/PROJECT.git (fetch)
+origin  https://github.com/PROJECTOWNER/PROJECT.git (push)
 ~~~
 
 
@@ -111,7 +112,7 @@ remote: Counting objects: 12, done.
 remote: Compressing objects: 100% (12/12), done.
 remote: Total 12 (delta 9), reused 0 (delta 0), pack-reused 0
 Unpacking objects: 100% (12/12), done.
-From https://github.com/GITHUBID/PROJECT
+From https://github.com/PROJECTOWNER/PROJECT
    f607e78..73106c8  master     -> origin/master
 Updating f607e78..73106c8
 Fast-forward
@@ -150,7 +151,7 @@ Compressing objects: 100% (4/4), done.
 Writing objects: 100% (4/4), 2.06 KiB | 0 bytes/s, done.
 Total 4 (delta 2), reused 0 (delta 0)
 remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
-To https://github.com/GITHUBID/PROJECT.git
+To https://github.com/PROJECTOWNER/PROJECT.git
    d13d285..52ab072  master -> master
 ~~~
 
@@ -202,3 +203,15 @@ Fast-forward
 솔직한 심정:
 이딴거 정리해서 올리지 말고, 싱크 버튼 좀 추가해!
 왜 안하는 거야? ;
+
+
+
+## 특정 사용자로 push 하기
+
+git은 따로 지정해주지 않으면 현재 로그인한 사용자 ID를 사용하려 한다.
+그러므로 GitHub 사용자 이름과 서로 다르다면,
+어떤 사용자 이름을 사용하는지 정해주어야 한다.
+
+~~~
+$ git remote set-url origin GITHUBID@github.com:PROJECTOWNER/PROJECT.git
+~~~
