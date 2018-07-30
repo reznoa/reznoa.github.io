@@ -157,7 +157,7 @@ To https://github.com/PROJECTOWNER/PROJECT.git
 
 
 
-### fork 저장소 동기화 하기
+## fork 저장소 동기화 하기
 
 GItHub의 다음 두 글 참고:
 
