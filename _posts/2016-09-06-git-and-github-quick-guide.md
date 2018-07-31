@@ -137,7 +137,7 @@ $ git pull
 Already up-to-date.
 ~~~
 
-### add: commit 목록에 추가 (svn add)
+### add: commit 목록에 추가/제거 (svn add)
 
 ~~~
 $ git add PROJECTFILE
@@ -147,10 +147,22 @@ add 명령은 현재 변경을 추가하는거다.
 add 후 파일을 다시 바꿨다면, 그 내용은 commit되지 않는다.
 파일 수정을 완전히 마친 후 commit 직전에 add하는게 좋다.
 
+모든 변경을 commit하려고 한다면, add 없이 commit에 -a 옵션을 줘도 된다.
+
+~~~
+$ git reset PROJECTFILE
+~~~
+
+reset을 이용하면 add를 취소할 수 있다.
+
 ### commit: 로컬 저장소에 반영 (svn commit - part.1)
 
 ~~~
 $ git commit -m "COMMITLOG"
+~~~
+
+~~~
+$ git commit -a -m "COMMITLOG"
 ~~~
 
 ### push: 원격 저장소에 반영 (svn commit - part.2)
