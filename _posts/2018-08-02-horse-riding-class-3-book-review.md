@@ -9,7 +9,7 @@ tags: [책, 제인 월러스, 페리 우드, 린다 피어스, 김은지, 김수
 '승마 기술 교과서 3'은
 문제가 생겼을 때의 대처법과 기승자를 위한 운동을 담은 책이다.
 
-![표지](https://lh3.googleusercontent.com/r9zJOnEh5jEAQzUn11pE_xU9JMSMk4qDu17t2IqEYQwMr0Witld9-gCuOy_J1NAahnLuDBd6COLmQQ=s480)
+![표지](https://lh3.googleusercontent.com/q5BMpe1-4RY9kPKAe26dA1Wr3fFxatXNlHr0coMnjUEyic7-N41jQSvW84MEyUREfTVYpwXIBh8w_A=s480)
 
 1, 2편에서는 말을 타기위해 준비해야하는 것과
 말을 타는 방법에 대해서 다루었다.
