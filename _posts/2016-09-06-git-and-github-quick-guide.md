@@ -241,3 +241,41 @@ git은 따로 지정해주지 않으면 현재 로그인한 사용자 ID를 사�
 ~~~
 $ git remote set-url origin GITHUBID@github.com:PROJECTOWNER/PROJECT.git
 ~~~
+
+
+
+## 태깅
+
+태그 보기:
+
+~~~
+$ git tag
+~~~
+
+태그 만들기:
+
+~~~
+$ git tag TAGNAME
+~~~
+
+~~~
+$ git tag -a TAGNAME -m TAGGINGMESSAGE
+~~~
+
+태그 지우기:
+
+~~~
+$ git tag -d TAGNAME
+~~~
+
+원격 저장소에 태그 올리기:
+
+~~~
+$ git push origin TAGNAME
+~~~
+
+원격 저장소에서 태그 지우기:
+
+~~~
+$ git push origin :TAGNAME
+~~~
