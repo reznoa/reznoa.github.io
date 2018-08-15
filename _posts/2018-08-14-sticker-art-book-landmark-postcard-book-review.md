@@ -68,17 +68,17 @@ $(".slider-for1").slick({asNavFor: '.slider-nav1', fade: true, dots: false, arro
 $(".slider-nav1").slick({asNavFor: '.slider-for1', slidesToShow: 3, dots: false, focusOnSelect: true});
 </script>
 
-스티커는 도안에 따라서 100~200여개 정도
-그렇다고 단순히 스티커의 수가 제작 난이도를 의미하지는 않음
+스티커는 도안에 따라서 100~200여개 정도이다.
+그렇다고 단순히 스티커의 수가 제작 난이도를 의미하지는 않는다.
 작은 스티커들이 4장이나 되는 걸 보면 언뜻 두려움이 일 수도 있으나,
 막상 하나씩 차분히 붙여나가다 보면
-이게 의외로 꽤 재미도 있고,
-점점 완성되어가는 모습을 보며 상당한 보람과 만족감을 느낄 수 있다.
+이게 의외로 쉽고 또 재미도 있으며,
+점점 완성되어가는 모습을 보는 것 또한 상당한 보람과 만족감을 준다.
 
 <div class="slider-for2">
-<div><img alt="진행 1" src="https://lh3.googleusercontent.com/0t-um8rwf-sfjmoXA11wuE2iNub2Ud5tFloaqOX4OK0YEcDCWTfUC1x67v-SqqzdUqM4uF006cNxbw=s480" /></div>
-<div><img alt="진행 2" src="https://lh3.googleusercontent.com/KuSwEG5lqXZwhnaYwNJdgpFi9NI23lv44aNx3YY-ose3b1deeIA-OwzOLg8ztNyzqIIX3mOw_rL1-Q=s480" /></div>
-<div><img alt="진행 3" src="https://lh3.googleusercontent.com/DZo-ZOc0P2ei59ZENC7abOHJn7enP1yD6oZCLbopvjWkn-z7YSFIoCb_C9SkpUXnK2UWvTWM2VdlFg=s480" /></div>
+<div><img alt="진행 1" src="https://lh3.googleusercontent.com/0t-um8rwf-sfjmoXA11wuE2iNub2Ud5tFloaqOX4OK0YEcDCWTfUC1x67v-SqqzdUqM4uF006cNxbw=s480" /><p>1장(001~057)을 붙인 모습</p></div>
+<div><img alt="진행 2" src="https://lh3.googleusercontent.com/KuSwEG5lqXZwhnaYwNJdgpFi9NI23lv44aNx3YY-ose3b1deeIA-OwzOLg8ztNyzqIIX3mOw_rL1-Q=s480" /><p>2장(058~105)까지 붙인 모습</p></div>
+<div><img alt="진행 3" src="https://lh3.googleusercontent.com/DZo-ZOc0P2ei59ZENC7abOHJn7enP1yD6oZCLbopvjWkn-z7YSFIoCb_C9SkpUXnK2UWvTWM2VdlFg=s480" /><p>3장(106~147)을 붙여 완성한 모습</p></div>
 </div>
 <div class="slider-nav2" style="width: 480px; margin: 1em auto;">
 <div><img alt="진행 1" src="https://lh3.googleusercontent.com/0t-um8rwf-sfjmoXA11wuE2iNub2Ud5tFloaqOX4OK0YEcDCWTfUC1x67v-SqqzdUqM4uF006cNxbw=s120" /></div>
@@ -103,14 +103,14 @@ $(".slider-nav2").slick({asNavFor: '.slider-for2', slidesToShow: 3, dots: false,
 이게 꽤 신경도 쓰이고 아쉽기도 했는데,
 일단 그러려니 하고 붙여나가다 또 막상 크게 신경쓰이지는 않았다.
 
-![스티커 모양](https://lh3.googleusercontent.com/4nOqrhKXnTHgJHtDWYc_3xzPXY6sfGE6qIcAnhpDJpRyryeK3kl_bec_Vyj5fUYA37afIUg2RaDjaA=s480)
+![스티커 모양](https://lh3.googleusercontent.com/4nOqrhKXnTHgJHtDWYc_3xzPXY6sfGE6qIcAnhpDJpRyryeK3kl_bec_Vyj5fUYA37afIUg2RaDjaA=s480 "들고있는 스티커와 붙일 부분의 윗부분이 서로 다르다.")
 
 그보다는 오히려 일부 스티커가 제대로 컷팅되어 있지 않은게 더 아쉬웠다.
 디테일이 떨어져 보였달까.
 그것들은 직접 칼을 이용해 마저 잘라낸 다음에 사용해야 했는데,
 처음엔 당연히 잘 떼어질거라 생각해 스티커가 조금 찢어지기도 했다.
 
-![스티커 컷팅](https://lh3.googleusercontent.com/vN8AXuFb2T6Ky3EJU9uK4kyXCuy5NxRIoffZg9bJhhOuaAfGJtL7e4xZAA9WZ4NG6okLb8OCR0GWig=s480)
+![스티커 컷팅](https://lh3.googleusercontent.com/vN8AXuFb2T6Ky3EJU9uK4kyXCuy5NxRIoffZg9bJhhOuaAfGJtL7e4xZAA9WZ4NG6okLb8OCR0GWig=s480 "컷팅이 완전히 안된 게 있어 칼로 잘라주어야 했다.")
 
 추가로 바라는 점이 있다면,
 엽서를 사진첩처럼 비닐 주머니에 담을 수 있게 만들었다면 더 좋았겠다는 거다.
