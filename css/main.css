@@ -383,3 +383,13 @@ div.mediablock p.mediablock-caption{
 .slick-slide img {
 	margin: 0 auto;
 }
+.slick-slide p {
+	text-align: center;
+	margin: 0.5em 0;
+	font-size: 0.9em;
+}
+.slick-prev:before,
+.slick-next:before
+{
+	color: #ccc;
+}
