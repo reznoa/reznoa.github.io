@@ -1,15 +1,18 @@
 ---
 layout: post
 title: "adb Quick Guide"
+description: "안드로이드 내부를 조작할 수 있게 해주는 adb 사용법과 자주 사용하는 명령을 소개한다."
 category: 컴퓨터
 tags: [Android, adb]
 ---
 
-## 준비
+## 사용법
 
 1. 안드로이드 개발자 모드를 연다.
 2. 기기 개발자 옵션에서 USB 디버깅 옵션 활성화
 3. PC에 연결 후 기기에서 디버깅 허용
+4. adb 서버 시작
+5. 명령 수행
 
 
 
