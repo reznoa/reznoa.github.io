@@ -34,3 +34,5 @@ adb shell pm list packages -f                | 설치된 패키지와 해당 apk
 adb shell pm hide {packagename}              | 패키지를 비사용 상태로 만든다.
 adb shell pm unhide {packagename}            | 패키지를 비사용 상태에서 푼다.
 adb shell am force-stop {packagename}        | 앱 강제 종료
+adb shell wm size wm size {width}x{height}   | 화면 크기 변경
+adb shell wm density {dpi}                   | 화면 DPI 변경
