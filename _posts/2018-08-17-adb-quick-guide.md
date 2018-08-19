@@ -6,6 +6,17 @@ category: 컴퓨터
 tags: [Android, adb]
 ---
 
+## adb 얻기
+
+- [Android SDK Platform Tools](https://developer.android.com/studio/releases/platform-tools) 다운로드
+- adb 관련 파일을 적당한 곳에 복사
+  - Windows: adb.exe, AdbWinApi.dll, AdbWinUsbApi.dll
+  - Linux: adb
+  - Mac: adb
+- 파일을 둔 경로를 PATH에 추가하면 편하게 쓸 수 있다.
+
+
+
 ## 사용법
 
 1. 안드로이드 개발자 모드를 연다.
