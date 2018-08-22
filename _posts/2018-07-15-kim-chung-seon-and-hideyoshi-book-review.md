@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "꽤 괜찮은 팩션 사극 - 김충선과 히데요시(가제)"
+title: "꽤 괜찮은 팩션 사극 - 역랑(逆浪): 김충선과 히데요시"
 category: 도서
 tags: [책, 소설, 역사, 가상역사, 임진왜란, 김충선, 이주호, 틀을깨는생각, 서평]
 ---
 
-'김충선과 히데요시(가제)'는
+'역랑(逆浪): 김충선과 히데요시'는
 임진왜란 당시 조선에 귀화하여 조총 개발과 보급을 한 것으로 알려진 사야가(沙也可),
 김충선(金忠善)의 이야기를 상상해 그린 가상역사 소설이다.
 
-![김충선 초상](https://lh3.googleusercontent.com/nmtA5kXxEVMGdYpFczRUJqSA8W7UQZqy0owcApbOEX-0BMbrTN8YI_TPwrZewiPjP7K-C1R5BP87LA=s480)
+![표지](https://lh3.googleusercontent.com/_ISOgHE_ypwe4JTIcqV026u2PQaKJlCb-jtOscaJ8l5p_Zuy9MA040kKXLriKhZjXBtEMs6vpnkViA=s480)
 
 그는 항왜 장수로서 큰 공을 세웠다는 점 때문에 꽤 유명하기는 하지만,
 사실 그가 어떤 사람이고 어떠한 행적을 보였는지는 별로 알려진 바가 없다.
