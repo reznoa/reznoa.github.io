@@ -11,7 +11,7 @@ tags: [책, 소설, 영화화, 드라마화, 로맨스, 제인 오스틴, 서민
 
 ![표지](https://lh3.googleusercontent.com/NVP4lGo9WmniatQ9lm5oOyphoVgNvQH7kdZ24_TF6A5pl62KlF_e0V0P5NL0DRYnhrS9RhbtF_TpmQ=s480)
 
-사건은 왠 부자가 이사오면서 시작된다.
+사건은 웬 부자가 이사오면서 시작된다.
 한참대의 여자들이 있는 이 시골 마을에선
 부자에게 시집가고 싶어하는 여자들이 많았고,
 그래서 자연스럽게 그 주위로 사람들이 모이며 여러가지 일들이 벌어진다.
