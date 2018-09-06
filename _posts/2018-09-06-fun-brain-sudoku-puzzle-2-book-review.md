@@ -8,7 +8,7 @@ tags: [책, 퍼즐, 스도쿠, 베이직북스, 서평]
 '재미만점, 두뇌계발 스도쿠 퍼즐 2 고급, 특급'은
 스도쿠에 익숙한 고급자를 위한 퍼즐 300개를 담은 책이다.
 
-![480](https://lh3.googleusercontent.com/GdS9Bg91T-Y_nFvLL0fYApYUR_7DiXTXzSpKsdUVSHGYgsiWPd1VwLsicUVEFYa0iW9izLa7P4VouQ)
+![표지](https://lh3.googleusercontent.com/GdS9Bg91T-Y_nFvLL0fYApYUR_7DiXTXzSpKsdUVSHGYgsiWPd1VwLsicUVEFYa0iW9izLa7P4VouQ=s480)
 
 이 책은 '[재미만점, 두뇌계발 스도쿠 퍼즐 1 초급, 중급]({% post_url 2018-08-22-fun-brain-sudoku-puzzle-1-book-review %})'의 다음 단계로,
 특징과 장점은 1권과 동일하다.
