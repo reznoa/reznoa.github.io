@@ -21,7 +21,7 @@ tags: [책, 퍼즐, 스도쿠, 베이직북스, 서평]
 
 [^1]: 정가는 10,000원.
 
-![완전 접힘](https://lh3.googleusercontent.com/Lbg6AY51wZIwbWZikOPGv2uG2Oiy3rtUEUMhJXOch_aY-3L8Xti6A6d0nFpci3xEh3VTIPrvb9cWuw=s480)
+![완전 접힘](https://lh3.googleusercontent.com/Lbg6AY51wZIwbWZikOPGv2uG2Oiy3rtUEUMhJXOch_aY-3L8Xti6A6d0nFpci3xEh3VTIPrvb9cWuw=s480 "한쪽으로 완전히 접혀서 다루기 편하다.")
 
 퍼즐은 레벨 4에서 레벨 6까지 3단계로 이뤄져 있으며,
 레벨 6에 이르면 초급, 중급에서처럼 순서대로 풀어나가는 것은 더 이상 불가능해진다.
@@ -34,6 +34,8 @@ tags: [책, 퍼즐, 스도쿠, 베이직북스, 서평]
 그래서 문제 하나를 푸는데 오랜 시간과 노력이 필요하다.
 스도쿠에 익숙하지 않은 사람이라면 쉽게 풀어내긴 어려울 것이다.
 그만큼 다 풀어냈을때의 달성감도 높다.
+
+![풀이 중](https://lh3.googleusercontent.com/lhpY4n1gL_Sq0A0edv-mJ6K6O8Ps5WiNn0vYWeFP9XAuOS6sC00EfJ6Ovor0rLE9ArtrCXY57vy2yQ=s360 "단순무식해 보여도 기본적인 방법이 가장 정확하고 확실하다. 여기까지 오면 사실상 끝난 것.")
 
 스도쿠는 사방으로 수 중복이 안된다는 특징 때문에
 막혀있을 때 숫자 하나를 확정하면 나머지 것들이 연이어 풀리는 경우가 많은데,
