@@ -6,12 +6,12 @@ tags: [★★★, 책, 만화, 김민희, 판타지, 모험, 코미디, 서울�
 excerpt_separator: <!--more-->
 ---
 
-'젤리장수 다로'는 특이한 개그 코드를 가진 작가 김민희의 판타지 만화다.
+'젤리장수 다로'는 특이한 코드를 가진 작가 김민희의 판타지 만화다.
 <!--more-->
 제목처럼 젤리 상권에서 성공하려고 발버둥치는 다로의 이야기를 담고 있으며,
 분위기는 대충 전작인 '르브바하프 왕국 재건설기'를 떠올리면 비슷하지 않을까 싶다.
 
-[![젤리장수 다로 1권 표지](https://lh5.googleusercontent.com/-lc-XHcW5LP8/VSiwUkLPrUI/AAAAAAAAPPs/-pGY6i-9BO4/w270/daro.jpg "김민희 작가 특유의 개그 코드가 가득 담긴 만화다.")](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8926317455&ttbkey=ttbreznoa0249001&COPYPaper=1)
+[![젤리장수 다로 1권 표지](https://lh5.googleusercontent.com/-lc-XHcW5LP8/VSiwUkLPrUI/AAAAAAAAPPs/-pGY6i-9BO4/w270/daro.jpg "김민희 작가 특유의 코드가 가득 담긴 만화다.")](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8926317455&ttbkey=ttbreznoa0249001&COPYPaper=1)
 
 장점은 무엇보다 재밌다는건데, 그건 코미디로써 그런것은 아니다.
 은근한 코미디가 작품 전체에 깔려있긴 하지만, 그 자체로 웃을 수 있는 장면은 없었거든.

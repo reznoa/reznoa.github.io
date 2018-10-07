@@ -19,7 +19,7 @@ tags: [책, 만화, 학습만화, 어린이, 동물, 임영제, 김현민, 신�
 그를 위해 정글을 이끌어 갈 후계자 타삼이가
 동물들에 대해 더 알기위해 '동물 사랑 연수'를 한다는 이야기가 더했는데,
 덕분에 이야기를 따라가면서 자연스럽게 지식을 습득할 수 있다.
-전체적으로 가벼운 개그풍인것도 보다 쉽게 읽어나갈 수 있게 해준다.
+전체적으로 가벼운 코미디인것도 보다 쉽게 읽어나갈 수 있게 해준다.
 
 ![만화 26~27p](https://lh3.googleusercontent.com/txwL5nr9FYhuHA42jIb0Akcwj6t39pmJhNg3f-74ZvvdbkJtz5x4wnUbxRr_j8tGaaRBUd1IDKdtYg)
 
