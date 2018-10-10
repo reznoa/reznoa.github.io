@@ -8,7 +8,7 @@ tags: [책, 미술, 콩테, 최종식, 깊은나무, 서평]
 '7일 만에 완성하는 나 혼자 콩테'는
 초보를 위한 초상화 그리기의 기본을 담은 책이다.
 
-![표지](https://lh3.googleusercontent.com/IUIM-ic5GSkLw_kg0hSvamtTOQ4bZ0AU9DgwFp3sOIzkISbeZrS7JzTEk93u_nUcGi4Y8he2o-wyfw=s480)
+![표지](https://lh3.googleusercontent.com/vYcI1HTq3qth4CkYzg7-V_7Vx5zqD9Bo9d7mrw1tma2bjWNbt3Qjn5VVfuofS5kGPC7j1I5egJhn_g=s480)
 
 '콩테(Conté)'는 흑연 또는 목탄을 가루로 갈아서 밀랍 또는 점토와 섞어 압축해 만든 그림도구로,
 발명자인 '니콜라자크 콩테(Nicolas-Jacques Conté)'의 이름을 딴 것이다.
