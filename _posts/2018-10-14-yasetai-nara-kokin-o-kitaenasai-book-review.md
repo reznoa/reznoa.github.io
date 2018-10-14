@@ -5,8 +5,8 @@ category: 도서
 tags: [책, 건강, 운동, 쿠조 유키코, 최시원, 북스고, 서평]
 ---
 
-'쿠조 유키코'의
-'날씬해지고 싶다면 항문을 조여라'는
+'쿠조 유키코(久嬢 由起子)'의
+'날씬해지고 싶다면 항문을 조여라(やせたいなら肛筋を鍛えなさい)'는
 항문 근육을 스트레칭하는 다양한 방법을 담은 책이다.
 
 ![표지](https://lh3.googleusercontent.com/qS5UXjXeIy_2wVhL0Tr-sQOJhM2LA02sxh_Me-DcCg6sZVyXBggI8UTNgBAG2904SmpBUkhqob7R-Q=s480)

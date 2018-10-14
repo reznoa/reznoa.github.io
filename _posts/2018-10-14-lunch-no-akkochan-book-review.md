@@ -5,8 +5,8 @@ category: 도서
 tags: [책, 소설, 단편, 음식, 유즈키 아사코, 권남희, 이봄, 서평]
 ---
 
-'유즈키 아사코'의
-'나는 매일 직장상사의 도시락을 싼다'는
+'유즈키 아사코(柚木 麻子)'의
+'나는 매일 직장상사의 도시락을 싼다(ランチのアッコちゃん)'는
 음식과 직장 이야기를 유쾌하게 버무려낸 소설이다.
 
 ![표지](https://lh3.googleusercontent.com/C8F91v2GZzkcV9teAimlXeEL70b5KwNQXyBjWOgoVMYvHLIAImEsFO0rT4YdHsU0zLFJ3mPHpyIDlg=s480)
