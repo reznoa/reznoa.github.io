@@ -9,7 +9,7 @@ tags: [책, 건강, 운동, 쿠조 유키코, 최시원, 북스고, 서평]
 '날씬해지고 싶다면 항문을 조여라(やせたいなら肛筋を鍛えなさい)'는
 항문 근육을 스트레칭하는 다양한 방법을 담은 책이다.
 
-![표지](https://lh3.googleusercontent.com/qS5UXjXeIy_2wVhL0Tr-sQOJhM2LA02sxh_Me-DcCg6sZVyXBggI8UTNgBAG2904SmpBUkhqob7R-Q=s480)
+![표지](https://lh3.googleusercontent.com/vXBTleED3vp-vDNZhpDGiGzYU_sXF4fiPgS_M8ffUMiKTFdaWwX73fbsMk6a9x2h49Da4izDnhQchw=s480)
 
 '항문 근육'이란 항문 그 자체만을 말하는 게 아니라,
 항문과 주변 근육을 모두 일컫는 용어로 이 책에서 새롭게 정의한 표현이다.
