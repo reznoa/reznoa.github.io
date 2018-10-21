@@ -19,6 +19,8 @@ tags: [핸드폰 케이스, 커스텀 폰 케이스, 얼굴 폰 케이스, 마�
 자기 얼굴이 프린트 된 폰 케이스를 들고나와 화재가 됐던 적도 있는 얼굴 폰 케이스는,
 지금에 와서는 꽤나 대중적인 아이템이라고도 할 수 있다.
 
+![유병재 커스텀 폰 케이스](https://lh3.googleusercontent.com/4G_TD94ruYqCMgDI3Wuehvx6CDelh-Uo8O7I9YtlG8373jRu-9ZAwGt6y8_eSy7prrMXZkZ84UKk_g=s360 "유병재 커스텀 폰 케이스는 굿즈로 판매될 정도로 엄청난 인기를 얻기도 했다.")
+
 나도 관심이 있던 아이템이라, 이번에 마플에서 '폰 케이스 만들기'를 통해 얼굴 케이스를 만들어 보았다.
 
 마플 폰 케이스 만들기는 공식 홈페이지에서 비교적 손쉽게 주문할 수 있게 잘 마련되어있는 편이다.
@@ -26,7 +28,7 @@ tags: [핸드폰 케이스, 커스텀 폰 케이스, 얼굴 폰 케이스, 마�
 원한다면 자기가 디자인한 것을 공유하거나
 재주문을 할 수도 있다.
 
-![케이스 만들기](https://lh3.googleusercontent.com/u5-ZEKNRNX2YqBW9qKCRvfhmO_7dEqmDftiIwcHOld3VzyWwSqa53ABaXhEEtC9j6XQdX5N52Co7Dw=s560)
+![마플 폰 케이스 만들기](https://lh3.googleusercontent.com/u5-ZEKNRNX2YqBW9qKCRvfhmO_7dEqmDftiIwcHOld3VzyWwSqa53ABaXhEEtC9j6XQdX5N52Co7Dw=s640)
 
 폰 종류도 최신 기종과 이전 모델들을 꽤 폭넓게 지원하는 편이다.
 오래된 모델은 지원하지 않으므로 선택에 제한은 조금 있는데,
