@@ -6,7 +6,7 @@ tags: [책, 소설, 단편, 애니 프루, 전하림, 에프, 푸른책들, 서�
 ---
 
 '애니 프루(Annie Proulx)'의
-'브로크백 마운틴(Close Range: Wyoming Stories)'는
+'브로크백 마운틴(Close Range: Wyoming Stories)'은
 미국 서부 와이오밍을 배경으로 한 이야기들을 엮은 단편집이다.
 
 ![표지](https://lh3.googleusercontent.com/pKDGdqUQmqwngPxeG21m3vQ4ioMG7Ltj_mMz6vic7UF611_n735J6ut42oltCWIzykE5UgAQH6QUmQ=s480)
