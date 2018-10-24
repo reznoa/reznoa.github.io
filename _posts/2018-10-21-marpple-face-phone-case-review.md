@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "자유롭게 만드는 재미있는 얼굴 폰 케이스 - 마플 폰 케이스 만들기"
+title: "자유롭게 만드는 재미있는 얼굴 폰 케이스 - 마플 폰 케이스 만들기 (아이폰5)"
 description: "마플에서 폰 케이스 만들기로 얼굴 폰 케이스를 만들어봤다."
 category: "패션"
 tags: [핸드폰 케이스, 커스텀 폰 케이스, 얼굴 폰 케이스, 마플, 모두의블로그]
@@ -28,7 +28,7 @@ tags: [핸드폰 케이스, 커스텀 폰 케이스, 얼굴 폰 케이스, 마�
 원한다면 자기가 디자인한 것을 공유하거나
 재주문을 할 수도 있다.
 
-![마플 폰 케이스 만들기](https://lh3.googleusercontent.com/u5-ZEKNRNX2YqBW9qKCRvfhmO_7dEqmDftiIwcHOld3VzyWwSqa53ABaXhEEtC9j6XQdX5N52Co7Dw=s640)
+![마플 폰 케이스 만들기 (아이폰5)](https://lh3.googleusercontent.com/m04DwuYHnEIlCXMG2r9Z1w_PhQE-d4s5HdjyHesYL10vxOqdBRqJEWi_Nm9gZ4LXf0YcTaA3xSLZMA=s640)
 
 폰 종류도 최신 기종과 이전 모델들을 꽤 폭넓게 지원하는 편이다.
 오래된 모델은 지원하지 않으므로 선택에 제한은 조금 있는데,
