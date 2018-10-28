@@ -7,7 +7,7 @@ tags: [책, 소설, 라이트노벨, 수학, 기억상실, 장기이식, 로맨�
 
 '사쿠라마치 하루(桜町 はる)'의
 '우리의 새끼손가락은 수식으로 연결되어 있다(僕たちの小指は数式でつながっている)'는
-수학을 소재로 점점 끌리게 되는 두 사람의 이야기를 그린 일종의 로맨스 소설이다.
+수학을 소재로 점점 끌리게 되는 두 사람의 이야기를 그린 로맨스 소설이다.
 
 ![표지](https://lh3.googleusercontent.com/-TzUl5AH5tOTRskI3MwM6Trjv9_S_pupiW9Maw1UJElqIcDa-nQe5o_1ZtH14u7_iV9EytjkC6J7Qw=s480)
 
