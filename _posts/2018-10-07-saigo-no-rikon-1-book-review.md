@@ -9,7 +9,7 @@ tags: [책, 소설, TV원작, 노벨라이즈, 일본드라마, 사랑, 결혼, 
 '사카모토 유지(坂元 裕二)' 각본의 일본드라마를
 '모모세 시노부(百瀬 しのぶ)'가 소설로 다시 써낸 책이다.
 
-![표지](https://lh3.googleusercontent.com/wONpkBx4SXjtz5bzFqX9gTZflvL-fByyIv0jXJVxTnCcAsD0UNKhRiOVd_TekY0RhuEiCCxYZ4cEdg=s480)
+![표지](https://lh3.googleusercontent.com/cRMQQuaqKdr0lf5Ye67ylWnlUELychXigIpnphDkcVzGCx7QoUFWZccqgzM7oy4JiD4kdQydgRHCaQ=s480)
 
 2013-01-10 ~ 2013-03-21 동안 후지TV에서 11회로 방영됐던 원작 드라마는
 사랑과 결혼, 그리고 이혼을 주제로
