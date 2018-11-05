@@ -9,7 +9,7 @@ tags: [책, 정치, 민주주의, 버트럼 그로스, 김승진, 현암사]
 '친절한 파시즘(Friendly Fascism: The New Face of Power in America)'는
 민주주의라고 일컬어지는 사회 이면에 존재하는 불편한 사실들을 들춰내는 책이다.
 
-![표지](https://lh3.googleusercontent.com/XD_4ntc8qJTkHiTUHQ7NCY4mzpjJSqs-O_BdUIkSEKnwqkPuPAGWB4SA-lKzDoFCF29Nl8tOrsNxHw=s480)
+![표지](https://lh3.googleusercontent.com/7wVI6AzPUmM-hOouRK21XZE3uXnh4reyFNIqp1MzA3h9xdFqLsMwPY_-EOEXhkiMglIMCwmiW6c86Q=s480)
 
 이 책은 민주주의에 대한 책이면서도 파시즘, 그것도 '친절한' 파시즘을 얘기한다는 것에서
 보자마자 꽤 관심을 끌었다.
