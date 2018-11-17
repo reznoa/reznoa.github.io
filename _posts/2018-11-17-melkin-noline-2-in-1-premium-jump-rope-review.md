@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2가지 타입으로 모두 활용할 수 있는 프리미엄 줄넘기 - 멜킨스포츠 2 in 1 노라인 프리미엄 줄넘기"
+title: "줄넘기 다이어트용으로 다양하게 활용 가능한 줄넘기 - 멜킨스포츠 2 in 1 노라인 프리미엄 줄넘기"
 description: "3m 줄과 원심력 추를 이용한 노라인 타입 두가지로 모두 활용할 수 있는 멜킨의 프리미엄 줄넘기를 사용해봤다."
 category: "건강"
 tags: [운동, 멜킨스포츠, 줄넘기, 칼로리, 모두의블로그]
@@ -9,15 +9,15 @@ tags: [운동, 멜킨스포츠, 줄넘기, 칼로리, 모두의블로그]
 멜킨스포츠 2 in 1 노라인 프리미엄 줄넘기는
 이름처럼 선이 없어 다양한 기구와 함께 사용할 수 있도록 만들어진 줄넘기다.
 
-![패키지](https://lh3.googleusercontent.com/ue6Vq5yAZeK5V7kcOplVrlEVBVkwpIgmxqifQbTVIivd3eeG0J1Ir71kXsFc1bd6CFXYW1HhUihq3w=s560)
+![줄넘기 패키지](https://lh3.googleusercontent.com/ue6Vq5yAZeK5V7kcOplVrlEVBVkwpIgmxqifQbTVIivd3eeG0J1Ir71kXsFc1bd6CFXYW1HhUihq3w=s560)
 
-![구성 1](https://lh3.googleusercontent.com/vvLjJowa81qN6nCJh3OyMklQImlz4uz5nzgj1E2ED1U2mABVx7_HzORfeBgMvGDQnR4EnJtxV0l1KA=s560)
+![줄넘기 구성 1](https://lh3.googleusercontent.com/vvLjJowa81qN6nCJh3OyMklQImlz4uz5nzgj1E2ED1U2mABVx7_HzORfeBgMvGDQnR4EnJtxV0l1KA=s560)
 
-![구성 2](https://lh3.googleusercontent.com/w7iOE7SfvLZW93r-dNwzq4WE6KzXdOSS3vdiIjdlQoVDKsmCHobP6IEH0YDDGkc2drxREUjfZog6bQ=s560)
+![줄넘기 구성 2](https://lh3.googleusercontent.com/w7iOE7SfvLZW93r-dNwzq4WE6KzXdOSS3vdiIjdlQoVDKsmCHobP6IEH0YDDGkc2drxREUjfZog6bQ=s560)
 
-![사용설명서 1](https://lh3.googleusercontent.com/VxM_3YJ0cz2nIABHqw1yH0VAPqyEhd_7SuceUgN5D_YxgcCimP8T_MD_dVmJzJNMVUT7p9B20T9amA=s560)
+![줄넘기 사용설명서 1](https://lh3.googleusercontent.com/VxM_3YJ0cz2nIABHqw1yH0VAPqyEhd_7SuceUgN5D_YxgcCimP8T_MD_dVmJzJNMVUT7p9B20T9amA=s560)
 
-![사용설명서 2](https://lh3.googleusercontent.com/g20p96PYoM2BYf9G50tQZfLg37Y21NOe7OJTlwKO3CQ45e3ZWYcPj-_zg312nTWIZF4EpkfqzQzhHw=s560)
+![줄넘기 사용설명서 2](https://lh3.googleusercontent.com/g20p96PYoM2BYf9G50tQZfLg37Y21NOe7OJTlwKO3CQ45e3ZWYcPj-_zg312nTWIZF4EpkfqzQzhHw=s560)
 
 제품은 손잡이 2개, TPE 원심력 추 2개, 3m PVC 줄, 배터리 2개, 드라이버, 그리고 설명서로 구성되어있다.
 
@@ -28,11 +28,11 @@ tags: [운동, 멜킨스포츠, 줄넘기, 칼로리, 모두의블로그]
 고정홈에 줄이 밀착되도록 잡아당겨주기만 하면 된다.
 묶지 않아도 되기 때문에 끼우는 것은 풀론 풀기도 쉬워 줄 조절도 쉽다.
 
-![줄 끼우기 1](https://lh3.googleusercontent.com/PSMQoCFtkEqfCMJz3x0v-xNhcCjygGb_HuuLySxlkZdVd41R1H_kwb6E0d1qUe4CXFzBh3g5NT4mJg=s560)
+![줄넘기 줄 끼우기 1](https://lh3.googleusercontent.com/PSMQoCFtkEqfCMJz3x0v-xNhcCjygGb_HuuLySxlkZdVd41R1H_kwb6E0d1qUe4CXFzBh3g5NT4mJg=s560)
 
-![줄 끼우기 2](https://lh3.googleusercontent.com/TmjfT_HUQuWjsl35BkGraIV_P45dHjJudd9s26x2M77SlLRZbthjzQrM9cy0FxOCVnQijEm-d1Y4AA=s560)
+![줄넘기 줄 끼우기 2](https://lh3.googleusercontent.com/TmjfT_HUQuWjsl35BkGraIV_P45dHjJudd9s26x2M77SlLRZbthjzQrM9cy0FxOCVnQijEm-d1Y4AA=s560)
 
-![줄 끼우기 3](https://lh3.googleusercontent.com/8sFeDTlTqt9EZpM5cRWZk9jJX5c49EOgTntSTCnSzDrpoeGg9YpdFLdhCvNyZfln057T31b015vyAw=s560)
+![줄넘기 줄 끼우기 3](https://lh3.googleusercontent.com/8sFeDTlTqt9EZpM5cRWZk9jJX5c49EOgTntSTCnSzDrpoeGg9YpdFLdhCvNyZfln057T31b015vyAw=s560)
 
 묶어 쓰던 것에 익숙하던 사람은 얼핏 돌리다 빠질까봐 불안해 보일 수도 있는데,
 PVC 줄이 갖는 마찰력과 꺽인곳을 물어주는 구조가 의외로 줄을 꽉 잡아주기 때문에
@@ -51,7 +51,7 @@ PVC 줄이 갖는 마찰력과 꺽인곳을 물어주는 구조가 의외로 줄
 운동 방법은 저장되지 않으므로 매번 켰을 때마다 다시 설정해야 한다.
 운동 방법도 프리셋을 지원했으면 더 좋지 않았을까 싶다.
 
-![백라이트](https://lh3.googleusercontent.com/U0l0PFG2OJbnCEixlwbED8UKpqRAAcKHshX8_YxEk3IBKzpaHlw8Z0-Tim2nRwV0fyLbq4trcCZjxw=s560)
+![줄넘기 LCD 백라이트](https://lh3.googleusercontent.com/U0l0PFG2OJbnCEixlwbED8UKpqRAAcKHshX8_YxEk3IBKzpaHlw8Z0-Tim2nRwV0fyLbq4trcCZjxw=s560)
 
 전자장치가 있으므로 배터리(CR2032, 3V)를 사용하는데,
 기본으로 배터리가 들어있으며,
@@ -59,7 +59,7 @@ PVC 줄이 갖는 마찰력과 꺽인곳을 물어주는 구조가 의외로 줄
 전자제품중에는 의외로 기본 배터리조차 들어있지 않은 것도 있는데,
 따로 구매하지 않아도 되게 구성한 것은 마음에 든다.
 
-![배터리 교체](https://lh3.googleusercontent.com/DQ-1reimdpUSYi4h66cc_bMn9phb1ABBbH3SerqJRzA3oQz8P31-tkfJzoLH47mF39wRtC--h_h4ew=s560)
+![줄넘기 배터리 교체](https://lh3.googleusercontent.com/DQ-1reimdpUSYi4h66cc_bMn9phb1ABBbH3SerqJRzA3oQz8P31-tkfJzoLH47mF39wRtC--h_h4ew=s560)
 
 이 제품의 주요 특징은 '노라인 줄넘기'라 할 수 있는데, 그 원리는 간단하다.
 기존 줄넘기가 줄을 넘기면서 주는 원심력을 원심력 추를 이용해 대신 느낄 수 있도록 한 거다.
@@ -95,7 +95,7 @@ PVC 줄이 갖는 마찰력과 꺽인곳을 물어주는 구조가 의외로 줄
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/ke8H_dxtJ3A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 그래도 전체적으로 오차는 (경험적으로 보자면) 많아야 5개 이하로 신뢰할만한 수준이다.
-보통 운동으로 하는 줄넘기 횟수가 수백개에서 천여개 정도로 많다는걸 생각하면 더 그렇다.
+보통 운동으로 하는 줄넘기 횟수가 수백개에서 많게는 1000여개 정도로 많다는걸 생각하면 더 그렇다.
 
 노라인 줄넘기가 강점이긴 하나, 2 in 1으로 일반 줄넘기로도 쓸 수 있게 했는데,
 이건 사소해보여도 꽤 좋았다.
@@ -104,7 +104,19 @@ PVC 줄이 갖는 마찰력과 꺽인곳을 물어주는 구조가 의외로 줄
 
 ![라인 줄넘기](https://lh3.googleusercontent.com/R6yAbpF8bgbzUywEm6HeMb_Xurddl3ZyXMfS_0SXhA9C4-CtZDFWNssTc54wqis5BulDTj5ki2cFIg=s560)
 
-손잡이 전체를 잡는 일반 줄넘기에 비하면 아래 반정도만 잡는 것은 조금 어색하기도 하지만,
+실내에서 사용할 때는 높게 또 크게 뛰지 않아도 되므로 요가 매트를 활용하는 것도 좋다.
+
+![요가매트](https://lh3.googleusercontent.com/jnTaLKJaP7E15wBn7rk7e9ih5CNgI7W_TxbB48m4Y_I-y6FwHYV5p2k3ylvkS_2n3EySXX6YxeWyaA=s560)
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/bjr-4-iwsvE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+내가 사용해본 제품은 멜킨스포츠 TPE 요가매트 클럽와이드(6mm) 였는데,
+쿠션감과 복원력과 미끄럼을 막아주는 효과가 꽤 양호해서 가벼운 실내운동을 할 때 좋아 보였다.
+TPE 요가매트는 6mm, 8mm 제품만 있는데,
+NBR 요가매트에는 10mm, 16mm, 20mm의 두꺼운 제품도 있으므로 필요에 맞게 선택할 수 있다.
+냄새도 적고 깔끔한 편이니 홈트레이닝을 많이 한다면 고려해볼 만하다.
+
+노라인 줄넘기는 손잡이 전체를 잡는 일반 줄넘기에 비하면 아래 반정도만 잡는 것이 조금 어색하기도 하지만,
 전체적으로 그립감은 나쁘지 않은 편이다.
 소프트 고무를 덧대어 미끄러지지 않게 한 것도 좋다.
 소프트 고무를 덧붙인 제품의 경우 오래 쓰다보면 접착제가 녹아나오거나 고무가 끈적여지는 경우도 있는데,
@@ -114,7 +126,7 @@ PVC 줄이 갖는 마찰력과 꺽인곳을 물어주는 구조가 의외로 줄
 단계별로 조절할 수는 없고 제공된 무게조절추(170g)를 넣거나 빼는 정도로만 조절 가능하다.
 소소하지만 이것도 장점으로 꼽을 만하다.
 
-![무게추](https://lh3.googleusercontent.com/IIHDON-10-kibOnkP0MJEHbC--_cscwldDiRqOKSZabL3mIX_Gj9fOHQZYE5soTWtpcE_fEiGxEvjA=s560)
+![줄넘기 무게추](https://lh3.googleusercontent.com/IIHDON-10-kibOnkP0MJEHbC--_cscwldDiRqOKSZabL3mIX_Gj9fOHQZYE5soTWtpcE_fEiGxEvjA=s560)
 
 멜킨스포츠 2 in 1 노라인 줄넘기는 스탠다드와 프리미엄 두 종류가 있다.
 둘은 손잡이의 디자인이 다르고,
