@@ -106,7 +106,11 @@ PVC 줄이 갖는 마찰력과 꺽인곳을 물어주는 구조가 의외로 줄
 
 실내에서 사용할 때는 높게 또 크게 뛰지 않아도 되므로 요가 매트를 활용하는 것도 좋다.
 
-![요가매트](https://lh3.googleusercontent.com/jnTaLKJaP7E15wBn7rk7e9ih5CNgI7W_TxbB48m4Y_I-y6FwHYV5p2k3ylvkS_2n3EySXX6YxeWyaA=s560)
+![요가매트 1](https://lh3.googleusercontent.com/RE04A6mJxXHe7BNGeIF3nKhDfKO74ul3bJBo8Bz1Y2FnRGbeTjL_qJMnVJeOAldjhSI-pXwLDDwNVg=s580)
+
+![요가매트 2](https://lh3.googleusercontent.com/pOFC-UxzdixkjWZu9ssZfjsevkGdAbTeXFMjxYYt_rvNTRTuT5AmsHHtJnL2iYU7P9OibbHD32eGJQ=s560)
+
+![요가매트 3](https://lh3.googleusercontent.com/jnTaLKJaP7E15wBn7rk7e9ih5CNgI7W_TxbB48m4Y_I-y6FwHYV5p2k3ylvkS_2n3EySXX6YxeWyaA=s560)
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/bjr-4-iwsvE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
