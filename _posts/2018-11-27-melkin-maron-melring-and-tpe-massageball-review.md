@@ -43,7 +43,7 @@ tags: [운동, 멜킨스포츠, 요가링, 마사지볼, 모두의블로그]
 소프트타입이라고 해도 기본적으로 꽤 강도가 있는 편이다.
 소프트타입인데 왜 딱딱하냐고 이상하게 여기지 않길 바란다.
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/l13qjbqSo-U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="480" height="270" src="https://www.youtube.com/embed/l13qjbqSo-U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 마론 멜링은 기존 스탠다드 멜링과 달리 링의 한쪽 면에 굴곡이 있는 제품이다.
 그래서 이를 이용해 국소부위의 마사지와 지압을 하기 좋다.
@@ -82,6 +82,8 @@ tags: [운동, 멜킨스포츠, 요가링, 마사지볼, 모두의블로그]
 그런 부위는 마사지볼보다 멜링을 사용하는게 더 좋을 듯하다.
 
 ![마사지볼 사용 1](https://lh3.googleusercontent.com/D8sbAhuxN50KhPH8XGK3IcxUnkN9USnibjte9mpA35PT1sZ9nP5gMPwb0IIF-d0KGidZi2wIz8IyZw=s480)
+
+<center><iframe width="480" height="270" src="https://www.youtube.com/embed/dHT8T27LgfE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 ![마사지볼 사용 2](https://lh3.googleusercontent.com/BSSwCXOgfsS72Ij3sX9xpAehop5TpWFrExUfMkeWkJr3-cgtCBV8uscD2aIHOqW6Dpxstr2vzcSB1g=s480)
 
