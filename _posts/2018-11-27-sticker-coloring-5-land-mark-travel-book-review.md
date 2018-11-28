@@ -6,7 +6,7 @@ tags: [책, 스티커, 컬러링, 미술, 일과놀이콘텐츠연구소, 북센
 ---
 
 '스티커 컬러링 5: 랜드마크 트래블'은
-스터키 컬러링북 시리즈 5번째 책으로
+스티커 컬러링북 시리즈 5번째 책으로
 세계 각지의 랜드마크 7개를 담은 책이다.
 
 ![표지](https://lh3.googleusercontent.com/7L7JGXSSwtixmuLPcZU5IUjX8Z42RNUEHLSd_jiUpqSRlYwLNhuuapJZw1KomR4Ygvw7qNZ-jY5Lew=s480)
