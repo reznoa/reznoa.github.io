@@ -86,6 +86,8 @@ PVC는 재질 자체가 유해성이 있는 물질이기도 해서 냄새가 조
 일부 운동은 제대로 하기 어려울 수도 있으므로
 가능하다면 짐(Gym) 등에서 몇번 사용해보고 고를것을 추천하다.
 
+![짐볼 운동 움짤](https://lh3.googleusercontent.com/m_JEWj9eJM47BNWFQqy0k8zSBoWKg6GUDuml0-eNEPfLq7LN0A6ER6jPIiL18sTgAJO-ky2Zn7PeWQ=s480)
+
 하다보면 밀고 버티고 하는 동작도 함께 하기 때문에
 미끄럼방지 기능이 있는 요가 매트등과 함께 사용하면 좋다.
 
