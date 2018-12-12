@@ -9,7 +9,7 @@ tags: [책, 소설, 라이트노벨, 만화화, 연애, 이카다 가쓰라, U35
 '너를 사랑하는 것은 있을 수 없는 일이었다(君に恋をするなんて、ありえないはずだった)'는
 서로 접점이 없는 것 같던 두 사람이 서로 조금씩 끌리면서도 엇갈리는 이야기를 그린 연애 소설이다.
 
-![표지](https://lh3.googleusercontent.com/dhLk903orvdr0qqPUxmHA8P3lOwmcZzf5gDhfMabAcM6Nz78KzrPrryUFdN9gqAnBZNbrOj4_zy0HA=s480)
+![표지](https://lh3.googleusercontent.com/N8CrOlLtGCQYl8bvfXrcUisCEXfOsz4ZpI5binjKthJwadAZ80bTrQNHONkc1CiihIB2G2KD0R8-Jg=s640)
 
 책을 다 보고 가장 먼저 드는 생각은 딱 이거였다:
 
