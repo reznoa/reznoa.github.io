@@ -8,7 +8,7 @@ tags: [책, 만화, 앵무새, 도감, 드래곤빌리지, 하이브로, 서평,
 '드래곤빌리지 학습도감 13 해적앵무'는
 만화와 앵무새 도감을 적절히 버무려낸 책이다.
 
-![표지](https://lh3.googleusercontent.com/Vp0q4-6_rr4Yw6QN-lXYLfRJ1w-EEDDplH9V4O9Tj6Ir4iRyGavtfSMJBu4Wy0wb94voWCvVriN9rg=s480)
+![표지](https://lh3.googleusercontent.com/jF3hgJCYWJEw6ETBuJGy2QxsHB-gcrfAB4TbhkRL2WHG8C2AQlLIiDjct014GwGBmJSoG6LnAKNjIA=s480)
 
 이 책의 원점인 드래곤빌리지는
 현재는 책도 많이 출판하며 멀티미디어 회사가 된
@@ -24,7 +24,7 @@ tags: [책, 만화, 앵무새, 도감, 드래곤빌리지, 하이브로, 서평,
 비록 단순하지만 잘 연결된 흐름도 있고
 또 이 책의 다른 부분 중 하나인 '앵무새 도감'의 앵무새들의 자연스러운 등장을 도와주기도 한다.
 
-![19](https://lh3.googleusercontent.com/cxNJwGm-1ZWz_FZOJzBl1MDoyg6CDCzIRX9a0yIU7O1_ZbCHDbT6uqL-eqf2CSLHgE7wfh14UQ9wIA=s480 "앵무섬 탐험이 여러 앵무새를 학습한다는 것과 나름 잘 어울린다.")
+![20~21](https://lh3.googleusercontent.com/UboCjdtUbFGULmIKOasnVheuqoNhDplhB4p1bqRlG3bk2XOoIW040rCh2qEpYWxaY33qBM2v76vjtg=s480)
 
 책은 반은 해적들의 이야기를 그린 만화,
 나머지 반은 앵무새 도감으로 되어있는데
