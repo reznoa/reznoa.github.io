@@ -92,6 +92,8 @@ tags: [운동, 멜킨스포츠, 푸쉬업바, 헬스장갑, 모두의블로그]
 
 ![뉴챌린저 매쉬](https://lh3.googleusercontent.com/VsQYoPqtZvBLNgjuJKPOnOW-AguCtX6k0k8Uwbp2tcO7NGYBXJOEdUMQEtmsaK6GdVUqy_7I9FzwkQ=s480)
 
+![뉴챌린저 손 끝](https://lh3.googleusercontent.com/UN6dcujA6ZvQfDzzW9zp3tQazxw8dhTjk4rqNmid2G9HQ4ptbbLow1L1LLMXfe9i4eM1a33ii-pFhA=s480)
+
 헬스장갑은 일부 스판소재가 사용되어 신축성이 있지만,
 그 폭이 그렇게 큰 것은 아니다.
 그러므로 사이즈를 고를때는 반드시 손 크기를 정확하게 잰 다음에 고르는 것이 좋다.
