@@ -9,7 +9,7 @@ tags: [책, 도감, 요괴, 무라카미 겐지, 이진원, 서울문화사, 서
 '요괴 배틀왕'은
 여러 요괴들을 무작위로 토너먼트에 붙여 최강의 요괴를 가리는 컨셉의 요괴 도감이다.
 
-![표지](https://lh3.googleusercontent.com/rV1viBHn-ijuJgWv7eu1gmi8JEfAvukmPNJ9du4utCjn2-O6fjH8vm1qj6j4n7iii1pEf6_mdXZZ_A=s480)
+![표지](https://lh3.googleusercontent.com/uzL9cTuRvbd7RTbFgsuB7w8iDd_T-9d21Cvutdbx57ZSmen9N_zQOLGIyAYu2uaZFaHbBtVodp_rSw=s480)
 
 요괴는 매력적인 존재다.
 그 기묘한 모습은 물론 초자연적인 능력도 그렇다.
@@ -24,6 +24,8 @@ tags: [책, 도감, 요괴, 무라카미 겐지, 이진원, 서울문화사, 서
 최강자를 가리는 토너먼트를 시뮬레이션 했는데,
 일단 그것만으로도 요괴를 좋아하는 나의 흥미를 끌기는 충분했다.
 
+![8~9](https://lh3.googleusercontent.com/TG6XwpQ1ps50FGNDRvDqr6Ug_2jTcQcs3nxxGkA_hhubG8o784P3iALqXLecqatJ5bSr6WWYyG3_hw=s480)
+
 단순히 컨셉만 그렇게 잡은게 아니라,
 처음부터 끝까지 그 컨셉을 잘 살리기도 했다.
 처음부터 싸움 붙여 볼만한 요괴들을 선별한 것도 좋고,
@@ -34,6 +36,8 @@ tags: [책, 도감, 요괴, 무라카미 겐지, 이진원, 서울문화사, 서
 그러면서 각 요괴들의 능력치나 기술 뿐 아니라
 주요 출몰지역이나 짧게 요약한 내력등도 함께 실어둬
 여러 요괴들을 볼 수 있는 도감으로서도 즐길 수 있게 만들었다.
+
+![14~15](https://lh3.googleusercontent.com/1xvhW_LbuuWM-J8AdAJuugucl9oHJ2FZ2hDhBtUREvi0Xra3zPSlCQ4LN7nsAE88W1Wks-LlVNIjFQ=s480)
 
 다만, 토너먼트 승부라는 컨셉에 더 초점이 맞춰져있다보니,
 요괴 각각에 대한 상세 정보는 좀 부족한 편이다.
