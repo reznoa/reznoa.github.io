@@ -9,7 +9,7 @@ tags: [책, 소설, SF, 스팀펑크, 피터 번즐, 장선하, 블루스타, �
 '톱니바퀴 심장의 모험 1: 영원한 심장의 비밀을 찾아서(Cogheart 1: A stunning adventure of Danger and Daring)'는
 빅토리아 시대를 배경으로 한 SF 모험 소설이다.
 
-![표지](https://lh3.googleusercontent.com/BjEJsNwqg6ktOPWZJaWn2smXLFDh6ZbKYS4k5fMw9Mg7l1CHTq8N2eh3_ypYupzVR5wqQlhSsToCrw=s480)
+![표지](https://lh3.googleusercontent.com/pot2dNUjVJxgbN8VdpfSK8EDtxWaTrvCsnkzC3IA3rsyWxuuF_nrxX75Aep_7uRwquHN8_5O2TB25A=s480)
 
 '톱니바퀴 심장의 모험(A Cogheart Adventure)' 시리즈 1편인 이 소설은
 과거와 미래가 뒤섞인 듯한 스팀펑크 SF물이다.
