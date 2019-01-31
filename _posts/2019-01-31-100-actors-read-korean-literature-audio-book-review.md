@@ -28,6 +28,8 @@ iOS와 Android를 모두 지원하는데,
 매번 검색해서 찾아가거나,
 일종의 즐겨찾기인 구독이나 재생 기록 등 다른 기능을 통해서 접근해야만 한다.
 
+![구독목록](https://lh3.googleusercontent.com/L3yf9NuPGxxSP2xRvbVpTiEJuL324OrOZuz2psctDJHyi6Is3VNenG2H4CKAoAE9kr5Ec44URb0yRQ=s480 "따로 구매한 목록을 볼 수 없어 구독 등을 활용해야 한다.")
+
 오디오북 채널의 일부 에피소드를 구매한 경우,
 어떤 에피소드를 구매한 것인지도 제대로 표시되지 않으며
 전체 에피소드가 있는 시리즈에서는 개별 에피소드를 구매할 수도 없다.
@@ -37,9 +39,13 @@ iOS와 Android를 모두 지원하는데,
 각자가 마치 별개의 상품인 것처럼 전체 채널에서는 전권 구매만 되고
 개별 채널로 가야만 개별 에피소드를 구매할 수 있다.
 
+![에피소드 듣기](https://lh3.googleusercontent.com/HVrmyCRbGqQVqNot_WsnMkBuUm1NsO9iIi4x_aU9GDJ_VBLu8W9PAsdxIq71nym0Xxo82AIDBuBkFQ=s480 "구매한 에피소드를 확인하기 어렵다.")
+
 따로 '재생 목록'을 지원하지 않고,
 전체 채널을 구매한 경우에만 순서대로 이어서 들을 수 있게 되어있어서
 연속해서 듣는 것도 여의치 않다.
+
+![재생 에피소드 목록](https://lh3.googleusercontent.com/aVAdHTmm5mjOKhVsZ6phIYk_rcgw_Kh6EQrcB9UADpA1hglRIhQ5JZrjHe00n0lPU7U0iFxwIYk_6Q=s480 "따로 재생목록을 지원하지 않아서 연속해서 듣기는 어렵다.")
 
 재생과 채널 정보, 설정 등을 오가는 경로도 너무 길다.
 해당 페이지로 바로 가는 링크나 메뉴가 없기 때문이다.
@@ -47,6 +53,8 @@ iOS와 Android를 모두 지원하는데,
 오디오북 페이지의 정보가 '더보기'를 누른 후에도 일부 짤린 듯 보이는 것이나,
 제목과 저자에 같은 정보가 표시되고,
 잠금화면에 재생중인 에피소드의 표지가 나오지 않는 문제도 있다.
+
+![잠금화면 표지 누락](https://lh3.googleusercontent.com/2_8EOVmtSImTOuXwRB1hXv78J1URdRvLaNBAApWexScbME26d0LHG5UcE8fj3P8yniNB49xSvOs4eA=s480 "잠근화면에 표지가 제대로 안나온다.")
 
 얼마 전까지는 안드로이드에서 제대로 재생이 안되는 문제도 있었는데,
 팟캐스트 분야에서는 꽤 오랫동안 서비스를 한 것 치고는
