@@ -44,6 +44,8 @@ tags: [음악, 락, 복고, 링크, 모두의블로그]
 그래서 듣고있다보면 진짜로 옛날 앨범이나 또는 리메이크 앨범을 듣는 것 같다는 생각도 든다.
 문득 옛날의 풍경이나 드라마 장면, 혹은 음악 같은게 떠오르기도 한다.
 
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/dIIRp3G3vhY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
 더 좋은것은, 복고 앨범이라고 해서 단지 그런 느낌을 살리는데만 치중한게 아니라,
 각각의 곡 완성도도 나쁘지 않다는 것다.
 오래된 밴드치고 앨범이나 곡이 별로 없는데,
