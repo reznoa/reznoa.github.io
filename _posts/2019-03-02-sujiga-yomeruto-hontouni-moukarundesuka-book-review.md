@@ -5,8 +5,8 @@ category: 도서
 tags: [책, 경영, 후루야 사토시, 다나카 야스히로, 김소영, 쌤앤파커스, 서평]
 ---
 
-'후루야 사토시'의
-'장사는 돈관리다'는
+'후루야 사토시(古屋 悟司)'의
+'장사는 돈관리다(「数字」が読めると本当に儲かるんですか？)'는
 많은 사람들이 잘 모르고 중요하게 여기지 않는 관리회계를 쉽게 풀어쓴 책이다.
 
 ![표지](https://lh3.googleusercontent.com/yAcjktDlR1HxZst18IFMnjT-Q0fSQnw3zR7JYJY7-qlxYdre-MoZdJ-wmo4cpDvBhHx0SMoVvML2hw=s480)
