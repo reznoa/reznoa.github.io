@@ -46,7 +46,7 @@ tags: [장난감, 음악, 코리아보드게임즈, 체험단]
 
 ![접속부](https://lh3.googleusercontent.com/Tz_r144O1JGH6XRASy9BBu-v-kPC1uhGaCvo9qtgef4vO6NbTf5lH0GNt6AWixNK2nXyIWI1uDsH7g=s480)
 
-사소하지만 트윗 비트를 노래하는 나무의 나뭇가지 무대에 자석을 넣어서
+사소하지만 트윗 비트와 노래하는 나무의 나뭇가지 무대에 자석을 넣어서
 올릴 때 철썩 붙게 만든 것도 좋았다.
 덕분에 일부러 내리지 않는 이상 무대에 고정되는 효과가 있는 것은 물론,
 무대에 제대로 올렸다는 것도 확실히 알게 하는 부수적인 효과도 있었기 때문이다.
@@ -71,18 +71,18 @@ tags: [장난감, 음악, 코리아보드게임즈, 체험단]
 
 ![배터리 2](https://lh3.googleusercontent.com/5Ok-1KGkUMlCeg3ggIU0A6oF6uhaZ3fR9PU8GFVHffVqGp_C3kFP5qU-CmLQ9LIOGbunLkAVgXR02g=s480)
 
-음악을 만드는 방식은 꽤 재미있다.
+음악을 만드는 방식은 꽤 흥미롭다.
 노래하는 나무에 트윗 비트를 자유롭게 올리기만 하면
 그에 맞게 노래를 하거나 멜로디, 베이스, 비트 등을 연주하는데,
 각 트윗 비트를 올려놓을 수 있는 나뭇가지 무대가 정해져 있는게 아니기 때문에
-어디에 올리냐에 따라서 노래를 하거나 반주를 하거나 하는 식으로 다른 반응을 보인다.
+어디에 올리냐에 따라서 노래를 하거나 반주를 하거나 하는 식으로 다른 반응을 보이는게 재미있다.
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/7opX3qYMa7s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/sG0e3A6Eo7g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-동봉된 4개의 트윗 비트만으로도
-총 24개의 조합을 만들 수 있어 각각을 만들어 보는 것만도 꽤 재미를 준다.
+기본 패키지에 동봉된 4개의 트윗 비트만으로도
+총 24개의 조합을 만들 수 있어서 각각을 만들어 보는 것만도 꽤 재미를 준다.
 앞으로 트윗 비트의 수가 늘어나면
 그것과 함께 어떤 조합을 만들 것이냐에 따라서
 연주할 수 있는 음악도 기하급수적으로 늘어나게 되는데,
