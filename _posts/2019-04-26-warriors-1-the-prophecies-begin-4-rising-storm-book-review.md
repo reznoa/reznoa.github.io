@@ -6,7 +6,7 @@ tags: [책, 소설, 에린 헌터, 서나연, 가람어린이, 서평]
 ---
 
 '에린 헌터(Erin Hunter)'의
-시리즈 세번째 책
+시리즈 네번째 책
 '전사들 1부 예언의 시작 4 폭풍 전야(Warriors: The Prophecies Begin #4 Rising Storm)'는
 계속되는 갈등과 시련의 시작을 담았다.
 
