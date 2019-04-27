@@ -7,7 +7,7 @@ tags: [책, 소설, 줄리 에스테브, 이해연, 잔, 서평]
 
 '줄리 에스테브(Julie Estève)'의
 '꼬리박각시(Moro-sphinx)'는
-한 여인의 고독하고 암울한 삶을 그린 소설이다.
+한 여인의 고독하고 암울한 삶의 일면을 그린 소설이다.
 
 ![표지](https://lh3.googleusercontent.com/Qtq7bqRYIWTRhavcpSRAePfgzrUcaKh90LPALCaxU5lW_5jMRE-e3Ge6DYgbPYKizJpNfweV9YSLkQ=s480)
 
