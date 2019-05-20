@@ -125,6 +125,8 @@ tags: [술, 맥주, 비어나라, 썬비어, 모두의블로그]
 
 ![1차 8](https://lh3.googleusercontent.com/BYc4pugNxtOjgiVvX8weBrsfGTEl76BH-8If1jRQ1OcTEF-zAyqzYW_pB_GcUmJO-N1Swd_YznBnxQ=s480)
 
+<center><iframe width="480" height="270" src="https://www.youtube.com/embed/lA9oXOumWKU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
 적당히 풀렸다면, 마저 10L를 채우고
 용액이 산소와 만날 수 있도록 거품이 일 정도로 섞어준다.
 좌로 우로 번갈아가면서 섞어주면 효과가 있다고 한다.
