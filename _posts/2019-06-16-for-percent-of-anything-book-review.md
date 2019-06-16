@@ -5,8 +5,8 @@ category: 도서
 tags: [책, 소설, 라노벨, 로맨스, SF, 판타지, 히로세 미이, 게미, 주승현, JM북스, 제우미디어, 서평]
 ---
 
-'히로세 미이'의
-'너와 만날 수 있었던 4%의 기적'는
+'히로세 미이(広瀬 未衣)'의
+'너와 만날 수 있었던 4%의 기적(君に出会えた４％の奇跡)'는
 교토를 배경으로 벌어지는 미스터리한 로맨스를 그린 소설이다.
 
 ![표지](https://lh3.googleusercontent.com/ZQQtiXN5C7lE0pSmhEPCcPrBOEzlZMQxx4YendC7VyXtneLr9ZrtZ2HqLGgY7lamDI-NvliGmOd-WQ=s480)
