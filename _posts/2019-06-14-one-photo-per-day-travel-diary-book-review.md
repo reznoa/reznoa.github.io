@@ -42,6 +42,8 @@ tags: [책, 여행, 세계여행, 에세이, 이지은, 불휘미디어, 서평]
 (그게 아쉬웠는지 중간 중간에 사진만 더 붙여놓은 페이지도 있다.)
 그래서 여행도 어떤 식으로 했는지가 전체적으로 부드럽게 이어지지는 않는다.
 
+![~을 담다](https://lh3.googleusercontent.com/RBom9PXLRVnVbPwtSzSZSn0C860y6z-UiFy_17KyZYyErYK5jm1sVjJXWzri2drVySEf4tsCRNuO4A=s480)
+
 대신 소소하지만 눈길이 가는 것, 마음 가는 것들을 적은만큼 공감은 더 잘 되는 편이다.
 외국 여행 경험이 한번이라도 있다면 더욱 그렇다.
 여행을 하다보면 느끼게 되는 감정들을 잘 담았기 때문이다.
@@ -54,6 +56,8 @@ tags: [책, 여행, 세계여행, 에세이, 이지은, 불휘미디어, 서평]
 사람과 함께 한 시간을 보내고,
 사람들과 같이 사진을 찍은 것들을 보니
 새삼 여행이란 것이 현재로부터 떠나기 위한 것은 아니로구나 하는 생각도 든다.
+
+![사람이 함께 하는 여행](https://lh3.googleusercontent.com/3Z-7s-8RlfTY6gJAJHdDRgtv1yJ49i0jkPf_q7PsSwccj7uocSfnxv-dHFT8BFs8LLAR2VdkPp9zRw=s480)
 
 책에는 따로 1권, 2권 같은 표기가 없는데,
 이 책은 총 4년에 걸친 부부 여행기의 첫 권으로
