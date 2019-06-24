@@ -2,7 +2,7 @@
 layout: post
 title: "매우 민감한 사람들의 행복한 삶을 위한 조언 - 센서티브"
 category: 도서
-tags: [책, 심리, 일자 샌드, 김유미, 다산북스, 다산3.0, 서평]
+tags: [책, 심리학, 일자 샌드, 김유미, 다산북스, 다산3.0, 서평]
 ---
 
 '일자 샌드(Ilse Sand)'의 '센서티브(Highly Sensitive People in an Insensitive World: How to Create a Happy Life)'는 매우 민감하기에 남들과 다르고 그 때문에 괴로워하는 사람들을 위한 조언서다.
