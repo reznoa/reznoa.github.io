@@ -5,7 +5,7 @@ category: 도서
 tags: [책, 하이란, 심리, 김락준, 씽크뱅크, 서평, 예스24 리뷰어클럽]
 ---
 
-하이란(海藍) 박사의 '완벽하지 않은 것이 더 아름답다(不完美, 才美)'는
+'하이란(海藍)' 박사의 '완벽하지 않은 것이 더 아름답다(不完美, 才美)'는
 인생에 대한 유효한 조언을 담은 심리 에세이다.
 
 ![표지](https://lh3.googleusercontent.com/-PAEXBf4cySY/Wd-AdiS4EvI/AAAAAAAAY5o/XnIHnGhc3ggwRkBuL6OwyCjMOmcitsq2wCE0YBhgL/s480/not-perfect-but-beautiful-book.jpg)
