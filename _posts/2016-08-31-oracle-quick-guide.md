@@ -133,3 +133,37 @@ sRC = SQLDriverConnect( sHdbc, NULL,
 ~~~
 SQL> ALTER USER your_user_name QUOTA UNLIMITED ON USERS;
 ~~~
+
+### ORA-28002: the password will expire within ? days
+
+비밀번호 만료 여부 확인
+
+~~~
+SQL> SELECT account_status, lock_date, expiry_date FROM dba_users WHERE username = 'SCOTT';
+
+ACCOUNT_STATUS			 LOCK_DATE EXPIRY_DA
+-------------------------------- --------- ---------
+EXPIRED(GRACE)				   04-JUL-19
+~~~
+
+비밀번호 갱싱
+
+~~~
+SQL> ALTER USER scott IDENTIFIED BY tiger;
+~~~
+
+비밀번호 만료 기간 확인
+
+~~~
+SQL> SELECT limit FROM dba_profiles WHERE profile = 'DEFAULT' AND resource_name = 'PASSWORD_LIFE_TIME';
+
+LIMIT
+--------------------------------------------------------------------------------
+180
+~~~
+
+비밀번호 만료 기간 없애기
+
+~~~
+SQL> ALTER PROFILE DEFAULT LIMIT PASSWORD_LIFE_TIME UNLIMITED;
+~~~
