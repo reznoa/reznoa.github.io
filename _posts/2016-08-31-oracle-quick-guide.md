@@ -96,6 +96,7 @@ SQL> GRANT connect, dba, resource TO your_user_name;
 ~~~
 export ODBCINI=~/.odbc.ini
 export ORACLE_HOME=/home1/ora12/db/product/12.1.0/dbhome_1
+export ORACLE_SID=orcl
 export LD_LIBRARY_PATH=$ORACLE_HOME/lib:$LD_LIBRARY_PATH
 export PATH=$ORACLE_HOME/bin:$PATH
 ~~~
