@@ -6,7 +6,7 @@ tags: [책, 만화, 웹툰, 고양이, 코미디, 일상, 수리조아, 한재�
 ---
 
 '단발냥네 깜수씨 1'은
-동명의 웹툰으로 연재중인 작품을 모으고 정리해 담은 단행본이다.
+[동명의 웹툰](https://post.naver.com/my/series/detail.nhn?seriesNo=435912&memberNo=38419283)으로 연재중인 작품을 모으고 정리해 담은 단행본이다.
 
 ![표지](https://lh3.googleusercontent.com/HoHV-JLRFGmPt3uNIXgKCu3VME1RBEIfH-isShjrh5DIhllRpbfyRuP5Om-8wDWjJglHMx8ubsXUTA=s480)
 
