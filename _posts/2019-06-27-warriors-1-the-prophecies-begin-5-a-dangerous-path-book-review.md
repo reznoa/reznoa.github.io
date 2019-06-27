@@ -7,7 +7,7 @@ tags: [책, 소설, 에린 헌터, 서나연, 가람어린이, 서평]
 
 '에린 헌터(Erin Hunter)'의
 시리즈 다섯번째 책
-'전사들 1부 예언의 시작 5 위험한 길(Warriors: The Prophecies Begin #4 A Dangerous Path)'는
+'전사들 1부 예언의 시작 5 위험한 길(Warriors: The Prophecies Begin #5 A Dangerous Path)'는
 계속되는 갈등과 음모, 그리고 새로운 적과의 싸움을 그렸다.
 
 ![표지](https://lh3.googleusercontent.com/fzuv0kduOUGoosQgZqjij70rFb66rMixtOYx_9aYVh2pddtffnC3ssTFJY1D8Tp0meB_-UvAFSerGQ=s480)
