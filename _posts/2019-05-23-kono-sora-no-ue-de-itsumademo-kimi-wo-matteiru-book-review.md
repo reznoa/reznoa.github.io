@@ -5,8 +5,8 @@ category: 도서
 tags: [책, 소설, 성장, 로맨스, 코가라시 와온, 나나카와, 이지연, 영상출판미디어, 노블엔진 팝, 서평]
 ---
 
-'코가라시 와온'의
-'이 하늘 위에서 언제까지나 너를 기다리고 있어'는
+'코가라시 와온(こがらし 輪音)'의
+'이 하늘 위에서 언제까지나 너를 기다리고 있어(この空の上で、いつまでも君を待っている)'는
 잔잔한 미소를 짓게 만드는 성장 로맨스 소설이다.
 
 ![표지](https://lh3.googleusercontent.com/rlzCydUHOfm3f34CnNjv5jkihHYtt50X8GWIMC8DUDfKBVjNyC6TCGlPGB2_LNeEc7D-_1OthpCLZA=s480)
