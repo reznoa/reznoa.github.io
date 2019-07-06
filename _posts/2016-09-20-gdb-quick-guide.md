@@ -71,3 +71,24 @@ Hardware watchpoint 25: *(int *)0x11f3b30
 Old value = 3
 New value = 4
 ~~~
+
+
+### 시그널 제어
+
+gdb는 기본적으로 모든 시그널을 받을 때마다 멈추는데,
+멀티 스레드, 멀티 프로세스 프로그램에서 발생하는 SIGPIPE 등은 무시해도 되는 경우가 있다.
+그런 경우엔 handle 명령을 사용한다.
+
+~~~
+(gdb) handle SIGPIPE nostop
+(gdb) handle SIGPIPE noprint
+~~~
+
+지정할 수 있는 동작은 다음과 같다:
+
+동작   | 비동작   | 설명
+-------|----------|--------------------------------------------------
+stop   | nostop   | 멈추고 디버거로 들어갈지 여부
+print  | noprint  | 출력 여부
+pass   | nopass   | 프로그램에서 인식할 수 있게 신호를 전달할지 여부
+ignore | noignore | pass의 반대 (ignore = nopass, noignore = pass)
