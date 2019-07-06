@@ -8,7 +8,7 @@ tags: [책, 소설, 역사, 조선, 임진왜란, 정찬주, 작가정신, 서�
 '칼과 술'은
 임진왜란 때 활약했던 선거이의 이야기를 담은 역사 소설이다.
 
-![표지](https://lh3.googleusercontent.com/WwDvwIfqlQ9iPODR2ZdEkY0H7hY0G6ZE2k8ARJu7wsc8eTsS_BrhE1-p4rJg2aHewfK5iaKnS2gpyA=s480)
+![표지](https://lh3.googleusercontent.com/wdRy75OszABisTNlZUCWOr6m_gCc5cH0A-6OizFCdkeTSl2BiP2ZVkvB2RksxriAwyJjCbLne8CUDA=s480)
 
 현대 한국인은 임진왜란이라 하면 자연스레 이순신을 떠올린다.
 그의 성품이나 활약이 너무 눈부셨기 때문이다.
