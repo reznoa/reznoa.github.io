@@ -87,6 +87,6 @@ Monifilm의 2way Detachable Privacy Film은
 4way 필름이야 좌우 뿐 아니라 상하도 모두 보안이 되므로 상관 없지만,
 2way는 좌우만 보안이 되므로 구매할 때 반드시 이를 선택할 수 있어야 한다.
 아니면 적어도 내가 구매하는 제품이 어떤 화면 모드를 위한 것인지는 알 수 있어야 하는데
-그런 표기가 따로 되어있지 않은 것은 이해하기 어렵다.
+그런 표기도 따로 되어있지 않은 것은 이해하기 어렵다.
 
 <table width="396" height="24" background="http://echoblog.net/api/sponsor.php?MHNMSS9xaElrUDFGMUhnVHA4dHVSajdrejZ1eWVUcEE3TDI0VlpvOElKRWkrK3RTaGE2OVh5TGxJUnFiUDZNMjo6tQzu9XNYHtKtEHV5PcN28A==" style="margin:0 auto; "><tbody><tr><td align="center"> </td></tr></tbody></table>
