@@ -38,10 +38,18 @@ tags: [책, 소설, 만화, 그래픽노블, 테리 리벤슨, 황소연, 비룡
 이야기를 마무리하는 과정에서는 조금 판타지적인 면모도 있기는 하지만
 그것도 에미의 캐릭터와 잘 맞아떨어져 이상하거나 하지는 않았다.
 
-두 캐릭터의 성격과 심정을 그대로 나타낸 듯한 그림이나 연출도 그렇고,
-이야기 전개나 그를 통해 전하는 메시지도 모두 좋다.
+그림과 연출을 두 캐릭터 각각의 성격과 심정을 그대로 나타내는 듯이 그려냈는데,
+둘이 변화해가는 것까지 미묘하게 반영한 것도 적절했고
+그래서 이야기를 시각적으로도 따라갈 수 있게 한 것도 좋았다.
+
+<p class="center" markdown="1">
+![54p](https://lh3.googleusercontent.com/KYXVLdclGcCs3XdVmfTIRdWhZXOpPY6oepmKegfgfENNwKU8oVcu02uPY1JelAMeqxl7FqP9ZoffZA=s480)
+![35p](https://lh3.googleusercontent.com/GmWAuU845I0PpBLvYB59EidNQjtcC1Oc9CBRobSX7B7uW-aGygS39iklP2GKa0MKjfm-gzmFV6s7tg=s480)
+</p>
+
+그림과 연출, 이야기 전개나 그를 통해 전하는 메시지도 모두 좋다.
 교훈적인 내용을 담으면서도 너무 교과적이기 보다는
-공감할 수 있는 이야기를 통해 자연스럽게 느낄 수 있게 만든 것도 칭찬할 만하다.
+공감할 수 있는 이야기를 통해 자연스럽게 느낄 수 있게 만든 것 역시 칭찬할 만하다.
 
 
 
