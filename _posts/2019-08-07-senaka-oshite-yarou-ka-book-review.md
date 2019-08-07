@@ -9,7 +9,7 @@ tags: [책, 소설, 미스터리, 집단따돌림, 복수, 나비효과, 유키 
 '밀어줄까?(背中、押してやろうか?)'는
 왜 일이 이렇게 됐는지를 피해자의 시점에서 되돌아보는 미스터리 소설이다.
 
-![표지](https://lh3.googleusercontent.com/krRvczc8zujNvIuF6oQCm4lX2YBD2WfjFsh672hgBKcNxEyYw6OaI0dddmxkeipvr9IfCjITkT_3Uw=s480)
+![표지](https://lh3.googleusercontent.com/hOLjB2HY0V7N66eQ24jm66T2B7Qw4kcvWLdU_TvwJwRU_MoTUQytjKshcgO1wqVehgZKhQVJ4ZZeeA=s480)
 
 묵직한 프롤로그(또는 엔딩)에 비하면 처음엔 꽤 가볍게 시작한다.
 부모의 사정으로 오랫만에 고향으로 전학오게 된 주인공은
