@@ -61,9 +61,8 @@ tags: [요이치, 거치대, 자바라, 에누리, 체험단]
 
 ![조립](https://lh3.googleusercontent.com/CE5NbxV9viUOPSGuM9OPoXy-dH5qARaJKM9VFwOu3yoeLFKhv9cuKkANZ5ycm8QRELH4GWVvp8eWew=s480)
 
-폰 거치대는 구체 방식으로 붙이게 되어있어 방향이가 각도 조절이 자유롭다.
-뒤쪽의 볼트를 풀었다 조이는 것으로 고정력을 바꿀 수 있어
-조절은 비교적 자유로운 편이다.
+폰 거치대는 구체 방식으로 붙이게 되어있어 방향이나 각도 조절이 자유롭다.
+뒤쪽의 볼트를 풀었다 조이는 것으로 고정력을 바꿀 수 있어 조절하기도 쉽다.
 
 ![길이 연장](https://lh3.googleusercontent.com/YBgpvizQDNYeZdlbQ6WcPMGXHveRIN7oTStZ78frXsGrZi1y4np9135zDpxGNtVGQOXjfY-fxMvXRw=s480)
 
