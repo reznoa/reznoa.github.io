@@ -39,6 +39,8 @@ tags: [과채음료, 라도파, 지스푼, 에누리, 체험단]
 
 ![제품 3](https://lh3.googleusercontent.com/v7qIPllLLx8qit6SpdI4sWrxP_5RZWK4rAsIxH5KJ_DInn0V8_9y2a9KIitb0hK-675njsxgWfm2_w=s480)
 
+![술과 함께](https://lh3.googleusercontent.com/90nd9g_A9pPahu86M4Y-fFfwklOKYiQ5r89YCiSpeP6LHp2YQ7ZCqdgkLDM-JeBUgcPMTqZ8eiS9MQ=s480)
+
 제품은 아무래도 농축액이라 그런지 그냥 먹으면 조금은 한약같은 느낌도 난다.
 하지만, 딱히 쓰거나 거부감이 있지는 않은데
 첨가된 스테비아의 강한 단맛이 맛을 중화해주기 때문이다.
