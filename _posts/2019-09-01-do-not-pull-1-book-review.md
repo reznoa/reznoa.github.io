@@ -10,7 +10,7 @@ tags: [책, 소설, SF, 코미디, 제재영, 한국우주난민대책위, 서�
 
 ![표지](https://lh3.googleusercontent.com/qxs-qkby_UNHDou7WnVdk1_6nvLvrDsdQNlKLHb_AohAW2M_02d-gOB2VbUKC0H7XBji0OUlZRt6YA=s480)
 
-와계인과 관련된 일을 처리하는 공무원을 소재로 한 이 소설은,
+외계인과 관련된 일을 처리하는 공무원을 소재로 한 이 소설은,
 알려지진 않았지만 사실은 일상속에 널리 숨어있는 외계인이라던가,
 막대한 예산을 퍼부어 만들어낸 기발한 장치들이라던가 하는 것들을
 '저게 뭐야' 싶은 웃기는 상황들을 통해 풀어낸다.
