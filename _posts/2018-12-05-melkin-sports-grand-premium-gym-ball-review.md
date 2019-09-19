@@ -108,6 +108,14 @@ PVC는 재질 자체가 유해성이 있는 물질로 유명하기도 해서 조
 
 ![튜빙밴드 + 핸드그립](https://lh3.googleusercontent.com/oqv_kbEfymZSXjwnuCvEdKUsjT7B8MYgmevC0UdmDaSx6T1ui6VPgBdg9IXoEoqGo5kFQTV8OdIlGg=s480)
 
+짐볼의 완성도는 나름 만족스럽지만,
+함께 제공되는 에어펌프는 그렇지 않다.
+쓰고 잘 보관했다가 얼마 후 다시 쓰려고 했더니
+내부 고무가 삭아 끊어져 제대로 바람을 밀어주지 못하게 망가져 있었다.
+결국 한번밖에 쓰지 못함 셈이다.
+처음에 한 번 볼을 부풀리는 용도라고만 생각해야 할 듯하다.
+주 제품은 아니지만 그래도 아쉬움이 남는다.
+
 멜킨스포츠 그랜드 프리미엄 짐볼은
 [멜킨스포츠 스토어팜](https://smartstore.naver.com/melkinsports/products/2096624748)에서 구매할 수 있으며,
 관련 제품과 가격은 다음과 같다:
