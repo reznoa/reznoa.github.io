@@ -126,7 +126,7 @@ QR코드? = QR코드는 홈페이지와 설명서에만 존재한다.
 [^3]: 티백을 끼울 수 있는 차 용기에 관한 특허인 ["차 용기(TEA VESSEL)"(한국 특허 출원번호 1020080103389)](http://kpat.kipris.or.kr/kpat/biblioa.do?method=biblioFrame&applno=1020080103389)가 쓰인것으로 보인다. 변색 마크는 별도의 특허가 없거나, 아직 공개되지 않았거나, 또는 아뱅코가 아닌 다른 이름으로 등록되었을 수 있다.
 
 <div class="im im-info">
-<a href="https://withblog.net">위드블로그</a>를 통해 리뷰를 위한 제품 비용 포인트백을 조건으로 구매해 사용해보고 작성했다.
+<p><a href="https://withblog.net">위드블로그</a>를 통해 리뷰를 위한 제품 비용 포인트백을 조건으로 구매해 사용해보고 작성했다.</p>
 </div>
 
 <div title="withblog" style="text-align: center; margin: 3em 0;"><a href="https://withblog.net/campaign/link.php?p=13024d789b90bad6fe29f46ece137df060323aaadcc048ecddeeba6789fc8a99&amp;v=3&amp;utm_campaign=sponsor&amp;utm_source=withblog&amp;utm_medium=banner" target="_blank"><img src="https://withblog.net/campaign/img.php?p=13024d789b90bad6fe29f46ece137df060323aaadcc048ecddeeba6789fc8a99&amp;v=3" alt="위드블로그"></a></div>

@@ -28,5 +28,5 @@ tags: [책, 자기계발, 레이먼 벌링스, 마크 헬리번, 정용숙, 더�
 하지만, 꽤 괜찮은 새로운 방법을 알게됐다는 것 만으로도 이 책은 가치있다.
 
 <div class="im im-info">
-<a href="http://www.thenanbiz.com/">더난출판</a>으로부터 리뷰를 위한 책을 제공받아 읽어보고 작성했다.
+<p><a href="http://www.thenanbiz.com/">더난출판</a>으로부터 리뷰를 위한 책을 제공받아 읽어보고 작성했다.</p>
 </div>
