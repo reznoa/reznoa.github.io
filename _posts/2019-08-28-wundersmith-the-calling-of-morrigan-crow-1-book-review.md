@@ -6,7 +6,7 @@ tags: [책, 소설, 판타지, 성장, 제시카 타운센드, 박혜원, 디오
 ---
 
 '제시카 타운센드(Jessica Townsend)'의
-'원더스미스: 모리건 크로우와 원더의 소집자 1(Wundersmith: The Calling of Morrigan Crow)'는
+'원더스미스: 모리건 크로우와 원더의 소집자 1(Wundersmith: The Calling of Morrigan Crow 1)'는
 '네버무어 시리즈(Nevermoor Series)'의 두번째 이야기다.
 
 ![표지](https://lh3.googleusercontent.com/9Un6xnMZKK24QPH9xC0rJMP0M_RjOr5NOiHCDgHn7QMM5MIHTNRTMdm8cg7XoZ-ENASBj7dPp_364A=s480)
