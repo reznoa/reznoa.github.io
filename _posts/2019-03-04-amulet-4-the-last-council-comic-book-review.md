@@ -2,11 +2,11 @@
 layout: post
 title: "새롭게 드러나는 애뮬릿의 비밀 - 마법의 스톤 애뮬릿 4: 최후의 수호자 위원회"
 category: 도서
-tags: [책, 만화, 그래픽 노블, 영화화, 판타지, 카즈 키부이시, 박중서, 사파리, 서평]
+tags: [책, 만화, 그래픽 노블, 영화화, 판타지, 카즈 키부이시, 박중서, 사파리, 이퍼블릭, 서평]
 ---
 
 '카즈 키부이시(Kazu Kibuishi)'의
-'마법의 스톤 애뮬릿 4: 최후의 수호자 위원회(Amulet: The Last Council)'는
+'마법의 스톤 애뮬릿 4: 최후의 수호자 위원회(Amulet 4: The Last Council)'는
 공중도시 시엘리스의 비밀과 그곳에서의 시험을 담은 시리즈 네번째 책이다.
 
 ![표지](https://lh3.googleusercontent.com/fRFTnoRzG8n90d3VurggHFiXN6zW1Ivh69HOb7A7CcKfwihefXaul443g2jIRZ1o6IaRgC8u-POgQA=s480)

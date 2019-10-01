@@ -2,11 +2,11 @@
 layout: post
 title: "계속해서 드러나는 새로운 비밀들 - 마법의 스톤 애뮬릿 5: 새로운 엘프 왕자의 등장"
 category: 도서
-tags: [책, 만화, 그래픽 노블, 영화화, 판타지, 카즈 키부이시, 박중서, 사파리, 서평]
+tags: [책, 만화, 그래픽 노블, 영화화, 판타지, 카즈 키부이시, 박중서, 사파리, 이퍼블릭, 서평]
 ---
 
 '카즈 키부이시(Kazu Kibuishi)'의
-'마법의 스톤 애뮬릿 5: 새로운 엘프 왕자의 등장(Amulet: Prince of the Elves)'는
+'마법의 스톤 애뮬릿 5: 새로운 엘프 왕자의 등장(Amulet 5: Prince of the Elves)'는
 스톤과 엘프 왕자의 이야기를 담은 시리즈 다섯번째 책이다.
 
 ![표지](https://lh3.googleusercontent.com/vj9-aklf507vzeWV9JocLQdwx-TRJuYezo18TKJ9Oon_OMM2IBnuxb7b82mjniNSQ_39Rz3BetWAzA=s480)

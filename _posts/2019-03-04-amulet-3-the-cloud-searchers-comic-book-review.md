@@ -2,11 +2,11 @@
 layout: post
 title: "비밀의 도시를 향한 모험 - 마법의 스톤 애뮬릿 3: 공중도시 시엘리스"
 category: 도서
-tags: [책, 만화, 그래픽 노블, 영화화, 판타지, 카즈 키부이시, 박중서, 사파리, 서평]
+tags: [책, 만화, 그래픽 노블, 영화화, 판타지, 카즈 키부이시, 박중서, 사파리, 이퍼블릭, 서평]
 ---
 
 '카즈 키부이시(Kazu Kibuishi)'의
-'마법의 스톤 애뮬릿 3: 공중도시 시엘리스(Amulet: The Cloud Searchers)'는
+'마법의 스톤 애뮬릿 3: 공중도시 시엘리스(Amulet 3: The Cloud Searchers)'는
 새로운 모험을 떠나는 시리즈 세번째 책이다.
 
 ![표지](https://lh3.googleusercontent.com/0nqpGencCgqR6tDrt01jp8f1wI4x6wcsi7yCEllrjthXO_bt1bOhlO2hJagL1d5AXA0sFnrw-l5dfQ=s480)

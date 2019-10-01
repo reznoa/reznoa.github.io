@@ -2,11 +2,11 @@
 layout: post
 title: "이야기의 새로운 전환점 - 마법의 스톤 애뮬릿 6: 지하 도시 루시엔 대탈출"
 category: 도서
-tags: [책, 만화, 그래픽 노블, 영화화, 판타지, 카즈 키부이시, 박중서, 사파리, 서평]
+tags: [책, 만화, 그래픽 노블, 영화화, 판타지, 카즈 키부이시, 박중서, 사파리, 이퍼블릭, 서평]
 ---
 
 '카즈 키부이시(Kazu Kibuishi)'의
-'마법의 스톤 애뮬릿 6: 지하 도시 루시엔 대탈출(Amulet: Escape from Lucien)'는
+'마법의 스톤 애뮬릿 6: 지하 도시 루시엔 대탈출(Amulet 6: Escape from Lucien)'는
 맥스와 루시엔에서 싸움의 결말을 그린 시리즈 여섯번째 책이다.
 
 ![표지](https://lh3.googleusercontent.com/9kRgHJNDkWinn6sUUcFyw3wVuFphpinsgFMBdK5l0A_wpCaDQyb77noRX6wMIecB-grIUBjNN-awDA=s480)

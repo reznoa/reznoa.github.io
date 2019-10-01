@@ -2,11 +2,11 @@
 layout: post
 title: "매력적인 판타지 모험 만화의 시작 - 마법의 스톤 애뮬릿 1: 스톤키퍼"
 category: 도서
-tags: [책, 만화, 그래픽 노블, 영화화, 판타지, 카즈 키부이시, 박중서, 사파리, 서평]
+tags: [책, 만화, 그래픽 노블, 영화화, 판타지, 카즈 키부이시, 박중서, 사파리, 이퍼블릭, 서평]
 ---
 
 '카즈 키부이시(Kazu Kibuishi)'의
-'마법의 스톤 애뮬릿 1: 스톤키퍼(Amulet: The Stonekeeper)'는
+'마법의 스톤 애뮬릿 1: 스톤키퍼(Amulet 1: The Stonekeeper)'는
 매력적인 판타지 모험 만화 '마법의 스톤 애뮬릿(Amulet)' 시리즈의 시작을 여는 책이다.
 
 ![표지](https://lh3.googleusercontent.com/VuzdqIxxBHPxxoCcdaCsg-O-mWKDkF4OKpRr_RtB6TkXJEamrxBpS5fXVUG_PJWAbljpaen3zMuXDA=s480)

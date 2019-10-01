@@ -2,11 +2,11 @@
 layout: post
 title: "새로운 국면을 향해가는 스톤키퍼의 진실 - 마법의 스톤 애뮬릿 7: 봉인된 기억"
 category: 도서
-tags: [책, 만화, 그래픽 노블, 영화화, 판타지, 카즈 키부이시, 박중서, 사파리, 서평]
+tags: [책, 만화, 그래픽 노블, 영화화, 판타지, 카즈 키부이시, 박중서, 사파리, 이퍼블릭, 서평]
 ---
 
 '카즈 키부이시(Kazu Kibuishi)'의
-'마법의 스톤 애뮬릿 7: 봉인된 기억(Amulet: Firelight)'은
+'마법의 스톤 애뮬릿 7: 봉인된 기억(Amulet 7: Firelight)'은
 스톤과 스톤키퍼에 관한 진실이 드러나는 시리즈 일곱번째 책이다.
 
 ![표지](https://lh3.googleusercontent.com/yLZskCtVarP3u-m5-VPXvBjrfUL7Epag11a_HVOlQ1oH1IOd-Xq-TWM-IWmG4V2ox_N5a34OZAFGhg=s480)

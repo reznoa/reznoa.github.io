@@ -2,11 +2,11 @@
 layout: post
 title: "새로운 만남과 떡밥, 그리고 이어지는 재미 - 마법의 스톤 애뮬릿 2: 물려받은 저주"
 category: 도서
-tags: [책, 만화, 그래픽 노블, 영화화, 판타지, 카즈 키부이시, 박중서, 사파리, 서평]
+tags: [책, 만화, 그래픽 노블, 영화화, 판타지, 카즈 키부이시, 박중서, 사파리, 이퍼블릭, 서평]
 ---
 
 '카즈 키부이시(Kazu Kibuishi)'의
-'마법의 스톤 애뮬릿 2: 물려받은 저주(Amulet: The Stonekeeper's Curse)'는
+'마법의 스톤 애뮬릿 2: 물려받은 저주(Amulet 2: The Stonekeeper's Curse)'는
 '[마법의 스톤 애뮬릿 1: 스톤키퍼]({% post_url 2019-01-07-amulet-1-the-stonekeeper-comic-book-review %})'의 뒤를 잊는
 시리즈 두번째 책이다.
 
