@@ -174,6 +174,14 @@ MarkdownEnhancer.footnotePopup = function()
 
 MarkdownEnhancer.imageBlock = function()
 {
+	function classContains(elm, name)
+	{
+		if (elm.classList)
+			return elm.classList.contains(name)
+		else
+			return new RegExp("\\b"+ name +"\\b").test(elm.className);
+	}
+
 	return function(baseElm)
 	{
 		if (!baseElm)
@@ -182,6 +190,8 @@ MarkdownEnhancer.imageBlock = function()
 		var imgs = baseElm.getElementsByTagName('img');
 		for (var i = imgs.length - 1; i >= 0; i--)
 		{
+			if (!classContains(imgs[i], "mediablock"))
+				continue;
 			if (!imgs[i].title)
 				continue;
 
