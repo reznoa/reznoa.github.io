@@ -89,4 +89,6 @@ Monifilm의 2way Detachable Privacy Film은
 아니면 적어도 내가 구매하는 제품이 어떤 화면 모드를 위한 것인지는 알 수 있어야 하는데
 그런 표기도 따로 되어있지 않은 것은 이해하기 어렵다.
 
-<table width="396" height="24" background="http://echoblog.net/api/sponsor.php?MHNMSS9xaElrUDFGMUhnVHA4dHVSajdrejZ1eWVUcEE3TDI0VlpvOElKRWkrK3RTaGE2OVh5TGxJUnFiUDZNMjo6tQzu9XNYHtKtEHV5PcN28A==" style="margin:0 auto; "><tbody><tr><td align="center"> </td></tr></tbody></table>
+
+
+![스폰서 배너](http://echoblog.net/images/sponsor-banner.png "이 글은 에코블로그를 통해 해당 업체에서 제품을 제공받아 작성한 리뷰다.")

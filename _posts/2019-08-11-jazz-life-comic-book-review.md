@@ -48,4 +48,4 @@ tags: [책, 만화, 음악, 재즈, 남무성, 북커스, 서평, 에코블로�
 
 
 
-<table width="396" height="24" background="http://echoblog.net/api/sponsor.php?ZkdTNUtRSHFYT1RGU253R244cnJKYjRWbU5JVkVITW8weDdRWlRkZjJ3elBudjk1L3VWeStNM0NtTENMN3lOVzo6DnwMnyOh6dljC1Yjy4+DgA==" style="margin:0 auto; "><tbody><tr><td align="center"> </td></tr></tbody></table>
+![스폰서 배너](http://echoblog.net/images/sponsor-banner.png "이 글은 에코블로그를 통해 해당 업체에서 제품을 제공받아 작성한 리뷰다.")
