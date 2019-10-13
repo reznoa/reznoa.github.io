@@ -2,7 +2,7 @@
 layout: post
 title: "여름 뷰티 왁싱에 좋은 뷰티케어 전문점 - 골든네일 철산역점"
 description: "깔끔한 뷰티케어 전문점 골든네일 철산역점에서 수염 왁싱을 받아봤다."
-category: "건강"
+category: "뷰티"
 tags: [왁싱, 철산역, 잇플루언서]
 published: false
 ---
