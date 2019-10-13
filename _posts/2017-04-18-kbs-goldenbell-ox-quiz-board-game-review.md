@@ -3,7 +3,7 @@ layout: post
 title: "OX로 만나는 골든벨 퀴즈 대결 - KBS 도전골든벨 OX 퀴즈게임"
 description: "코리아보드게임즈에서 내놓은 본격 OX 퀴즈게임, KBS 도전골든벨 OX 퀴즈게임을 해봤다."
 category: Game
-tags: [보드게임, 퀴즈, KBS, 코리아보드게임즈]
+tags: [게임, 보드게임, 퀴즈, KBS, 코리아보드게임즈]
 ---
 
 ## 소개

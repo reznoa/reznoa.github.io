@@ -2,7 +2,7 @@
 layout: post
 title: "아인슈타인 퍼즐"
 category: Game
-tags: [퍼즐]
+tags: [게임, 퍼즐]
 excerpt_separator: <!--more-->
 ---
 
