@@ -3,6 +3,7 @@ layout: post
 title: "만화로 떠나는 매력적인 재즈의 세계 - 재즈 라이프"
 category: 도서
 tags: [책, 만화, 음악, 재즈, 남무성, 북커스, 서평, 에코블로그]
+published: false
 ---
 
 '재즈 라이프'는

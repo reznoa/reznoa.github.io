@@ -4,6 +4,7 @@ title: "우유, 두유를 대체할 새로운 식물성 대체 음료 - 마이�
 description: "우유를 대체할 수 있는 새로운 음료인 마이너피겨스 귀리음료를 먹어봤다."
 category: "식도락"
 tags: [귀리, 우유, 마이너피겨스, 바이잇, 링블, 체험단]
+published: false
 ---
 
 마이너피겨스 귀리음료(Minor Figures Oat M*lk)는
