@@ -59,5 +59,5 @@ tags: [책, 그림책, 에세이, 게임원작, BORAme, 21세기북스, 북이�
 책만을 보기 보다는,
 게임을 먼저 해보고 그 후 책을 접하는 걸 추천한다.
 그 다음엔,
-후속작으로 [비 내리는 다락방](https://play.google.com/store/apps/details?id=com.Borame.rainroom2)도 나왔으니,
+후속작으로 '[비 내리는 다락방](https://play.google.com/store/apps/details?id=com.Borame.rainroom2)'도 있으니,
 그걸로 이어 가는 것도 괜찮을 것이다.
