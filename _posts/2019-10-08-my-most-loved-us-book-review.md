@@ -6,8 +6,8 @@ tags: [책, 소설, 성장, 미사, 최정숙, 한스미디어, 한즈미디어,
 ---
 
 '미사(Misa)'의
-'내가 제일 사랑하는 우리'는
-쌍둥이 자매의 성장을 그린 소설이다.
+'내가 제일 사랑하는 우리(最親愛的我們)'는
+쌍둥이 자매의 소란과 성장을 그린 소설이다.
 
 ![표지](https://lh3.googleusercontent.com/XplaylHXB5RkSHr0z5YmXnUl-8WeZDTSN-1eMOBTvNxWU4a7y78wM3eDIJT6IHXYTeIVFBo2IeFEhw=s480)
 
