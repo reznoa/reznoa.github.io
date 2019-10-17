@@ -7,7 +7,7 @@ tags: [책, 소설, 성장, 황선미, 이보름, 시공사, 서평]
 
 '마음에 심는 꽃'은
 한 시골마을에서의 일을 그린,
-한편의 동화같은 이야기다.
+한편의 동화같은 소설이다.
 
 ![표지](https://lh3.googleusercontent.com/93Vo45JsyRF1uNTFkNV2LJOMJCgEi1-nYSLpvb6py4BfKGRmQUZErLu8icm3BDN1pjfJasaqXK2Zvg=s480)
 
