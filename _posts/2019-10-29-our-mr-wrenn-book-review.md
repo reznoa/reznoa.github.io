@@ -11,7 +11,7 @@ tags: [책, 소설, 싱클레어 루이스, 김경숙, 레인보우퍼블릭북�
 
 ![표지](https://lh3.googleusercontent.com/ipX_D2QRjU0AhNFHXhWFRTBAG7i451y1G72LwDVwN870gyGaa94bznnTTFvGKE2qYA3chFDh9bSqgQ=s480)
 
-1900년대를 초 작은 기념품 회사에 근무하는 미스터 렌은
+1900년대 초 작은 기념품 회사에 근무하는 미스터 렌은
 어느 날 뜻하지 않은 유산을 상속받게 된다.
 금액으로는 약 1000달러.
 그의 주급이 보통 수준이라고 생각해서 계산해보면 대략 4000~5000만원 정도다.
