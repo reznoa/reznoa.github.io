@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "작은 용기와 따뜻한 위로를 건네는 심리 에세이 - CupOfTherapy"
+title: "작은 용기와 따뜻한 위로를 건네는 심리 에세이 - 컵오브테라피(CupOfTherapy)"
 category: 도서
 tags: [책, 심리, 에세이, 그림책, 마티 피쿠얌사, 안티 얼바스티, 학산문화사, 서평]
 ---
 
 일러스트레이터 '마티 피쿠얌사(Matti Pikkujamsa)'와
 심리치료사 '안티 얼바스티(Antti Ervasti)'가 만든
-'CupOfTherapy'는
-힐리이 되는 그림과 에세이를 담은 책이다.
+'컵오브테라피(CupOfTherapy)'는
+힐링이 되는 그림과 에세이를 담은 책이다.
 
 ![표지](https://lh3.googleusercontent.com/aM20na694O9diQ-G1No9im0ktWe6AiP8N7K1Vb5xyE_ElOuw5v4-wU-MvC-eIOUumqAC7grQ__PfHw)
 
