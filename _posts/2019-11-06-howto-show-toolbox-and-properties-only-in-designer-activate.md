@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Visual Studio 2010에서 디자이너 화면일 때만 '도구 상자', '속성' 윈도우 보이기"
-category: 취미
+category: Programing
 tags: [Visual Studio, VB]
 ---
 
