@@ -72,14 +72,13 @@ USB를 시거잭 등에 꼽고,
 보통 주변에 수납공간도 함께 있으므로 그곳에 넣어두면 된다.
 
 <p class="center" markdown="1">
-![페어링 1](https://lh3.googleusercontent.com/r1fRLcgqlllWIynPY1dPXdP7XWKEuFjLX_HegjKwtUE5TwuvFsU8MBASvhjSAvso0FqqTa5rrpDh5w=s480)
-![페어링 2](https://lh3.googleusercontent.com/Z-ftb5gUstrpFh7MtWPAaDLckQt_lWuadpY_v3LQtjFzVUr9UUH80p2qnHnYSpu2ciPqo0_MbTqNDw=s480)
+![페어링 1](https://lh3.googleusercontent.com/r1fRLcgqlllWIynPY1dPXdP7XWKEuFjLX_HegjKwtUE5TwuvFsU8MBASvhjSAvso0FqqTa5rrpDh5w=w220)
+![페어링 2](https://lh3.googleusercontent.com/VdfehqJGAQA4yGsj8NvNedpBKsvchq-VEzrQfqAs-c5SukCZme09oyAljSDE-dWBOb99M9xh_WstLw=w220)
+![페어링 3](https://lh3.googleusercontent.com/Iccbqm7eDDiI45weVCOqS6kWECc7nsBNcBerkGI19_lV_pWa3DHFFlGgmVhfll4qVrbddz5_1quHCA=w220)
 </p>
 
-페어링은 대게의 음향장비가 그렇듯,
+페어링은 대개의 음향장비가 그렇듯,
 원하는 기기에서 LBT880을 선택하는 것만으로 인증없이 이뤄진다.
-
-![페어링 3](https://lh3.googleusercontent.com/Iccbqm7eDDiI45weVCOqS6kWECc7nsBNcBerkGI19_lV_pWa3DHFFlGgmVhfll4qVrbddz5_1quHCA=s480)
 
 LBT880은 '통화'를 지원하지 않기 때문에 '오디오'로만 연결되는데,
 '통화' 항목은 남겨져 있으므로 다른 기기와 연결해도 된다.
