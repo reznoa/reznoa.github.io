@@ -9,7 +9,7 @@ tags: [책, 소설, 로맨스, 동거, 페미니즘, 가스라이팅, 베스 올
 '셰어하우스(The Flatshare)'는
 집 공유를 소재로 만나게 되는 두 사람과 그들 주변의 이야기를 그린 소설이다.
 
-![표지](https://lh3.googleusercontent.com/ZfNclOTQvIM-Q3k42TgBGuUcz8JIE9Ro53PeBJAjJIIgDSpjdcAxspLnher6kgrB_3Jf8ioWaopU_Q=s480)
+![표지](https://lh3.googleusercontent.com/AUEuqTbUeFYpWMnaRbIMf2_HAxGHk8jZRYjQiImF1MagzJA82FJ3TCnI6VtqYwZaTkiqGqrSVBmHow=s480)
 
 먼저 소재가 좀 독특하다.
 소설 속 동거는 한국에서는 좀처럼 볼 수 없는 형태라서다.
