@@ -204,9 +204,11 @@ h3 { font-size: 1.5em; }
 }
 .post-content h2 {
 }
+.post-content svg,
 .post-content img {
 	max-width: 100%;
 }
+.post-content svg,
 .post-content > p > img:first-child:last-child {
 	margin: auto;
 	display: block;
