@@ -5,7 +5,7 @@ category: 도서
 tags: [책, 소설, 창작동화, 리사 룬드마르크, 샬롯 라멜, 이유진, 이마주, 서평]
 ---
 
-'리사 룬드마르크(Lisa Lundmark)'이 쓰고
+'리사 룬드마르크(Lisa Lundmark)'가 쓰고
 '샬롯 라멜(Charlotte Ramel)'이 그린
 '나는 상어다(Haj-Jenny)'는
 다름과 개성에 대한 이야기를 담은 책이다.
