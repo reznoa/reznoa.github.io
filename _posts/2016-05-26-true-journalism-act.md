@@ -3,7 +3,7 @@ layout: post
 title: "기레기 방지법"
 description: "기레기가 판치는 세상, 그를 방지하기 위한 법을 발안해본다."
 date: 2016-05-26 16:18:45 +0900
-category: ETC
+category: 시사
 tags: [법, 가상]
 ---
 
