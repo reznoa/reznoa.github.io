@@ -2,7 +2,7 @@
 layout: post
 title: "잘 만든 좀비 설정물, 좀비 서바이벌 가이드(The Zombie Survival Guide)"
 category: 도서
-tags: [★★★★, 책, 맥스 브룩스, 장성주, 좀비, 황금가지]
+tags: [★★★★, 책, 맥스 브룩스, 장성주, 좀비, 황금가지, 민음인, 민음사, 서평]
 ---
 
 좀비 서바이벌 가이드(The Zombie Survival Guide)는 영화화도 되서 유명한 세계 대전 Z(World War Z)의 원작자 맥스 브룩스(Max Brooks)의 데뷔작이다.
