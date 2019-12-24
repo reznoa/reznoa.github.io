@@ -58,3 +58,5 @@ tags: [과채음료, 라도파, 지스푼, 에누리, 체험단]
 <div class="im im-info">
 이 글은 에누리 체험단을 통해 제품을 무료로 제공받아 작성했다.
 </div>
+
+{% include enuriapplink.html %}

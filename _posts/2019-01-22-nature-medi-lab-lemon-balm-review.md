@@ -70,3 +70,5 @@ tags: [네이쳐메디랩, 허브큐어, 세원피앤씨, 레몬밤, 캔디류, 
 <div class="im im-info">
 이 글은 에누리 체험단을 통해 제품을 무료로 제공받아 작성했다.
 </div>
+
+{% include enuriapplink.html %}

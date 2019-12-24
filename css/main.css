@@ -207,6 +207,7 @@ h3 { font-size: 1.5em; }
 .post-content svg,
 .post-content img {
 	max-width: 100%;
+	vertical-align: middle;
 }
 .post-content svg,
 .post-content > p > img:first-child:last-child {

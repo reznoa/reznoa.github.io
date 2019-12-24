@@ -85,3 +85,5 @@ Y잭의 나뉜 플러그는 색 뿐 아니라 전형적인 아이콘도 그려�
 <div class="im im-info">
 이 글은 에누리 체험단을 통해 제품을 무료로 제공받아 작성했다.
 </div>
+
+{% include enuriapplink.html %}

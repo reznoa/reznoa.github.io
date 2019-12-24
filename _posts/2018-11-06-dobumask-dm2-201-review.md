@@ -106,3 +106,5 @@ tags: [마스크, 황사마스크, KF94, 미세먼지, 도부라이프텍, 에�
 <div class="im im-info">
 이 글은 에누리 체험단을 통해 제품을 무료로 제공받아 작성했다.
 </div>
+
+{% include enuriapplink.html %}

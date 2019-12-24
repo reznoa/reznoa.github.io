@@ -126,3 +126,5 @@ LBT990의 정가는 18,900원인데 현재 16% 할인중이라 LBT880보다 싸�
 <div class="im im-info">
 이 글은 에누리 체험단을 통해 제품을 무료로 제공받아 작성했다.
 </div>
+
+{% include enuriapplink.html %}

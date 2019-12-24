@@ -88,3 +88,5 @@ tags: [충전기, 요이치, 퀄컴, 퀵차지, 에누리, 체험단]
 <div class="im im-info">
 이 글은 에누리 체험단을 통해 제품을 무료로 제공받아 작성했다.
 </div>
+
+{% include enuriapplink.html %}

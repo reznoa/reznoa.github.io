@@ -2,7 +2,7 @@
 layout: post
 title: "아이폰을 위한 4K 미러링 케이블 - 얼리봇 아이폰 미러링 MHL 케이블 SGV-2000K"
 category: "생활/가전"
-tags: [MHL, HDMI, 미러링, 아이폰, 얼리봇, 시스템게이트, 에누리, 체험단]
+tags: [MHL, HDMI, UHD, 미러링, 아이폰, 얼리봇, 시스템게이트, 에누리, 체험단]
 ---
 
 얼리봇 아이폰 미러링 MHL 케이블 SGV-2000K는
@@ -93,3 +93,5 @@ MHL 케이블을 쓰면서 더 어긋난게 아닌가 싶다.
 <div class="im im-info">
 이 글은 에누리 체험단을 통해 제품을 무료로 제공받아 작성했다.
 </div>
+
+{% include enuriapplink.html %}
