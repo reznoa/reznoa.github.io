@@ -5,8 +5,8 @@ category: 도서
 tags: [책, 소설, 고양이, 판타지, 다카하시 유타, 안소현, 소담출판사, 테일소담, 서평]
 ---
 
-'다카하시 유타'의
-'검은 고양이 카페'는
+'다카하시 유타(高橋 由太)'의
+'검은 고양이 카페(黒猫王子の喫茶店)'는
 인간처럼 활동하는 고양이를 소재로한 따뜻한 판타지 소설이다.
 
 ![표지](https://lh3.googleusercontent.com/I2fc-INegx_LHO81Kh3B41w0VTOHxBVYHrtaErDCRZGJ6QQkG_U-j-i-z2KiXwZoWFHIxb4mEU9mlg=s480)
