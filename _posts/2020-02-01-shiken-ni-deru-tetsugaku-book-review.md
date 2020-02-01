@@ -9,7 +9,7 @@ tags: [책, 철학, 사이토 테츠,야 김선숙, 정용휴, 성안당, 서평
 '시험에 나오는 철학 입문(試験に出る哲学: 「センター試験」で西洋思想に入門する)'은
 서양철학의 흐름과 그 핵심 사상을 간략하게 정리해서 담은 책이다.
 
-![표지](https://lh3.googleusercontent.com/MWy8CDxknA066i6muZYGNHIeOC4Q9rlCwXrKcYjFq2J9yJiOoQH9CwM2facqz2znYs2ejnx7rZo3Qg=s480)
+![표지](https://lh3.googleusercontent.com/9yOrlm3HvpC2oSJATMJLsmiOfyKUQHLCKaCoUwOts-F6EQsj2OHnm4x9FFNiW24ZB78IkIpJwwdvfw=s480)
 
 이 책의 특이한 점은, 한국으로 치면 수능이라 할 수 있는,
 일본의 '대학 입시 센터시험' 윤리 과목에 출제된 문제를 두고
