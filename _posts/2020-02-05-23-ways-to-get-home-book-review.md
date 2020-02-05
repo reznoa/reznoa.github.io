@@ -11,7 +11,7 @@ tags: [책, 소설, 성장, 청소년, 김혜진, 서유재, 서평]
 ![표지](https://lh3.googleusercontent.com/VOkjK8KMRXe0FfpNe714LOcrgU_ebxf7QBc3xHM3W4XxdD1MQV_HweK7WJWk3_LHzK_6gGjInGa7ag=s480)
 
 서로 친구가 되는 '나', '모', 그리고 '네이'는
-젼혀 다르면서도 또한 비슷한 점이 있다.
+전혀 다르면서도 또한 비슷한 점이 있다.
 모두 무언가를 수집한다는 거다.
 
 주인공인 '나'는 길을 모은다.
