@@ -64,6 +64,8 @@ USB 단자에 손잡이 정도만 더 달려있는 듯한 모양이라,
 윈도우 7/XP에서는 [별도의 드라이버](https://www.tp-link.com/kr/support/download/ub400/#Driver)를 다운받아 설치해야 하는데,
 대체로 Windows 10을 사용하므로 일반적으로는 신경쓰지 않아도 된다.
 
+![기기](https://lh3.googleusercontent.com/9SvloTCMqqR6pTacw_9mHBtNrcA83uyvW8PiJRM3Hu_7wYOHo7QIyHx38cpIwtQQhIqNx4oEdSpJIQ=s480)
+
 ![블루투스 장치 추가 1](https://lh3.googleusercontent.com/4mevT2zth-_TJC_Qt74WX8yD4yHmRNda8xSqVAENEJXehL5GtPKSfHZNfyYF3n5Sf9cEMH5gM5yG8A=s480)
 
 ![블루투스 장치 추가 2](https://lh3.googleusercontent.com/iFw4x5-eUvrRaiatGgXbMMQUefQPR7ZB1GaResh2yIMlrh7V3yTRHDiOatb1YIMfJyCxQahhiFNVpg=s480)
