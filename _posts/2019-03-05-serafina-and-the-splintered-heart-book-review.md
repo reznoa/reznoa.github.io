@@ -5,7 +5,7 @@ category: 도서
 tags: [책, 소설, 판타지, 로버트 비티, 김지연, 아르볼, 지학사, 서평]
 ---
 
-'로버트 비티(Robert Beatty)')의
+'로버트 비티(Robert Beatty)'의
 '세라피나와 조각난 심장(Serafina and the Splintered Heart)'은
 '세라피나 시리즈(Serafina Series)'의 세번째 책이다.
 
