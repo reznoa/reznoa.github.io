@@ -11,7 +11,7 @@ tags: [책, 소설, 사회, 심은영, 창해, 서평]
 ![표지](https://lh3.googleusercontent.com/7SLrNYkPp9XPizHkN79ehsAIZ8ODGcZquM0OVylpthDD_KnMqa_D5C78luBJ8YCQMaDbg1L_IIT8hg=s480)
 
 소설에는 꽤 여러 이야기들이 담겨있다.
-가정 내 성폭력, 강간, 학교비리, 권력과 거기에 편승하는 사람들 등
+가정 내 성폭력, 강간, 미성년자 성범죄, 학교비리, 권력과 거기에 편승하는 사람들 등
 각각을 하나씩 따로 떼어놓고 보아도 할 이야기가 많을만한 것들이 한데 뭉쳐있다.
 그래서 안그래도 소재 때문에 무거울 수 밖에 없는 소설이 더욱 무겁게 느껴진다.
 
