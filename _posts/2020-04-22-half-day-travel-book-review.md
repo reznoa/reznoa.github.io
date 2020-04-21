@@ -8,7 +8,7 @@ tags: [책, 여행, 서울, 경기, 지콜론북, 서평]
 '반차 여행'은
 반차로 갈 수 있는 근처의 좋은 곳들을 소개하는 일종의 여행서다.
 
-![표지](https://lh3.googleusercontent.com/ONgyl-zH76CUXVRTtrpiQZ8zdrkhCQe8sGR3zcrMh4xIx3qTcbnsZeXjs1o3bqcoHjR3cvLV-RxsLg=s480)
+![표지](https://lh3.googleusercontent.com/4PlieEtcA-JO945N92DYCHyI7HuJhk7kPwZTkTZQFCk2mRyTsAGydTOu5wVICs_ThriUoW_CoSYK5w=s480)
 
 그리 크지 않은 제형에,
 단순하게 텍스트 위주로만 구성된 이 책은
