@@ -10,7 +10,7 @@ tags: [책, 만화, 유튜브, 오썰, 전영신, 샌드박스 네트워크, 서
 
 ![표지](https://lh3.googleusercontent.com/kqPOgpmcdh3_efea8EfelxO907DleTSqTD4vlmGTPIAeqDfln2rocOvlQ8LlMiBuaw4ARmgOoLz1Xw=s480)
 
-유튜브에서 유명한 동영상 채널 '[오늘의 영상툰]((https://www.youtube.com/channel/UC5D5VhXj_9JWr3IskPYOEdA))'은
+유튜브에서 유명한 동영상 채널 '[오늘의 영상툰](https://www.youtube.com/channel/UC5D5VhXj_9JWr3IskPYOEdA)'은
 제보받은 사연이나, 오싹한 이야기, 감동실화 같은 것을
 조금씩 움직이는 만화(영상툰)로 재구성해서 올리는 곳이다.[^1]
 여러 이야기들 중에서 괜찮은 걸 꼽아서 컨텐츠로 만드는데다
