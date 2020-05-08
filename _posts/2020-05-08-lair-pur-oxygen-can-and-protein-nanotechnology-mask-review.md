@@ -53,17 +53,30 @@ tags: [래퓨, 산소캔, 마스크, 은나노, 프로텍메디칼, 모두의블
 
 ![산소캔 6](https://lh3.googleusercontent.com/x5myFkA_6WXvh5Rl9aPYIEkw5TwFSG2u7YMMweewtZyzkD81ayuxHJYIgeppZ6Kcdc8nRsNfK-zUfQ=s480)
 
-![산소캔 7](https://lh3.googleusercontent.com/yQZYfO8EOEd6okYqBDBGES9H_NMvV-FGvhLoOE8gu5_lcVLm0HbligzHQzKmQXDm045r3rH2SfrZFA=s480)
+![산소캔 7](https://lh3.googleusercontent.com/jLJTyVFSqOCNdf2ifc3RrvJxqJt2OWFkO7j5xyYxr9OSqY5dZ1OJXhRMP1g1QlA-N_H8HKRWGJXjQg=s480)
+
+![산소캔 8](https://lh3.googleusercontent.com/yQZYfO8EOEd6okYqBDBGES9H_NMvV-FGvhLoOE8gu5_lcVLm0HbligzHQzKmQXDm045r3rH2SfrZFA=s480)
 
 <center><iframe width="480" height="270" src="https://www.youtube.com/embed/I0r562jJbpo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 하지만, 산소를 짧은 시간동안 과하게 흡입하면 부작용이 생길 수 있으므로
 주의사항에 따라 적당량만을 주변 공기와 함께 흡입해야 한다.
-산소라고 좋을 것 같다 싶어 직접, 많이 흡입하지는 않도록 주의한다.
+산소라고 좋을 것 같다 싶어 직접, 많이 흡입하지는 않도록 주의가 필요하다.
 
-산소캔은 실내 활동이 많거나 장시간 운전하는 사람에게 좋을 듯한데,
-그런 사람중에 답답함을 느끼는 사람이 있다면 시험삼아 사용해보는 것도 좋겠다.
-주변에서 선물해 주는 것도 괜찮겠다.
+산소캔은 실내 활동이 많거나 장시간 운전하는 사람에게 유용해 보인다.
+과격한 운동을 한 후 숨이 가쁠때도 도움이 될 듯하다.
+본인의 답답함 해소를 위해 사용해 보는 것도 좋고,
+주변에 그런 사람들이 있다면 선물로 해주는 것도 괜찮지 않을까 싶다.
+
+사용하지 않을 때도 캔에 붙여놓을 수 있게 만든 디자인은 나쁘지 않은데,
+마스크를 캔에 붙이기가 굉장히 어려운 건 좀 흠이었다.
+딱 맞게 끼웠을 때 붙어있게 하려다보니 생각보다 빡빡하기 때문이다.
+힘을 주면 어떻게 붙일 수 있긴는 하나, 그렇게 산소를 버리느니 그냥 안끼우고 쓰는걸 선택하게 된다.
+
+![산소캔 헤더](https://lh3.googleusercontent.com/BTdsbUXEX9Pzh9PjTYYwvoKjJusCTOFlFJRVwPQ9nlkhKEy4PFfnocXb2-diHLExHW8mQ184yS5s5w=s480)
+
+기왕 헤더를 마스크에서 분리할 수 있게 만들었는데,
+마스크는 분리형이더라도 헤더는 처음부터 붙여 두는 식이었으면 어땠을까 싶다.
 
 ![마스크 1](https://lh3.googleusercontent.com/7XjqIN9TNXQbLfomWSRPVbW_PhQAJkr-7nS-RCS9aETR6qYC0bh9a-thvV9nQS3WSNK8sxYG_eUsBw=s480)
 
