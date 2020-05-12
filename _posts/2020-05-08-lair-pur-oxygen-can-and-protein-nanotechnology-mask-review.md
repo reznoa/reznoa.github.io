@@ -68,10 +68,15 @@ tags: [래퓨, 산소캔, 마스크, 은나노, 프로텍메디칼, 모두의블
 본인의 답답함 해소를 위해 사용해 보는 것도 좋고,
 주변에 그런 사람들이 있다면 선물로 해주는 것도 괜찮지 않을까 싶다.
 
-사용하지 않을 때도 캔에 붙여놓을 수 있게 만든 디자인은 나쁘지 않은데,
-마스크를 캔에 붙이기가 굉장히 어려운 건 좀 흠이었다.
+![차에서도](https://lh3.googleusercontent.com/piIkcfitSe9T3Lp_z0Gi_NrfjJWC0NceBAF3zCNB1WObiHC94BfyzRqIMCUJ_3_A2-xRLgVGk4cInA=s480)
+
+사용하지 않을 때도 캔에 붙여놓을 수 있게 만든 디자인은 꽤 나쁘지 않다.
+덕분에 휴대도 간편하다.
+다만, 마스크를 캔에 붙이기가 굉장히 어려운 건 좀 흠이었다.
 딱 맞게 끼웠을 때 붙어있게 하려다보니 생각보다 빡빡하기 때문이다.
 힘을 주면 어떻게 붙일 수 있긴는 하나, 그렇게 산소를 버리느니 그냥 안끼우고 쓰는걸 선택하게 된다.
+
+![휴대](https://lh3.googleusercontent.com/Nrpt_Nwf_qcPONzFW8i-E3WA7uVq_H5aUGbKUVVVUir96nwLuXtx96IXcgQM_6lkM8lfRU68sAFwCQ=s480)
 
 ![산소캔 헤더](https://lh3.googleusercontent.com/BTdsbUXEX9Pzh9PjTYYwvoKjJusCTOFlFJRVwPQ9nlkhKEy4PFfnocXb2-diHLExHW8mQ184yS5s5w=s480)
 
