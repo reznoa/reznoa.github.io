@@ -37,7 +37,7 @@ tags: [래퓨, 산소캔, 마스크, 은나노, 프로텍메디칼, 모두의블
 ![산소캔 5](https://lh3.googleusercontent.com/yehmGTPAqRqbWTiOAkR3wGIxCFC5uBojgbtZYdodr8TCOl3GQs4w08LiDGdxCPiJ4DB911bwvbQKHg=s480)
 
 공기중에 이미 숨쉴 산소가 충분한데 굳이 산소캔이 왜 필요한지 의문이 드는 사람도 있을지 모르겠다.
-실제로 반드시 산소읍입이 필요한 경우는 의료적인 조치가 필요할 때 뿐이다.
+실제로 반드시 산소흡입이 필요한 경우는 의료적인 조치가 필요할 때 뿐이다.
 그 외에는 꼭 필요한 것은 아니다.
 
 하지만, 현대 생활공간의 문제상 이산화탄소가 쌓이기 쉬운 곳이 많다.
@@ -78,10 +78,10 @@ tags: [래퓨, 산소캔, 마스크, 은나노, 프로텍메디칼, 모두의블
 
 ![휴대](https://lh3.googleusercontent.com/Nrpt_Nwf_qcPONzFW8i-E3WA7uVq_H5aUGbKUVVVUir96nwLuXtx96IXcgQM_6lkM8lfRU68sAFwCQ=s480)
 
-![산소캔 헤더](https://lh3.googleusercontent.com/BTdsbUXEX9Pzh9PjTYYwvoKjJusCTOFlFJRVwPQ9nlkhKEy4PFfnocXb2-diHLExHW8mQ184yS5s5w=s480)
+![산소캔 헤드](https://lh3.googleusercontent.com/BTdsbUXEX9Pzh9PjTYYwvoKjJusCTOFlFJRVwPQ9nlkhKEy4PFfnocXb2-diHLExHW8mQ184yS5s5w=s480)
 
-기왕 헤더를 마스크에서 분리할 수 있게 만들었는데,
-마스크는 분리형이더라도 헤더는 처음부터 붙여 두는 식이었으면 어땠을까 싶다.
+기왕 헤드를 마스크에서 분리할 수 있게 만들었는데,
+마스크는 분리형이더라도 헤드는 처음부터 붙여 두는 식이었으면 어땠을까 싶다.
 
 ![마스크 1](https://lh3.googleusercontent.com/7XjqIN9TNXQbLfomWSRPVbW_PhQAJkr-7nS-RCS9aETR6qYC0bh9a-thvV9nQS3WSNK8sxYG_eUsBw=s480)
 
@@ -95,15 +95,17 @@ tags: [래퓨, 산소캔, 마스크, 은나노, 프로텍메디칼, 모두의블
 
 마스크는 은나노 기술이 적용된 것으로
 KATRI(한국 의류시험연구원)으로부터 항균성 등을 인증도 받았다고는 하지만,
-KF 인증을 받은 것은 아니므로 황사 마스크같은 효과를 볼 수 있는 것은 아니다.
+KF 인증을 받은 것은 아니므로 황사 마스크과같은 효과를 기대할 수 있는 것은 아니다.
 
 호흡기 부분에 꽉 밀착되어 면체 부분으로만 공기가 드나들게 한 것이 아닌것만 봐도 그렇다.
-비교적 느슨한 고리형태의 귀걸이는 장시간 착용해도 편하긴 하지만,
-특수 마스크에 비하면 틈도 많이 만들어 사실상 공기 필터 효과는 미비하다고 봐도 좋을 듯하다.
-하지만, 생활방수가 가능하므로 코로나 확산 방지를 위한 비말차단에는 어느정도 효과가 있지 않을까 싶다.
+비교적 느슨한 고리형태의 귀걸이는 장시간 착용해도 귀가 아프지않고 편하긴 하지만,
+다른 마스크에 비하면 그만큼 밀착력이 떨어져 사실상 공기 필터로서의 효과는 미비하다.
+코 부분에 와이가 없기 때문에 틈도 많이 생긴다.
+그래도, 생활방수가 가능하므로 코로나 확산 방지를 위한 비말차단에는 어느정도 효과가 있지 않을까 싶다.
 
 권장 횟수인 최대 5회 이후에는 면 마스크처럼 패션용으로 사용해도 괜찮을만큼 디자인도 무난하다.
-다만, 제봉선에 너무 두드러진 것은 좀 아쉽다.
+다만, 저렴하게 제작했기 때문에 제봉선이 두드러지고,
+제봉실이 일부 삐져나오기도 한 것은 아쉬운 점이다.
 
 산소캔과 마스크 세트 제품은
 [래퓨 스토어팜](https://smartstore.naver.com/lairpur/products/4864603013)에서 구매할 수 있으며,
@@ -112,4 +114,4 @@ KF 인증을 받은 것은 아니므로 황사 마스크같은 효과를 볼 수
 
 
 
-<center><img src="https://modublog.co.kr/img/sponser_img.php?mb_mb=reznoagmailcom&wr_wr=503465&bo_table=life&p_wr_wr=31101" alt="모두의블로그를 통해 상품만 제공 받아 작성한 실제 후기입니다." /></center>
+<div style="text-align: center; margin: 2em;"><img width="348" src="https://modublog.co.kr/img/sponser_img.php?mb_mb=reznoagmailcom&wr_wr=503465&bo_table=life&p_wr_wr=31101" alt="업체로부터 상품만 제공 받아 작성한 실제 후기입니다." /></div>
