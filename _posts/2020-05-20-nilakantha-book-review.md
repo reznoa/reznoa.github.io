@@ -10,7 +10,7 @@ tags: [책, 소설, SF, 장량, 제니오, 서평]
 
 ![표지](https://lh3.googleusercontent.com/2f6DGhEXUPdn9zEKGU1TE5zNnLOAHIEvDQuT0tMeQonTttELnntvSXeLYcGabMNP3Jknr0xBliZiJQ=s480)
 
-미묘하다는 건 완성도가 그렇기 때문이다.
+미묘하다는 건 완성도가 좀 그렇기 때문이다.
 
 이 소설은 생각보다 많은 요소들을 포함하고 있다.
 제주 해녀를 시작으로 약간의 국뽕이 섞이고,
