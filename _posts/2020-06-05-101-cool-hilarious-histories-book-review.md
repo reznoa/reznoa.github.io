@@ -10,7 +10,7 @@ tags: [책, 역사, 스티브 버뎃, 글렌 싱글레톤, 오광일, 유아이�
 '101가지 쿨하고 흥미진진한 세계사 이야기(101 Cool Hilarious Histories)'는
 세계사의 여러 인물들과 사건들을 간단하고 흥미롭게 담아낸 책이다.
 
-![표지](http://imgbox.com/6xoxTuf2)
+![표지](https://images2.imgbox.com/01/61/6xoxTuf2_o.jpg)
 
 인간은 거기서 거기다.
 그래서 시대가 아무리 바뀌어도 늘 비슷한 것을 욕망하며,

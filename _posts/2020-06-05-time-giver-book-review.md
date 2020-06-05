@@ -8,7 +8,7 @@ tags: [책, 소설, 리메이크, 청소년, 환경보호, 이상권, 특별한�
 '시간 전달자'는
 사라지는 숲에 얽힌 사람들의 이야기를 그린 소설이다.
 
-![표지](http://imgbox.com/5Lxz2Z9v)
+![표지](https://images2.imgbox.com/61/48/5Lxz2Z9v_o.jpg)
 
 이 소설은 사실 신작은 아니다.
 '[숲은 그렇게 대답했다]({% post_url 2017-12-19-the-forest-answers-that-way-book-review %})'란 이름을 발간했던 것을
