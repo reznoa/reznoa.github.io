@@ -8,7 +8,7 @@ tags: [책, 청소년, 이상권, 특별한서재, 서평, 예스24 리뷰어클
 '숲은 그렇게 대답했다'는
 자연과 인간, 그리고 삶과 가치에 대해 이야기하는 소설이다.
 
-![표지](https://lh3.googleusercontent.com/-Uiwdv3Q6CO8/Wji5dzuDREI/AAAAAAAAcfM/VT8OFE0YPaoteqII7-t6UdKeHrG0LEYaACE0YBhgL/s480/the-forest-answers-that-way-book.jpg)
+![표지](http://imgbox.com/p5GIVqzT)
 
 이야기는 숲과 자연에 대해 가르쳐주던, 마치 산신령같던 선생님이 돌아가시면서 시작된다.
 생전 답지않게 그녀는 자신을 숲에 묻어달라고 하는데,
