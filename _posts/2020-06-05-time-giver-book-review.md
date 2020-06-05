@@ -11,7 +11,7 @@ tags: [책, 소설, 리메이크, 청소년, 환경보호, 이상권, 특별한�
 ![표지](http://imgbox.com/5Lxz2Z9v)
 
 이 소설은 사실 신작은 아니다.
-'[숲은 그렇게 대답했다]({% post_url 2017-12-19-the-forest-answers-that-way-book %})'란 이름을 발간했던 것을
+'[숲은 그렇게 대답했다]({% post_url 2017-12-19-the-forest-answers-that-way-book-review %})'란 이름을 발간했던 것을
 수정해서 다시 발간한 것이기 때문이다.
 
 그렇다고 개정판으로 보기도 좀 그렇다.
