@@ -5,7 +5,7 @@ category: 도서
 tags: [책, 역사, 스티브 버뎃, 글렌 싱글레톤, 오광일, 유아이북스, 서평]
 ---
 
-'스티브 버뎃(Steve Burdett )'이 쓰고
+'스티브 버뎃(Steve Burdett)'이 쓰고
 '글렌 싱글레톤(Glen Singleton)'이 그린
 '101가지 쿨하고 흥미진진한 세계사 이야기(101 Cool Hilarious Histories)'는
 세계사의 여러 인물들과 사건들을 간단하고 흥미롭게 담아낸 책이다.
