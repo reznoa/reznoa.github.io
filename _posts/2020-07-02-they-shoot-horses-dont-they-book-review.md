@@ -9,7 +9,7 @@ tags: [책, 소설, 호레이스 맥코이, 송예슬, 레인보우퍼블릭북�
 '그들은 말을 쏘았다(They Shoot Horses, Don't They?)'는
 우스꽝 스러운 대회를 통해 삶의 허무를 그린 소설이다.
 
-![표지](<https://images2.imgbox.com/5f/c9/IpiVwCpv_o.jpg)
+![표지](https://images2.imgbox.com/5f/c9/IpiVwCpv_o.jpg)
 
 1930년대 미국 대공황 시절엔 지금으로선 생각하기 힘든 기묘한 일들이 많이 벌어졌다.
 소설의 소재인 '댄스 마라톤(Dance marathon)'도 그 하나다.
