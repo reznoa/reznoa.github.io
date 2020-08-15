@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "생각보다 완성도 높은 북유럽 신화 풍 판타지 동화 - 센포트라헤임의 엘프들"
+title: "생각보다 완성도 높은 북유럽 신화 풍 판타지 동화 - 센폰트라헤임의 엘프들"
 category: 도서
 tags: [책, 소설, 판타지, 동화, 신화, 북유럽신화, 한영대조, 박창현, 그래비티 픽션, 그래비티북스, 무게중심창의력연구소, 리뷰어스 클럽, 서평]
 ---
 
-'센포트라헤임의 엘프들(Senpontraheim's elves)'는
+'센폰트라헤임의 엘프들(Senpontraheim's elves)'는
 꽤 완성도 높은 북유럽 신화 풍의 판타지 동화다.
 
 ![표지](https://images2.imgbox.com/f0/f0/boEQjBOL_o.jpg)
