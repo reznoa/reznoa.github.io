@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "흥미롭고 다양한 미로 모음집 - 머리가 좋아지는 신기한 미로 찾기 중급편"
+title: "흥미롭고 다양한 미로 모음집 - 머리가 좋아지는 신기한 미로 찾기: 중급편"
 category: 도서
 tags: [책, 퍼즐, 미로, 이나 아니키바, 리뷰어스 클럽, 서평]
 ---
 
 '이나 아니키바(Inna Anikeeva)'의
-'머리가 좋아지는 신기한 미로 찾기 중급편(Merry Mazes for the Holidays)'은
+'머리가 좋아지는 신기한 미로 찾기: 중급편(Merry Mazes for the Holidays)'은
 크리스마스를 테마로 한 미로 37개를 담은 퍼즐책이다.
 
 ![표지](https://images2.imgbox.com/88/e9/SXRNHOAz_o.jpg)
