@@ -5,9 +5,9 @@ category: Programing
 tags: [MySQL]
 ---
 
-### ÃÊ±âÈ­
+### ì´ˆê¸°í™”
 
-MySQL HOME µð·ºÅä¸®¿¡ my.ini ÆÄÀÏ »ý¼º
+MySQL HOME ë””ë ‰í† ë¦¬ì— my.ini íŒŒì¼ ìƒì„±
 
 ~~~
 [mysqld]
@@ -15,7 +15,7 @@ basedir=c:/work/mysql-8.0.21-winx64/
 datadir=c:/work/mysql-8.0.21-winx64/data
 ~~~
 
-initialize ¼öÇà
+initialize ìˆ˜í–‰
 
 ~~~
 > mysqld --initialize --user=mysql
@@ -23,15 +23,15 @@ initialize ¼öÇà
 
 
 
-### root ºñ¹Ð¹øÈ£ º¯°æ
+### root ë¹„ë°€ë²ˆí˜¸ ë³€ê²½
 
-mysql-init.txt ÆÄÀÏ »ý¼º
+mysql-init.txt íŒŒì¼ ìƒì„±
 
 ~~~
 ALTER USER 'root'@'localhost' IDENTIFIED BY 'NEWPASSWORD';
 ~~~
 
-init-file ¼öÇà
+init-file ìˆ˜í–‰
 
 ~~~
 > mysqld.exe --init-file=mysql-init.txt
@@ -39,9 +39,9 @@ init-file ¼öÇà
 
 
 
-### DB »ý¼º
+### DB ìƒì„±
 
-root·Î ·Î±×ÀÎ
+rootë¡œ ë¡œê·¸ì¸
 
 ~~~
 > msql -u root -p
