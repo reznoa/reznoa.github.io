@@ -6,7 +6,7 @@ tags: [책, 소설, 에린 헌터, 신예용, 가람어린이, 서평]
 ---
 
 '에린 헌터(Erin Hunter)'의
-'용기의 땅 2: 자연의 법칙(Bravelands #1: Code of Honor)'은
+'용기의 땅 2: 자연의 법칙(Bravelands #2: Code of Honor)'은
 동물들의 야망과 음모, 배신과 복수를 그린 두번째 이야기다.
 
 ![표지](https://lh3.googleusercontent.com/WWJVzucl2IqpDl-pWc07P9dhVfyPZLGmqk6-F5BVpytUFD4QOKm69JRDEwv4yy3yVYZ-3JGZgawN7w=s480)
