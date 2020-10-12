@@ -7,7 +7,7 @@ tags: [책, 만화, 그래픽노블, 죽음, 성장, 조나단 가르니에, 로
 
 '조나단 가르니에(Jonathan Garnier)'가 쓰고
 '로니 호틴(Rony Hotin)'이 그린
-'모모 2(Momo - Tome 1)'은
+'모모 2(Momo - Tome 2)'는
 마을 변두리의 꼬마소녀 모모의 이야기를 그린 만화다.
 
 ![표지](https://images2.imgbox.com/c6/4b/9SI9qGCN_o.jpg)
