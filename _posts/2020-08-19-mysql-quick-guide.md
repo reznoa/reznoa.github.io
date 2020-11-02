@@ -5,7 +5,7 @@ category: Programing
 tags: [MySQL]
 ---
 
-### 초기화
+### MySQL 초기화
 
 MySQL HOME 디렉토리에 my.ini 파일 생성
 
@@ -39,14 +39,38 @@ init-file 수행
 
 
 
-### DB 생성
+### 서비스 설치/제거/시작/종료
+
+~~~
+> mysqld.exe --install mydb
+~~~
+
+~~~
+> mysqld.exe --remove mydb
+~~~
+
+~~~
+> net start mydb
+~~~
+
+~~~
+> net stop mydb
+~~~
+
+
+
+### DB 초기화
 
 root로 로그인
 
 ~~~
-> msql -u root -p
+> mysql -u root -p
 Enter password:
+~~~
 
+DB 생성
+
+~~~
 mysql> CREATE DATABASE mydb;
 Query OK, 1 row affected (0.0 sec)
 
@@ -64,4 +88,14 @@ mysql> show databases;
 
 mysql> USE mydb;
 Database changed
+~~~
+
+USER 생성
+
+~~~
+mysql> CREATE USER username IDENTIFIED BY 'password';
+Query OK, 0 rows affected (0.02 sec)
+
+mysql> GRANT ALL PRIVILEGES ON mydb.* TO username;
+Query OK, 0 rows affected (0.01 sec)
 ~~~
