@@ -43,6 +43,18 @@ tags: [코팅, 김서림방지, 김방필, 김서림방지필수, 에스뷰, 모
 
 이럴때 김방필(김서림방지필수)이 유용하다.
 
+![휴대](https://images2.imgbox.com/35/65/Z3jm27Ko_o.jpg)
+
+![준비](https://images2.imgbox.com/9d/7d/XnFGRW2v_o.jpg)
+
+![꺼내기](https://images2.imgbox.com/b1/eb/i3tdXKhl_o.jpg)
+
+![오염제거](https://images2.imgbox.com/3f/16/xaAe4s9M_o.jpg)
+
+![코팅하기 1](https://images2.imgbox.com/2d/72/L3TvPkVx_o.jpg)
+
+![코팅하기 2](https://images2.imgbox.com/18/86/WPRtcwA4_o.jpg)
+
 ![코팅막](https://images2.imgbox.com/28/b6/KA608l4W_o.jpg)
 
 ![비교](https://images2.imgbox.com/70/55/QBXnvXyv_o.jpg)
@@ -66,11 +78,22 @@ tags: [코팅, 김서림방지, 김방필, 김서림방지필수, 에스뷰, 모
 그래서 신경써서 호흡을 하거나, 중간중간 안경의 김을 없애주거나 하는 식으로 하곤 했는데,
 김방필(김서림방지필수)을 사용하고는 쾌적하게 착용하고 다닐 수 있었다.
 
-가격도 9,900원짜리 1장으로 200회 정도 사용할 수 있다고 하니,
-크게 부담되지는 않는다.
+![폰카 준비](https://images2.imgbox.com/86/43/mYtBI3D1_o.jpg)
 
-구매는 [에스뷰 스토어팜](https://smartstore.naver.com/sview/products/4842208439)에서 할 수 있으며,
-배송료는 1개를 사더라도 기본 무료다.
+![폰카 코팅](https://images2.imgbox.com/ae/76/4C08Ha8N_o.jpg)
+
+![실패](https://images2.imgbox.com/dc/01/AaBsQH8p_o.jpg)
+
+![양호](https://images2.imgbox.com/1d/2e/JymPSlEb_o.jpg)
+
+요리 사진 같은 걸 찍을 때도 렌즈에 김이 서려서 찍을 수 없었던 적이 있어 한번 해 보았는데,
+이 경우에는 김이 서리는 정도가 아니라 수증기가 직접 올라오는 것이라 직접적인 효과를 볼 수는 없었다.
+그래도 직접 맞는 경우만 아니라면 어느정도는 김서림 방지 효과를 볼 수 있지 않나 싶다.
+
+구매는 [에스뷰 스토어팜](https://smartstore.naver.com/sview/products/4842208439)에서 할 수 있다.
+가격은 9,900원이며 배송료는 1개를 사더라도 기본 무료다.
+
+1장으로 200회 정도 사용할 수 있다고 하니 크게 부담되지는 않는다.
 
 
 
