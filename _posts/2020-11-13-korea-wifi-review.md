@@ -30,9 +30,10 @@ tags: [국내 포켓와이파이, 코리아와이파이, 레뷰]
 단 1일도 예약이 가능해서 원하는대로 대여가 가능하다.
 필요하면 사용 중에 기간을 추가할 수도 있다.
 
-![](https://images2.imgbox.com/b8/6b/2tLht4Cd_o.jpg)
-
-![](https://images2.imgbox.com/87/6d/XyPPsKkC_o.jpg)
+<p class="center" markdown="1">
+![쿠폰 1](https://images2.imgbox.com/b8/6b/2tLht4Cd_o.jpg)
+![쿠폰 2](https://images2.imgbox.com/87/6d/XyPPsKkC_o.jpg)
+</p>
 
 가격은 기기에 따라 1일당 2~3,000원정도 하는데,
 이는 기간에 따라 달라져 1일단 1,000원 정도까지 내려가기도 한다.
