@@ -7,7 +7,7 @@ tags: [책, 소설, 에린 헌터, 서현정, 가람어린이, 북카페 책과 
 
 '에린 헌터(Erin Hunter)'의
 3부 세번째 책
-'전사들 3부 셋의 힘 3 추방(Warriors: Power of Three #2 Outcast)'에서는
+'전사들 3부 셋의 힘 3 추방(Warriors: Power of Three #3 Outcast)'에서는
 셋이 가진 별의 힘이 본격적으로 풀리기 시작한다.
 
 ![표지](https://images2.imgbox.com/08/aa/rBVzgNKJ_o.jpg)
