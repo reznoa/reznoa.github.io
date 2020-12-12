@@ -10,15 +10,15 @@ tags: [시사, 혐오, SNS]
 우연히 결혼에 대한 한 의견글을 보았다:
 
 
-<blockquote class="twitter-tweet" data-lang="ko"><p lang="ko" dir="ltr">&quot;평생 한여자와 섹스하는 건 고문&quot;이라고 생각할 수 있다. 그건 개취지. 근데 그럼 결혼을 하지 말던가 서로 폴리아모리 방식으로 결혼을 하자고 합의를 보던가 해야지 그냥 아무말없이 전통적 방식의 결혼을 해놓고는 왜 무덤이니 족쇄니 하는지 모르겠다</p>&mdash; 구름구름 (@cloooooooooud) <a href="https://twitter.com/cloooooooooud/status/705627978252746752">2016-03-04 14:36</a></blockquote>
+<blockquote class="twitter-tweet tw-hide-thread" data-lang="ko"><p lang="ko" dir="ltr">&quot;평생 한여자와 섹스하는 건 고문&quot;이라고 생각할 수 있다. 그건 개취지. 근데 그럼 결혼을 하지 말던가 서로 폴리아모리 방식으로 결혼을 하자고 합의를 보던가 해야지 그냥 아무말없이 전통적 방식의 결혼을 해놓고는 왜 무덤이니 족쇄니 하는지 모르겠다</p>&mdash; 구름구름 (@cloooooooooud) <a href="https://twitter.com/cloooooooooud/status/705627978252746752">2016-03-04 14:36</a></blockquote>
 
-<blockquote class="twitter-tweet" data-conversation="none" data-lang="ko"><p lang="ko" dir="ltr">서로 성생활에 대한 가치관이 안맞으면 결혼을 하질 말아야지 평생 한 여자랑만 섹스하는 게 고문같으면 주례가 검은머리 파뿌리 될때까지 서로만을 사랑하겠습니까 할때 싫어요 안돼요 하지마세요 했어야지 왜 지입으로 예 해놓고 난리인지...</p>&mdash; 구름구름 (@cloooooooooud) <a href="https://twitter.com/cloooooooooud/status/705629129509449732">2016-03-04 14:41</a></blockquote>
+<blockquote class="twitter-tweet tw-hide-thread" data-conversation="none" data-lang="ko"><p lang="ko" dir="ltr">서로 성생활에 대한 가치관이 안맞으면 결혼을 하질 말아야지 평생 한 여자랑만 섹스하는 게 고문같으면 주례가 검은머리 파뿌리 될때까지 서로만을 사랑하겠습니까 할때 싫어요 안돼요 하지마세요 했어야지 왜 지입으로 예 해놓고 난리인지...</p>&mdash; 구름구름 (@cloooooooooud) <a href="https://twitter.com/cloooooooooud/status/705629129509449732">2016-03-04 14:41</a></blockquote>
 
-<blockquote class="twitter-tweet" data-conversation="none" data-lang="ko"><p lang="ko" dir="ltr">그리고 자꾸 ATM 같다 이런말을 하는데 그럼 살림을 너도 하세요... 아내한테 돈만 갖다주는게 ATM 같아서 싫으면 너도 아내랑 같이 장봐오고 생필품 사고 그러면 되겠네요... 돈&#39;만&#39; 내니까 그런거 아니냐 아내랑 같이 살림하면 그런 느낌 안들거야</p>&mdash; 구름구름 (@cloooooooooud) <a href="https://twitter.com/cloooooooooud/status/705631492098002944">2016-03-04 14:50</a></blockquote>
+<blockquote class="twitter-tweet tw-hide-thread" data-conversation="none" data-lang="ko"><p lang="ko" dir="ltr">그리고 자꾸 ATM 같다 이런말을 하는데 그럼 살림을 너도 하세요... 아내한테 돈만 갖다주는게 ATM 같아서 싫으면 너도 아내랑 같이 장봐오고 생필품 사고 그러면 되겠네요... 돈&#39;만&#39; 내니까 그런거 아니냐 아내랑 같이 살림하면 그런 느낌 안들거야</p>&mdash; 구름구름 (@cloooooooooud) <a href="https://twitter.com/cloooooooooud/status/705631492098002944">2016-03-04 14:50</a></blockquote>
 
-<blockquote class="twitter-tweet" data-conversation="none" data-lang="ko"><p lang="ko" dir="ltr">그리고 이런 &quot;결혼은 인생의 무덤&quot; 운운하는 유부남 유모어가 좆같은 건 마치 자신은 별로 이 결혼을 원하지 않는데 억지로 유지하고 있다는 뉘앙스를 준다는 것. 마치 여성쪽이 애걸해서 어쩔 수 없이 같이 산다는 듯한. 상호 동의해서 결혼한 건데도.</p>&mdash; 구름구름 (@cloooooooooud) <a href="https://twitter.com/cloooooooooud/status/705639222158315520">2016-03-04 15:21</a></blockquote>
+<blockquote class="twitter-tweet tw-hide-thread" data-conversation="none" data-lang="ko"><p lang="ko" dir="ltr">그리고 이런 &quot;결혼은 인생의 무덤&quot; 운운하는 유부남 유모어가 좆같은 건 마치 자신은 별로 이 결혼을 원하지 않는데 억지로 유지하고 있다는 뉘앙스를 준다는 것. 마치 여성쪽이 애걸해서 어쩔 수 없이 같이 산다는 듯한. 상호 동의해서 결혼한 건데도.</p>&mdash; 구름구름 (@cloooooooooud) <a href="https://twitter.com/cloooooooooud/status/705639222158315520">2016-03-04 15:21</a></blockquote>
 
-<blockquote class="twitter-tweet" data-conversation="none" data-lang="ko"><p lang="ko" dir="ltr">이것도 일종의 우월감 획득하기, 주도권 획득하기 같은 걸까? 하여튼 이해가 안간다.</p>&mdash; 구름구름 (@cloooooooooud) <a href="https://twitter.com/cloooooooooud/status/705639739412471809">2016-03-04 15:23</a></blockquote>
+<blockquote class="twitter-tweet tw-hide-thread" data-conversation="none" data-lang="ko"><p lang="ko" dir="ltr">이것도 일종의 우월감 획득하기, 주도권 획득하기 같은 걸까? 하여튼 이해가 안간다.</p>&mdash; 구름구름 (@cloooooooooud) <a href="https://twitter.com/cloooooooooud/status/705639739412471809">2016-03-04 15:23</a></blockquote>
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
