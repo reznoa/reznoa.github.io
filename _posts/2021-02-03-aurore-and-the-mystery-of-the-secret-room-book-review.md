@@ -5,8 +5,9 @@ category: 도서
 tags: [책, 소설, 더글라스 케네디, 조안 스파르, 조동섭, 밝은세상, 리뷰어스 클럽, 서평]
 ---
 
-'더글라스 케네디'의
-'모두와 친구가 되고 싶은 오로르'는
+'더글라스 케네디(Douglas Kennedy)'가 쓰고
+'조안 스파르(Joann Sfar)'가 그린
+'모두와 친구가 되고 싶은 오로르(Aurore and the Mystery of the Secret Room)'는
 조금 다른 아이의 특별한 이야기를 그린 '오로르 시리즈' 두번째 책이다.
 
 ![표지](https://images2.imgbox.com/59/e0/PLApJXqe_o.jpg)
