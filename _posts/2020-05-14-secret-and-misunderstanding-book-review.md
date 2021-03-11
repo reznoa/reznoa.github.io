@@ -2,7 +2,7 @@
 layout: post
 title: "여전한 스타일, 여전한 완성도 - 비밀과 오해"
 category: 도서
-tags: [책, 소설, 비밀, 오해, E, Crystal, 크리스탈북, 시코, 서평]
+tags: [책, 소설, 비밀, 오해, "E, Crystal", 크리스탈북, 시코, 서평]
 ---
 
 '비밀과 오해'는
