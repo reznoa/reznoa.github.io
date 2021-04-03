@@ -31,6 +31,10 @@ tags: [깔창, 인솔, 메모리폼, 소프솔, 레뷰]
 인솔 상단 섬유는 특별히 가공처리를 하여 손상을 막고 쾌적한 착용감도 유지할 수 있도록 했다고 한다.
 이 부분은 오래 사용해봐야 체감할 수 있을 듯하다.
 
+![장착 1](https://images2.imgbox.com/f6/27/GAyKbCSC_o.jpg)
+
+![장착 2](https://images2.imgbox.com/40/23/tR4gJvqn_o.jpg)
+
 구매는 [나음온샵](http://naumonshop.co.kr/product/detail.html?product_no=2136)에서 할 수 있으며,
 가격은 12,900원, 배송비는 기본 2,500원이다.
 
