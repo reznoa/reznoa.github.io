@@ -51,6 +51,8 @@ FDA 승인을 받은 친환경 폴리우레탄 소재로 만든 국내산 마스
 
 ![탄력](/images/happy-ear-cushion-review-09.jpg)
 
+<center><iframe width="480" height="270" src="https://www.youtube.com/embed/pSAn1x6xq64" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
 형태만 보면 상당키 커브가 완만한 편이라 귀에 잘 맞지 않을 것 같지만,
 탄력이 좋기 때문에 막상 마스크를 쓰면 귀 모양에 맞게 잘 구부러진다.
 덕분에 마스크 이어가드의 특면 부분만이 귀에 닿지 않고 전체적으로 귀에 밀착되면서
