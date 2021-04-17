@@ -9,7 +9,7 @@ tags: [책, 소설, 동화, 창작동화, 장애, 성장, 주세페 페스타, �
 '날기 위한 백 걸음(Cento passi per volare)'은
 앞이 보이지 않는 소년의 갈등과 성장을 그린 소설이다.
 
-![표지](https://images2.imgbox.com/f4/3f/0H3ybiCV_o.jpg)
+![표지](/images/cento-passi-per-volare-book-h480.jpg)
 
 장애가 있는 사람을 대할 때 때로는 어색함을 느낄 때가 있다.
 자칫 마음을 상하게 한다거나 할까봐 평소처럼 말하거나 행동하지 않기 때문이다.

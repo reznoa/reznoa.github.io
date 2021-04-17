@@ -9,7 +9,7 @@ tags: [책, 추리, 암호, 모험, 어린이, 페니 워너, 효고노스케, �
 '암호 클럽 14: 니조성의 유령(The Code Busters Club #9: The Ghost of Nijo Castle)'는,
 일본 니조성에서의 모험을 담은, 시리즈 14번째 책이다.
 
-![표지](https://images2.imgbox.com/a2/ff/3qepvYni_o.jpg)
+![표지](/images/the-code-busters-club-9-the-ghost-of-nijo-castle-book-h480.jpg)
 
 이야기는 암호 클럽의 멤버 중 하나인 미카가
 자기의 고향인 일본으로 초대하면서 시작된다.

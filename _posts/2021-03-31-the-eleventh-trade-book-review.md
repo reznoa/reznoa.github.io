@@ -9,7 +9,7 @@ tags: [책, 소설, 동화, 창작동화, 난민, 알리사 홀링워스, 이보
 '열한 번째 거래(The Eleventh Trade)'는
 한 난민 소년의 희망과 우정을 그린 소설이다.
 
-![표지](https://images2.imgbox.com/ff/bf/NZ0rROqI_o.jpg)
+![표지](/images/the-eleventh-trade-book-h480.jpg)
 
 아프가니스탄에서 온 '사미'와 그의 할아버지에겐 무엇보다도 소중한 보물이 있다.
 전통 악기인 '레밥'이다.

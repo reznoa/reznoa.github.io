@@ -8,7 +8,7 @@ tags: [책, 소설, 단편, 초자연, 이디스 워튼, 성소희, 레인보우
 '이디스 워튼의 환상 이야기(The Ghost Stories of Edith Wharton)'는
 초자연적인 현상을 다룬 8개 단편을 수록한 소설집이다.
 
-![표지](https://images2.imgbox.com/6c/e1/CKw6jAUc_o.jpg)
+![표지](/images/the-ghost-stories-of-edith-wharton-book-h480.jpg)
 
 한국어판의 제목은 '환상 이야기'이지만,
 수록된 이야기들은 '환상'이라고 하면 의례 떠올릴 그런 이야기들과는 좀 거리가 있다.

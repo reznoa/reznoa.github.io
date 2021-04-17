@@ -9,7 +9,7 @@ tags: [책, 소설, 포스트아포칼립스, 대기근, 브렌 맥디블, 윤�
 '씨앗을 쫓는 아이들(The Dog Runner)'은
 대기근으로 황량해진 상황을 해져나가는 두 남매의 이야기를 그린 소설이다.
 
-![표지](https://images2.imgbox.com/41/b4/2U6PcYuC_o.jpg)
+![표지](/images/the-dog-runner-book-h480.jpg)
 
 소설은 모든 목초가 말라 죽어버린 세계를 그리고 있다.
 붉은곰팡이라는 새로운 곰팡이 때문이다.
