@@ -103,4 +103,4 @@ FDA 승인을 받은 친환경 폴리우레탄 소재로 만든 국내산 마스
 
 
 
-![스폰서 배너](http://echoblog.net/images/sponsor-banner.png "이 글은 에코블로그를 통해 해당 업체에서 제품을 제공받아 작성한 리뷰다.")
+![스폰서 배너](http://echoblog.net/images/sponsor-banner.png "이 글은 에코블로그를 통해 해당 업체에서 페이백을 제공받아 작성한 리뷰다.")
