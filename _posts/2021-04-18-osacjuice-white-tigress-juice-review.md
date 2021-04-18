@@ -53,7 +53,7 @@ published: false
 그러나 이는 제품이 덩어리나 가루가 아닌 액상이란 걸 생각하면 적절한 방식이기도 하다.
 이지컷은 작은 쓸림에도 자칫 쉽게 터질 수 있기 때문이다.
 
-![따름 1](/images/osacjuice-white-tigress-juice-review-10.jpg)
+![따름 1~4](/images/osacjuice-white-tigress-juice-review-10~13.gif)
 
 ![따름 5](/images/osacjuice-white-tigress-juice-review-14.jpg)
 
