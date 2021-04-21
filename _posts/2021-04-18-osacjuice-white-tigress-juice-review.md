@@ -65,11 +65,11 @@ published: false
 하지만 부담스러울 정도는 아니어서 편하게 마실 수 있다.
 개인적으로도 잘 맞아서 꽤 좋았다.
 
-구매는 [오색건강즙 스마트스토어](/images/https://smartstore.naver.com/osacjuice)에서 할 수 있으며,
+구매는 [오색건강즙 스마트스토어](https://smartstore.naver.com/osacjuice)에서 할 수 있으며,
 택배비는 무료이다.
 현재 2+1 등의 행사를 하고 있으므로,
 취향과 체질에만 맞는다면 이를 이용하는 것이 더 저렴하게 구매할 수 있다.
 
 
 
-![스폰서 배너](/images/http://echoblog.net/images/sponsor-banner.png "이 글은 에코블로그를 통해 해당 업체에서 페이백을 제공받아 작성한 리뷰다.")
+![스폰서 배너](http://echoblog.net/images/sponsor-banner.png "이 글은 에코블로그를 통해 해당 업체에서 페이백을 제공받아 작성한 리뷰다.")
