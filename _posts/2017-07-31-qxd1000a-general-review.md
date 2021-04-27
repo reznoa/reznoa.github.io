@@ -2,7 +2,7 @@
 layout: post
 title: "아이나비 블랙박스 QXD1000α 총평"
 description: "아이나비 블랙박스 QXD1000α의 특장점과 아쉬웠던 점에 대해 정리하고 총평을 해본다."
-category: 생활/가전
+category: 자동차
 tags: [아이나비, 블랙박스, 체험단]
 ---
 

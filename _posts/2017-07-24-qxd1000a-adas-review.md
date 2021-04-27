@@ -2,7 +2,7 @@
 layout: post
 title: "아이나비 블랙박스 QXD1000α ADAS 기능 후기"
 description: "아이나비 블랙박스 QXD1000α의 운전자 사고 예방 기능인 ADAS를 살펴본다."
-category: 생활/가전
+category: 자동차
 tags: [아이나비, 블랙박스, 체험단]
 ---
 

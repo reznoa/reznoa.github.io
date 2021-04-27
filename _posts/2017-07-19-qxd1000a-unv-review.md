@@ -2,7 +2,7 @@
 layout: post
 title: "아이나비 블랙박스 QXD1000α 울트라 나이트 비전(Ultra Night Vision) 후기"
 description: "아이나비 블랙박스 QXD1000α 울트라 나이트 비전을 살펴본다."
-category: 생활/가전
+category: 자동차
 tags: [아이나비, 블랙박스, 체험단]
 ---
 

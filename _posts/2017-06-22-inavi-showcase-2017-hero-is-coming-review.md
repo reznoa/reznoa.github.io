@@ -2,7 +2,7 @@
 layout: post
 title: "아이나비 2017 신제품 발표회 - HERO is COMING"
 description: "아이나비 2017 신제품 발표회 \"HERO is COMING\" 에 다녀왔다."
-category: 생활/가전
+category: 자동차
 tags: [아이나비, 내비게이션, 블랙박스]
 ---
 

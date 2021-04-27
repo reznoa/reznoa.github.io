@@ -2,7 +2,7 @@
 layout: post
 title: "아이나비 블랙박스 QXD1000α 저전력 장시간 녹화 기능 후기"
 description: "아이나비 블랙박스 QXD1000α의 장시간 녹화와 배터리 방전 방지를 위한 기능을 살펴본다."
-category: 생활/가전
+category: 자동차
 tags: [아이나비, 블랙박스, 체험단]
 ---
 
