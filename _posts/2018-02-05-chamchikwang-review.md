@@ -2,7 +2,7 @@
 layout: post
 title: "신선하고 깔끔한 영등포 참치 전문점 - 참치광"
 description: "20년을 이어왔다는 영등포구청역 근처 참치 전문점 참치광을 가봤다."
-category: 식도락
+category: 요리
 tags: [영등포구청역, 일식, 회, 참치, 리뷰플레이스]
 ---
 

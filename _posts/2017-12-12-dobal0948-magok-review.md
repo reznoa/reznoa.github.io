@@ -2,7 +2,7 @@
 layout: post
 title: "바삭하고 고소하며 달달한 튀김 족발 전문점 - 도발0948 마곡점"
 description: "도발0948 마곡점에서 튀김 족발과 뚝배기머슴밥을 먹어봤다."
-category: 식도락
+category: 요리
 tags: [족발, 튀김, 발산역, 리뷰플레이스]
 ---
 

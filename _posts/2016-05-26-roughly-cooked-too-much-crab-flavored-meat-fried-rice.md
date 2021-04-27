@@ -3,7 +3,7 @@ layout: post
 title: "대충한 요리: 게맛살 왕창 볶음밥"
 description: "게맛살을 왕창 넣은 볶음밥을 만들어봤다."
 date: 2016-05-26 16:18:45 +0900
-category: 식도락
+category: 요리
 tags: [음식, 요리, 대충한 요리, 볶음밥, 게맛살]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "맛과 향이 진한 하우스 블렌드 커피 - 벙커커피"
 description: "맛과 향이 진한 하우스 블렌드 커피, 벙커커피를 마셔봤다."
-category: "식도락"
+category: 요리
 tags: [커피, 원두, 리뷰플레이스]
 ---
 

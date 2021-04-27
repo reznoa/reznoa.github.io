@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "균형을 잘 맞춘, 마치 찌개같은 라면 - 신라면 블랙 두부김치"
-category: 식도락
+category: 요리
 tags: [라면, 유탕면, 농심]
 ---
 

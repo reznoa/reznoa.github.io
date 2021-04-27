@@ -2,7 +2,7 @@
 layout: post
 title: "갓볶은 원두만 고집하는 로스팅하우스 커피 - 끄레모소 스페셜티 커피"
 description: "갓 볶은 원두만을 고집한다는 끄레모소 커피를 먹어봤다."
-category: 식도락
+category: 요리
 tags: [커피, 원두, 리뷰플레이스]
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "팔/다리털이 많은 사람을 위한 숱 정리기 - 옴므 다리털 정리기"
-category: "식도락"
+category: "생활/가전"
 tags: [다리털, 옴므, 리뷰, 에코블로그]
 published: false
 ---

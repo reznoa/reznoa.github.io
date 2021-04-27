@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "담백하고 고소한 국산 해수두부 - 질골연화두부"
-category: "식도락"
+category: 요리
 tags: [두부, 국산, 수제, 리뷰플레이스]
 ---
 

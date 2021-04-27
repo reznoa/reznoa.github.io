@@ -2,7 +2,7 @@
 layout: post
 title: "대충한 요리: 된장찌개"
 description: "고기에 채소만 대충 썰어넣어 된장찌개를 끓여봤다."
-category: 식도락
+category: 요리
 tags: [음식, 요리, 대충한 요리, 된장, 찌개]
 ---
 

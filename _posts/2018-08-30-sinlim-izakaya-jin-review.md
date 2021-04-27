@@ -2,7 +2,7 @@
 layout: post
 title: "꼬치구이가 좋은 일본식 선술집 - 신림역 이자카야진"
 description: "꼬치구이가 좋은 무난한 일본식 선술집, 신림역 이자카야진을 이용해봤다."
-category: 식도락
+category: 요리
 tags: [술집, 이자카야, 신림역, 모두의블로그]
 ---
 

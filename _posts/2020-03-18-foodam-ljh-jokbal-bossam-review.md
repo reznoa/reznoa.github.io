@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "가성비 좋은 족발 & 보쌈 - 푸드담 이정희 족발"
-category: "식도락"
+category: 요리
 tags: [족발, 보쌈, 막국수, 이정희, 푸드담, 리뷰, 에코블로그]
 published: false
 ---
