@@ -74,4 +74,4 @@ tags: [선식, 단백질, 파이토테이블, 하이프로텍, 압구정, 레뷰
 
 
 
-![스폰서 배너](https://www.revu.net/campaign/img.php?p=9ca11cc922a4dcf431f4a1f52ef45f9e461c60b4c3909d0ca4ff10c77146bd17&v=4 "이 글은 레뷰를 통해 해당 업체에서 제품을 받아 작성했다.")
+![스폰서 배너](https://www.revu.net/campaign/img.php?p=e3baae0c7bba5d78afbf5e3cbd71c31d458aa24d1764e129cd88c35d29998775&v=4 "이 글은 레뷰를 통해 해당 업체에서 제품을 받아 작성했다.")
