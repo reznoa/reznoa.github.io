@@ -9,15 +9,15 @@ tags: [책, 만화, 사회생활, 드라마, 로맨스, 코미디, 게임, 다�
 '이래서 게임 만들기는 그만둘 수 없어'는
 게임 크리에이터의 삶을 적당한 판타지로 그려낸 만화다.
 
-![표지](/images/koredakara-gam-zukuri-wa-yamerarenai-comic-book-h480.jpg)
+![표지](/images/koredakara-gam-zukuri-wa-yamerarenai-1-comic-book-h480.jpg)
 
 결론부터 말하면 좀 애매한 만화다.
 긍정적인 부분을 부각해서 유쾌하고 멋진 면만을 부각시킨 것도 아니고,
 그렇다고 진지하게 실제를 그려낸 것 또한 아니기 때문이다.
 
-![6](/images/koredakara-gam-zukuri-wa-yamerarenai-comic-book-p006.jpg)
+![6](/images/koredakara-gam-zukuri-wa-yamerarenai-1-comic-book-p006.jpg)
 
-![30](/images/koredakara-gam-zukuri-wa-yamerarenai-comic-book-p030.jpg)
+![30](/images/koredakara-gam-zukuri-wa-yamerarenai-1-comic-book-p030.jpg)
 
 기본적으로 로맨틱 코미디의 기조를 하고 있지만,
 만화의 이곳 저곳에는 꽤나 현실적인 내용들이 잘 담겨있다.
@@ -26,11 +26,11 @@ tags: [책, 만화, 사회생활, 드라마, 로맨스, 코미디, 게임, 다�
 전체적으로 가볍게 그려져 있기는 하지만 때때로 업체의 잔혹함을 담아낸 것처럼 보이는 장면이나,
 관련자들 사이에서나 통할법한 농담을 그린 장면에서 특히 더 두드러진다.
 
-![56](/images/koredakara-gam-zukuri-wa-yamerarenai-comic-book-p056.jpg)
+![56](/images/koredakara-gam-zukuri-wa-yamerarenai-1-comic-book-p056.jpg)
 
-![93](/images/koredakara-gam-zukuri-wa-yamerarenai-comic-book-p093.jpg)
+![93](/images/koredakara-gam-zukuri-wa-yamerarenai-1-comic-book-p093.jpg)
 
-![40](/images/koredakara-gam-zukuri-wa-yamerarenai-comic-book-p040.jpg)
+![40](/images/koredakara-gam-zukuri-wa-yamerarenai-1-comic-book-p040.jpg)
 
 그런가하면, 실상은 제대로 모르지만 지인들에게 듣거나 조사를 통해 알게된 것 같다고 느끼는 부분도 있다.
 미세하게 핀트가 어긋난 지점들 역시 있기 때문이다.
@@ -47,7 +47,7 @@ tags: [책, 만화, 사회생활, 드라마, 로맨스, 코미디, 게임, 다�
 또 로맨틱 코미디로서도 너무 업무 얘기가 많고 진하다는 느낌이 들었다.
 이게 이 만화를 어느쪽을 보여주고 싶은건지 애매하게 느끼게 한다.
 
-![48](/images/koredakara-gam-zukuri-wa-yamerarenai-comic-book-p048.jpg)
+![48](/images/koredakara-gam-zukuri-wa-yamerarenai-1-comic-book-p048.jpg)
 
 업무쪽을 많이 얘기하기 때문에 번역도 미묘하게 마뜩잖은 것들이 여럿 눈에 띄었다.
 틀린 것은 아니나 '이런 용어를 써?' 싶은 것이나 미묘하게 뉘앙스가 다른 것들이 있었기 때문이다.
