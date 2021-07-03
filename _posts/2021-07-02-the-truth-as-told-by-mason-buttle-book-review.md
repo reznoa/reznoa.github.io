@@ -5,8 +5,8 @@ category: 도서
 tags: [책, 소설, 레슬리 코너, 민지현, 밝은미래, 북카페 책과 콩나무, 서평]
 ---
 
-'레슬리 코너'의
-'메이슨 버틀이 말하는 진실'은
+'레슬리 코너(Leslie Connor)'의
+'메이슨 버틀이 말하는 진실(The Truth as Told by Mason Buttle)'은
 한 아이의 죽음에 관한 진실과 그 주변 사람들의 이야기를 그린 소설이다.
 
 ![표지](/images/the-truth-as-told-by-mason-buttle-book-h480.jpg)

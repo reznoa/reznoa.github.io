@@ -5,8 +5,9 @@ category: 도서
 tags: [책, 종교, 제니퍼 글로솝, 존 만사, 강창훈, 책과함께어린이, 북카페 책과 콩나무, 서평]
 ---
 
-'제니퍼 글로솝'의
-'그림으로 보는 어린이 종교 사전'은
+'제니퍼 글로솝(Jennifer Glossop)'이 쓰고
+'존 만사(John Mantha)'가 그림을 더한
+'그림으로 보는 어린이 종교 사전(The Kids Book of World Religions)'은
 세계의 여러 종교들을 대표적인 그림들과 함께 알려주는 책이다.
 
 ![표지](/images/the-kids-book-of-world-religions-book-h480.jpg)
