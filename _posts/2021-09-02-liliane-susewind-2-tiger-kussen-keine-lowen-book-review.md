@@ -11,7 +11,7 @@ tags: [책, 소설, 동화, 창작동화, 타냐 슈테브너, 코마가타, 서
 
 ![표지](/images/liliane-susewind-2-tiger-kussen-keine-lowen-book-h480.jpg)
 
-전권이 특별한 힘을 갖고있는 릴리를 소개하고
+[전권]({% post_url 2021-06-30-liliane-susewind-1-mit-elefanten-spricht-man-nicht-book-review %})이 특별한 힘을 갖고있는 릴리를 소개하고
 그녀가 동물원에서 일하게 된 배경을 소개했다면,
 이번권에서는 본격적으로 동물원에서의 통역사 일을 해나가는 것을 다룬다고 할 수 있다.
 심지어 그 일은 상당히 본격적이기까지 하다.
