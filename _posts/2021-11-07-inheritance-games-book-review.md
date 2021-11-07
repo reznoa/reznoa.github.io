@@ -9,7 +9,7 @@ tags: [책, 소설, 미스터리, 로맨스, 제니퍼 린 반스, 공민희, �
 '상속 게임(The Inheritance Games)'은
 막대한 유산을 두고 벌어지는 이야기를 그린 소설이다.
 
-![표지](/images/inheritance-games-book-h480)
+![표지](/images/inheritance-games-book-h480.jpg)
 
 주인공인 '에이버리'는 돈 때문에 곤란을 겪는 고등학생이다.
 아버지라는 자는 신용불량으로 도망중이지,
