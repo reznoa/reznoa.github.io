@@ -9,7 +9,7 @@ tags: [책, 만화, 그래픽 노블, 영화화, 판타지, 카즈 키부이시,
 '마법의 스톤 애뮬릿 8: 초신성, 별의 죽음(Amulet 8: Supernova)'은
 스톤키퍼와 마법의 세계 알레디아의 운명을 건 모험을 그린 시리즈 여덟번째 책이다.
 
-![표지](/images/amulet-8-supernova-comic-book-h480)
+![표지](/images/amulet-8-supernova-comic-book-h480.jpg)
 
 애뮬릿 시리즈의 특징 중 하나는 이야기가 굉장히 광범위하게 펼쳐져있다는 거다.
 
