@@ -52,19 +52,30 @@ tags: [손오공, 핫휠, 마텔, 미니카, 레뷰]
 
 시리즈 5종은 나름 각기 특징이 눈에 띄는 차들이라서 모아두면 꽤 눈을 사로잡는다.
 
+왼쪽(앞)에서부터 각각
+SRT Viper GTS-R,
+Porsche 911 GT3 RS,
+'19 Mercedes-Benz A-Class,
+Renault Sport R.S. 01,
+Corvette C7.R 모델이다.
+
+![카3](/images/hotwheels-forza-horizon-12.jpg)
+
+이 중 벤츠는 앞 유리와 선루프 중간 프레임이 없어 구현 실수 또는 도색 미스처럼 보인다.
+정면에서부터 뒷좌석까지 마치 통유리인 것처럼 만들어졌는데,
+어쩌면 미니카에 선루프를 구현하는 게 어려워서 지금같은 모양이 된 것일지도 모르겠다.
+하지만, 데칼 등의 완성도를 생각하면 역시 좀 흠처럼 보인다.
+
 ![정면으로](/images/hotwheels-forza-horizon-15.gif)
 
 <center><iframe width="480" height="270" src="https://www.youtube.com/embed/w-2Miv2Dxmc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-장식해두고 보는 용도로도 좋지만, 기본적으로는 장난감인만큼 잘 굴러가게도 만들어졌다.
-바퀴에 따로 고무패킹같은 것은 없지만 접지력은 양호하며,
-바닥면을 잘 미끄러져 멀리까지 나아간다.
-멋진 외형의 스포츠카가 굴러가는 모습을 보는 것도 꽤 매력적이다.
-
-![카3](/images/hotwheels-forza-horizon-12.jpg)
-
-이번에 받았은 차 중에서 하나는 도색 미스로 보이는 게 있었는데,
-앞 유리와 선루프 중간 프레임에 색이 칠해져있지 않아 마치 통유리처럼 보이는 게 묘하게 느낌있다.
+재현도 높은 미니카는 장식해두고 보는 용도로도 좋지만,
+장난감인만큼 굴리고 가지고 놀기에도 좋다.
+바퀴에 따로 고무패킹같은 것은 없지만 접지력이 양호하며,
+굴리면 바닥면을 잘 미끄러져 멀리까지 나아간다.
+멋진 외형의 스포츠카가 굴러가는 모습을 보는 것은 꽤 매력적이다.
+미니카 스포츠카들은 과연 누가 1위를 하는지 겨뤄보는 것도 재미있을 듯하다.
 
 
 
