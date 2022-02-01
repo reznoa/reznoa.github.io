@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "[번안] Morten Harket - Can't Take My Eyes Off You"
+description: "원가사도 좋지만, 부르기 편하게 번안해본다."
 category: 음악
 tags: [노래, 번안]
 ---
