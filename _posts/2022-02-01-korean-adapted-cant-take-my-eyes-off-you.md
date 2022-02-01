@@ -31,8 +31,7 @@ I need you, baby, to warm a lonely night     | 당신을 원해 외로움 떨치
 I love you, baby, trust in me when I say     | 사랑해 그대 내 말을 믿어줘요
 Oh, pretty baby, don't bring me down, I pray | 아름다운 그대 날 저버리지 마요
 Oh, pretty baby, now that I found you, stay  | 이제 찾았으니 내게 머물러요
-And let me love you, baby                    | 내가 사랑하게 해줘요
-Let me love you                              | 그댈
+And let me love you, baby, Let me love you   | 내가 사랑하게 해줘요, 그댈
                                              |
 You're just too good to be true              | 그댄 너무 아름다워
 Can't take my eyes off of you                | 난 눈을 뗄 수가 없어
@@ -52,5 +51,4 @@ I love you, baby, trust in me when I say     | 사랑해 그대 내 말을 믿�
                                              |
 I need you, baby, When will you come my way  | 당신을 원해 나와 함께 해요
 Oh, pretty baby, now that I found you, stay  | 이제 찾았으니 내게 머물러요
-And let me love you, baby                    | 내가 사랑하게 해줘요
-Let me love you                              | 그댈
+And let me love you, baby, Let me love you   | 내가 사랑하게 해줘요, 그댈
