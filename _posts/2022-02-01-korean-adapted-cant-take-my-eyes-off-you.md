@@ -18,7 +18,7 @@ You're just too good to be true              | 그댄 너무 아름다워
 Can't take my eyes off you                   | 난 눈을 뗄 수가 없어
                                              |
 Pardon the way that I stare                  | 바라봄을 용서 해요
-There's nothing else to compare              | 그댄 비교 할 수 없죠
+There's nothing else to compare              | 그댄 비교 할 게 없죠
 The sight of you leaves me weak              | 당신은 날 약하고
 There are no words left to speak             | 아무 말 못하게 해
 But if you feel like I feel                  | 그대도 나와 같다면
