@@ -65,6 +65,7 @@ Oracle                                          | PostgreSQL
 ------------------------------------------------|-----------------------------------------------------
 `SYSDATE`                                       | `CURRENT_TIMESTAMP`
 `TO_DATE('20211213142345', 'YYYYMMDDHH24MISS')` | `TO_TIMESTAMP('20211213142345', 'YYYYMMDDHH24MISS')`
+`TRUNC(SYSDATE)`                                | `CURRENT_DATE`
 
 
 
