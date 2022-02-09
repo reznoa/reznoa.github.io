@@ -65,3 +65,24 @@ Oracle                                          | PostgreSQL
 ------------------------------------------------|-----------------------------------------------------
 `SYSDATE`                                       | `CURRENT_TIMESTAMP`
 `TO_DATE('20211213142345', 'YYYYMMDDHH24MISS')` | `TO_TIMESTAMP('20211213142345', 'YYYYMMDDHH24MISS')`
+
+
+
+### REGEXP_REPLACE
+
+함수명은 같지만,
+시그니처부터
+Oracle은 `REGEXP_REPLACE(source, pattern [, replacement [, position [, occurrence [, flags ]]]])`
+PostgreSQL는 `REGEXP_REPLACE(source, pattern, replacement [, flags ])`로 서로 다르다.
+
+기본 동작도 Oracle은 모든 일치 부분을 바꾸지만,
+PostgreSQL은 처음 일치 부분만 바꾼다.
+
+반드시 추가인자(Oracle: occurrence, PostgreSQL: flags)로 맞춰줘야 한다.
+
+DB         | SQL                                            | Result
+-----------|------------------------------------------------|----------
+Oracle     | `REGEXP_REPLACE('aabcabac', 'ab', 'AB')`       | aABcABac
+Oracle     | `REGEXP_REPLACE('aabcabac', 'ab', 'AB', 1, 1)` | aABcabac
+PostgreSQL | `REGEXP_REPLACE('aabcabac', 'ab', 'AB')`       | aABcabac
+PostgreSQL | `REGEXP_REPLACE('aabcabac', 'ab', 'AB', 'g')`  | aABcABac
