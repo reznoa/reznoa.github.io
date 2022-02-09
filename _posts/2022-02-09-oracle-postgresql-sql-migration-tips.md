@@ -81,7 +81,7 @@ PostgreSQL은 처음 일치 부분만 바꾼다.
 
 반드시 추가인자(Oracle: occurrence, PostgreSQL: flags)로 맞춰줘야 한다.
 
-       | Oracle                                         | PostgreSQL
+동작   | Oracle                                         | PostgreSQL
 -------|------------------------------------------------|----------------------------------------------
 모두   | `REGEXP_REPLACE('aabcabac', 'ab', 'AB')`       | `REGEXP_REPLACE('aabcabac', 'ab', 'AB', 'g')`
 하나만 | `REGEXP_REPLACE('aabcabac', 'ab', 'AB', 1, 1)` | `REGEXP_REPLACE('aabcabac', 'ab', 'AB')`
