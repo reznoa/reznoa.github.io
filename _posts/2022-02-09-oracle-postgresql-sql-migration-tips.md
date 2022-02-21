@@ -9,11 +9,22 @@ tags: [Oracle, PostgreSQL]
 ### NULL과 ''(빈 문자열)
 
 Oracle은 ''도 NULL처럼 처리되는 경우가 있다.
-ex) `NVL('', 0) = 0`
+
+ex               | Result
+-----------------|---------
+`NVL('', 0)`     | 0
+`'' IS NULL`     | true
+`'' IS NOT NULL` | false
 
 PostgreSQL은 기본적으로 NULL과 ''를 엄격히 구분한다.
-ex) `COALESCE('', 0) = ''`
 
+ex                | Result
+------------------|---------
+`COALESCE('', 0)` | ''
+`'' IS NULL`      | false
+`'' IS NOT NULL`  | true
+
+PostgreSQL에서는
 입력값을 NULL, '' 둘 중 하나로 통일하거나,
 값 처리 부분에서 둘 모두를 고려하도록 해야한다.
 
