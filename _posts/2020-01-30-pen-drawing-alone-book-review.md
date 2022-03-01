@@ -8,7 +8,7 @@ tags: [책, 미술, 펜 드로잉, 이일선, 조혜림, 그림책방, 서평]
 '나 혼자 펜 드로잉'은
 혼자서 익히고 즐길 수 있는 펜 드로잉 방법을 담은 책이다.
 
-![표지](https://lh3.googleusercontent.com/hpkEgJ2Xz7Sf9phMJgx3GKiZAmb9GSRZ5wbIl1pqQRLfsZbJVG3_nIgKe1JcNwZwsL1AlSNY743_pA=s480)
+![표지](/images/pen-drawing-alone-book-h480.jpg)
 
 이 책의 특징 중 하나는 실습을 강조했다는 거다.
 물론 이 책처럼 뭔가 하는 방법을 얘기하는 책 치고 안그런 게 있겠느냐만은,
