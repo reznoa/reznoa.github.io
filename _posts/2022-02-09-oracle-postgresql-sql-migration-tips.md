@@ -83,9 +83,12 @@ Oracle                                          | PostgreSQL
 ### REGEXP_REPLACE
 
 함수명은 같지만,
-시그니처부터
-Oracle은 `REGEXP_REPLACE(source, pattern [, replacement [, position [, occurrence [, flags ]]]])`
-PostgreSQL는 `REGEXP_REPLACE(source, pattern, replacement [, flags ])`로 서로 다르다.
+시그니처부터 Oracle과 PostgreSQL은 다음처럼 서로 다르다:
+
+DB         | Signature
+-----------|------------------------------------------------------------------------------------------
+Oracle     | `REGEXP_REPLACE(source, pattern [, replacement [, position [, occurrence [, flags ]]]])`
+PostgreSQL | `REGEXP_REPLACE(source, pattern, replacement [, flags ])`
 
 기본 동작도 Oracle은 모든 일치 부분을 바꾸지만,
 PostgreSQL은 처음 일치 부분만 바꾼다.
