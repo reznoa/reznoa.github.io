@@ -78,6 +78,12 @@ Oracle                                          | PostgreSQL
 `TO_DATE('20211213142345', 'YYYYMMDDHH24MISS')` | `TO_TIMESTAMP('20211213142345', 'YYYYMMDDHH24MISS')`
 `TRUNC(SYSDATE)`                                | `CURRENT_DATE`
 
+하나 더,
+PostgreSQL은 성능을 위해 `CURRENT__TIMESTAMP` 등이
+한 트랜잭션에선 기본으로 늘 같은 값을 반환한다는 것에 주의해야 한다.
+만약, 매번 새로운 값을 사용해야 한다면
+`CURRENT_TIMESTAMP` 대신 `CLOCK_TIMESTAMP()`를 사용해야 한다.
+
 
 
 ### REGEXP_REPLACE
