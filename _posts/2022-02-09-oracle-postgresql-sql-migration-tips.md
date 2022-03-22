@@ -128,7 +128,7 @@ BEGIN
 	SELECT Pg_Sleep(1) INTO v_tmp;
 	RAISE INFO 'E=%', TO_CHAR(CURRENT_TIMESTAMP, 'MI:SS');
 END $$;
-</td>
+</pre></td>
 <td><pre>
 S=53:38
 E=53:38
