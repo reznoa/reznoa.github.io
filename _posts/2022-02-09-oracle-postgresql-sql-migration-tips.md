@@ -91,9 +91,9 @@ PostgreSQL은 성능을 위해 한 트랜잭션 내의 `CURRENT_TIMESTAMP`이 �
 <td>Oracle</td>
 <td><pre>
 BEGIN
-	DBMS_OUTPUT.PUT_LINE('S=' || To_Char(SYSDATE, 'MI:SS'));
+	DBMS_OUTPUT.PUT_LINE('S=' || TO_CHAR(SYSDATE, 'MI:SS'));
 	DBMS_LOCK.Sleep(1);
-	DBMS_OUTPUT.PUT_LINE('E=' || To_Char(SYSDATE, 'MI:SS'));
+	DBMS_OUTPUT.PUT_LINE('E=' || TO_CHAR(SYSDATE, 'MI:SS'));
 END;
 </pre></td>
 <td><pre>
@@ -108,9 +108,9 @@ DO $$
 DECLARE
 	v_tmp VARCHAR;
 BEGIN
-	RAISE INFO 'S=%', To_Char(Clock_Timestamp(), 'MI:SS');
+	RAISE INFO 'S=%', TO_CHAR(CLOCK_TIMESTAMP(), 'MI:SS');
 	SELECT Pg_Sleep(1) INTO v_tmp;
-	RAISE INFO 'E=%', To_Char(Clock_Timestamp(), 'MI:SS');
+	RAISE INFO 'E=%', TO_CHAR(CLOCK_TIMESTAMP(), 'MI:SS');
 END $$;
 </pre></td>
 <td><pre>
@@ -124,9 +124,9 @@ DO $$
 DECLARE
 	v_tmp VARCHAR;
 BEGIN
-	RAISE INFO 'S=%', To_Char(CURRENT_TIMESTAMP, 'MI:SS');
+	RAISE INFO 'S=%', TO_CHAR(CURRENT_TIMESTAMP, 'MI:SS');
 	SELECT Pg_Sleep(1) INTO v_tmp;
-	RAISE INFO 'E=%', To_Char(CURRENT_TIMESTAMP, 'MI:SS');
+	RAISE INFO 'E=%', TO_CHAR(CURRENT_TIMESTAMP, 'MI:SS');
 END $$;
 </td>
 <td><pre>
