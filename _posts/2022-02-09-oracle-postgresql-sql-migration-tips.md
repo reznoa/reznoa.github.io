@@ -79,9 +79,64 @@ Oracle                                          | PostgreSQL
 `TRUNC(SYSDATE)`                                | `CURRENT_DATE`
 
 하나 더,
-PostgreSQL은 성능을 위해 `CURRENT__TIMESTAMP` 등이
-한 트랜잭션에선 기본으로 늘 같은 값을 반환한다는 것에 주의해야 한다.
-만약, 매번 새로운 값을 사용해야 한다면
+PostgreSQL은 성능을 위해 한 트랜잭션 내의 `CURRENT_TIMESTAMP`이 모두 같은 값을 반환한다.
+
+<table>
+<tr>
+<th>DB</th>
+<th>Test SQL</th>
+<th>Result</th>
+</tr>
+<tr>
+<td>Oracle</td>
+<td><pre>
+BEGIN
+	DBMS_OUTPUT.PUT_LINE('S=' || To_Char(SYSDATE, 'MI:SS'));
+	DBMS_LOCK.Sleep(1);
+	DBMS_OUTPUT.PUT_LINE('E=' || To_Char(SYSDATE, 'MI:SS'));
+END;
+</pre></td>
+<td><pre>
+S=53:38
+E=53:39
+</pre></td>
+</tr>
+<tr>
+<td rowspan="2">PostgreSQL</td>
+<td><pre>
+DO $$
+DECLARE
+	v_tmp VARCHAR;
+BEGIN
+	RAISE INFO 'S=%', To_Char(Clock_Timestamp(), 'MI:SS');
+	SELECT Pg_Sleep(1) INTO v_tmp;
+	RAISE INFO 'E=%', To_Char(Clock_Timestamp(), 'MI:SS');
+END $$;
+</pre></td>
+<td><pre>
+S=53:38
+E=53:39
+</pre></td>
+</tr>
+<tr>
+<td><pre>
+DO $$
+DECLARE
+	v_tmp VARCHAR;
+BEGIN
+	RAISE INFO 'S=%', To_Char(CURRENT_TIMESTAMP, 'MI:SS');
+	SELECT Pg_Sleep(1) INTO v_tmp;
+	RAISE INFO 'E=%', To_Char(CURRENT_TIMESTAMP, 'MI:SS');
+END $$;
+</td>
+<td><pre>
+S=53:38
+E=53:38
+</pre></td>
+</tr>
+</table>
+
+만약, Oracle `SYADATE`처럼 매번 새로운 값을 얻어야 한다면
 `CURRENT_TIMESTAMP` 대신 `CLOCK_TIMESTAMP()`를 사용해야 한다.
 
 
