@@ -10,7 +10,7 @@ tags: [책, 소설, 동화, 창작동화, 판타지, 시간여행, 역사, 장�
 
 ![표지](/images/antique-shop-and-magic-dice-2-book-h480.jpg)
 
-[전권]({% 2022-01-07-antique-shop-and-magic-dice-1-book-review %})의 완성도가 꽤 좋았기 때문에 이번권도 기대를 했는데,
+[전권]({% post_url 2022-01-07-antique-shop-and-magic-dice-1-book-review %})의 완성도가 꽤 좋았기 때문에 이번권도 기대를 했는데,
 기본적인 기대는 꽤나 잘 충족했다.
 새로운 등장인물들을 출현시켜서 자칫 같은 패턴이 반복되어 지루해질 수 있는 것을 날려주며,
 라이벌의 등장을 통해 대결구도라는 흥미를 더하고
