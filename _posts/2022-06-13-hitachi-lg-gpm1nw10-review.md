@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "높은 휴대성과 호환성을 갖춘 DVD 라이터 - 히타치 엘지 데이터 스토리지 Multi OS DVD Writer GPM1NW10"
+title: "높은 휴대성과 호환성을 갖춘 DVD 라이터 - 히타치엘지데이터스토리지 Multi OS DVD Writer GPM1NW10"
 category: "생활/가전"
-tags: [DVD, 히타치 엘지 데이터 스토리지, 에누리, 체험단]
+tags: [DVD, 히타치엘지데이터스토리지, 에누리, 체험단]
 ---
 
-히타치 엘지 데이터 스토리지의 Multi OS DVD Writer GPM1NW10은
+히타치엘지데이터스토리지의 Multi OS DVD Writer GPM1NW10은
 안드로이드를 포함한 다양한 OS를 지원하는 휴대용 DVD 라이터다.
 
 ![패키지](/images/hitachi-lg-gpm1nw10-01.jpg)
@@ -67,12 +67,16 @@ USB 컨버터는 모바일 기기와의 연결을 위한 것으로,
 그러나, 혼자서 쓸때는 딱히 거슬릴정도는 아니며,
 영화 등 미디어를 재생하는데 이용한다면 충분히 묻힐만한 정도다.
 
+<center><iframe width="480" height="270" src="https://www.youtube.com/embed/3yV3NJw7FyA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
 휴대용인만큼 별도의 전원선이나 전원 공급을 위한 추가 USB 연결 등이 없이
 하나의 케이블만으로 전원 공급과 데이타 전송을 모두 해결하는 것이 좋은데,
 CD/DVD를 돌리며 읽는 기기의 특성상 일정량 이상의 전원이 필요한데
 모바일 기기에 연결해서도 원활하게 돌아가는 것을 보면 꽤나 저전력으로 잘 만들어진 듯하다.
 그러나, 그만큼 모바일 기기 사용시간은 줄어들게 만드므로
 전원과 데이타를 분리해서 받는 방식과 서로 장단점이 있다.
+
+![모바일기기와 함께](/images/hitachi-lg-gpm1nw10-16.jpg)
 
 요즘 PC, 노트북에 ODD는 달지 않는 추세다.
 그렇지만 여전히 음악 CD도 나오고 있고,
