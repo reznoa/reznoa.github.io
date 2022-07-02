@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "다음 이야기가 더욱 기대되는 2권 - SCP 재단: 스페셜 에이전트 2"
+title: "다음 이야기가 더욱 기대되는 후속권 - SCP 재단: 스페셜 에이전트 2"
 category: 도서
 tags: [책, 만화, 도감, SCP 재단, Team. StoryG, 올드스테어즈, 리뷰어스 클럽, 서평]
 ---
