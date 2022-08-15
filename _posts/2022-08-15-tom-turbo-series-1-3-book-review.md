@@ -12,7 +12,7 @@ tags: [책, 어린이, 동화, 창작동화, 토마스 브레치나, 기니 노�
 
 <p class="center" markdown="1">
 ![표지 1](/images/tom-turbo-das-geheimnis-der-geisterstadt-book-w230.jpg)
-![표지 2](/images/tom-turbo-der-spaghetti-spuk-book-w230-w230.jpg)
+![표지 2](/images/tom-turbo-der-spaghetti-spuk-book-w230.jpg)
 ![표지 3](/images/tom-turbo-der-wolf-mit-dem-goldzahn-book-w230.jpg)
 </p>
 
