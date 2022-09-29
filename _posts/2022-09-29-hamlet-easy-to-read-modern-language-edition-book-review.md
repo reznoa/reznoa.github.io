@@ -5,7 +5,7 @@ category: 도서
 tags: [책, 희곡, 윌리엄 셰익스피어, 최영열, 미래와사람, 컬처블룸, 서평]
 ---
 
-'윌리엄 셰익스피어(William Shakespeare)'의
+'윌리엄 셰익스피어(William Shakespeare)' 원작의
 '읽기 쉽게 풀어쓴 현대어판 햄릿(Hamlet)'은
 현대어로 읽기 쉽게 옮긴 고전 희곡이다.
 
