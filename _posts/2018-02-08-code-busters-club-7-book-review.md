@@ -6,8 +6,8 @@ tags: [책, 소설, 추리, 암호, 모험, 어린이, 페니 워너, 효고노�
 ---
 
 '페니 워너(Penny Warner)'의
-'[암호 클럽(Code Busters Club)](http://www.codebustersclub.com/)' 시리즈는
-다양한 암호와 추리, 그리고 모험이 담긴 어린이 도서이다.
+'암호 클럽 7: 매직랜드 실종 사건(The Code Busters Club #7: A Disappearance in Magicland)'는,
+놀이공원에서 벌어지는 모험을 그린, 시리즈 7번째 책이다.
 
 ![표지 3D](https://lh3.googleusercontent.com/oxnwJj1Z-V3GoN8RdB07MCh81gzOZrYgljB81JbC1WjGYsFxdEK8Z2TFIIsGq0ozRs-q7BFcDmrXhA=s480)
 

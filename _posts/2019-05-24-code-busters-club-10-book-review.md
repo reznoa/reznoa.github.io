@@ -6,7 +6,7 @@ tags: [책, 소설, 추리, 암호, 모험, 어린이, 페니 워너, 효고노�
 ---
 
 '페니 워너(Penny Warner)'의
-'암호 클럽 10: 암호 클럽 대 슈퍼 스파이 클럽(The Code Busters Club, Case #11: Clash of the Code Clubs)'은
+'암호 클럽 10: 암호 클럽 대 슈퍼 스파이 클럽(The Code Busters Club #11: Clash of the Code Clubs)'은
 두 클럽의 자존심을 건 대결을 그린 소설이다.
 
 ![표지](https://lh3.googleusercontent.com/xoUD8oY9W12jObWKvgOSWA1kvh3Y3CWz2pfvd6697DuRyDnEYMz63IaPDo3h1yrpjcsql3XadQRXvQ=s480)
