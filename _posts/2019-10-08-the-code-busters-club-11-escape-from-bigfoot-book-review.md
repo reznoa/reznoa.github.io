@@ -6,7 +6,7 @@ tags: [책, 소설, 추리, 암호, 모험, 어린이, 페니 워너, 효고노�
 ---
 
 '페니 워너(Penny Warner)'의
-'암호 클럽 11: 전설의 황금 동굴 탐험(The Code Busters Club #12: Escape from Bigfoot)'은
+'암호 클럽 11: 전설의 황금 동굴 탐험(The Code Busters Club #11: Escape from Bigfoot)'은
 캠핑 장에서 벌어지는 모험을 그린 소설이다.
 
 ![표지](https://lh3.googleusercontent.com/HdRw0nvPFUK9NS1vO3J9ABZcN5nd7a4rrtgdJYFZ86zXhdcC9qlfBB7aLQ0QCd18g9M6kzr9P7LH4A=s480)

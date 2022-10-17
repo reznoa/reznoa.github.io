@@ -6,7 +6,7 @@ tags: [책, 소설, 추리, 암호, 모험, 어린이, 페니 워너, 효고노�
 ---
 
 '페니 워너(Penny Warner)'의
-'암호 클럽 13: 좀비의 저주(The Code Busters Club #14: Night of the Zombies)'는,
+'암호 클럽 13: 좀비의 저주(The Code Busters Club #13: Night of the Zombies)'는,
 저주와 좀비를 소재로 한 이야기를 담은, 시리즈 13번째 책이다.
 
 ![표지](https://images2.imgbox.com/fa/3a/HqlGK3mY_o.jpg)

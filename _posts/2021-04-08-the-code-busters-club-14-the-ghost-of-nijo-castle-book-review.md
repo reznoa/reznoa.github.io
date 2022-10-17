@@ -6,7 +6,7 @@ tags: [책, 소설, 추리, 암호, 모험, 어린이, 페니 워너, 효고노�
 ---
 
 '페니 워너(Penny Warner)'의
-'암호 클럽 14: 니조성의 유령(The Code Busters Club #9: The Ghost of Nijo Castle)'는,
+'암호 클럽 14: 니조성의 유령(The Code Busters Club #14: The Ghost of Nijo Castle)'는,
 일본 니조성에서의 모험을 담은, 시리즈 14번째 책이다.
 
 ![표지](/images/the-code-busters-club-9-the-ghost-of-nijo-castle-book-h480.jpg)
