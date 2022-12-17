@@ -10,7 +10,7 @@ tags: [책, 소설, 시대소설, 로맨스, 김혜량, 북레시피, 컬처블�
 
 <p class="center" markdown="1">
 ![표지 1](/images/passion-of-heping-era-1-book-h480.jpg)
-![표지 2](/images/passion-of-heping-era-1-book-h480.jpg)
+![표지 2](/images/passion-of-heping-era-2-book-h480.jpg)
 </p>
 
 송나라(조송) 가상 황제 '조융'와 그 주변 사람을 주인공으로 한 시대소설이면서
