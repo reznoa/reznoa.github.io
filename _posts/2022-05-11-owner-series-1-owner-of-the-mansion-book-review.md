@@ -9,7 +9,7 @@ tags: [책, 소설, 시우시, 잠뜰TV, 루체, 서울문화사, 북카페 책�
 '[5명의 후계자 중 진짜를 찾아라🤵🔎](https://www.youtube.com/watch?v=3k5xJCM-fs4)'라는 제목으로 공개했던 플레이를 소설화한,
 잠뜰TV 오리지널 추리 스토리북 첫번째 책이다.
 
-![표지](/images/who-is-the-owner-of-the-mansion-book-h480.jpg)
+![표지](/images/owner-series-1-owner-of-the-mansion-book-h480.jpg)
 
 잠뜰TV는 꽤 여러 종류의 이야기 컨텐츠를 가지고 있고,
 그것들 중 꽤 여러가지가 책으로도 만들어지고 있다.
