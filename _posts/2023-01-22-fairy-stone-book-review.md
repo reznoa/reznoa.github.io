@@ -3,6 +3,7 @@ layout: post
 title: "완성도가 아쉬운 판타지 로맨스 - 페어리스톤"
 category: 도서
 tags: [책, 소설, 판타지, 로맨스, 김빛누리, 마인드레인, 리뷰어스 클럽, 서평]
+published: false
 ---
 
 '페어리스톤'은
