@@ -5,7 +5,7 @@ category: 도서
 tags: [책, 미술, 클로이 애슈비, 김하니, 아르카디아, 북카페 책과 콩나무, 서평]
 ---
 
-'클로이 애슈비'의
+'클로이 애슈비(Chloë Ashby)'의
 '컬러 오브 아트: 80점의 명화로 보는 색의 미술사(Colors of Art: The Story of Art in 80 Palettes)'는
 색을 주제로 미술과 미술사를 담아낸 책이다.
 
