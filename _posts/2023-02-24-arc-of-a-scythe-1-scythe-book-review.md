@@ -5,7 +5,7 @@ category: 도서
 tags: [책, 소설, SF, 닐 셔스터먼, 이수현, 열린책들, 이북카페, 서평]
 ---
 
-'닐 셔스터먼'의
+'닐 셔스터먼(Neal Shusterman)'의
 '수확자(Scythe)'는
 수확자 시리즈(Arc of a Scythe)의 첫번째 책이다.
 
