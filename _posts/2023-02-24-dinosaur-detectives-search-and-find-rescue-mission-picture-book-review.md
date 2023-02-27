@@ -11,6 +11,10 @@ tags: [책, 그림책, 숨은그림찾기, 소피 게리브, 한성희, 시원�
 
 ![표지](/images/dinosaur-detectives-search-and-find-rescue-mission-picture-book-h480.jpg)
 
+![p3](/images/dinosaur-detectives-search-and-find-rescue-mission-picture-book-p3.jpg)
+
+![p23](/images/dinosaur-detectives-search-and-find-rescue-mission-picture-book-p23.jpg)
+
 그림책이기도 하면서 또한 이 책은 놀이책이기도 하다.
 
 깨알같이 그려진 여러 그림들 속에서 원하는 대상을 찾아내는 소위 숨은그림찾기 책이라고 할 수 있는데,
