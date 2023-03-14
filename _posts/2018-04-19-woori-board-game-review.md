@@ -93,5 +93,5 @@ https://tumblbug.com/woorigame
 
 
 <div class="im im-info">
-이 리뷰는 예스24 리뷰어클럽을 통해 제작사로부터 상품을 제공받아 작성되었습니다.
+이 리뷰는 YES24 리뷰어클럽을 통해 제작사로부터 상품을 받고 작성했다.
 </div>
