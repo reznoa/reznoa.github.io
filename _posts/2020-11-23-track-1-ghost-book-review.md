@@ -2,14 +2,14 @@
 layout: post
 title: "재능의 발견과 그를 통한 성장을 그린 소설 - 고스트"
 category: 도서
-tags: [책, 소설, 성장, 제이슨 레이놀즈, 사파리, 이퍼블릭, 서평]
+tags: [책, 소설, 성장, 제이슨 레이놀즈, 이은주, 사파리, 이퍼블릭, 서평]
 ---
 
 '제이슨 레이놀즈(Jason Reynolds)'의
 '고스트(Track 1: Ghost)'는
 재능의 발견과 성장을 그린 소설이다.
 
-![표지](https://images2.imgbox.com/bd/7b/4RqmXHWO_o.jpg)
+![표지](/images/track-1-ghost-book-h480)
 
 '캐슬 크랜쇼', 자칭 '고스트'는 밑바닥 인생이다.
 동네도 그렇고, 그 자신도 좀 그러해서 무시당하기도 일쑤다.
