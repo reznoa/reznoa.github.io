@@ -9,7 +9,7 @@ tags: [책, 소설, 성장, 제이슨 레이놀즈, 김영옥, 사파리, 이퍼
 '파티나(Track 2: Patina)'는
 '트랙 시리즈(Track Series)' 두번째 책이다.
 
-![표지](/images/track-2-patina-book-h480)
+![표지](/images/track-2-patina-book-h480.jpg)
 
 [첫번째 시리즈]({% post_url 2020-11-23-track-1-ghost-book-review %})에 이어,
 이번 책에서 주인공으로 초점이 맞춰진 아이는 '파티나'다.
