@@ -9,7 +9,7 @@ tags: [책, 소설, 성장, 제이슨 레이놀즈, 이은주, 사파리, 이퍼
 '고스트(Track 1: Ghost)'는
 재능의 발견과 성장을 그린 소설이다.
 
-![표지](/images/track-1-ghost-book-h480)
+![표지](/images/track-1-ghost-book-h480.jpg)
 
 '캐슬 크랜쇼(Castle Cranshaw)', 자칭 '고스트(Ghost)'는 밑바닥 인생이다.
 동네도 그렇고, 그 자신도 좀 그러해서 무시당하기도 일쑤다.
