@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "풍자적이고 철학적인 인생 9컷 - 튤립의 날들"
+title: "풍자적이고 철학적인 인생 9컷 - TULiPE 1: 튤립의 날들"
 category: 도서
 tags: [책, 만화, 철학, 소피 게리브, 정혜경, 팡 그래픽노블, 주니어RHK, 알에이치코리아, 북카페 책과 콩나무, 서평]
 ---
 
 '소피 게리브(Sophie Guerrive)'의
-'튤립의 날들(TULiPE)'은
+'TULiPE 1: 튤립의 날들(TULiPE)'은
 튤립 시리즈 첫번째 책이다.
 
 ![표지](/images/tulipe-1-comic-book-h480.jpg)
