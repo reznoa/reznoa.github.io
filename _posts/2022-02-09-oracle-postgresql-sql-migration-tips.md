@@ -3,7 +3,7 @@ layout: post
 title: "Oracle - PostgreSQL 쿼리 변환 시 주의할 점"
 description: "Oracle와 PostgreSQL 간에 쿼리 변환을 할 때, 미묘하게 차이 때문에 실수하기 쉬운 것들을 모아본다."
 category: Programing
-tags: [Oracle, PostgreSQL]
+tags: [SQL, Oracle, PostgreSQL]
 ---
 
 ### NULL과 ''(빈 문자열)

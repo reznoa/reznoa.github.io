@@ -2,7 +2,7 @@
 layout: post
 title: "Oracle - DB를 다른 사용자로 복사하기"
 category: Programing
-tags: [Oracle, 백업, 복구]
+tags: [Oracle]
 ---
 
 [exp](http://www.psoug.org/reference/export.html), [imp](http://www.psoug.org/reference/import.html)는 DB를 백업하고 복원할 수 있는 툴이다.

@@ -2,7 +2,7 @@
 layout: post
 title: "Oracle - 명령행에서 간단한 쿼리 바로 실행하기"
 category: Programing
-tags: [Oracle, 스크립트]
+tags: [Oracle, 셸 스크립트]
 ---
 
 콘솔에서 Oracle에 질의할 때는 주로 sqlplus를 쓰는데, 간단한 쿼리를 쓸때는 좀 번거롭게 느껴질때가 있다.
