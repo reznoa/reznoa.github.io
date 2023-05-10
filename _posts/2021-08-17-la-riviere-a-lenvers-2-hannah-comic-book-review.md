@@ -14,7 +14,7 @@ tags: [책, 만화, 소설원작, 장 클로드 무를르바, 막스 레르메�
 
 ![표지](/images/la-riviere-a-lenvers-2-hannah-comic-book-h480.jpg)
 
-[토멕의 이야기를 그린 1권]({% post_url 2021-08-17-la-riviere-a-l-envers-1-tomek-comic-book-review %})의 후속권인 이 책은,
+[토멕의 이야기를 그린 1권]({% post_url 2021-08-17-la-riviere-a-lenvers-1-tomek-comic-book-review %})의 후속권인 이 책은,
 소설 '거꾸로 흐르는 강'의 후속작 '한나 이야기(Hannah)'를 원작으로 한 만화다.
 
 원작 소설이 애초에 후속권으로써 새로운 모험 이야기를 쓴 것인만큼
