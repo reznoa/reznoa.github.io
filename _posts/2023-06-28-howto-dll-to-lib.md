@@ -39,6 +39,8 @@ genlib.bat
 
 ~~~
 @echo off
+setlocal
+
 set libname=%1
 
 call "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\Tools\VsDevCmd.bat" > nul
@@ -48,6 +50,8 @@ echo EXPORTS>> %libname%.def
 for /f "skip=19 tokens=4" %%f in ('dumpbin /exports %libname%.dll') do echo %%f>> %libname%.def
 
 lib /nologo /def:%libname%.def /out:%libname%.lib /machine:x64
+
+endlocal
 ~~~
 
 사용 예:
