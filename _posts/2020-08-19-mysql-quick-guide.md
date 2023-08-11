@@ -94,8 +94,11 @@ USER 생성
 
 ~~~
 mysql> CREATE USER username IDENTIFIED BY 'password';
-Query OK, 0 rows affected (0.02 sec)
+Query OK, 1 rows affected (0.02 sec)
 
-mysql> GRANT ALL PRIVILEGES ON mydb.* TO username;
-Query OK, 0 rows affected (0.01 sec)
+mysql> CREATE DATABASE userdb DEFAULT CHARACTER SET utf8;
+Query OK, 1 row affected, 1 warning (0.00 sec)
+
+mysql> GRANT ALL PRIVILEGES ON userdb.* TO 'username'@'%';
+Query OK, 0 rows affected (0.00 sec)
 ~~~
