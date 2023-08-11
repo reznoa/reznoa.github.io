@@ -71,11 +71,15 @@ h3 { font-size: 1.5em; }
 	text-align: center;
 }
 
-.container {
+.post {
 	margin: 0 auto;
 	width: 80%;
 	max-width: 700px;
 	clear: both;
+}
+
+.post-content img {
+	max-width: 700px;
 }
 
 #site-header {
