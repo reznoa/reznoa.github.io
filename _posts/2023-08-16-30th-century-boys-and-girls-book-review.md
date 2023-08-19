@@ -48,7 +48,7 @@ SF와 판타지의 만남을 재미있게 그린 소설이다.
 다운받으려면 전용 프로그램을 설치하라는 짓을 하는 건 쫌 그렇다.
 
 <!--
-http://m.site.naver.com/1aoa5
+http://viewpds.jihak.co.kr/arbup/pds/30세기소년소녀부록(최종).pdf
 -->
 
 그냥 PDF 파일일 뿐인데, 그냥 받게 해도 되잖아.
