@@ -55,9 +55,9 @@ $ cubrid service stop
 ## DB 생성
 
 ~~~
-$ mkdir "/cubrid/databases/cdb"
+$ mkdir "/cubrid/databases/yourdb"
 
-$ cubrid createdb -F "/cubrid/databases/cdb" cdb ko_KR.utf8 
+$ cubrid createdb -F "/cubrid/databases/yourdb" yourdb ko_KR.utf8 
 ~~~
 
 **[conf/cubrid.conf]**
@@ -65,14 +65,14 @@ $ cubrid createdb -F "/cubrid/databases/cdb" cdb ko_KR.utf8
 ~~~
 [service]
 service=server,broker,manager
-server=cdb
+server=yourdb
 ~~~
 
 
 ## DB 삭제
 
 ~~~
-$ cubrid deletedb cdb
+$ cubrid deletedb yourdb
 ~~~
 
 
@@ -82,11 +82,10 @@ $ cubrid deletedb cdb
 이름을 your_user_name, 비밀번호를 your_password로 할 경우:
 
 ~~~
-$ csql cdb --user dba
+$ csql yourdb --user dba
 Enter Password :
 
-csql> CREATE USER your_user_name;
-csql> ALTER USER your_user_name PASSWORD 'your_password';
+csql> CREATE USER your_user_name PASSWORD 'your_password';
 
 csql> GRANT ALL PRIVILEGES ON tb_test TO your_user_name;
 csql> REVOKE ALL PRIVILEGES ON tb_test FROM your_user_name;
