@@ -8,7 +8,7 @@ tags: [책, 소설, 게임원작, 가상현실, 마인크래프트, 닉 일리�
 '닉 일리오폴로스(Nick Eliopulos)'가 쓰고
 '루크 플라워스(Luke Flowers)'가 그린
 'Minecraft 우드소드 연대기 2: 박쥐들의 밤!(Minecraft Woodsword Chronicles #2: Night of the Bats!)'은
-게임 마인크래프트의 공식 소설 시리즈 '우드소드 연대기'의 두번째 책이다.
+게임 마인크래프트의 공식 소설 시리즈 '우드소드 연대기'의 2번째 책이다.
 
 ![표지](https://lh3.googleusercontent.com/fVpI8Kep-rc1CPB-yIZTc71mqXkjrqtqlATvK6SkDHDQ07kqWvMf96DIvGmcbvNYVmoVbjYrFJCLCA=s480)
 
