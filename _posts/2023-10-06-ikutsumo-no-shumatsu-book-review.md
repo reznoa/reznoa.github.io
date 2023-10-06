@@ -9,7 +9,7 @@ tags: [책, 에세이, 에쿠니 가오리, 김난주, 소담출판사, 소담�
 '당신의 주말은 몇 개입니까(いくつもの週末)'는
 사랑을 주제로 한 에세이다.
 
-![표지](/images/ikutsumo-no-shumatsu-book-h480)
+![표지](/images/ikutsumo-no-shumatsu-book-h480.jpg)
 
 소설로 워낙에 유명한 작가라,
 그녀가 쓴 에세이는 과연 어떤 문체, 어떤 내용일지,
