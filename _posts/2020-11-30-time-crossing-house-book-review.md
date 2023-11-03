@@ -8,7 +8,7 @@ tags: [책, 소설, 청소년, 김하연, 특별한서재, 북카페 책과 콩�
 '시간을 건너는 집'은
 시간을 건너뛸 수 있는 신비한 집을 소재로 한 소설이다.
 
-![표지](https://images2.imgbox.com/be/a0/IQMwzFvk_o.jpg)
+![표지](/images/time-crossing-house-1-book-h480.jpg)
 
 누구든 적어도 한번쯤은 과거나 미래로 가는 것을 상상해봤을 것이다.
 순수한 호기심에서 그러는 경우도 있겠지만,
