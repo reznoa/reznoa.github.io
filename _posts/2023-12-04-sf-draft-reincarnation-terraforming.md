@@ -14,7 +14,7 @@ published: false
 
 <blockquote class="twitter-tweet tw-hide-thread"><p lang="ko" dir="ltr">&lt;SF적음모론&gt;<br><br>시발은 전생파의 태동. 이들은 비교적 온건한, 지구물질배출축소운동으로 시작함. 과도한 우주개발로 지구내물질을 계속 배출하는 게 결국 악영향이 될 것이라는, 일종의 절약운동. 이게 점차 금지운동, 척결운동으로 심화됨. 후에는 적극적인 전생물질수집이란 명목의 학살로 이어짐.</p>&mdash; reznoa (@reznoa) <a href="https://twitter.com/reznoa/status/1731499404031607050?ref_src=twsrc%5Etfw">2023-12-04 11:23</a></blockquote>
 
-<blockquote class="twitter-tweet tw-hide-thread"><p lang="ko" dir="ltr">&lt;SF적음모론&gt;<br><br>광신도들에게 물질은 충분하다, 외계에서 가져올 수 있다는 등으로 맞선 이들이 후에 현생유지파와 이주파의 전신이 됨. 이들이 갈리지게 되는 주요 쟁점은 태양 수명이란 한계. 이에 대비해 적극적인 우주 개척을 해야한다고 주장하던 부류가 후에 이주파로 갈라지게 됨.</p>&mdash; reznoa (@reznoa) <a href="https://twitter.com/reznoa/status/1731499405562597655?ref_src=twsrc%5Etfw">2023-12-04 11:23</a></blockquote>
+<blockquote class="twitter-tweet tw-hide-thread"><p lang="ko" dir="ltr">&lt;SF적음모론&gt;<br><br>광신도들에게 물질은 충분하다, 외계에서 가져올 수 있다는 등으로 맞선 이들이 후에 현생유지파와 이주파의 전신이 됨. 이들이 갈라지게 되는 주요 쟁점은 태양 수명이란 한계. 이에 대비해 적극적인 우주 개척을 해야한다고 주장하던 부류가 후에 이주파로 갈라지게 됨.</p>&mdash; reznoa (@reznoa) <a href="https://twitter.com/reznoa/status/1731499405562597655?ref_src=twsrc%5Etfw">2023-12-04 11:23</a></blockquote>
 
 <blockquote class="twitter-tweet tw-hide-thread"><p lang="ko" dir="ltr">막 떠오르는대로 설정을 짜봤는데, 재밌네.</p>&mdash; reznoa (@reznoa) <a href="https://twitter.com/reznoa/status/1731499407038881809?ref_src=twsrc%5Etfw">2023-12-04 11:23</a></blockquote>
 
