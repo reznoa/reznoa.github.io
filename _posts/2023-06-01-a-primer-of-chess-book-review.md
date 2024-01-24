@@ -9,7 +9,7 @@ tags: [책, 체스, 호세 라울 카파블랑카, 유정훈, 필요한책, 북�
 '체스의 시작(A Primer of Chess)'은
 체스 천재의 체스 입문서다.
 
-![표지](/images/a-primer-of-chess-book-h480.jpg)
+![표지](/images/book/a-primer-of-chess-book-h480.jpg)
 
 전작인 '[체스의 기본]({% post_url 2022-03-16-chess-fundamentals-book-review %})'은
 프로를 대상으로 한 본격적인 것을 다루는 느낌이라

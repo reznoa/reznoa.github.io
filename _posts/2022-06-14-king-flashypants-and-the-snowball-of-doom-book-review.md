@@ -9,7 +9,7 @@ tags: [책, 소설, 동화, 창작동화, 빤쓰왕 시리즈, 앤디 라일리,
 '빤쓰왕과 공포의 눈폭탄(King Flashypants and the Snowball of Doom)'는
 빤쓰왕 에드윈의 이야기를 담은 시리즈 다섯번째 책이다.
 
-![표지](/images/king-flashypants-and-the-snowball-of-doom-book-h480.jpg)
+![표지](/images/book/king-flashypants-and-the-snowball-of-doom-book-h480.jpg)
 
 빤쓰왕 시리즈는 꽤나 고전을 많이 연상시키는 소설이다.
 아이가 주축인 무리와 어른이 주축인 무리가 한 세계에 공존하고 있고,

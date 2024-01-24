@@ -9,7 +9,7 @@ tags: [책, 과학, 활동책, 클라이브 기퍼드, 김은영, 사파리, 서
 '과학 없는 과학(This is not a Science Book)'은
 과학을 재미있게 체험해볼 수 있게 해주는 체험책이다.
 
-![표지](/images/this-is-not-a-science-book-h480.jpg)
+![표지](/images/book/this-is-not-a-science-book-h480.jpg)
 
 과학이 얼마나 중요한 학문인지는 모두가 알고있다.
 단지 학문적 성취만을 위해서가 아니라,

@@ -8,7 +8,7 @@ tags: [책, 소설, 말러리안, 델피노, 문화충전200%, 서평]
 '블러드 오피스'은
 직장인 문제를 담은 일종의 다크 판타지다.
 
-![표지](/images/blood-office-book-h480.jpg)
+![표지](/images/book/blood-office-book-h480.jpg)
 
 현대를 배경으로
 직장인이라는 대단히 사실적인 소재를 이용해

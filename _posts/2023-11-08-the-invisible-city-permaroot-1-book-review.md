@@ -10,8 +10,8 @@ tags: [책, 소설, 판타지, E. S. 호버트, 팩토리나인, 쌤앤파커스
 독특한 능력자들의 세계를 그린 모험 판타지 소설이다.
 
 <p class="center" markdown="1">
-![표지 1](/images/the-invisible-city-permaroot-1-part-1-book-h480.jpg)
-![표지 2](/images/the-invisible-city-permaroot-1-part-2-book-h480.jpg)
+![표지 1](/images/book/the-invisible-city-permaroot-1-part-1-book-h480.jpg)
+![표지 2](/images/book/the-invisible-city-permaroot-1-part-2-book-h480.jpg)
 </p>
 
 처음 드는 생각 중 하나는, 꽤나 익숙하다는 거다.

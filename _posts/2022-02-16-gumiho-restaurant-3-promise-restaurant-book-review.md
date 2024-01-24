@@ -8,7 +8,7 @@ tags: [책, 소설, 박현숙, 특별한서재, 문화충전200%, 서평]
 '구미호 식당 3: 약속 식당'은
 못 다 이룬 약속을 소재로 한 소설이다..
 
-![표지](/images/gumiho-restaurant-3-promise-restaurant-book-h480.jpg)
+![표지](/images/book/gumiho-restaurant-3-promise-restaurant-book-h480.jpg)
 
 소설에서 말하는 약속은 좀 광범위하다.
 딱히 누군가와 그렇게 하자고 정한 게 아니더라도,

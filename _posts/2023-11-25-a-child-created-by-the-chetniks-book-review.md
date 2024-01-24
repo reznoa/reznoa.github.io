@@ -8,7 +8,7 @@ tags: [책, 소설, 청소년, 장경선, 다른, 북카페 책과 콩나무, �
 '체트니크가 만든 아이'는
 보스니아 전쟁을 소재로한 소설이다.
 
-![표지](/images/a-child-created-by-the-chetniks-book-h480.jpg)
+![표지](/images/book/a-child-created-by-the-chetniks-book-h480.jpg)
 
 동유럽 보스니아 헤르체고비나(Босна и Херцеговина)의 수도 사라예보(Сарајево)를 배경으로 한 이 소설은
 전쟁이 남긴 것과 그렇게 남겨진 사람들의 이야기를

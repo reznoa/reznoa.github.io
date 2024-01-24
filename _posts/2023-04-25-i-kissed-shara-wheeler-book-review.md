@@ -9,7 +9,7 @@ tags: [책, 소설, 로맨스, 성장, 퀴어, 케이시 매퀴스턴, 백지선
 '나는 샤라 휠러와 키스했다(I Kissed Shara Wheeler)'는
 종교와 사회의 억압과 성정체성을 소재로 한 소설이다.
 
-![표지](/images/i-kissed-shara-wheeler-book-h480.jpg)
+![표지](/images/book/i-kissed-shara-wheeler-book-h480.jpg)
 
 처음부터 분명한 메시지를 가지고,
 그것을 전달하기 위한 수단으로써 소설이라는 형태를 택한 것 치고는

@@ -8,7 +8,7 @@ tags: [책, 소설, 동화, 창작동화, 단편, 안수자, 송효정, 모해�
 '긴급 구조작전, 허들링'은
 여덟 편의 단편 동화를 담은 소설집이다.
 
-![표지](/images/emergency-rescue-operation-huddling-book-h480.jpg)
+![표지](/images/book/emergency-rescue-operation-huddling-book-h480.jpg)
 
 각 동화는 모두 다른 주제와 이야기를 담고있다.
 개중에는 작은, 그렇기에 귀엽게 봐줄만한 소동을 담은 것도 있으며,

@@ -8,7 +8,7 @@ tags: [책, 소설, 역사소설, 임창석, 아시아북스, 리뷰어스 클�
 '한삼국지'는
 삼국시대 약 100여년의 전쟁사를 흥미롭게 써낸 소설이다.
 
-![표지](/images/three-kingdoms-of-korea-book-h480.jpg)
+![표지](/images/book/three-kingdoms-of-korea-book-h480.jpg)
 
 나라를 불문하고 그런지는 모르겠지만,
 심지어 한국인들이 공통적으로 그런건지도 잘 모르겠지만,

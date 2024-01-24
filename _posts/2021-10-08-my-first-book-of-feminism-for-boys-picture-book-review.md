@@ -10,7 +10,7 @@ tags: [책, 그림책, 페미니즘, 줄리 머버그, 미셸 브러머 에버�
 '남자아이를 위한 첫 성평등 그림책(My First Book of Feminism for Boys)'은
 남자아이에게 전하는 페미니즘을 담은 그림책이다.
 
-![표지](/images/my-first-book-of-feminism-for-boys-picture-book-h480.jpg)
+![표지](/images/book/my-first-book-of-feminism-for-boys-picture-book-h480.jpg)
 
 과연 어떤 내용을 어떻게 담았을지 궁금했다.
 이 책이, 사회화를 통해 문화처럼 퍼져있는 성차별 의식을

@@ -8,7 +8,7 @@ tags: [책, 숨은그림찾기, 유재영, 슬로래빗, 리뷰어스 클럽, �
 '숨은그림찾기 원정대 03 세계축제 하'는
 세계축제를 테마로 한 숨은그림찾기 책이다.
 
-![표지](/images/fellowship-of-the-hidden-object-3-book-h480.jpg)
+![표지](/images/book/fellowship-of-the-hidden-object-3-book-h480.jpg)
 
 숨은그림찾기는 워낙에 정형화되어있고
 그것이 거의 그대로 널리 사용되고 있는데,

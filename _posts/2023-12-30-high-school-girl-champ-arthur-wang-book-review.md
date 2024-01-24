@@ -8,7 +8,7 @@ tags: [책, 소설, 염기원, 문학세계사, 북카페 책과 콩나무, 서�
 '여고생 챔프 아서왕'은
 권투와 교도소를 소재로 한 소설이다.
 
-![표지](/images/high-school-girl-champ-arthur-wang-book-h480.jpg)
+![표지](/images/book/high-school-girl-champ-arthur-wang-book-h480.jpg)
 
 소재가 소재이다보니 자연스럽게 죄와 벌에 대해서 다루고 있는데,
 이야기의 전개 때문에 복수를 그린 것처럼도 보이고

@@ -8,7 +8,7 @@ tags: [책, 만화, 도감, SCP 재단, 올드스테어즈, 북카페 책과 콩
 'SCP 재단 2'는
 흥미로운 상상력이 돋보이는 가상 캐릭터 만화다.
 
-![표지](/images/scp-foundation-2-comic-book-h480.jpg)
+![표지](/images/book/scp-foundation-2-comic-book-h480.jpg)
 
 이 만화는 [동명의 컨텐츠](http://ko.scp-wiki.net/)를 기반으로 한 것으로,
 자유롭게 상상력을 펼쳐 만들어낸 캐릭터들이

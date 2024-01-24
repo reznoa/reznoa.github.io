@@ -9,7 +9,7 @@ tags: [책, 소설, 판타지, 동화, 창작동화, 학교, 질 머피, 민지�
 '꼴찌 마녀 밀드레드 3: 개구리 마법사 구출 작전(A Bad Spell for the Worst Witch)'은
 시리즈 세번째 책이다.
 
-![표지](/images/worst-witch-3-a-bad-spell-for-the-worst-witch-book-h480.jpg)
+![표지](/images/book/worst-witch-3-a-bad-spell-for-the-worst-witch-book-h480.jpg)
 
 [2권]({% post_url 2021-09-10-worst-witch-2-the-worst-witch-strikes-again-book-review %})에서 미리보기 했던 내용이
 이야기 중간을 잘라붙인 것이어서 왜 그런 일을 겪게됐으며 어떻게 해결하는지 궁금했는데,

@@ -8,7 +8,7 @@ tags: [책, 소설, SF, 청예, 고즈넉이엔티, 북카페 책과 콩나무, 
 '사탕비'는
 인간에 대한 이야기를 그린 SF 소설이다.
 
-![표지](/images/candy-rain-book-h480.jpg)
+![표지](/images/book/candy-rain-book-h480.jpg)
 
 소재 때문에 일단 SF로 분류하기는 한다만,
 막상 읽어보면 이 소설을 SF라고 하기는 좀 그렇다고 느낀다.

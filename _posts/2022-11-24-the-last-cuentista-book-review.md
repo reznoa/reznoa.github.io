@@ -9,7 +9,7 @@ tags: [책, 소설, SF, 도나 바르바 이게라, 김선희, 위즈덤하우�
 '마지막 이야기 전달자(The Last Cuentista)'는
 먼 미래 가상의 인류 사회를 그린 SF 소설이다.
 
-![표지](/images/the-last-cuentista-book-h480.jpg)
+![표지](/images/book/the-last-cuentista-book-h480.jpg)
 
 먼저, 한국어판 제목이 왜 이렇게 되었는지를 얘기하고 넘어가고 싶다.
 '이야기 전달자'라는 건,

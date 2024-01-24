@@ -8,7 +8,7 @@ tags: [책, 소설, 단편, 배명은, 김청귤, 이서영, 고블, 북카페 �
 '앨리스 앤솔로지: 이상한 나라 이야기'는
 '이상한 나라의 앨리스'를 소재로 한 첫번째 앨리스 앤솔로지다.
 
-![표지](/images/alice-anthology-1-wonderland-story-book-h480.jpg)
+![표지](/images/book/alice-anthology-1-wonderland-story-book-h480.jpg)
 
 이상한 나라의 앨리스는 꽤나 2차 창작하기 좋은 소재다.
 아이들을 위한 일종의 동화라는 특성상 상세가 생략된 부분이 많고,

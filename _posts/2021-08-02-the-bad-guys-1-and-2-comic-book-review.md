@@ -10,8 +10,8 @@ tags: [책, 만화, 애런 블레이비, 신수진, 비룡소, 서평]
 착한 녀석들이 되고 싶은 나쁜 녀석들의 이야기를 그린 만화다.
 
 <p class="center" markdown="1">
-![1권 표지](/images/the-bad-guys-1-comic-book-h360.jpg)
-![2권 표지](/images/the-bad-guys-2-comic-book-h360.jpg)
+![1권 표지](/images/book/the-bad-guys-1-comic-book-h360.jpg)
+![2권 표지](/images/book/the-bad-guys-2-comic-book-h360.jpg)
 </p>
 
 여기에 늑대, 뱀, 피라냐, 상어가 있다.

@@ -8,7 +8,7 @@ tags: [책, 소설, 염기원, 문학세계사, 이북카페, 서평]
 '오빠 새끼 잡으러 간다'는
 뒷골 땡기는 가족 이야기를 그린 소설이다.
 
-![표지](/images/im-going-to-catch-my-brother-book-h480.jpg)
+![표지](/images/book/im-going-to-catch-my-brother-book-h480.jpg)
 
 ...라고 하면, 살짝 거짓말이다.
 일부만을 좀 과장해서 표현한 것이기 때문이다.

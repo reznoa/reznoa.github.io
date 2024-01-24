@@ -9,8 +9,8 @@ tags: [책, 소설, 역사소설, 고구려, 을지문덕, 윤선미, 목선재,
 살수대첩으로 유명한 을지문덕의 생애를 그린 역사소설이다.
 
 <p class="center" markdown="1">
-![표지 1](/images/flower-of-salsu-1-book-h480.jpg)
-![표지 2](/images/flower-of-salsu-2-book-h480.jpg)
+![표지 1](/images/book/flower-of-salsu-1-book-h480.jpg)
+![표지 2](/images/book/flower-of-salsu-2-book-h480.jpg)
 </p>
 
 고구려를 배경으로 한 역사소설이라고 하면 먼저 두가지가 떠오른다.

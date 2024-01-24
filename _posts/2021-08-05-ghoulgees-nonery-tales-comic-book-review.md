@@ -8,7 +8,7 @@ tags: [책, 만화, 역사, 중세, 코미디, 수녀, 깊은굴쥐, 왼쪽주�
 '수녀원 이야기'는
 중세 수녀들의 이야기를 재미있게 그려낸 만화다.
 
-![표지](/images/ghoulgees-nonery-tales-comic-book-h480.jpg)
+![표지](/images/book/ghoulgees-nonery-tales-comic-book-h480.jpg)
 
 중세 수녀들의 실상을 꼼꼼한 고증으로 사실적으로 그려냈길 기대한다면 좀 실망할지도 모르겠다.
 작가 스스로도 밝히고 있듯이 별로 그런 쪽에 많은 신경을 쓴 만화는 아니기 때문이다.

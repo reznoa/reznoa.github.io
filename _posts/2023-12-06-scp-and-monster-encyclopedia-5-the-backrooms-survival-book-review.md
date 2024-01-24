@@ -8,7 +8,7 @@ tags: [책, 백룸, 이준하, 서우석, 소담주니어, 소담출판사, 서�
 'SCP와 괴물도감 5: 백룸 생존기'는
 두번째 백룸 이야기를 담은 시리즈 다섯번째 책이다.
 
-![표지](/images/scp-and-monster-encyclopedia-5-the-backrooms-survival-book-h480.jpg)
+![표지](/images/book/scp-and-monster-encyclopedia-5-the-backrooms-survival-book-h480.jpg)
 
 책 제목이 조금 이상하다고 생각될 수 있다.
 이 책에는 단지 백룸에 관한 것들밖에 실려있지 않은데,

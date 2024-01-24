@@ -9,7 +9,7 @@ tags: [책, 만화, 역사, 정명섭, 남문희, 신효승, 레드리버, 북�
 청산리 대첩으로 알려진 싸움의 전말을 꼼꼼하게 그려낸,
 맞서 싸우는 독립전쟁사 두번째 책이다.
 
-![표지](/images/history-of-the-war-of-independence-fighting-back-2-battle-of-qingshanli-comic-book-h480.jpg)
+![표지](/images/book/history-of-the-war-of-independence-fighting-back-2-battle-of-qingshanli-comic-book-h480.jpg)
 
 역사를 기반으로 한 이야기가 아니라
 실제 역사를 다루는 만화는 대부분 공통된 단점을 갖는다.

@@ -9,7 +9,7 @@ tags: [책, 소설, 에린 헌터, 윤영, 가람어린이, 북카페 책과 콩
 '용기의 땅 4: 어둠의 그림자(Bravelands #4: Shifting Shadows)'는
 용기의 땅에서 벌어지는 동물들의 이야기를 그린 네번째 책이다.
 
-![표지](/images/bravelands-4-shifting-shadows-book-h480.jpg)
+![표지](/images/book/bravelands-4-shifting-shadows-book-h480.jpg)
 
 음모가 척결되고 평화가 돌아올 줄 알았더니,
 그래서 상처도 많이 받아지만 함께 합심해서 남아있는 문제들이나 새롭게 대두되는 위협을 극복해나갈 줄 았았더니,

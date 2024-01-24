@@ -8,9 +8,9 @@ tags: [책, 소설, 미스터리, 스릴러, 윤이나, 팩토리나인, 이북�
 '놈의 기억 2'는
 기억 이식과 삭제라는 SF적인 소재를 이용한 미스터리 스릴러 완결권이다.
 
-![표지](/images/memory-of-a-murderer-2-book-cover.jpg)
+![표지](/images/book/memory-of-a-murderer-2-book-cover.jpg)
 
-![21](/images/memory-of-a-murderer-2-book-p12.jpg)
+![12](/images/book/memory-of-a-murderer-2-book-p12.jpg)
 
 이 소설의 주요한 미스터리와 스릴러는 크게 두가지에서 나온다.
 하나는 범인은 누구이며 그의 범죄를 어떻게 증명할 것이냐 하는 것이고,

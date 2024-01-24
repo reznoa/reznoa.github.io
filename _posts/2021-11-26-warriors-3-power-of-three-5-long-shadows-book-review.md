@@ -9,7 +9,7 @@ tags: [책, 소설, 에린 헌터, 서현정, 가람어린이, 북카페 책과 
 '전사들 3부 셋의 힘 5 길어진 그림자(Warriors: Power of Three #5 Long Shadows)'는
 전형적인 전사들의 이야기와 다소 놀라운 이야기가 공존하는 소설이다.
 
-![표지](/images/warriors-3-power-of-three-5-long-shadows-book-h480.jpg)
+![표지](/images/book/warriors-3-power-of-three-5-long-shadows-book-h480.jpg)
 
 솔직히 전권을 보면서 생각했던 그런 내용이 이어지거나 하지는 않았다.
 직전의 이야기가 마치 엄청난 대격변이 일어나서

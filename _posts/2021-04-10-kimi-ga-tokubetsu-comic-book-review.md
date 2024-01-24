@@ -9,7 +9,7 @@ tags: [책, 만화, 순정, 로맨스, 성장, 코다 모모코, 학산문화사
 '너는 특별해 1(君がトクベツ 1)'은
 꽃미남 아이돌과 평범한 여고생의 로맨스를 그린 순정만화다.
 
-![커버](/images/kimi-ga-tokubetsu-comic-book-h480.jpg)
+![커버](/images/book/kimi-ga-tokubetsu-comic-book-h480.jpg)
 
 순정만화는 다소 뻔한 감이 있다.
 특히 이미 익숙해져 버린,

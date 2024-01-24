@@ -10,7 +10,7 @@ tags: [책, 소설, 창작동화, 늑대, 로잔느 패리, 모니카 아르미�
 '늑대 원더(A Wolf Called Wander)'는
 한 늑대의 이야기를 그린 소설이다.
 
-![표지](/images/a-wolf-called-wander-book-h480.jpg)
+![표지](/images/book/a-wolf-called-wander-book-h480.jpg)
 
 동물의 입장에서 그들의 이야기를 그린 소설들은
 설사 동물을 주인공으로 하고 있더라도 대부분 인간의 이야기를 담고 있는 것들이 많다.

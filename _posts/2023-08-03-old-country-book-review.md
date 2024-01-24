@@ -10,7 +10,7 @@ tags: [책, 소설, 스릴러, 매트 쿼리, 해리슨 쿼리, 심연희, 다�
 '이웃 사냥: 죽여야 사는 집(Old Country)'은
 뻔하면서도 흥미로운 스릴러다.
 
-![표지](/images/old-country-book-h480.jpg)
+![표지](/images/book/old-country-book-h480.jpg)
 
 외진 장소에 있는 낯선 공간,
 비밀스러운 무언가가 있는 과거,

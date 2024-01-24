@@ -8,7 +8,7 @@ tags: [책, 역사, 곽재식, 인물과사상사, 컬처블룸, 서평]
 '대한민국 미스터리 사건 수첩'은
 완전히 해결되지 않은 과거 사건들을 정리해 담은 책이다.
 
-![표지](/images/korea-mystery-case-note-book-h480.jpg)
+![표지](/images/book/korea-mystery-case-note-book-h480.jpg)
 
 시작부터 저자의 변이 장황하다.
 아무래도 실제 사건에 대해 담은 것이라서

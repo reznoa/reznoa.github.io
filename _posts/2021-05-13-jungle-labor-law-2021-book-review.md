@@ -8,7 +8,7 @@ tags: [책, 법, 노동법, 박용호, 이영욱, 삼일인포마인, 북카페 
 '정글 노동법(2021)'은
 사례를 통해 노동법을 알아볼 수 있도록 한 책이다.
 
-![표지](/images/jungle-labor-law-2021-book-h480.jpg)
+![표지](/images/book/jungle-labor-law-2021-book-h480.jpg)
 
 법은 어렵다.
 왜냐하면 규정이 있느냐 없느냐는 물론,

@@ -9,18 +9,18 @@ published: false
 '세컨디자인 퍼스트 립밤 리스토어 앤 수딩'은
 깔끔하고 발림감이 좋은 입술전용 보습 립밤이다.
 
-![패키지 1](/images/2ndesign-first-lip-balm-restore-and-soothing-review-01.jpg)
+![패키지 1](/images/review/2ndesign-first-lip-balm-restore-and-soothing-review-01.jpg)
 
-![패키지 2](/images/2ndesign-first-lip-balm-restore-and-soothing-review-02.jpg)
+![패키지 2](/images/review/2ndesign-first-lip-balm-restore-and-soothing-review-02.jpg)
 
 <p class="center" markdown="1">
-![표기 1](/images/2ndesign-first-lip-balm-restore-and-soothing-review-03.jpg)
-![표기 2](/images/2ndesign-first-lip-balm-restore-and-soothing-review-04.jpg)
+![표기 1](/images/review/2ndesign-first-lip-balm-restore-and-soothing-review-03.jpg)
+![표기 2](/images/review/2ndesign-first-lip-balm-restore-and-soothing-review-04.jpg)
 </p>
 
-![제품 1](/images/2ndesign-first-lip-balm-restore-and-soothing-review-05.jpg)
+![제품 1](/images/review/2ndesign-first-lip-balm-restore-and-soothing-review-05.jpg)
 
-![제품 2](/images/2ndesign-first-lip-balm-restore-and-soothing-review-06.jpg)
+![제품 2](/images/review/2ndesign-first-lip-balm-restore-and-soothing-review-06.jpg)
 
 주요 성분은 호호바씨 오일, 스쿠알란, 로즈힙열매 오일, 망고씨버터, 세라마이드엔피, 피토스핑고신 여섯가지다.
 이것들이 입술에 부족한 수분을 보충해주고,
@@ -32,18 +32,18 @@ published: false
 피부 자극 테스트 역시 무자극 판정을 받아
 민감한 사람도 부담없이 접근할 수 있도록 했다.
 
-![입구](/images/2ndesign-first-lip-balm-restore-and-soothing-review-07.jpg)
+![입구](/images/review/2ndesign-first-lip-balm-restore-and-soothing-review-07.jpg)
 
-![제형](/images/2ndesign-first-lip-balm-restore-and-soothing-review-08.jpg)
+![제형](/images/review/2ndesign-first-lip-balm-restore-and-soothing-review-08.jpg)
 
 립밤은 대게 통에 담긴 것과 튜브에 담긴 것이 있는데,
 튜브에 담긴 것은 소량인만큼 가지고다니기 편하며 별도로 면봉 등을 준비하지 않아도
 좁은 입구를 통해 조금씩 짜면서 바로 바를 수 있어 휴대용으로 사용하기 좋다.
 
 <p class="center" markdown="1">
-![사용 1](/images/2ndesign-first-lip-balm-restore-and-soothing-review-09.jpg)
-![사용 2](/images/2ndesign-first-lip-balm-restore-and-soothing-review-10.jpg)
-![사용 3](/images/2ndesign-first-lip-balm-restore-and-soothing-review-11.jpg)
+![사용 1](/images/review/2ndesign-first-lip-balm-restore-and-soothing-review-09.jpg)
+![사용 2](/images/review/2ndesign-first-lip-balm-restore-and-soothing-review-10.jpg)
+![사용 3](/images/review/2ndesign-first-lip-balm-restore-and-soothing-review-11.jpg)
 </p>
 
 발림성은 보통 립밤이라 하면 기대하는 것과 크게 다르지 않다.

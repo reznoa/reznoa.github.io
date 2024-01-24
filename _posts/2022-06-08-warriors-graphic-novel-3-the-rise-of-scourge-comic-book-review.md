@@ -11,7 +11,7 @@ tags: [책, 만화, 에린 헌터, 댄 졸리, 베티나 M. 컬코스키, 서현
 '전사들 그래픽 노블: 스커지의 탄생(Warriors: Ravenpaw's Path)'은
 피족 지도자 스커지의 과거를 그린 만화다.
 
-![표지](/images/warriors-graphic-novel-3-the-rise-of-scourge-comic-book-h480.jpg)
+![표지](/images/book/warriors-graphic-novel-3-the-rise-of-scourge-comic-book-h480.jpg)
 
 전사들 시리즈에서 피족은 상당히 중요한 위치에 있다.
 종족 고양이들을 크게 뒤흔들었을 뿐 아니라,

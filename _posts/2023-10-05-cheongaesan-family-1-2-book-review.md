@@ -8,7 +8,7 @@ tags: [책, 소설, 동화, 창작동화, 박현숙, 길개, 특서주니어, �
 '천개산 패밀리'는
 유기견을 소재로 한 소설이다.
 
-![표지](/images/cheongaesan-family-1-2-book-h480.jpg)
+![표지](/images/book/cheongaesan-family-1-2-book-h480.jpg)
 
 현대는 어쩌면 반려동물의 시대라고도 해도 좋을지 모른다.
 많은 사람들이 반려동물을, 심지어 여럿 키우며,

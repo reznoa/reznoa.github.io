@@ -8,7 +8,7 @@ tags: [책, 소설, SF, 이시형, 델피노, 북카페 책과 콩나무, 서평
 '편리한 진실'은
 기술 발전에 대한 부정적인 측면을 재조명해보는 소설이다.
 
-![표지](/images/convenient-truth-book-h480.jpg)
+![표지](/images/book/convenient-truth-book-h480.jpg)
 
 기술 발전은 다른 소재에 비해 유독 긍정적인 면과 부정적인 면의 격차가 크며
 두가지 측면이 공전하는 일도 잘 없다.

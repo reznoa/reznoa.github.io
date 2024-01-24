@@ -10,7 +10,7 @@ tags: [책, 소설, 청소년, 뱀파이어, 시에나 머서, 김시경, 벽장
 인기와 자기다움에 고민하는 소녀들의 이야기를 담은
 뱀파이어 시스터 시리즈(My Sister the Vampire Series)의 14번째 책이다.
 
-![표지](/images/my-sister-the-vampire-14-flipping-out-book-h480.jpg)
+![표지](/images/book/my-sister-the-vampire-14-flipping-out-book-h480.jpg)
 
 영화 촬영을 일단락 하고 프랭클린 그로브로 돌아온 '올리비아'.
 익숙한 집 분위기에서 편안하게 생활하며

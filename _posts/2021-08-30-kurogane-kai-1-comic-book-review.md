@@ -9,7 +9,7 @@ tags: [책, 만화, 판타지, 사극, 토우메 케이, 학산문화사, 오피
 '흑철+(黒鉄・改 KUROGANE-KAI)'는
 떠돌이 무사의 이야기를 그린 판타지 시대극이다.
 
-![표지](/images/kurogane-kai-1-comic-book-cover.jpg)
+![표지](/images/book/kurogane-kai-1-comic-book-cover.jpg)
 
 토우메 케이는 좀 특이한 작가라고 할 수 있다.
 한 작품을 집중해서 그려 완결하고 다음 작품으로 넘어가는 대개의 작가들과 달리
@@ -47,11 +47,11 @@ tags: [책, 만화, 판타지, 사극, 토우메 케이, 학산문화사, 오피
 캐릭터를 등장시키는 것부터 그들을 이용해 이야기를 심화하는 것은 물론 연출이나 묘사도 대체로 좋아서
 다분히 전형적이라 할만한 이야기인데도 불구하고 흥미롭게 보게 만든다.
 
-![7](/images/kurogane-kai-1-comic-book-p007.jpg)
+![7](/images/book/kurogane-kai-1-comic-book-p007.jpg)
 
 <p class="center" markdown="1">
-![45](/images/kurogane-kai-1-comic-book-p045.jpg)
-![46](/images/kurogane-kai-1-comic-book-p046.jpg)
+![45](/images/book/kurogane-kai-1-comic-book-p045.jpg)
+![46](/images/book/kurogane-kai-1-comic-book-p046.jpg)
 </p>
 
 다만, 그런 쪽에 강점이 있는 작가답게(?) 액션신은 꽤 부족함이 엿보인다.
@@ -64,13 +64,13 @@ tags: [책, 만화, 판타지, 사극, 토우메 케이, 학산문화사, 오피
 애초에 액션에 별로 큰 중점을 둔 만화는 아니므로
 처음부터 좀 감안하고 봐야하지 않을까 싶다.
 
-![49](/images/kurogane-kai-1-comic-book-p049.jpg)
+![49](/images/book/kurogane-kai-1-comic-book-p049.jpg)
 
 컬러가 모두 날아갔다는 것도 아쉽다.
 처음부터 흑백으로 그린거면 모르겠는데, 컬러였던 걸 흑백으로 바꾸면 그것만으로도 많이 열화되는 거라.
 만화에 애정을 갖고 컬러도 좀 신경써서 살려줬으면 좋았으련만.
 
-![4](/images/kurogane-kai-1-comic-book-p004.jpg)
+![4](/images/book/kurogane-kai-1-comic-book-p004.jpg)
 
 흑철+는 흑철의 후속작인만큼 기본적으로는 전작에서 이어지는 이야기이고,
 그래서 전작을 보지 않은 사람이라면 기왕에 만들어진 등장인물간의 관계를 몰라 이야기가 매끄럽지 않아 보일 수도 있다.

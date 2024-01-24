@@ -9,7 +9,7 @@ tags: [책, 전기, 베른하르트 옌드리케, 홍준기, 이화북스, 북�
 '히치콕(Alfred Hitchcock)'은
 영화의 거장으로 알려진 히치콕의 생애를 담은 전기소설이다.
 
-![표지](/images/alfred-hitchcock-book-h480.jpg)
+![표지](/images/book/alfred-hitchcock-book-h480.jpg)
 
 앨프레드 히치콕은 왠만한 영화애호인이라면 다 알 정도로 유명하고,
 그의 팬이 있을 정도로 좋은 작품도 많이 만들었으며,

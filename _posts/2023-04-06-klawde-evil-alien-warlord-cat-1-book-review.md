@@ -11,7 +11,7 @@ tags: [책, 소설, SF, 동화, 창작동화, 성장, 조니 마르시아노, �
 '외계 고양이 클로드 1: 추방된 황제(Klawde: Evil Alien Warlord Cat #1)'는
 재미있게 볼만한 SF 창작동화다.
 
-![표지](/images/klawde-evil-alien-warlord-cat-1-book-w600.jpg)
+![표지](/images/book/klawde-evil-alien-warlord-cat-1-book-w600.jpg)
 
 SF에서 가장 흔히 사용하는 소재가 외계 생명체다.
 좀 더 정확하게 말하자면 외계 지적 생명체로,

@@ -9,7 +9,7 @@ tags: [책, 소설, 판타지, SF, 모리미 토미히코, 서혜영, 작가정�
 '펭귄 하이웨이(ペンギン.ハイウェイ / Penguin Highway)'는
 어느 날 평화롭던 마을에 나타난 펭귄과 그걸 지켜보는 아이들의 이야기를 그린 판타지 소설이다.
 
-![표지](/images/penguin-highway-book-h480.jpg)
+![표지](/images/book/penguin-highway-book-h480.jpg)
 
 이 소설은 작가의 최신작은 아니다.
 이미 2010년에 발간했던 것이라 작가의 팬이라면 이미 다들 봤을텐데,

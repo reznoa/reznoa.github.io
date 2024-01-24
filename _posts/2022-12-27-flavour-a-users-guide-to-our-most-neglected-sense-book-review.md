@@ -9,7 +9,7 @@ tags: [책, 과학, 밥 홈즈, 원광우, 정재훈, 처음북스, 컬처블룸
 '맛의 과학(Flavour: A User's Guide to Our Most Neglected Sense)'은
 맛에 과한 여러가지 과학적인 사실들을 담은 책이다.
 
-![표지](/images/flavour-a-users-guide-to-our-most-neglected-sense-book-h480.jpg)
+![표지](/images/book/flavour-a-users-guide-to-our-most-neglected-sense-book-h480.jpg)
 
 맛있는 음식은 현대인들이 가장 원하고 찾아다니는 것 중 하나다.
 그것이 점점 더 심화되어 지금은 꽤나 신성시 된 측면도 있는데,

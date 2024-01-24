@@ -9,7 +9,7 @@ tags: [책, 에세이, 카시와이, 이수은, 홍익출판미디어그룹, 북
 '혼자인 밤에 당신과 나누고 싶은 10가지 이야기(ひとりの夜にあなたと話したい10のこと)'는
 굉장히 감성적인 그림 에세이다.
 
-![표지](/images/hitori-no-yoruni-anatato-hanashitai-10-no-koto-book-h480.jpg)
+![표지](/images/book/hitori-no-yoruni-anatato-hanashitai-10-no-koto-book-h480.jpg)
 
 솔직히 내용은 딱히 뭐라고 얘기해야 할지 애매하다.
 명확한 이야기가 있는 것은 아니며,

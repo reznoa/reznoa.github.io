@@ -8,7 +8,7 @@ tags: [책, 소설, 미스터리, 권정현, 자음과모음, 이북카페, 서�
 '검은 모자를 쓴 여자'는
 한 여자의 기묘한 이야기를 그린 소설이다.
 
-![표지](/images/woman-in-the-black-hat-book-h480.jpg)
+![표지](/images/book/woman-in-the-black-hat-book-h480.jpg)
 
 읽고나서 처음 드는 솔직한 감상은 '뭐야 이게?'였다.
 좀 난해하기 때문이다.

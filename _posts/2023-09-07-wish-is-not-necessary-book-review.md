@@ -8,7 +8,7 @@ tags: [책, 소설, SF, 청소년, 탁경은, 특별한서재, 북카페 책과 
 '소원 따위 필요 없어'는
 간절한 소원을 간직한 아이들의 특별한 모험을 그린 소설이다.
 
-![표지](/images/wish-is-not-necessary-book-h480.jpg)
+![표지](/images/book/wish-is-not-necessary-book-h480.jpg)
 
 소설의 주인공인 '민아', '혜주', 그리고 '동수'는
 모두 확실한 소원을 가진 아이들이다.

@@ -8,7 +8,7 @@ tags: [책, 소설, 미스터리, 코지 미스터리, 장아결, 팩토리나�
 '안개꽃 빌라의 탐식가들'은
 한 여성 전용 셰어 하우스를 배경으로 벌어지는 일을 그린 코지 미스터리 소설이다.
 
-![표지](/images/gluttons-of-the-babys-breath-villa-book-h480.jpg)
+![표지](/images/book/gluttons-of-the-babys-breath-villa-book-h480.jpg)
 
 시작하면 잠시 좀 혼란함을 느낄 수도 있다.
 다수의 인물들이 한꺼번에 뭉텅이로 등장해서는

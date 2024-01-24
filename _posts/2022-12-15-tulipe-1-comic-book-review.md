@@ -9,7 +9,7 @@ tags: [책, 만화, 철학, 소피 게리브, 정혜경, 팡 그래픽노블, �
 'TULiPE 1: 튤립의 날들(TULiPE)'은
 튤립 시리즈 첫번째 책이다.
 
-![표지](/images/tulipe-1-comic-book-h480.jpg)
+![표지](/images/book/tulipe-1-comic-book-h480.jpg)
 
 때때로 이런 책들이 있다.
 겉보기엔 가벼운 유아용 이야기인 것 같지만,

@@ -9,7 +9,7 @@ tags: [책, 소설, 인도, 발리 카우르 자스월, 작은미미, 박원희,
 '정숙한 과부들을 위한 발칙한 야설 클럽(Erotic Stories for Punjabi Widows)'은
 한 인도계 영국 여성이 뜻밖의 수업을 끌어가게 되면서 벌어지는 일을 그린 소설이다.
 
-![표지](/images/erotic-stories-for-punjabi-widows-book-h480.jpg)
+![표지](/images/book/erotic-stories-for-punjabi-widows-book-h480.jpg)
 
 제목이 풍기는 발칙한 느낌 때문에 꽤나 유쾌한 코미디가 담긴 가벼운 이야기일 거라고 생각하기 쉬운데,
 실제로는 꽤나 묵직하고 진지한 이야기와 메시지가 담긴 소설이다.

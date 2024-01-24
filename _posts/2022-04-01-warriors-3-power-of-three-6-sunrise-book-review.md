@@ -9,7 +9,7 @@ tags: [책, 소설, 에린 헌터, 서현정, 가람어린이, 북카페 책과 
 '전사들 3부 셋의 힘 6 일출(Warriors: Power of Three #6 Sunrise)'는
 이전권들을 다시 돌아보고 다음을 기대하게 만드는 3부의 마지막 책이다.
 
-![표지](/images/warriors-3-power-of-three-6-sunrise-book-h480.jpg)
+![표지](/images/book/warriors-3-power-of-three-6-sunrise-book-h480.jpg)
 
 전사들 시리즈는 상당히 흥미로우면서도
 또 어떻게 보면 좀 식상한 것도 사실이었다.

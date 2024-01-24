@@ -8,7 +8,7 @@ tags: [책, 소설, 아포칼립스, 김이환, 북다, 컬처블룸, 서평]
 '(세상이 멸망하고) 소심한 사람들만 남았다'는
 시트콤같은 아포칼립스 소설이다.
 
-![표지](/images/only-timid-people-remain-book-h480.jpg)
+![표지](/images/book/only-timid-people-remain-book-h480.jpg)
 
 어떻게 보면 좀 전형적인 이야기랄수도 있다.
 기존에도 바이러스 등 병원균으로 인한 종말은 아포칼립스의 주류 중 하나였던데다가,

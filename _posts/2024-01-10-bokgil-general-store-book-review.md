@@ -8,7 +8,7 @@ tags: [책, 소설, 연극원작, 이민혁, 뜰book, 꿈소담이, 서평]
 '복길잡화점'은
 한 가족의 이야기를 담은 소설이다.
 
-![표지](/images/bokgil-general-store-book-h480.jpg)
+![표지](/images/book/bokgil-general-store-book-h480.jpg)
 
 생각보다, 아니 어쩌면 예상대로, 굉장히 익숙한 소설이다.
 치매라는 소재부터가 그만큼 흔하게 많이 쓰인 것이지 않던가.

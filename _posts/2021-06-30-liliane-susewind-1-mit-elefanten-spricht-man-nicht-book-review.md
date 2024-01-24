@@ -9,7 +9,7 @@ tags: [책, 소설, 동화, 창작동화, 타냐 슈테브너, 코마가타, 서
 '동물과 말하는 아이 릴리 1: 코끼리를 구해 줘!(Liliane Susewind #1 Mit Elefanten spricht man nicht!)'는
 신기한 능력을 지닌 소녀의 이야기를 그린 소설이다.
 
-![표지](/images/liliane-susewind-1-mit-elefanten-spricht-man-nicht-book-h480.jpg)
+![표지](/images/book/liliane-susewind-1-mit-elefanten-spricht-man-nicht-book-h480.jpg)
 
 '릴리'에겐 특별한 능력이 있다.
 식물을 꽃피우거나 동물과 말을 주고받을 수 있는 능력이다.

@@ -9,7 +9,7 @@ tags: [책, 그림책, 브리타 테큰트럽, 김서정, 주니어RHK, 북카�
 '잠깐만 기다려 줘!(Der große und der kleine Igel: Warte doch mal!)'는
 잠시 멈췄을 때 비로소 보이는 것들을 그린 그림책이다.
 
-![표지](/images/der-grobe-und-der-kleine-igel-warte-doch-mal-picture-book-h480.jpg)
+![표지](/images/book/der-grobe-und-der-kleine-igel-warte-doch-mal-picture-book-h480.jpg)
 
 메시지 자체는 다소 뻔한 감이 있다.
 왜냐하면 그동안 수 많은 사람들이 대중앞에 나와서 가장 못해서 아쉬웠던 것,

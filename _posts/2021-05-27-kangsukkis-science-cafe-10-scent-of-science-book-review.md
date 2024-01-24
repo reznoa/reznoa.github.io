@@ -8,7 +8,7 @@ tags: [책, 과학, 에세이, 강석기, 강석기의 과학카페, MiD, 북카
 '과학의 향기'는
 강석기의 과학카페 시리즈 10번째 책이다.
 
-![표지](/images/kangsukkis-science-cafe-10-scent-of-science-book-h480.jpg)
+![표지](/images/book/kangsukkis-science-cafe-10-scent-of-science-book-h480.jpg)
 
 최신 과학 이슈들을 다루는 [과학 컬럼](http://dongascience.donga.com/journalist.php?email=kangsukki%40gmail.com)을 근저로 한 이 책은
 조금 시간이 지났는데도 여전히 비교적 최신 과학을 소개하는 역할을 한다.

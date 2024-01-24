@@ -9,7 +9,7 @@ tags: [책, 소설, 미스터리, 홀리 잭슨, 고상숙, 북레시피, 컬처
 '굿 걸, 배드 블러드(Good Girl, Bad Blood)'는
 '여고생 핍 시리즈(A Good Girl's Guide to Murder Series)' 두번째 책이다.
 
-![표지](/images/a-good-girls-guide-to-murder-2-good-girl-bad-blood-book-h480.jpg)
+![표지](/images/book/a-good-girls-guide-to-murder-2-good-girl-bad-blood-book-h480.jpg)
 
 미스터리, 그 중에서 범죄소설이라고도 하고 탐정소설이라고도 하는 추리소설은
 번뜩였던 하나의 단편을 그 기원으로 삼는만큼

@@ -3,18 +3,19 @@ layout: post
 title: "관절 연골 건강에 도움이 되는 건강기능식품 - 관절쎈"
 category: 건강
 tags: [관절, 연골, 비타민, 미네랄, 마그네슘, 건강기능식품, 네추럴에프엔피, 닥터피플, 레뷰]
+published: false
 ---
 
 '닥터피플'의 '관절쎈'은
 관절과 연골 건강에 도움이 되는 건강기능식품이다.
 
-![배송](/images/doctor-people-joint-ssen-01.jpg)
+![배송](/images/review/doctor-people-joint-ssen-01.jpg)
 
-![패키지](/images/doctor-people-joint-ssen-02.jpg)
+![패키지](/images/review/doctor-people-joint-ssen-02.jpg)
 
-![표기 1](/images/doctor-people-joint-ssen-03.jpg)
+![표기 1](/images/review/doctor-people-joint-ssen-03.jpg)
 
-![표기 2](/images/doctor-people-joint-ssen-04.jpg)
+![표기 2](/images/review/doctor-people-joint-ssen-04.jpg)
 
 관절쎈은 이름에서부터 드러내다시피
 기본적으로는 MSM, NAG(N아세틸글루코사민), 칼슘 등
@@ -32,39 +33,39 @@ tags: [관절, 연골, 비타민, 미네랄, 마그네슘, 건강기능식품, �
 그로인해 신경이 쓰이거나 실제적인 불편감을 느꼈던 사람이라면
 여러 영양제를 조합할 필요 없이 관절쎈 하나로 관련 영양소를 채울 수 있어 도움이 되지 않을까 싶다.
 
-![패키지 밀봉](/images/doctor-people-joint-ssen-05.jpg)
+![패키지 밀봉](/images/review/doctor-people-joint-ssen-05.jpg)
 
-![패키지 오픈](/images/doctor-people-joint-ssen-06.jpg)
+![패키지 오픈](/images/review/doctor-people-joint-ssen-06.jpg)
 
-![구성](/images/doctor-people-joint-ssen-07.jpg)
+![구성](/images/review/doctor-people-joint-ssen-07.jpg)
 
-![설명서 1](/images/doctor-people-joint-ssen-08.jpg)
+![설명서 1](/images/review/doctor-people-joint-ssen-08.jpg)
 
-![설명서 2](/images/doctor-people-joint-ssen-09.jpg)
+![설명서 2](/images/review/doctor-people-joint-ssen-09.jpg)
 
-![유통기한](/images/doctor-people-joint-ssen-10.jpg)
+![유통기한](/images/review/doctor-people-joint-ssen-10.jpg)
 
 영양제가 의례 그렇듯 제품 구성은 단촐한데,
 영양정보나 기능정보 등을 겉 포장과 별첨 설명서, 제품 표면 등에 충실히 표기한 것은 마음에 든다.
 영양제도 일종의 식품이고 유통기한이 중요한만큼
 포장지 외에 제품에도 분명하게 표시한 것 역시 좋다.
 
-![개봉 1](/images/doctor-people-joint-ssen-11.jpg)
+![개봉 1](/images/review/doctor-people-joint-ssen-11.jpg)
 
-![개봉 2](/images/doctor-people-joint-ssen-12.jpg)
+![개봉 2](/images/review/doctor-people-joint-ssen-12.jpg)
 
 산화를 막기 위해 밀봉도 확실하게 되어있는데,
 손톱 등을 이용해 힘겹게 뜯지 않아도 되게 손잡이 달린 밀봉을 사용한 것이나
 개봉 후 끈적이는 접착제가 남지 않는 것도 맘에 든다.
 
-![충전물](/images/doctor-people-joint-ssen-13.jpg)
+![충전물](/images/review/doctor-people-joint-ssen-13.jpg)
 
-![제품](/images/doctor-people-joint-ssen-14.jpg)
+![제품](/images/review/doctor-people-joint-ssen-14.jpg)
 
 케이스 안에는 파손을 막기위한 충전물과
 개봉 후 일정기간동안의 품질 유지를 책임져줄 습기제거제가 들어있다.
 
-![제형](/images/doctor-people-joint-ssen-15.jpg)
+![제형](/images/review/doctor-people-joint-ssen-15.jpg)
 
 관절쎈 제품은 별다른 표기없이 밋밋한 타원형 모양을 하고 있는데,
 적당한 크기와 두께로 수월하게 삼키기 위해 고안된 전형적인 먹는 알약의 형태다.

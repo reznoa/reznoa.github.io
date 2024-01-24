@@ -8,7 +8,7 @@ tags: [책, 과학, 권기균, 이창섭, 리스컴, 북카페 책과 콩나무,
 '어린이를 위한 세상을 바꾼 과학 이야기'는
 기존에 사랑받았던 책을 최신 정보를 반영해 개정한 책이다.
 
-![표지](/images/science-story-that-changed-the-world-for-kids-book-h480.jpg)
+![표지](/images/book/science-story-that-changed-the-world-for-kids-book-h480.jpg)
 
 '세상을 바꾼 과학 이야기'의 어린이판이라고 할 수 있는 이 책은,
 아이들이 손쉽게 읽을 수 있도록 쉬운 문장을 사용하고

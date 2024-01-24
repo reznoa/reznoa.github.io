@@ -9,8 +9,8 @@ tags: [책, 소설, 김이은, 오르트북스, 고즈넉이엔티, 북카페 �
 한 특별한 학교에 대한 이야기를 그린 소설이다.
 
 <p class="center" markdown="1">
-![표지 1](/images/servant-school-1-book-h480.jpg)
-![표지 2](/images/servant-school-2-book-h480.jpg)
+![표지 1](/images/book/servant-school-1-book-h480.jpg)
+![표지 2](/images/book/servant-school-2-book-h480.jpg)
 </p>
 
 하인을 양성하는 학교라는 것 자체는 딱히 특별해 보이지 않는다.

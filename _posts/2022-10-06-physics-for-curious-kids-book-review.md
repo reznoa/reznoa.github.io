@@ -10,7 +10,7 @@ tags: [책, 과학, 물리, 로라 베이커, 알렉스 포스터, 권영균, �
 '열두 살 궁그미를 위한 물리(Physics for Curious Kids)'는
 다양한 물리 지식을 담은 '열두 살 궁그미를 위한 과학' 시리즈 1권이다.
 
-![표지](/images/physics-for-curious-kids-book-h480.jpg)
+![표지](/images/book/physics-for-curious-kids-book-h480.jpg)
 
 얼핏 저연령층을 대상으로 한 흥미위주의 훑어보기식 그림책 같지만,
 이 책 시리즈는 초등학교 고학년을 대상으로 꽤나 본격적으로 과학을 이야기하는 진심 과학책이다.

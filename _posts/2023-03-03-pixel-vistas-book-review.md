@@ -9,7 +9,7 @@ tags: [책, 예술, 그래픽사 편집부, 이제호, 아르누보, 컬처블�
 '픽셀 아트북: 현대 픽셀 아트의 세계(ピクセル百景: 現代ピクセルアートの世界; Pixel Vistas: A Collection of Contemporary Pixel Art)'는
 여러 픽셀 아트를 담은 일종의 화집이다.
 
-![표지](/images/pixel-vistas-book-h480.jpg)
+![표지](/images/book/pixel-vistas-book-h480.jpg)
 
 픽셀이란 작은 점 하나를 의미한다.
 그것들을 하나씩 찍어서 완성하는 그림인 픽셀 아트는

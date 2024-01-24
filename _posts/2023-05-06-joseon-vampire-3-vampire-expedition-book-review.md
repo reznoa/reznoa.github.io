@@ -8,7 +8,7 @@ tags: [책, 소설, 동화, 창작동화, 판타지, 뱀파이어, 설흔, 고�
 '조선 흡혈귀전 3: 흡혈귀 원정대'는
 조선을 배경으로 한 몬스터 판타지 소설이다.
 
-![표지](/images/joseon-vampire-3-vampire-expedition-book-h480.jpg)
+![표지](/images/book/joseon-vampire-3-vampire-expedition-book-h480.jpg)
 
 '흡혈귀 원정대'란 부제가 붙은 이 시리즈 세번째 소설은,
 흡혈귀에 대항하기 위한 비밀조직과

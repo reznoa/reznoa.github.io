@@ -8,7 +8,7 @@ tags: [책, 게임, 모장, 이주안, 영진닷컴, 북카페 책과 콩나무,
 '마인크래프트 크리에이티브 핸드북(All New Minecraft Creative Handbook)'은
 건축을 시작하는 크리에이터를 위한 공식 가이드 북이다.
 
-![표지](/images/all-new-minecraft-creative-handbook-h480.jpg)
+![표지](/images/book/all-new-minecraft-creative-handbook-h480.jpg)
 
 마인크래프트는 대표적인 샌드박스 게임인만큼
 그 안에서 실로 다양한 것들을 만들어 볼 수 있는데,

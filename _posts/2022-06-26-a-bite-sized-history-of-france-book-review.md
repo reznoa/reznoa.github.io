@@ -10,7 +10,7 @@ tags: [책, 역사, 음식, 스테판 에노, 제니 미첼, 임지연, 북스�
 '한 입 크기의 프랑스 역사: 혁명과 전쟁, 그리고 미식 이야기(A Bite-Sized History of France: Delicious, Gastronomic Tales of Revolution, War, and Enlightenment)'는
 프랑스의 여러 음식과 그에 관한 역사 등을 담은 책이다.
 
-![표지](/images/a-bite-sized-history-of-france-book-h480.jpg)
+![표지](/images/book/a-bite-sized-history-of-france-book-h480.jpg)
 
 프랑스라고 하면 혁명이라던가 에펠탑같은 상징물 등 여러 것들을 떠올릴 수 있는데,
 그런 것들 중에는 항상 음식에 관한 것도 끼어있다.

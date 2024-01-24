@@ -11,7 +11,7 @@ tags: [책, 만화, 에린 헌터, 댄 졸리, 제임스 L. 베리, 서현정, �
 '전사들 그래픽 노블: 레이븐포의 길(Warriors: Ravenpaw's Path)'은
 농장에서 사는 레이븐포와 발리의 이야기를 그린 만화다.
 
-![표지](/images/warriors-graphic-novel-2-ravenpaws-path-comic-book-h480.jpg)
+![표지](/images/book/warriors-graphic-novel-2-ravenpaws-path-comic-book-h480.jpg)
 
 천둥족 출신인 레이븐포는 발리와 함께 농장에서 느긋한 생활을 해나가고 있다.
 농장에 살고있는 다른 동물들과는 나름 선을 지키며 지내고 있으며,

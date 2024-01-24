@@ -8,7 +8,7 @@ tags: [책, 에세이, 아쿠타가와 류노스케, 다자이 오사무, 나쓰
 '눈부신 하루'는
 일본을 대표하는 여러 작가들의 에세이를 모은 책이다.
 
-![표지](/images/shinning-day-book-h480.jpg)
+![표지](/images/book/shinning-day-book-h480.jpg)
 
 <!--
 나에게 문학이란

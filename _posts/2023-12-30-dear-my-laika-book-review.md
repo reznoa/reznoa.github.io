@@ -8,7 +8,7 @@ tags: [책, 소설, 청소년, SF, 김연미, 토마토출판사, 이북카페, 
 '디어 마이 라이카'는
 우주여행을 소재로 한 SF 소설이다.
 
-![표지](/images/dear-my-laika-book-h480.jpg)
+![표지](/images/book/dear-my-laika-book-h480.jpg)
 
 제목이 꽤나 익숙하다.
 '라이카'는 회사나 제품 명, 견종명으로도 많이 쓰이고 있는데다

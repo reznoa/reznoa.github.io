@@ -9,7 +9,7 @@ tags: [책, 소설, 미셸 뷔시, 이선민, 힘찬북스, 북카페 책과 콩
 'CODE 612 누가 어린 왕자를 죽였는가(Code 612 Qui a tué le Petit Prince?)'는
 어린왕자에 얽힌 의문을 소재로 한 소설이다.
 
-![표지](/images/code-612-qui-a-tu-le-petit-prince-book-h480.jpg)
+![표지](/images/book/code-612-qui-a-tu-le-petit-prince-book-h480.jpg)
 
 일종의 미스터리 소설이라고 할 수 있겠다.
 어린 왕자의 해석에 대한 분분한 의견,

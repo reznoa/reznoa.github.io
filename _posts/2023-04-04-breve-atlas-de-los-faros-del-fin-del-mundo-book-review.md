@@ -9,7 +9,7 @@ tags: [책, 등대, 곤살레스 마시아스, 엄지영, 오렌지디, 컬처�
 '세상 끝 등대: 바다 위 낭만적인 보호자(Breve Atlas de los Faros del Fin del Mundo)'는
 세계 곳곳의 등대를 담은 일종의 지도첩이다.
 
-![표지](/images/breve-atlas-de-los-faros-del-fin-del-mundo-book-h480.jpg)
+![표지](/images/book/breve-atlas-de-los-faros-del-fin-del-mundo-book-h480.jpg)
 
 지도첩(Atlas)란,
 말 그대로 여러 지역의 지도를 모은 책이라는 말이다.

@@ -8,7 +8,7 @@ tags: [책, 소설, 동화, 창작동화, 역사, 미스터리, 신은경, 여�
 '조선소녀탐정록 2: 삼짇날 꽃놀이 사건과 추리 천재 홍조이의 활약'은
 추리 로맨스 역사 동화 시리즈 두번째 책이다.
 
-![표지](/images/joseon-girl-detective-2-book-h480.jpg)
+![표지](/images/book/joseon-girl-detective-2-book-h480.jpg)
 
 이번 이야기는 주인공 일행이 꽃놀이를 갔다가
 뜻밖의 장면을 목격하게 되면서 시작한다.

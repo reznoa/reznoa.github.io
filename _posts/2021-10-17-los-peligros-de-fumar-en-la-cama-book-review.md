@@ -9,7 +9,7 @@ tags: [책, 소설, 단편, 호러, 마리아나 엔리케스, 엄지영, 오렌
 '침대에서 담배를 피우는 것은 위험하다(Los peligros de fumar en la cama)'는
 저자의 대표적인 공포 단편들을 담은 소설집이다.
 
-![표지](/images/los-peligros-de-fumar-en-la-cama-book-h480.jpg)
+![표지](/images/book/los-peligros-de-fumar-en-la-cama-book-h480.jpg)
 
 익숙한 호러 소설집을 생각했다면 좀 물음표를 띄우게 될지도 모르겠다.
 일상을 벗어난 불안정함 등으로 심리적인 공포를 느끼게 하는 것이나,

@@ -9,7 +9,7 @@ tags: [책, 소설, 자전소설, 북극, 요른 릴, 지연리, 열림원, 리�
 '북극 허풍담 5: 휴가(Skrøner #5: Rejsen til Nanga - en usædvanlig lang skrøne)'는
 북극을 배경으로 한 작가의 자전 소설이다.
 
-![표지](/images/skroner-5-rejsen-til-nanga-en-usaedvanlig-lang-skrone-book-h480.jpg)
+![표지](/images/book/skroner-5-rejsen-til-nanga-en-usaedvanlig-lang-skrone-book-h480.jpg)
 
 '허풍담'이라는 제목에서 받는 첫 인상은
 굉장히 과장된 이야기를 늘어놓는 일종의 우스개소리구나 하는 거다.

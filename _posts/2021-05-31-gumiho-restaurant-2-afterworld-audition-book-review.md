@@ -8,7 +8,7 @@ tags: [책, 소설, 박현숙, 특별한서재, 북카페 책과 콩나무, 서�
 '구미호 식당 2: 저세상 오디션'은
 저세상에서 벌어지는 특이한 오디션을 소재로 한 소설이다.
 
-![표지](/images/gumiho-restaurant-2-afterworld-audition-book-h480.jpg)
+![표지](/images/book/gumiho-restaurant-2-afterworld-audition-book-h480.jpg)
 
 망자들이 오디션을 봐야한다니, 이유가 뭘까.
 이들은 그냥 죽은 사람이 아니라 스스로 삶을 버린 사람들이기 때문이다.

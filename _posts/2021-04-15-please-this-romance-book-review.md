@@ -8,7 +8,7 @@ tags: [책, 소설, 단편, 로맨스, 청소년, 이선주, 서화교, 김명�
 '이번 연애는 제발!'은
 청소년들의 풋풋한 사랑 이야기를 담은 소설집이다.
 
-![표지](/images/please-this-romance-book-h480.jpg)
+![표지](/images/book/please-this-romance-book-h480.jpg)
 
 연애와 사랑은 꼭 좋은 것만은 아니다.
 성공이 있으면 실패도 있고,

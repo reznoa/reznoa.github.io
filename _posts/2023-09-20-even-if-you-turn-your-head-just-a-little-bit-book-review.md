@@ -8,7 +8,7 @@ tags: [책, 소설, 사회파, 김정금, 델피노, 북카페 책과 콩나무,
 '조금만 고개를 돌려도'는
 보험사기를 소재로 한 미스터리 소설이다.
 
-![표지](/images/even-if-you-turn-your-head-just-a-little-bit-book-h480.jpg)
+![표지](/images/book/even-if-you-turn-your-head-just-a-little-bit-book-h480.jpg)
 
 꽤나 조사를 잘 한 것 같다.
 보험이 대게 무슨 약관상 허점을 갖고 있는지나,

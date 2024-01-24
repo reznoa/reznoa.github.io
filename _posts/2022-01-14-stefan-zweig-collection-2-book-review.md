@@ -9,7 +9,7 @@ tags: [책, 소설, 단편, 슈테판 츠바이크, 정상원, 이화북스, 북
 '슈테판 츠바이크(Stefan Zweig)'의
 단편을 엮은 두번째 소설집이다.
 
-![표지](/images/stefan-zweig-collection-2-book-h480.jpg)
+![표지](/images/book/stefan-zweig-collection-2-book-h480.jpg)
 
 슈테판 츠바이크는 엄밀히 말하자면 그렇게 대중적인 소설 작가는 아니다.
 꽤 유명한 작가이긴 하나 그것은 전기 소설로 그런 것이지 창작 소설로 그런 것은 아니기 때문이다.

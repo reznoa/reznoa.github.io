@@ -10,7 +10,7 @@ tags: [책, 과학, 다나가 미유키, 유키 치요코, 후지시마 아키�
 '물리학자가 들려주는 물리학 이야기(人物でよみとく物理)'는
 인물 중심으로 과학 지식과 역사를 들려주는 책이다.
 
-![표지](/images/jinbutsu-de-yomitoku-butsuri-book-h480.jpg)
+![표지](/images/book/jinbutsu-de-yomitoku-butsuri-book-h480.jpg)
 
 거의 과학 전반에대해서 다 다루고 있는 책이다.
 무려 15가지 주제를 꼽고,

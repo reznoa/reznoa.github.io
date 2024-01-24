@@ -8,7 +8,7 @@ tags: [책, 소설, 단편, SF, 김준녕, 고블, 북카페 책과 콩나무, �
 '0번 버스는 2번 지구로 향한다'는
 다양한 SF 단편들을 담은 소설집이다.
 
-![표지](/images/bus-no-0-heads-to-earth-no-2-book-h480.jpg)
+![표지](/images/book/bus-no-0-heads-to-earth-no-2-book-h480.jpg)
 
 과학적 상상력을 기반으로 미래를 배경으로 한 이야기를 그리는
 SF는 그 특성상 일종의 예언문학같은 성격을 띈다.

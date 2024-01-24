@@ -15,7 +15,7 @@ tags: [책, 건축, 스기모토 다쓰히코, 나가오키 미쓰루, 가부라
 '세상엔 알고 싶은 건축물이 너무도 많아(建築用語図鑑 西洋篇)'는
 고대부터 현대까지의 서양 건축물들을 담은 책이다.
 
-![표지](/images/kenchiku-yogo-zukan-seiyo-hen-book-h480.jpg)
+![표지](/images/book/kenchiku-yogo-zukan-seiyo-hen-book-h480.jpg)
 
 시대별 대표 건축물들과 그것들이 담고있는 구조와 양식 등에 대해 이야기하는 이 책은
 건축이라는 전문 분야를 담고있기 때문에

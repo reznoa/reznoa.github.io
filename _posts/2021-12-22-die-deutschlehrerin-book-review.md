@@ -9,7 +9,7 @@ tags: [책, 소설, 미스터리, 로맨스, 유디트 타슐러, 홍순란, 임
 '국어교사(Die Deutschlehrerin)'는
 한 국어교사와 유명 작가 사이의 과거를 추적해나가는 미스터리 소설이다.
 
-![표지](/images/die-deutschlehrerin-book-h480.jpg)
+![표지](/images/book/die-deutschlehrerin-book-h480.jpg)
 
 소설은 마치 전혀 다른 장르의 이야기인 것처럼 시작한다.
 그저 흔한 로맨스인 것처럼 말이다.

@@ -10,7 +10,7 @@ tags: [책, 그림책, 모리아 버터필드, 파고 스튜디오, 박여진, �
 '미래로의 여행(A Trip to the Future)'은
 근미래의 모습을 상상해 담은 그림책이다.
 
-![표지](/images/a-trip-to-the-future-picture-book-h480.jpg)
+![표지](/images/book/a-trip-to-the-future-picture-book-h480.jpg)
 
 SF의 가장 주된 역할 중 하나는, 충분히 도래할만한 미래를 상상해보게 하는 거다.
 그를 통해 막상 그러한 미래가 닥쳤을 때 무엇을 고려해야 하는지는 물론,

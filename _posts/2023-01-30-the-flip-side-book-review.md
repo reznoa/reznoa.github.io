@@ -9,7 +9,7 @@ tags: [책, 소설, 로맨스, 제임스 베일리, 서현정, 청미래, 컬처
 '플립 사이드(The Flip Side)'는
 인생에 대한 독특한 메시지를 던지는 로맨스 코미디다.
 
-![표지](/images/the-flip-side-book-h480.jpg)
+![표지](/images/book/the-flip-side-book-h480.jpg)
 
 시작이 사뭇 끔찍하다.
 대체 일이 어쩌다 그렇게 된 건지 냉정하게 따져보기엔

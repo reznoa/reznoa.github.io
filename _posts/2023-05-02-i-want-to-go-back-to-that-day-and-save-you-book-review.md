@@ -8,7 +8,7 @@ tags: [책, 소설, 소년법, 시간여행, 우대경, 델피노, 컬처블룸,
 '그날로 다시 돌아가 널 살리고 싶어'는
 촉법소년 문제를 소재로 한 소설이다.
 
-![표지](/images/i-want-to-go-back-to-that-day-and-save-you-book-h480.jpg)
+![표지](/images/book/i-want-to-go-back-to-that-day-and-save-you-book-h480.jpg)
 
 무엇보다 빡치는 상황이 무얼까.
 소설에서나 있는 완전범죄 그딴 것도 아니고,

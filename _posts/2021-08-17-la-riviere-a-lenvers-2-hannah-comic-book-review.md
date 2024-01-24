@@ -12,7 +12,7 @@ tags: [책, 만화, 소설원작, 장 클로드 무를르바, 막스 레르메�
 '거꾸로 흐르는 강 2: 한나(La rivière à l’envers : Hannah)'는
 '장 클로드 무를르바(Jean-Claude Mourlevat)'의 소설을 원작으로 한 만화다.
 
-![표지](/images/la-riviere-a-lenvers-2-hannah-comic-book-h480.jpg)
+![표지](/images/book/la-riviere-a-lenvers-2-hannah-comic-book-h480.jpg)
 
 [토멕의 이야기를 그린 1권]({% post_url 2021-08-17-la-riviere-a-lenvers-1-tomek-comic-book-review %})의 후속권인 이 책은,
 소설 '거꾸로 흐르는 강'의 후속작 '한나 이야기(Hannah)'를 원작으로 한 만화다.

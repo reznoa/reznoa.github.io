@@ -9,7 +9,7 @@ tags: [책, 소설, 잠뜰TV, 박미진, 루체, 서울문화사, 북카페 책�
 '써니 사이드 타운: 하'는
 동명의 방송 컨텐츠 소설의 완결권이다.
 
-![표지](/images/sleepground-sunny-side-town-2-book-h480.jpg)
+![표지](/images/book/sleepground-sunny-side-town-2-book-h480.jpg)
 
 [상권]({% post_url 2023-05-01-sleepground-sunny-side-town-1-book-review %})은
 대부분이 미지로 가려져있는 상황하에서 벌어지는 서바이벌 상황을 그린 것이다보니

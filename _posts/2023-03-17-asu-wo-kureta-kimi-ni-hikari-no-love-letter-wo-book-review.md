@@ -9,7 +9,7 @@ tags: [책, 소설, 고자쿠라 스즈, 김은모, 놀, 북카페 책과 콩나
 '내일을 준 너에게, 마지막 러브레터를(明日をくれた君に、光のラブレターを)'은
 10대 감성을 꽤나 잘 담아낸 일종의 로맨스 소설이다.
 
-![표지](/images/asu-wo-kureta-kimi-ni-hikari-no-love-letter-wo-book-h480.jpg)
+![표지](/images/book/asu-wo-kureta-kimi-ni-hikari-no-love-letter-wo-book-h480.jpg)
 
 아니, 이걸 로맨스 소설이라고 소개해도 될지 모르겠다.
 하여튼 요즘 소설들은 워낙에 여러 요소들이 복합적으로 섞여있어서.

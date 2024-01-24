@@ -10,7 +10,7 @@ tags: [책, 플랩북, 과학, 라라 브라이언, 테레사 벨론, 신인수,
 '쏙쏙 과학 세상: 우리 몸(Step inside Science: Your Body)'은
 우리 몸의 이모저모를 살펴볼 수 있게 만든 플랩북이다.
 
-![표지](/images/step-inside-science-your-body-flap-book-h480.jpg)
+![표지](/images/book/step-inside-science-your-body-flap-book-h480.jpg)
 
 책은 우리 몸이 어떤 것들로, 어떻게 구성되어있는지를 보여주고,
 각각이 어떤 역할을 하는지를

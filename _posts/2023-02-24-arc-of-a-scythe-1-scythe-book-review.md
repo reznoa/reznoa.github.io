@@ -9,7 +9,7 @@ tags: [책, 소설, SF, 닐 셔스터먼, 이수현, 열린책들, 이북카페,
 '수확자(Scythe)'는
 수확자 시리즈(Arc of a Scythe)의 첫번째 책이다.
 
-![표지](/images/arc-of-a-scythe-1-scythe-book-h480.jpg)
+![표지](/images/book/arc-of-a-scythe-1-scythe-book-h480.jpg)
 
 삼부작에 외전까지 총 4권으로 구성된 이 시리즈는,
 펼치자마자 꽤나 감탄을 자아내게 한다.

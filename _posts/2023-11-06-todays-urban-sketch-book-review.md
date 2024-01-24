@@ -8,7 +8,7 @@ tags: [책, 미술, 드로잉샤론, 김미경, 도서출판 큰그림, 북카�
 '오늘은 어반스케치'는
 그림 그리기에 관심 있는 사람을 위한 어반스케치 입문서다.
 
-![표지](/images/todays-urban-sketch-book-h480.jpg)
+![표지](/images/book/todays-urban-sketch-book-h480.jpg)
 
 참 쉽게 그린다.
 많이 그려봤기 때문이다.

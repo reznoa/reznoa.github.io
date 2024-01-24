@@ -9,7 +9,7 @@ tags: [책, 소설, 자전소설, 북극, 요른 릴, 지연리, 열림원, YES2
 '북극 허풍담 7: 위험한 여행(Skrøner #7: Signalkanonen og andre skrøner)'은
 북극을 배경으로 한 자전 소설 시리즈 7번째 책이다.
 
-![표지](/images/skroner-7-signalkanonen-og-andre-skroner-book-h480.jpg)
+![표지](/images/book/skroner-7-signalkanonen-og-andre-skroner-book-h480.jpg)
 
 제목에서부터 대놓고 허풍, 그러니까 과장, 그렇기 때문에 어떤 의미로는 거짓말이라고 박아두고 하는 얘기치고,
 이 시리즈는 생각보다 그렇게 터무니없다 싶은 이야기만 나오는 것은 아니다.

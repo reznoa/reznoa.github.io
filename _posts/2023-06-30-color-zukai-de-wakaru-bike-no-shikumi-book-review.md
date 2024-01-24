@@ -9,7 +9,7 @@ tags: [책, 공학, 모터사이클, 이치카와 가쓰히코, 김정환, 조�
 '모터사이클 구조 원리 교과서: 라이더의 심장을 울리는 모터바이크 메커니즘 해설(カラー図解でわかるバイクのしくみ: ライダーなら知っておきたいメカニズムの基本から最新技術まで)'는
 실로 제목 그대로의 책이다.
 
-![표지](/images/color-zukai-de-wakaru-bike-no-shikumi-book-h480.jpg)
+![표지](/images/book/color-zukai-de-wakaru-bike-no-shikumi-book-h480.jpg)
 
 매력적인 탈것이라고 하면,
 역시 바이크 즉 모터사이클을 꼽을 수밖에 없다.

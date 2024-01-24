@@ -9,7 +9,7 @@ tags: [책, 소설, 로맨스, BB 이스턴, 김보라, 파피펍, 이북카페,
 '스피드(Speed: A 44 Chapters Novel Book 2)'는
 '[4남자에 관한 44장의 일기(44 Chapters about 4 Men)]({% post_url 2021-08-06-44-chapters-about-4-men-book-review %})'의 스핀오프 소설 두번째 권이다.
 
-![표지](/images/44-chapters-spinoff-2-speed-book-h480.jpg)
+![표지](/images/book/44-chapters-spinoff-2-speed-book-h480.jpg)
 
 2권은 다소 충격적인 내용으로 시작한다.
 아니, 아무리 [1권]({% post_url 2021-08-20-44-chapters-spinoff-1-skin-book-review %})에서

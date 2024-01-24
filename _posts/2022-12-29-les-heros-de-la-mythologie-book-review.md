@@ -10,7 +10,7 @@ tags: [책, 신화, 그리스 로마 신화, 오드 고에민, 안 로르 바루
 '그리스 로마 신화의 주인공들(Les Héros de la Mythologie)'은
 그리스 로마 신화를 인물 중심으로 재미있게 엮어낸 책이다.
 
-![표지](/images/les-heros-de-la-mythologie-book-h480.jpg)
+![표지](/images/book/les-heros-de-la-mythologie-book-h480.jpg)
 
 각색을 통해 하나의 일관된 흐름을 가진 소설로 다시 써낸 것이나,
 에피소드를 나열하는 식으로 엮는 대부분의 책들과 달리,

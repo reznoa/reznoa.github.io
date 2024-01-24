@@ -8,7 +8,7 @@ tags: [책, 그림책, 장다영, 최지규, 유란, 탐구인간, 북카페 책
 '벽을 오르는 사람들'은
 인간과 세상을 단순화하여 표현한 '사람들 시리즈'의 첫번째 책이다.
 
-![표지](/images/people-who-climb-the-wall-picture-book-h480.jpg)
+![표지](/images/book/people-who-climb-the-wall-picture-book-h480.jpg)
 
 애초의 목표가 그렇다보니,
 이 책은 일반적인 그림책과 달리 동화적인 내용을 다루거나 하지 않는다.

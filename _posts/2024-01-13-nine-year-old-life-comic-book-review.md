@@ -8,7 +8,7 @@ tags: [책, 만화, 공영석, 성안당, 북카페 책과 콩나무, 서평]
 '아홉살인생'은
 20세기 소년의 일상을 담은 만화다.
 
-![표지](/images/nine-year-old-life-comic-book-h480.jpg)
+![표지](/images/book/nine-year-old-life-comic-book-h480.jpg)
 
 1979년 마산을 배경으로 한 이 만화는,
 딱히 대단한 에피소드나 극적인 반전 같은 것은 나오지 않기에 어찌보면 좀 심심할 수 있지만,

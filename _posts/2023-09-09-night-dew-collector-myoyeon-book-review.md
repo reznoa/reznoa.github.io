@@ -8,7 +8,7 @@ tags: [책, 소설, 판타지, 루하서, 델피노, 북카페 책과 콩나무,
 '밤이슬 수집사, 묘연'은
 밤이슬이라는 특별한 것을 모으는 수집사와 짐사들의 이야기를 그린 판타지 소설이다.
 
-![표지](/images/night-dew-collector-myoyeon-book-h480.jpg)
+![표지](/images/book/night-dew-collector-myoyeon-book-h480.jpg)
 
 '밤이슬'은 죽음에 처한 인간에게만, 특별한 조건이 만족됐을 때 얻을 수 있는 특별한 이슬이다.
 이 이슬은 구하기 어려운만큼 놀라운 효능을 갖고있기도 한데,

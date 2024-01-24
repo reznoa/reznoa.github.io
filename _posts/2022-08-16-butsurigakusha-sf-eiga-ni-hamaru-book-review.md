@@ -9,7 +9,7 @@ tags: [책, 과학, 영화, SF, 다카미즈 유이치, 위정훈, 애플북스,
 '물리학자처럼 영화 보기(物理学者、SF映画にハマる)'는
 12편의 영화에 담겨있는 과학 이야기를 담은 책이다.
 
-![표지](/images/butsurigakusha-sf-eiga-ni-hamaru-book-h480.jpg)
+![표지](/images/book/butsurigakusha-sf-eiga-ni-hamaru-book-h480.jpg)
 
 다른 동물과 대비되는 인간만의 특징은 상상력이라고 한다.
 경험을 하고 그를 통해 배우는 것은 동물들도 할 수 있지만,

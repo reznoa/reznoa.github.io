@@ -9,7 +9,7 @@ tags: [책, 건강, 운동, 카르스텐 레쿠타트, 이은미, 피카라이�
 '평생 써먹는 기적의 운동 20(Gesundheit für Faule: Mach nicht viel, mach es richtig)'은
 운동하지 않는 현대인을 위한 책이다.
 
-![표지](/images/gesundheit-fuer-faule-book-h480.jpg)
+![표지](/images/book/gesundheit-fuer-faule-book-h480.jpg)
 
 다소 일본식 운동책 같은 제목이다.
 그래서 익숙한 포맷을 생각하기 쉽지만,

@@ -9,7 +9,7 @@ tags: [책, 소설, 에린 헌터, 서현정, 가람어린이, 북카페 책과 
 '전사들 4부 별들의 징조 1: 네 번째 훈련병(Warriors: Omen of the Stars #1 The Fourth Apprentice)'은
 드디어 예언의 실체가 드러나는 4부 첫 책이다.
 
-![표지](/images/warriors-4-omen-of-the-stars-1-the-fourth-apprentice-book-h480.jpg)
+![표지](/images/book/warriors-4-omen-of-the-stars-1-the-fourth-apprentice-book-h480.jpg)
 
 3부는 꽤 뜻밖인 면이 있었다.
 

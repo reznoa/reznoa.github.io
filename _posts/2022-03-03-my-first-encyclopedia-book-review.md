@@ -16,7 +16,7 @@ tags: [책, 백과사전, 매튜 올덤, 에밀리 본, 알렉스 프리스, 앨
 디자인: 앨리스 리스 / 니콜라 버틀러
 -->
 
-![표지](/images/my-first-encyclopedia-book-h480.jpg)
+![표지](/images/book/my-first-encyclopedia-book-h480.jpg)
 
 '대백과'라는 이름처럼,
 이 책은 우리가 사는 세계에서부터 우주, 과학, 인체, 동물, 공룡은 물론 옛 역사에 이르기까지

@@ -8,7 +8,7 @@ tags: [책, 소설, SF, 윤여경, 이지북, YA!, 북카페 책과 콩나무, �
 '내 첫사랑은 가상 아이돌'은
 근미래적인 소재들을 사용한 SF 로맨스 소설이다.
 
-![표지](/images/my-first-love-is-virtual-idol-book-h480.jpg)
+![표지](/images/book/my-first-love-is-virtual-idol-book-h480.jpg)
 
 전체 시놉은 생각보다 나쁘지 않다.
 굴곡이 나름대로 긴장감이나 흥미를 끌기도 하여

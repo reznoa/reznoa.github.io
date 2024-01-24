@@ -8,7 +8,7 @@ tags: [책, 소설, 판타지, 김다윤, 팩토리나인, 북카페 책과 콩�
 '불행한 당신을 위하여'는
 현재가 불행하다 생각하는 이들에게 보내는 작은 위로같은 이야기다.
 
-![표지](/images/for-unfortunate-you-book-h480.jpg)
+![표지](/images/book/for-unfortunate-you-book-h480.jpg)
 
 이 소설은 일종의 판타지라고 할 수 있다.
 주인공이라 할 수 있는 '다온'이 얻은 '빨간책' 부터가 그렇다.

@@ -8,7 +8,7 @@ tags: [책, 소설, 판타지, 고딕호러, 성장, 남유하, 고블, 고블 �
 '얼음 속의 엄마를 떠나보내다'는
 얼음 왕국에서 펼쳐지는 한 소녀의 성장을 그린 동화같은 판타지 소설이다.
 
-![표지](/images/let-go-of-my-mother-in-the-ice-book-h480.jpg)
+![표지](/images/book/let-go-of-my-mother-in-the-ice-book-h480.jpg)
 
 겨울이 계속 된다면 어떨까라는 단순한 생각과 뭔가 있어보이는 짧은 문장을
 꽤나 그럴듯한 이야기로 잘 만들어냈다.

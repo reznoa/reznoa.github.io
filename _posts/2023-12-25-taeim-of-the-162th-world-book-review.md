@@ -8,7 +8,7 @@ tags: [책, 소설, 청소년, SF, 시간여행, 평행세계, 남유하, 텔레
 '162번째 세계의 태임이'는
 시간여행을 소재로 한 청소년 SF 소설이다.
 
-![표지](/images/taeim-of-the-162th-world-book-h480.jpg)
+![표지](/images/book/taeim-of-the-162th-world-book-h480.jpg)
 
 인간은 계속해서 같은 실수를 반복하고 그걸 후회한다.
 아무리 세월이 지나도, 문화가 바뀌어도, 과학과 논리가 쌓인다고 해도

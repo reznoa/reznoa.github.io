@@ -8,7 +8,7 @@ tags: [책, 소설, 심아진, 솔출판사, 북카페 책과 콩나무, 서평]
 '후예들'은
 영웅의 후예들을 독특하게 그려낸 소설이다.
 
-![표지](/images/descendants-book-h480.jpg)
+![표지](/images/book/descendants-book-h480.jpg)
 
 이 소설에는 몇가지 독특한 점이 있다.
 

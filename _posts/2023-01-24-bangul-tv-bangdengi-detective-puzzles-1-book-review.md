@@ -8,7 +8,7 @@ tags: [책, 퍼즐, 방울이TV, 유경원, 차현진, 서울문화사, YES24 �
 '방울이TV 방뎅이 탐정 추리퀴즈 1: 수상한 동물병원'은
 여러가지 추리 퀴즈를 담은 만화 스토리북이다.
 
-![표지](/images/bangul-tv-bangdengi-detective-puzzles-1-book-h480.jpg)
+![표지](/images/book/bangul-tv-bangdengi-detective-puzzles-1-book-h480.jpg)
 
 원작은 [방울이TV에서 공개한 동명의 컨텐츠](https://www.youtube.com/watch?v=ptZvTCEqJUQ&list=PLWEPx4KIT0D6cCfOC1bECROt_o2boySAl)인데,
 이 책 시리즈는 거기에서 캐릭터만 따와 새롭게 만든 것이다.

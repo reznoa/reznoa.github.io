@@ -9,7 +9,7 @@ tags: [책, 소설, 요나스 요나손, 임호경, 열린책들, 리뷰어스 �
 '달콤한 복수 주식회사(Sweet Sweet Revenge Ltd.)'는
 복수라는 것을 소재로 유쾌한 이야기를 그려낸 소설이다.
 
-![표지](/images/sweet-sweet-revenge-ltd-book-h480.jpg)
+![표지](/images/book/sweet-sweet-revenge-ltd-book-h480.jpg)
 
 이 소설의 초반은 종종 내가 뭘 보고 있는건지 헷갈리게 만든다.
 주된 이야기 하나에만 집중하는 게 아니라,

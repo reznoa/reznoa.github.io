@@ -8,7 +8,7 @@ tags: [책, 소설, 힙합, 류연웅, 고블, 고블 씬 북, 리뷰어스 클�
 '한국에서 태어나서'는
 힙합을 소재로 한 소설이다.
 
-![표지](/images/born-in-korea-book-h480.jpg)
+![표지](/images/book/born-in-korea-book-h480.jpg)
 
 구성이 꽤나 재미있는 소설이다.
 

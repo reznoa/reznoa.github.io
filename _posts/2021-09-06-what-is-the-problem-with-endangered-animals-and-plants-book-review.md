@@ -8,7 +8,7 @@ tags: [책, 생물, 멸종, 이억주, 동아엠앤비, 리뷰어스 클럽, 서
 '멸종 위기 동식물 무엇이 문제일까?'는
 생물 멸종 상황과 심각성을 알려주는 책이다.
 
-![표지](/images/what-is-the-problem-with-endangered-animals-and-plants-book-h480.jpg)
+![표지](/images/book/what-is-the-problem-with-endangered-animals-and-plants-book-h480.jpg)
 
 겉과 속이 꽤 다른 책이다.
 제목만 보면 마치 문제점을 파헤치고 해결법을 제시할 것 같고,

@@ -9,7 +9,7 @@ tags: [책, 소설, 우화, 동화, 창작동화, 로버트 오브라이언, 최
 '프리스비 부인과 니임의 쥐들(Mrs. Frisby and the Rats of NIMH)'은
 지능이 발달한 특별한 쥐들의 이야기를 그린 우화다.
 
-![표지](/images/mrs-frisby-and-the-rats-of-nimh-book-h480.jpg)
+![표지](/images/book/mrs-frisby-and-the-rats-of-nimh-book-h480.jpg)
 
 소설은 '조나단 프리스비'의 부인과 그의 자식들이 이사 문제로 고민하는 것으로 시작한다.
 그들 가족은 계절에 따라 강으로 또 밭으로 이사를 오가야 했는데,

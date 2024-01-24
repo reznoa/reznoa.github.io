@@ -8,7 +8,7 @@ tags: [책, 과학, 물리, 이광조, 보누스, 북카페 책과 콩나무, �
 '이런 물리라면 포기하지 않을 텐데'는
 물리를 좀 더 쉽고 이해할 수 있게 써낸 책이다.
 
-![표지](/images/if-physics-was-like-this-i-wouldnt-give-up-book-h480.jpg)
+![표지](/images/book/if-physics-was-like-this-i-wouldnt-give-up-book-h480.jpg)
 
 많은 것들을 포기하고 사는 한국인들이
 교육 분야에서 가장 많이 포기하는 과목이 수학과 과학이다.

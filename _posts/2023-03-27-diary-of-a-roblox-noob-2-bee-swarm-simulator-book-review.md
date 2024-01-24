@@ -9,7 +9,7 @@ tags: [책, 소설, 동화, 창작동화, 게임, 로블록시아 키드, 김선
 '로블록시아 키드(Robloxia Kid)'의
 비공식 로블록스 이야기 중 하나다.
 
-![표지](/images/diary-of-a-roblox-noob-2-bee-swarm-simulator-book-h480.jpg)
+![표지](/images/book/diary-of-a-roblox-noob-2-bee-swarm-simulator-book-h480.jpg)
 
 이 소설은 일종의 게이밍 플랫폼인 로블록스의 다양한 게임들을 배경으로 한 이야기를 쓴 로블록시아 키드가
 인기 게임 중 하나인 '벌떼 시뮬레이터(Bee Swarm Simulator)'를 소재로 만든 이야기다.

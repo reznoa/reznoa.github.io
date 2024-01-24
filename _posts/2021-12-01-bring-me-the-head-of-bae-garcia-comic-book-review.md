@@ -8,7 +8,7 @@ tags: [책, 만화, 스릴러, 강태진, 아프로스미디어, 북카페 책�
 '가르시아의 머리'는
 한 배우의 머리를 두고 벌어지는 기묘한 일을 그린 만화다.
 
-![표지](/images/bring-me-the-head-of-bae-garcia-comic-book-h480.jpg)
+![표지](/images/book/bring-me-the-head-of-bae-garcia-comic-book-h480.jpg)
 
 만화 제목의 '가르시아'는 바로 그 배우의 머리다.
 배우가 찍는 영화의 이야기상 머리가 잘리게 되는데,

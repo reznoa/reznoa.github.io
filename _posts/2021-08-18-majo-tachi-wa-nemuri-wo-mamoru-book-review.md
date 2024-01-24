@@ -9,7 +9,7 @@ tags: [책, 소설, 판타지, 마녀, 무라야마 사키, 한성례, 씨큐브
 '마녀는 꿈을 지킨다(魔女たちは眠りを守る)'는
 마녀들가 함께하는 따뜻한 인간 드라마를 그린 소설이다.
 
-![표지](/images/majo-tachi-wa-nemuri-wo-mamoru-book-h480.jpg)
+![표지](/images/book/majo-tachi-wa-nemuri-wo-mamoru-book-h480.jpg)
 
 마녀란 마법을 부리는 여자를 일컷는 말로, 굉장히 광범위한 말이다.
 그래서 이에 속하는 부류도 굉장히 다양해서

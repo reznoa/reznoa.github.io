@@ -9,7 +9,7 @@ tags: [책, 소설, 추리, 암호, 모험, 어린이, 페니 워너, 효고노�
 '암호 클럽 16: 맷이 보낸 SOS(The Code Busters Club #16: Matt the Brat and the Missing Mascot)'는,
 맷의 누명 벗기기를 담은, 시리즈 16번째 책이다.
 
-![표지](/images/the-code-busters-club-16-matt-the-brat-and-the-missing-mascot-book-h480.jpg)
+![표지](/images/book/the-code-busters-club-16-matt-the-brat-and-the-missing-mascot-book-h480.jpg)
 
 항상 대립하고 충돌하는 사고뭉치 '맷'은 암호 클럽에게 일종의 빌런과 같다.
 그런 맷에게서 도와달라는 메시지를 받는다면?

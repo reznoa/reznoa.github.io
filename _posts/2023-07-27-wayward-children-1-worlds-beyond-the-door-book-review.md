@@ -9,7 +9,7 @@ tags: [책, 소설, 판타지, 섀넌 맥과이어, 이수현, 하빌리스, 컬
 '문 너머의 세계들(Every Heart a Doorway)'은
 '문 너머(Wayward Children)' 시리즈 첫번째 책이다.
 
-![표지](/images/wayward-children-1-worlds-beyond-the-door-book-h480.jpg)
+![표지](/images/book/wayward-children-1-worlds-beyond-the-door-book-h480.jpg)
 
 어떻게보면 고전 동화나 신화 등을 생각나게 하는 설정이다.
 갑작스레 이세계로 가게 됐다가,

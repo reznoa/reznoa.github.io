@@ -9,7 +9,7 @@ tags: [책, 소설, 엘렌 오, 천미나, 길벗스쿨, 컬처블룸, 서평]
 '김주니를 찾아서(Finding Junie Kim)'는
 상당히 잘 만들어진 이산문학이다.
 
-![표지](/images/finding-junie-kim-book-h480.jpg)
+![표지](/images/book/finding-junie-kim-book-h480.jpg)
 
 이산문학이란, 민족 국가를 벗어난 이주자의 삶과 정체성 등을 그린 문학을 말한다.
 그러니까, 교포들의 입장과 이야기 따위를 그린 것이라는 말이다.

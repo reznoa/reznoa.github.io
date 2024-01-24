@@ -8,7 +8,7 @@ tags: [책, 소설, 메트릭, 북카페 책과 콩나무, 서평]
 '맹인의 거울'은
 한국 청년들의 현실을 담은 소설이다.
 
-![표지](/images/a-mirror-for-the-blind-book-h480.jpg)
+![표지](/images/book/a-mirror-for-the-blind-book-h480.jpg)
 
 '익명의 온라인 청문회'라느니
 '행복을 다수결 투표에 부친다'는 표지의 소개 문구가

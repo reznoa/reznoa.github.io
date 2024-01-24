@@ -9,7 +9,7 @@ tags: [책, 소설, 로맨스, 가족, 크리스마스, 영화화, 리처드 폴
 '노엘의 다이어리(The Noel Diary)'는
 상처의 회복과 화해를 그린 소설이다.
 
-![표지](/images/the-noel-diary-book-h480.jpg)
+![표지](/images/book/the-noel-diary-book-h480.jpg)
 
 소설은 조금 무거운 이야기로 시작한다.
 주인공인 '제이콥'의 어린 시절이 다소 트라우마적이기 때문이다.

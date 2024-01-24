@@ -8,7 +8,7 @@ tags: [책, 소설, 청소년, 판타지, 학원, 최혜련, 푸른들녘, 북�
 '올랜디네브 기념일 학교'는
 독특한 배경 설정이 흥미로운 판타지 소설이다.
 
-![표지](/images/olandinev-anniversary-school-book-h480.jpg)
+![표지](/images/book/olandinev-anniversary-school-book-h480.jpg)
 
 완전히 새로운 세계관을 새롭게 만들고
 그 배경에서 벌어지는 이야기를 그린 판타지 소설이다보니

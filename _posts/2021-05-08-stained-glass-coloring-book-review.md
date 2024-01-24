@@ -8,7 +8,7 @@ tags: [책, 스테인드 글라스, 컬러링, 독개비, 리뷰어스 클럽, �
 '1일 1장 스테인드 글라스 컬러링'은
 스테인드 글라스의 매력을 느껴볼 수 있게 만든 컬러링 북이다.
 
-![표지](/images/stained-glass-coloring-book-h480.jpg)
+![표지](/images/book/stained-glass-coloring-book-h480.jpg)
 
 스테인드 글라스는 정말 매력적인 예술이다.
 거기에는 몇가지 당연한 이유가 있는데,

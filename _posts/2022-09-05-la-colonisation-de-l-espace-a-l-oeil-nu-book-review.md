@@ -10,7 +10,7 @@ tags: [책, 과학, 우주, 실뱅 채티, 릴리 데 벨롱, 신용림, 인싸�
 '지구인의 우주 살기(La colonisation de l'espace à l'oeil nu)'는
 우주개발의 이모저모를 담은 책이다.
 
-![표지](/images/la-colonisation-de-l-espace-a-l-oeil-nu-book-h480.jpg)
+![표지](/images/book/la-colonisation-de-l-espace-a-l-oeil-nu-book-h480.jpg)
 
 수십년만에 다시금 우주개발의 시대가 도래했다.
 당초의 우주개발은, 견제하고있는 상대 국가를 기죽이고 자신들의 기술을 자랑하기 위한

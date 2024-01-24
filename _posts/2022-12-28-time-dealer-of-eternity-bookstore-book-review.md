@@ -8,7 +8,7 @@ tags: [책, 소설, 창작동화, 판타지, 이윤주, 오윤화, 고래가숨�
 '영원책방의 시간 딜러'는
 과거로 갈 수 있는 기회를 제공하는 특별한 책방을 소재한 판타지 소설이다.
 
-![표지](/images/time-dealer-of-eternity-bookstore-book-h480.jpg)
+![표지](/images/book/time-dealer-of-eternity-bookstore-book-h480.jpg)
 
 문득 눈에 띈 책에 빨려들어 읽고나니,
 끝 부분에 특별한 문구가 눈에 띈다.

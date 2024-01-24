@@ -9,7 +9,7 @@ tags: [책, 소설, 단편, 알퐁스 도데, 팡세미니, 리뷰어스 클럽,
 '마지막 수업(La Dernière Classe)'은
 아름답고 슬픈 단편 일곱개를 담은 소설집이다.
 
-![표지](/images/la-derniere-classe-book-h480.jpg)
+![표지](/images/book/la-derniere-classe-book-h480.jpg)
 
 이 단편 소설집에 담긴 이야기들은 마치 일종의 동화같다.
 얼핏보면 비현실적으로 느껴질만큼 순수함이라는 것을 깨끗한 그대로 잘 그려내서

@@ -10,7 +10,7 @@ tags: [책, 그림책, 동화, 다비드 칼리, 파티냐 라모스, 박선주,
 '투르말린 공주'는
 보석을 소재로 한 색다른 그림책이다.
 
-![표지](/images/tourmaline-picture-book-h480.jpg)
+![표지](/images/book/tourmaline-picture-book-h480.jpg)
 
 책의 등장인물들은 형형색색의 보석들에서 그 모티브를 따왔다.
 그랬다고 해도 거의 색 뿐이긴 하지만 말이다.

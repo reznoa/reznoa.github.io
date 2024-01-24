@@ -9,13 +9,13 @@ published: false
 '로더베르 시그니처 퍼퓸 샴푸'는
 마치 향수처럼 오래가는 향을 포함한 샴푸다.
 
-![포장](/images/lodeur-vert-signature-perfume-shampoo-baby-powder-01.jpg)
+![포장](/images/review/lodeur-vert-signature-perfume-shampoo-baby-powder-01.jpg)
 
-![표기 1](/images/lodeur-vert-signature-perfume-shampoo-baby-powder-02.jpg)
+![표기 1](/images/review/lodeur-vert-signature-perfume-shampoo-baby-powder-02.jpg)
 
-![표기 2](/images/lodeur-vert-signature-perfume-shampoo-baby-powder-03.jpg)
+![표기 2](/images/review/lodeur-vert-signature-perfume-shampoo-baby-powder-03.jpg)
 
-![유통기한](/images/lodeur-vert-signature-perfume-shampoo-baby-powder-04.jpg)
+![유통기한](/images/review/lodeur-vert-signature-perfume-shampoo-baby-powder-04.jpg)
 
 로더베르 시그니처 퍼퓸 샴푸는 이름처럼 특정한 향을 샴푸에 담아낸 것이 특징이다.
 그것도 그저 향을 좀 첨가한 정도라 아니라 꽤 제대로 넣어놔서
@@ -27,11 +27,11 @@ published: false
 그건 처음 제품이 개봉되면서 막혀있던 향이 쏟아져 나와서 그랬던 것이고
 계속 사용해보니 은은한 정도로만 남아서 부담스럽거나 하지는 않았다.
 
-![출구](/images/lodeur-vert-signature-perfume-shampoo-baby-powder-05.jpg)
+![출구](/images/review/lodeur-vert-signature-perfume-shampoo-baby-powder-05.jpg)
 
-![삐져나옴](/images/lodeur-vert-signature-perfume-shampoo-baby-powder-06.jpg)
+![삐져나옴](/images/review/lodeur-vert-signature-perfume-shampoo-baby-powder-06.jpg)
 
-![세면대](/images/lodeur-vert-signature-perfume-shampoo-baby-powder-07.jpg)
+![세면대](/images/review/lodeur-vert-signature-perfume-shampoo-baby-powder-07.jpg)
 
 향이라는 게 워낙에 개인마다 호불호가 강하고 풍겨왔을 때 어떻게 할 수 없는 것이다보니
 아무래도 지나치게 강하게는 넣지 않은 듯하다.
@@ -44,21 +44,21 @@ published: false
 
 <center><iframe width="480" height="270" src="https://www.youtube.com/embed/tqY1i9vdMwk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-![제형 1](/images/lodeur-vert-signature-perfume-shampoo-baby-powder-08.jpg)
+![제형 1](/images/review/lodeur-vert-signature-perfume-shampoo-baby-powder-08.jpg)
 
-![제형 2](/images/lodeur-vert-signature-perfume-shampoo-baby-powder-09.jpg)
+![제형 2](/images/review/lodeur-vert-signature-perfume-shampoo-baby-powder-09.jpg)
 
-![제형 3](/images/lodeur-vert-signature-perfume-shampoo-baby-powder-10.jpg)
+![제형 3](/images/review/lodeur-vert-signature-perfume-shampoo-baby-powder-10.jpg)
 
-![거품 1](/images/lodeur-vert-signature-perfume-shampoo-baby-powder-11.jpg)
+![거품 1](/images/review/lodeur-vert-signature-perfume-shampoo-baby-powder-11.jpg)
 
-![거품 2](/images/lodeur-vert-signature-perfume-shampoo-baby-powder-12.jpg)
+![거품 2](/images/review/lodeur-vert-signature-perfume-shampoo-baby-powder-12.jpg)
 
-![샴푸 1](/images/lodeur-vert-signature-perfume-shampoo-baby-powder-13.jpg)
+![샴푸 1](/images/review/lodeur-vert-signature-perfume-shampoo-baby-powder-13.jpg)
 
-![샴푸 2](/images/lodeur-vert-signature-perfume-shampoo-baby-powder-14.jpg)
+![샴푸 2](/images/review/lodeur-vert-signature-perfume-shampoo-baby-powder-14.jpg)
 
-![샴푸 3](/images/lodeur-vert-signature-perfume-shampoo-baby-powder-15.jpg)
+![샴푸 3](/images/review/lodeur-vert-signature-perfume-shampoo-baby-powder-15.jpg)
 
 내가 사용해본 것은 그 중 '베이비파우더' 제품으로,
 베이비파우더 특유의 독특하고 묵직한 냄새가 잘 담겨있다.

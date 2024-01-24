@@ -10,7 +10,7 @@ tags: [책, 만화, 그래픽노블, 동화, 창작동화, 남매, 캐리스 메
 '나쁜 누나: 남동생을 다루는 10가지 능력(Bad Sister)'은
 남매의 어린시절 이야기를 그려낸 만화다.
 
-![표지](/images/bad-sister-comic-book-h480.jpg)
+![표지](/images/book/bad-sister-comic-book-h480.jpg)
 
 참 공감이 많이 가는 얘기다.
 어쩌면 그럴 수밖에 없는 것 같기도 하다.

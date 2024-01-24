@@ -9,7 +9,7 @@ tags: [책, 소설, 단편, 미스터리, 아시자와 요, 김은모, 검은숲
 '용서는 바라지 않습니다(許されようとは思いません)'는
 범죄와 인간을 흥미롭게 그려낸 미스터리 소설집이다.
 
-![표지](/images/yurusareyoutowa-omoimasen-book-h480.jpg)
+![표지](/images/book/yurusareyoutowa-omoimasen-book-h480.jpg)
 
 소설집에 단긴 5개의 이야기는 서로 관계가 없는 별개의 이야기들이다.
 거기에 서술 방식이라던가 극의 분위기 같은 것도 각자 다른 편이다.

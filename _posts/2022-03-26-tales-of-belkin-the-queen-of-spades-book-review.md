@@ -9,7 +9,7 @@ tags: [책, 소설, 단편, 알렉산드르 세르게비치 푸시킨, 백준현
 '뿌쉬낀 명작 단편선: 벨낀 이야기/스페이드의 여왕'은
 뿌쉬낀의 명작 단편들을 모은 소설집이다.
 
-![표지](/images/tales-of-belkin-the-queen-of-spades-book-h480.jpg)
+![표지](/images/book/tales-of-belkin-the-queen-of-spades-book-h480.jpg)
 
 책의 제목에 직접적으로 표기한 것처럼 이 소설집에는 크게 두개,
 '벨낀 이야기'와 '스페이드의 여왕'이 실려있다.

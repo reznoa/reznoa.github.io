@@ -8,7 +8,7 @@ tags: [책, 컬러링, 픽셀아트, 주재범, 비타북스, 북카페 책과 �
 '픽셀 아트 컬러링'은
 제목 그대로 픽셀 아트를 완성해보는 컬러링 책이다.
 
-![표지](/images/pixel-art-coloring-book-h480.jpg)
+![표지](/images/book/pixel-art-coloring-book-h480.jpg)
 
 픽셀 아트란 픽셀을 하나씩 채워 만드는 예술을 말한다.
 픽셀은 모눈종이처럼 균일하게 나뉜 정사각 칸을 말하는데,

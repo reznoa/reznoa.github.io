@@ -8,7 +8,7 @@ tags: [책, 과학, 김홍재, 어바웃어북, 북카페 책과 콩나무, 서�
 '아파트 속 과학'은
 아파트와 여러가지 정보들을 담은 책이다.
 
-![표지](/images/apartment-and-science-book-h480.jpg)
+![표지](/images/book/apartment-and-science-book-h480.jpg)
 
 집에 이토록 많은 이야기가,
 심지어 짜내고 짜낸 게 아니라 가볍게 털어보는 정도로만으로도 충분히 두꺼운 책 하나를 채울 수 있을 정도로,

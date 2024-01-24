@@ -8,7 +8,7 @@ tags: [책, 소설, 동화, 전래동화, 손진익, 한용욱, 북산, 북카�
 '정선별곡'은
 강원도 정선의 이야기들을 채집해 엮은 책이다.
 
-![표지](/images/jeongseon-byeolgok-book-h480.jpg)
+![표지](/images/book/jeongseon-byeolgok-book-h480.jpg)
 
 정선에서 전해 내려오는 옛이야기를 엮은 책이다보니
 이 책에 수록된 이야기들은 대부분이 동화같은 모양새를 하고있다.

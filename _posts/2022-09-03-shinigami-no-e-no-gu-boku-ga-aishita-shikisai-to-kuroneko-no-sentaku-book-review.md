@@ -9,7 +9,7 @@ tags: [책, 소설, 판타지, 하세가와 카오리, 김진환, 서사원, 이
 '가장 아름다운 기억을 너에게 보낼게(死神の絵の具 「僕」が愛した色彩と黒猫の選択)'는
 인간의 영혼의 색채에 심취한 사신의 이야기를 그린 소설이다.
 
-![표지](/images/shinigami-no-e-no-gu-boku-ga-aishita-shikisai-to-kuroneko-no-sentaku-book-h480.jpg)
+![표지](/images/book/shinigami-no-e-no-gu-boku-ga-aishita-shikisai-to-kuroneko-no-sentaku-book-h480.jpg)
 
 주인공인 사신은 인간들의 영혼을 수집한다.
 정확하게는 영혼에 새겨진 기억의 조각,

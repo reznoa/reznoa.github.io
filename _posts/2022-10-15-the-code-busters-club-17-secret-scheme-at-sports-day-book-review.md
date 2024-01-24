@@ -9,7 +9,7 @@ tags: [책, 소설, 추리, 암호, 모험, 어린이, 페니 워너, 효고노�
 '암호 클럽 17: 수상한 운동회(The Code Busters Club #17: Secret Scheme at Sports Day)'는,
 운동회에서 벌어지는 일을 그린, 시리즈 17번째 책이다.
 
-![표지](/images/the-code-busters-club-17-secret-scheme-at-sports-day-book-h480.jpg)
+![표지](/images/book/the-code-busters-club-17-secret-scheme-at-sports-day-book-h480.jpg)
 
 과연 운동회에서 어떤 사건이 일어질 수 있을지 궁금했다.
 딱히 대단한 일이 있었던 기억까진 없는데다,

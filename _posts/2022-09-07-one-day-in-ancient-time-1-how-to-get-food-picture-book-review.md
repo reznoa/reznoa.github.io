@@ -9,7 +9,7 @@ tags: [책, 역사, 그림책, 돤장취이 스튜디오, 김영미, 서울문�
 '원시인의 하루: 꼬르륵 배가 고파!(原始人的一天: 饥肠辘辘)'는
 인류 진화 역사를 재미있게 살펴볼 수 있게 만든 시리즈 첫 책이다.
 
-![표지](/images/one-day-in-ancient-time-1-how-to-get-food-picture-book-h480.jpg)
+![표지](/images/book/one-day-in-ancient-time-1-how-to-get-food-picture-book-h480.jpg)
 
 어린이들을 위해 만들어진 이 그림책은
 아기자기한 캐릭터들이 화면을 꽉 채우며

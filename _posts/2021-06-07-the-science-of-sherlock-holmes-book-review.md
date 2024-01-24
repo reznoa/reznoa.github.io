@@ -9,7 +9,7 @@ tags: [책, 과학, 셜록 홈즈, 스튜어트 로스, 박지웅, 하이픈, �
 '셜록 홈스의 과학수사(The Science of Sherlock Holmes)'는
 셜록 홈스 시리즈를 통해 볼 수 있는 과학수사와 그 역사를 살펴보는 책이다.
 
-![표지](/images/the-science-of-sherlock-holmes-book-h480.jpg)
+![표지](/images/book/the-science-of-sherlock-holmes-book-h480.jpg)
 
 셜록 홈스는 수많은 탐정 중에서도 유독 독보적으로 사랑받는 탐정이다.
 그 이유는 그가 마치 인간을 넘어선듯한 추리력을 보여주기 때문이기도 하지만,

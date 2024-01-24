@@ -9,7 +9,7 @@ tags: [책, 소설, 동화, 창작동화, 타냐 슈테브너, 코마가타, 서
 '동물과 말하는 아이 릴리 2: 호랑이를 사랑한 사자(Liliane Susewind #2 Tiger küssen keine Löwen)'는
 릴리 수제빈트 시리즈 두번째 책이다.
 
-![표지](/images/liliane-susewind-2-tiger-kussen-keine-lowen-book-h480.jpg)
+![표지](/images/book/liliane-susewind-2-tiger-kussen-keine-lowen-book-h480.jpg)
 
 [전권]({% post_url 2021-06-30-liliane-susewind-1-mit-elefanten-spricht-man-nicht-book-review %})이 특별한 힘을 갖고있는 릴리를 소개하고
 그녀가 동물원에서 일하게 된 배경을 소개했다면,

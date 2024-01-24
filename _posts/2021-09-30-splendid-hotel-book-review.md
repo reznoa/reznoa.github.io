@@ -9,7 +9,7 @@ tags: [책, 소설, 마리 르도네, 이재룡, 열림원, 북카페 책과 콩
 '장엄호텔(Splendid Hôtel)'은
 비극을 그린 마리 르도네 삼부작의 첫번째 소설이다.
 
-![표지](/images/splendid-hotel-book-h480.jpg)
+![표지](/images/book/splendid-hotel-book-h480.jpg)
 
 저자의 데뷔작인 이 1986년 소설은,
 서서히 스러져가는 장엄호텔을

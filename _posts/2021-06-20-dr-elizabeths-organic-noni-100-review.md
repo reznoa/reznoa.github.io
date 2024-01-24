@@ -3,21 +3,22 @@ layout: post
 title: "합성보존제 없는 저온압착 유기농노니주스 - 닥터엘리자베스 유기농 노니 100"
 category: 건강
 tags: [과채주스, 유기농, 노니, 닥터엘리자베스, 드림리더, 이노마크, 레뷰]
+published: false
 ---
 
 '닥터엘리자베스 유기농 노니 100'은
 100% 유기농 인증 노니만을 사용한 과채주스다.
 
-![택배](/images/dr-elizabeths-organic-noni-100-01.jpg)
+![택배](/images/review/dr-elizabeths-organic-noni-100-01.jpg)
 
-![제품](/images/dr-elizabeths-organic-noni-100-02.jpg)
+![제품](/images/review/dr-elizabeths-organic-noni-100-02.jpg)
 
 <p class="center" markdown="1">
-![표기 1](/images/dr-elizabeths-organic-noni-100-03.jpg)
-![표기 2](/images/dr-elizabeths-organic-noni-100-04.jpg)
+![표기 1](/images/review/dr-elizabeths-organic-noni-100-03.jpg)
+![표기 2](/images/review/dr-elizabeths-organic-noni-100-04.jpg)
 </p>
 
-![유통기한](/images/dr-elizabeths-organic-noni-100-05.jpg)
+![유통기한](/images/review/dr-elizabeths-organic-noni-100-05.jpg)
 
 USDA 유기농 인증 노니를 껍질부터 씨까지 통째로 착즙했으며,
 저온압착 방식을 사용해 영양소 파괴를 최소화했다.
@@ -30,26 +31,26 @@ USDA 유기농 인증 노니를 껍질부터 씨까지 통째로 착즙했으며
 이런 풍부한 영양분들이 활력 건강에 도움을 줄 수 있다고 한다.
 이러한 점이 알려지면서 지금은 건강식품으로서 거의 자리를 잡고 있다.
 
-![밀봉 1](/images/dr-elizabeths-organic-noni-100-06.jpg)
+![밀봉 1](/images/review/dr-elizabeths-organic-noni-100-06.jpg)
 
-![개봉 1](/images/dr-elizabeths-organic-noni-100-07.jpg)
+![개봉 1](/images/review/dr-elizabeths-organic-noni-100-07.jpg)
 
-![컵 1](/images/dr-elizabeths-organic-noni-100-08.jpg)
+![컵 1](/images/review/dr-elizabeths-organic-noni-100-08.jpg)
 
-![컵 2](/images/dr-elizabeths-organic-noni-100-09.jpg)
+![컵 2](/images/review/dr-elizabeths-organic-noni-100-09.jpg)
 
-![컵 3](/images/dr-elizabeths-organic-noni-100-10.jpg)
+![컵 3](/images/review/dr-elizabeths-organic-noni-100-10.jpg)
 
 제품은 겉 포장이 뚜껑까지 감싸인 형태로 밀봉되어있는데,
 포장을 제거하면 뚜껑 위에 소분을 위한 컵이 올려져 있다.
 컵에는 30ml 선이 표시되어있는데, 이는 노니 1회 섭취시 권장량으로
 별도의 계량컵이 없어도 노니를 적정량씩 섭취할 수 있도록 해준다.
 
-![밀봉 2](/images/dr-elizabeths-organic-noni-100-11.jpg)
+![밀봉 2](/images/review/dr-elizabeths-organic-noni-100-11.jpg)
 
-![밀봉 3](/images/dr-elizabeths-organic-noni-100-12.jpg)
+![밀봉 3](/images/review/dr-elizabeths-organic-noni-100-12.jpg)
 
-![개봉 2](/images/dr-elizabeths-organic-noni-100-13.jpg)
+![개봉 2](/images/review/dr-elizabeths-organic-noni-100-13.jpg)
 
 뚜껑은 보통의 병 제품과 달리 처음 딸때 떨어지는 부분이 없는데,
 뚜껑 바깥에 포장을 이용해 감싸기 때문에 따로 이런 장치가 불필요해 뺀 것으로 보인다.
@@ -60,7 +61,7 @@ USDA 유기농 인증 노니를 껍질부터 씨까지 통째로 착즙했으며
 그래서 뜯어내는 것도 그리 수월하지는 않은데,
 경우에 따라 맨 아래쪽의 비닐 부분이 뚜껑 위에 남기도 하므로 밀봉을 뜯어낼 때 신경을 써야한다.
 
-![음용](/images/dr-elizabeths-organic-noni-100-14.jpg)
+![음용](/images/review/dr-elizabeths-organic-noni-100-14.jpg)
 
 주스의 맛과 향은 딱 전형적인 노니 주스의 그것이라는 느낌이다.
 노니 특유의 독특한 향과 맛은 딱히 그렇게 끌리는 것은 아니어서 다소 호불호가 갈릴 법하다.

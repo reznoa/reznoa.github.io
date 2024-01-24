@@ -8,7 +8,7 @@ tags: [책, 동화, 전래동화, 과학, 이지민, 김윤정, 풀빛, 북카�
 '해와 달이 된 오누이가 태양계를 만들어'는
 과학을 함께 담은 동화책이다.
 
-![표지](/images/brother-and-sister-who-became-the-sun-and-the-moon-make-a-solar-system-book-h480.jpg)
+![표지](/images/book/brother-and-sister-who-became-the-sun-and-the-moon-make-a-solar-system-book-h480.jpg)
 
 책은 두가지 부분으로 나뉘어 있다.
 하나는 전래동화를 만화같은 현대적인 그림과 함께 담은 부분이고,

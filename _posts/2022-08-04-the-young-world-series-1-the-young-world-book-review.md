@@ -9,7 +9,7 @@ tags: [책, 소설, SF, 포스트 아포칼립스, 크리스 웨이츠, 조동�
 '영 월드(The Young World)'
 '영 월드 시리즈(The Young World Series)'의 첫번째 소설이다.
 
-![표지](/images/the-young-world-series-1-the-young-world-book-h480.jpg)
+![표지](/images/book/the-young-world-series-1-the-young-world-book-h480.jpg)
 
 좀 익숙한 냄새가 난다.
 이 소설은 기존의 작품들을 강하게 연상시키는 요소들을 두루 갖고있기 때문이다.

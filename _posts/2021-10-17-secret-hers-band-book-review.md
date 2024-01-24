@@ -8,7 +8,7 @@ tags: [책, 소설, 로맨스, 기억상실, 김류현, 고즈넉이엔티, 서�
 '시크릿 허즈밴드'는
 작은 인연을 이어가는 두 남녀의 이야기를 그린 로맨스 소설이다.
 
-![표지](/images/secret-hers-band-book-h480.jpg)
+![표지](/images/book/secret-hers-band-book-h480.jpg)
 
 처음 제목을 봤을 땐 뭔가 비밀스런 사연이 있는 남자와의 로맨스를 그린 소설인 줄 알았다.
 그랬다가, 영문 제목이 'Secret Husband'가 아니라 'Secret Her's Band'인 것을 보고

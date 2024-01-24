@@ -8,7 +8,7 @@ tags: [책, 퍼즐, 소니 글로벌 에듀케이션, 강태욱, 바이킹, 리�
 '5분 논리 사고력 훈련 중급'은
 다양한 수학적 사로를 요하는 문제들을 담은 퍼즐집이다.
 
-![표지](/images/5-fun-de-ronriteki-shikoryoku-drill-book-h480.jpg)
+![표지](/images/book/5-fun-de-ronriteki-shikoryoku-drill-book-h480.jpg)
 
 수학은 참 애증의 학문이다.
 학업을 위해 필요하긴 하나,

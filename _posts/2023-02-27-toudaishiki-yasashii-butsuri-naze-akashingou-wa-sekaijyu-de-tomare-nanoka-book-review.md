@@ -9,7 +9,7 @@ tags: [책, 물리, 미사와 신야, 장재희, 송미란, 미디어숲, 북카
 '세상에서 가장 쉬운 재미있는 물리: 계산식 하나 없는 발칙한 물리 수업(東大式やさしい物理: なぜ赤信号は世界中で「止まれ」なのか?)'은
 일상 곳곳에서 찾을 수 있는 물리 법칙들을 쉽게 알려주는 책이다.
 
-![표지](/images/toudaishiki-yasashii-butsuri-naze-akashingou-wa-sekaijyu-de-tomare-nanoka-book-h480.jpg)
+![표지](/images/book/toudaishiki-yasashii-butsuri-naze-akashingou-wa-sekaijyu-de-tomare-nanoka-book-h480.jpg)
 
 이 책의 가장 큰 특징은 쉽다는 거다.
 '가능한'이라거나 '최대한' 그렇다는 게 아니라 그냥 진짜로 쉽다.

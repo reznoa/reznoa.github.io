@@ -9,7 +9,7 @@ tags: [책, 소설, 청소년, 판타지, 장 클로드 무를르바, 정혜승,
 '거꾸로 흐르는 강: 한나와 천년의 새(La Rivière à l'envers: Hannah)'는
 한 소녀의 모험을 그린 판타지 소설이다.
 
-![표지](/images/la-riviere-a-lenvers-2-hannah-book-h480.jpg)
+![표지](/images/book/la-riviere-a-lenvers-2-hannah-book-h480.jpg)
 
 '토멕'의 이야기를 그린 [전작]({% post_url 2023-05-10-la-riviere-a-lenvers-1-tomek-book-review %})의 후속작으로 나온 이 책은,
 또 다른 주인공이라고도 할 수 있는 '한나'의 모험을 그리고 있다.

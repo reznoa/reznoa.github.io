@@ -9,7 +9,7 @@ published: false
 '페어리스톤'은
 시간여행을 소재로 한 판타지 로맨스 소설이다.
 
-![표지](/images/fairy-stone-book-h480.jpg)
+![표지](/images/book/fairy-stone-book-h480.jpg)
 
 후회되거나 바꾸고 싶은 일 때문에 과거로 간다는 설정이나
 그게 (말하자면) 연인을 위한 것이라는 점은

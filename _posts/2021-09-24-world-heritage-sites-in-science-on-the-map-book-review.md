@@ -8,7 +8,7 @@ tags: [책, 문화, 임유신, 이케이북, 북카페 책과 콩나무, 서평]
 '지도 위 과학 속 세계 유산 유적'은
 세계 각국의 유산 유적들을 간략하게 소개하는 책이다.
 
-![표지](/images/world-heritage-sites-in-science-on-the-map-book-h480.jpg)
+![표지](/images/book/world-heritage-sites-in-science-on-the-map-book-h480.jpg)
 
 이 책의 특징은 그것을 마치 세계여행을 하는 것처럼 꾸몄다는 거다.
 그래봐야 앞에 세계지도를 두어 한눈에 볼 수 있게 하고

@@ -9,7 +9,7 @@ tags: [책, 과학, 존 리차드, 이섬민, 스푼북, 북카페 책과 콩나
 '매일 똑똑해지는 1분: 지구(60-Second Genius - Planet Earth)'는
 지구에 대한 여러 정보들을 담은 책이다.
 
-![표지](/images/60-second-genius-planet-earth-book-h480.jpg)
+![표지](/images/book/60-second-genius-planet-earth-book-h480.jpg)
 
 '매일 똑똑해지는 1분' 시리즈의 하나로,
 지구의 다양한 모습과 환경 등을 담은 이 책은

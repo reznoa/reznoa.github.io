@@ -9,7 +9,7 @@ tags: [책, 과학, 빅토리아 윌리엄스, 박지웅, 하이픈, 다온북�
 '꽤 유쾌하고 쓸모 있는 과학(Science Made Simple: A Complete Guide in Ten Easy Lessons)'은
 유익한 과학의 기본 지식들을 가볍게 훑어볼 수 있게 만든 책이다.
 
-![표지](/images/science-made-simple-book-h480.jpg)
+![표지](/images/book/science-made-simple-book-h480.jpg)
 
 한마디로 표현하자면 마치 교과서 같은 책이랄까.
 과학을 별다른 미사여구없이 지식위주로만 담백하게 담은 데다가,

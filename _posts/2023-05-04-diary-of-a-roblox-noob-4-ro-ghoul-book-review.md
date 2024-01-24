@@ -9,7 +9,7 @@ tags: [책, 소설, 동화, 창작동화, 게임, 로블록시아 키드, 김선
 '로블록시아 키드(Robloxia Kid)'의
 비공식 로블록스 시리즈 네번째 이야기다.
 
-![표지](/images/diary-of-a-roblox-noob-4-ro-ghoul-book-h480.jpg)
+![표지](/images/book/diary-of-a-roblox-noob-4-ro-ghoul-book-h480.jpg)
 
 이 시리즈는 대부분 개별권으로서의 완결성을 가지고 있고,
 그래서 동일한 주인공인 뉴비가 나온다는 것을 제외하고는

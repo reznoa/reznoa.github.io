@@ -8,7 +8,7 @@ tags: [책, 소설, 최난영, 고즈넉이엔티, 북카페 책과 콩나무, �
 '카페 네버랜드'는
 할아버지들이 운영하는 실험적 카페의 이야기를 그린 소설이다.
 
-![표지](/images/cafe-neverland-book-h480.jpg)
+![표지](/images/book/cafe-neverland-book-h480.jpg)
 
 소재가 꽤 괜찮다.
 이제는 일선에서 물러나,

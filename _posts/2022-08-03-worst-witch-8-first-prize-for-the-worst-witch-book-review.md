@@ -9,7 +9,7 @@ tags: [책, 소설, 판타지, 동화, 창작동화, 학교, 질 머피, 민지�
 '꼴찌 마녀 밀드레드 8: 좌충우돌 최우수 마녀 시상식(First Prize for the Worst Witch)'은
 시리즈 여덟번째 책이다.
 
-![표지](/images/worst-witch-8-first-prize-for-the-worst-witch-book-h480.jpg)
+![표지](/images/book/worst-witch-8-first-prize-for-the-worst-witch-book-h480.jpg)
 
 때론 실수도 하고 말썽에 휘말리기도 하지만
 그것들도 결국엔 긍정적인 결과로 바꿔온 '밀드레드'는

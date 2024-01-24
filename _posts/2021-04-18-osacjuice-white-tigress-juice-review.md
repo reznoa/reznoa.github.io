@@ -15,13 +15,13 @@ published: false
 박스는 손으로 들 수 있는 형태이기 때문에 운반이 쉬우며,
 두꺼운 박스가 내용물을 보호해주는 역할도 한다.
 
-![패키지 1](/images/osacjuice-white-tigress-juice-review-01.jpg)
+![패키지 1](/images/review/osacjuice-white-tigress-juice-review-01.jpg)
 
-![패키지 2](/images/osacjuice-white-tigress-juice-review-02.jpg)
+![패키지 2](/images/review/osacjuice-white-tigress-juice-review-02.jpg)
 
-![표기 1](/images/osacjuice-white-tigress-juice-review-03.jpg)
+![표기 1](/images/review/osacjuice-white-tigress-juice-review-03.jpg)
 
-![표기 2](/images/osacjuice-white-tigress-juice-review-04.jpg)
+![표기 2](/images/review/osacjuice-white-tigress-juice-review-04.jpg)
 
 박스 표면에는 제품의 제조 일자와 유통기한,
 섭취나 보관시의 유의사항 등이 적혀있다.
@@ -29,22 +29,22 @@ published: false
 필요하다면 박스채 보관하거나 파우치에 이를 표기해 두는 것이 좋다.
 하지만, 대개는 1달 이내에 섭취가 가능하므로 크게 신경쓰지 않아도 된다.
 
-![제품목록](/images/osacjuice-white-tigress-juice-review-05.jpg)
+![제품목록](/images/review/osacjuice-white-tigress-juice-review-05.jpg)
 
 박스 안에는 제품 외에도 제품목록이 나온 소개지가 함께 들어있는데,
 제품 종류와 가격을 한눈에 볼 수 있어 좋다.
 다른 제품에도 관심이 있다면 도움이 될 듯하다.
 
-![제품 1](/images/osacjuice-white-tigress-juice-review-06.jpg)
+![제품 1](/images/review/osacjuice-white-tigress-juice-review-06.jpg)
 
-![제품 2](/images/osacjuice-white-tigress-juice-review-07.jpg)
+![제품 2](/images/review/osacjuice-white-tigress-juice-review-07.jpg)
 
 제품은 1회 분량씩 개별 파우치로 포장되어있어 보관과 섭취가 간편하다.
 파우치는 아래쪽이 벌어져 삼각형 형태로 벌어지도록 만들어져 세울 수 있어 보관하는데 도움이 된다.
 
-![따는 곳 1](/images/osacjuice-white-tigress-juice-review-08.jpg)
+![따는 곳 1](/images/review/osacjuice-white-tigress-juice-review-08.jpg)
 
-![따는 곳 2](/images/osacjuice-white-tigress-juice-review-09.jpg)
+![따는 곳 2](/images/review/osacjuice-white-tigress-juice-review-09.jpg)
 
 따는 곳은 상단 좌우양측에 표기되어있는데,
 아쉽게도 소위 '이지컷'과 같은 방식은 아니다.
@@ -55,7 +55,7 @@ published: false
 
 ![따름 1~4](/images/osacjuice-white-tigress-juice-review-10~13.gif)
 
-![따름 5](/images/osacjuice-white-tigress-juice-review-14.jpg)
+![따름 5](/images/review/osacjuice-white-tigress-juice-review-14.jpg)
 
 즙을 내는 방식은 여러가지가 있는데,
 오색건강즙은 보통 한약 등을 만들 때 사용하는 달여내는 방식으로 만들어졌다.

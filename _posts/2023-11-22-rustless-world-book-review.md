@@ -8,7 +8,7 @@ tags: [책, 소설, SF, 김아직, 북다, 북카페 책과 콩나무, 서평]
 '녹슬지 않는 세계'는
 마녀사냥을 SF로 그려낸 소설이다.
 
-![표지](/images/rustless-world-book-h480.jpg)
+![표지](/images/book/rustless-world-book-h480.jpg)
 
 이야기가 꽤 괜찮다.
 뜻밖의 병자성사를 해줘버리고 만 신부와

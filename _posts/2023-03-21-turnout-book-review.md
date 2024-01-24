@@ -8,7 +8,7 @@ tags: [책, 소설, 청소년, SF, 발레, 하은경, 특별한서재, 북카페
 '턴아웃'은
 발레리나를 소재로 한 SF 청소년 소설이다.
 
-![표지](/images/turnout-book-h480.jpg)
+![표지](/images/book/turnout-book-h480.jpg)
 
 '턴아웃(Turnout)'이란, 발레 용어로,
 간단하게 말하면 몸 바깥쪽으로 관절을 트는 동작을 말한다.

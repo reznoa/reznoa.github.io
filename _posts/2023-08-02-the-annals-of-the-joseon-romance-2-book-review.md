@@ -8,7 +8,7 @@ tags: [책, 소설, 로맨스, 로즈빈, 팩토리나인, 컬처블룸, 서평]
 '조선연애실록 2'은
 가상의 조선을 배경으로 한 궁중 로맨스다.
 
-![표지](/images/the-annals-of-the-joseon-romance-2-book-h480.jpg)
+![표지](/images/book/the-annals-of-the-joseon-romance-2-book-h480.jpg)
 
 남장여자라는 뻔한 소재를 살짝 바꿔서,
 변형된 착각물이라는 요소를 넣은 건 생각보다 소설에 긍정적이었다.

@@ -9,7 +9,7 @@ tags: [책, 그림책, 니콜라 오반, 김현희, 사파리, 서평]
 '자기 싫은 꼬마 토끼, 과자 통 속의 밤(The Rabbit, the Dark, and the Cookie Tin)'은
 자기 싫어하는 아이들에게 맞는 그림책이다.
 
-![표지](/images/the-rabbit-the-dark-and-the-cookie-tin-picture-book-h480.jpg)
+![표지](/images/book/the-rabbit-the-dark-and-the-cookie-tin-picture-book-h480.jpg)
 
 아이들은 쉽게 질리기도 하지만,
 한번 빠져서 집중하면 좀처럼 끝내려고 하지 않기도 한다.

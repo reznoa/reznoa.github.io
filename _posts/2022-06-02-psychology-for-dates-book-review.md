@@ -8,7 +8,7 @@ tags: [책, 연애, 심리학, 안은성, 센시오, 북카페 책과 콩나무,
 '썸 탈 때 바로 써먹는 심리학'은
 보다 나은 연애를 위한 심리학 조언들을 담은 책이다.
 
-![표지](/images/psychology-for-dates-book-w640.jpg)
+![표지](/images/book/psychology-for-dates-book-w640.jpg)
 
 연애만큼 많은 사람들이 관심있어하면서도
 제대로 아는 사람은 없는 분야가 또 있을까.

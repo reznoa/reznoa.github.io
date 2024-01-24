@@ -10,7 +10,7 @@ tags: [책, 만화, 판타지, 코미디, 히라케이, 하루하라 로빈슨, 
 '공주님, "고문"의 시간입니다 1(姫様“拷問”の時間です 1)'는
 제목과는 달리 꽤나 건전(?)한 먹방 힐링 코미디다.
 
-![커버](/images/himesama-gomon-no-jikan-desu-comic-book-h480.jpg)
+![커버](/images/book/himesama-gomon-no-jikan-desu-comic-book-h480.jpg)
 
 이 만화는 넓게 보면 일종의 착각물이라고도 할 수 있다.
 다만 보통의 착각물이 주인공의 행동을 엉뚱하게 지켜보는 다른 등장인물로 인해 벌어지는 일을 다루는 것이라면,

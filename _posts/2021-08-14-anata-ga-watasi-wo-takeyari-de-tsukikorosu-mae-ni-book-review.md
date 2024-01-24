@@ -9,7 +9,7 @@ tags: [책, 소설, 일본, 한국, 혐오, 이용덕, 김지영, 시월이일, 
 '당신이 나를 죽창으로 찔러 죽이기 전에(あなたが私を竹槍で突き殺す前に)'는
 재일 한국인 작가가 본격적으로 재일 한국인을 소재로 쓴 첫 소설이다.
 
-![표지](/images/anata-ga-watasi-wo-takeyari-de-tsukikorosu-mae-ni-book-h480.jpg)
+![표지](/images/book/anata-ga-watasi-wo-takeyari-de-tsukikorosu-mae-ni-book-h480.jpg)
 
 당연히 이 책이 소설이란 걸 알고,
 그렇기 때문에 책에 담긴 이야기가 어디까지나 저자가 만들어낸 창작이라는 걸 알고 볼 것이며,

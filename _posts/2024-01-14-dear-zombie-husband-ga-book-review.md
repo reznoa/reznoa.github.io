@@ -8,7 +8,7 @@ tags: [책, 소설, 단편, 좀비, 태재현, 최영희, 서재이, 정예진, 
 '좀비낭군가'는
 제7, 8회 ZA 문학 공모전 수상작품을 담은 소설집이다.
 
-![표지](/images/dear-zombie-husband-ga-book-h480.jpg)
+![표지](/images/book/dear-zombie-husband-ga-book-h480.jpg)
 
 현대에 가장 인기있는 장르물 중 하나라고 하면, 당연 좀비물을 꼽을만하다.
 등장한지도 꽤나 오래됐고,

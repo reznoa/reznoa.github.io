@@ -9,12 +9,12 @@ published: false
 '면역에 좋은 비타민C 아연'은
 아이들도 씹어먹기 좋은 츄어블 비타민이다.
 
-![패키지](/images/wellers-chewable-vitamin-c-and-zinc-review-01.jpg)
+![패키지](/images/review/wellers-chewable-vitamin-c-and-zinc-review-01.jpg)
 
 <p class="center" markdown="1">
-![표기 1](/images/wellers-chewable-vitamin-c-and-zinc-review-02.jpg)
-![표기 2](/images/wellers-chewable-vitamin-c-and-zinc-review-03.jpg)
-![표기 3](/images/wellers-chewable-vitamin-c-and-zinc-review-04.jpg)
+![표기 1](/images/review/wellers-chewable-vitamin-c-and-zinc-review-02.jpg)
+![표기 2](/images/review/wellers-chewable-vitamin-c-and-zinc-review-03.jpg)
+![표기 3](/images/review/wellers-chewable-vitamin-c-and-zinc-review-04.jpg)
 </p>
 
 건강기능식품인 이 제품은 영양분은 이름 그대로 비타민C와 아연으로,
@@ -30,22 +30,22 @@ published: false
 
 ﻿다만, 생각보다 알러지 성분을 많이 다루는 제조시설에서 제조했으므로 잘 살펴보고 주의해서 섭취해야한다.
 
-![제품 1](/images/wellers-chewable-vitamin-c-and-zinc-review-05.jpg)
+![제품 1](/images/review/wellers-chewable-vitamin-c-and-zinc-review-05.jpg)
 
-![유통기한](/images/wellers-chewable-vitamin-c-and-zinc-review-06.jpg)
+![유통기한](/images/review/wellers-chewable-vitamin-c-and-zinc-review-06.jpg)
 
-![밀봉 1](/images/wellers-chewable-vitamin-c-and-zinc-review-07.jpg)
+![밀봉 1](/images/review/wellers-chewable-vitamin-c-and-zinc-review-07.jpg)
 
-![밀봉 2](/images/wellers-chewable-vitamin-c-and-zinc-review-08.jpg)
+![밀봉 2](/images/review/wellers-chewable-vitamin-c-and-zinc-review-08.jpg)
 
 제품 유효기간은 2년 정도로 실제 섭취 기간(약 2달)에 비하면 꽤 긴 편이다.
 그런만큼 습기나 직사광선에 변질되지 않도록 불투명한 케이스를 사용하고 입구도 확실하게 봉인되어있다.
 입구 봉인은 쉽게 딸수 있게 만들어져 한손으로도 열 수 있으며,
 싸구려 밀봉과는 달리 딴 후에 잔여물도 남지 않는다.
 
-![제품 2](/images/wellers-chewable-vitamin-c-and-zinc-review-09.jpg)
+![제품 2](/images/review/wellers-chewable-vitamin-c-and-zinc-review-09.jpg)
 
-![제품 3](/images/wellers-chewable-vitamin-c-and-zinc-review-10.jpg)
+![제품 3](/images/review/wellers-chewable-vitamin-c-and-zinc-review-10.jpg)
 
 제형은 마치 작은 사탕처럼 생겼는데, 맛도 거의 그와 같다.
 레몬을 연상시키는 상큼한 맛은 이게 과다섭취를 조심해야하는 영양제라는 것을 잊고 하나 더 먹고싶게 만든다.

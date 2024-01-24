@@ -9,7 +9,7 @@ tags: [책, 소설, 로맨스, 산다 치에, 이소담, 알에이치코리아, 
 '해피엔딩에서 너를 기다릴게(太陽のシズク: 大好きな君との最低で最高の12ヶ月)'는
 불치병을 소재로 한 학원 로맨스 소설이다.
 
-![표지](/images/taiyo-no-shizuku-daisukina-kimitono-saiteide-saikono-junikagetsu-book-h480.jpg)
+![표지](/images/book/taiyo-no-shizuku-daisukina-kimitono-saiteide-saikono-junikagetsu-book-h480.jpg)
 
 또 불치병이야?
 

@@ -8,7 +8,7 @@ tags: [책, 소설, 단편, 청소년, 이서유, 라임, 북카페 책과 콩�
 '짐승의 여름 방학'은
 청소년들의 여러 고민과 현실을 담은 단편집이다.
 
-![표지](/images/beasts-summer-vacation-book-h480.jpg)
+![표지](/images/book/beasts-summer-vacation-book-h480.jpg)
 
 수록작 중에는 비교적 가벼운 것도 있다.
 심각한 문제인 줄 알았더니 사실은 뻘쭘한 착각으로 인한 해프닝이었던 이야기가 그렇다.

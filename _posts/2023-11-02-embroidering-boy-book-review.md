@@ -8,7 +8,7 @@ tags: [책, 소설, 청소년, 역사, 박세영, 북멘토, 북카페 책과 �
 '수를 놓는 소년'은
 자수를 소재로 한 역사 배경 소설이다.
 
-![표지](/images/embroidering-boy-book-h480.jpg)
+![표지](/images/book/embroidering-boy-book-h480.jpg)
 
 소설의 배경은 병자호란(丙子胡亂) 때다.
 그것은, 비교적 적은 국토와 인구수를 가진 상대적 소국임에도

@@ -9,7 +9,7 @@ tags: [책, 체스, 호세 라울 카파블랑카, 유정훈, 필요한책, 북�
 '체스의 기본(Chess Fundamentals)'는
 체스를 둘 때 꼭 알아둬야 할 전술과 전략, 그리고 그 원리를 담은 책이다.
 
-![표지](/images/chess-fundamentals-book-h480.jpg)
+![표지](/images/book/chess-fundamentals-book-h480.jpg)
 
 나름 초보자를 위한 책이다.
 그래서인지 내용은 물론 설명도 꽤 친절한 편이다.

@@ -8,9 +8,9 @@ tags: [책, 소설, 미스터리, 스릴러, 윤이나, 팩토리나인, 이북�
 '놈의 기억 1'은
 기억 이식과 삭제라는 SF적인 소재를 이용한 미스터리 스릴러다.
 
-![표지](/images/memory-of-a-murderer-1-book-cover.jpg)
+![표지](/images/book/memory-of-a-murderer-1-book-cover.jpg)
 
-![21](/images/memory-of-a-murderer-1-book-p21.jpg)
+![21](/images/book/memory-of-a-murderer-1-book-p21.jpg)
 
 주인공은 아내를 죽인 범인을 찾는 한 뇌과학자이다.
 그는 기억을 삭제하거나 이식하는 연구에서 얼마 전 유의미한 결과를 만들어내며 일약 학계의 스타가 된 인물인데,

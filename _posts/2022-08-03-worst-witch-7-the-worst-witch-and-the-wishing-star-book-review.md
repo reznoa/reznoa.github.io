@@ -9,7 +9,7 @@ tags: [책, 소설, 판타지, 동화, 창작동화, 학교, 질 머피, 민지�
 '꼴찌 마녀 밀드레드 7: 반짝반짝 별똥별에 소원을 빌어 봐(The Worst Witch and the Wishing Star)'는
 시리즈 일곱번째 책이다.
 
-![표지](/images/worst-witch-7-the-worst-witch-and-the-wishing-star-book-h480.jpg)
+![표지](/images/book/worst-witch-7-the-worst-witch-and-the-wishing-star-book-h480.jpg)
 
 7권에선 '밀드레드'가 등불지기라는 학교의 주요 업무 중 하나를 맡으면서 시작된다.
 등불을 켜고 끄는 등불지기는,

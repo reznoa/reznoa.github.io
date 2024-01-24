@@ -8,7 +8,7 @@ tags: [책, 소설, 미스터리, 경민선, 팩토리나인, 쌤앤파커스, �
 '나는 실수로 투명인간을 죽였다'는
 투명인간을 소재로 한 미스터리 소설이다.
 
-![표지](/images/i-killed-the-invisible-man-by-mistake-book-h480.jpg)
+![표지](/images/book/i-killed-the-invisible-man-by-mistake-book-h480.jpg)
 
 아니, 이걸 미스터리라고 얘기해도 될지 모르겠다.
 왜냐하면, 별로 비밀스러운 뭔가를 파헤친다던가 하는 그런 이야기가 아니기 때문이다.

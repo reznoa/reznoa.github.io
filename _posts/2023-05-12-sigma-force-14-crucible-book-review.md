@@ -9,7 +9,7 @@ tags: [책, 소설, SF, 제임스 롤린스, 황성연, 열린책들, 이북카�
 '크루시블(Sigma Force #14 Crucible)'은
 고도화된 인공지능을 소재로 한 SF 소설이다.
 
-![표지](/images/sigma-force-14-crucible-book-h480.jpg)
+![표지](/images/book/sigma-force-14-crucible-book-h480.jpg)
 
 인공지능은 크게 3가지로 구분할 수 있다.
 약인공지능, 강인공지능, 그리고 초인공지능이다.

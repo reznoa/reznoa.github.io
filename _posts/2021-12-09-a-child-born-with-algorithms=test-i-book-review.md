@@ -8,7 +8,7 @@ tags: [책, 소설, SF, 인공지능, 김윤, 팩토리나인, 북카페 책과 
 '테스터 아이'는
 인공지능을 소재로 한 SF 소설이다.
 
-![표지](/images/a-child-born-with-algorithms=test-i-book-h480.jpg)
+![표지](/images/book/a-child-born-with-algorithms=test-i-book-h480.jpg)
 
 이 소설은 처음부터 계속해서 인간에 대해서 이야기한다.
 주요한 소재나, 이야기 전개에 작용하는 것은 모두 인간 외적인 것들이지만

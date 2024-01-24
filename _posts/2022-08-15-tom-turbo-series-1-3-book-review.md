@@ -11,9 +11,9 @@ tags: [책, 어린이, 동화, 창작동화, 토마스 브레치나, 기니 노�
 톡톡튀는 상상력과 모험이 있는 창작동화다.
 
 <p class="center" markdown="1">
-![표지 1](/images/tom-turbo-das-geheimnis-der-geisterstadt-book-w230.jpg)
-![표지 2](/images/tom-turbo-der-spaghetti-spuk-book-w230.jpg)
-![표지 3](/images/tom-turbo-der-wolf-mit-dem-goldzahn-book-w230.jpg)
+![표지 1](/images/book/tom-turbo-das-geheimnis-der-geisterstadt-book-w230.jpg)
+![표지 2](/images/book/tom-turbo-der-spaghetti-spuk-book-w230.jpg)
+![표지 3](/images/book/tom-turbo-der-wolf-mit-dem-goldzahn-book-w230.jpg)
 </p>
 
 톰 터보는 시리즈는 등장인물부터가 좀 독특하다.

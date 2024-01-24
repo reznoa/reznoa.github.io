@@ -10,8 +10,8 @@ tags: [책, 소설, 여행, 성장, 에쿠니 가오리, 신유희, 소담출판
 무작정 미국 보기 여행을 떠난 두 소녀의 이야기를 그린 소설이다.
 
 <p class="center" markdown="1">
-![표지 1](/images/kanojotachi-no-baai-wa-book-1-h480.jpg)
-![표지 2](/images/kanojotachi-no-baai-wa-book-2-h480.jpg)
+![표지 1](/images/book/kanojotachi-no-baai-wa-book-1-h480.jpg)
+![표지 2](/images/book/kanojotachi-no-baai-wa-book-2-h480.jpg)
 </p>
 
 별 것 없는 것 같은 소재로 참 이야기를 잘 썼다.
@@ -30,7 +30,7 @@ tags: [책, 소설, 여행, 성장, 에쿠니 가오리, 신유희, 소담출판
 
 이러한 특징은 이들의 여행을 조금 덜 현실적인 것처럼 느끼게도 한다.
 
-![1-32](/images/kanojotachi-no-baai-wa-book-1-p032.jpg)
+![1-32](/images/book/kanojotachi-no-baai-wa-book-1-p032.jpg)
 
 그에 반해 그들을 떠나보낸 어른들 쪽은 영 심상치가 않은데,
 두 소녀의 그것과 비교가 되어 더욱 그래보인다.
@@ -44,7 +44,7 @@ tags: [책, 소설, 여행, 성장, 에쿠니 가오리, 신유희, 소담출판
 어째서 그런 형태여야만 했는지 등 제대로 풀어놓지 않은 것들이 있어서
 어른들과 달리 이들에게는 처음부터 공감할 수 있는 여지가 없었다.
 
-![1-54](/images/kanojotachi-no-baai-wa-book-1-p054.jpg)
+![1-54](/images/book/kanojotachi-no-baai-wa-book-1-p054.jpg)
 
 소설은 어느정도 여행소설의 면모도 갖고 있는데,
 이는 현재 시국과 맞물려 묘하게 대리만족을 선사하기도 한다.

@@ -9,7 +9,7 @@ tags: [책, 소설, 동화, 창작동화, 가족, 우주, 성장, 에린 엔트�
 '우리는 우주를 꿈꾼다(We Dream of Space)'는
 챌린저호 이야기를 소재로 한 가족의 이야기를 그린 소설이다.
 
-![표지](/images/we-dream-of-space-book-h480.jpg)
+![표지](/images/book/we-dream-of-space-book-h480.jpg)
 
 이 책의 배경은 무려 1986년이다.
 당시 발사를 앞두고있던 챌리저호 소재로 했기 때문이다.

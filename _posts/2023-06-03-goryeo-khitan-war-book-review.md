@@ -8,7 +8,7 @@ tags: [책, 역사, 고려, 길승수, 들녘, 컬처블룸, 서평]
 '고려거란전쟁'은
 고려와 거란간의 전쟁 역사를 담은 책이다.
 
-![표지](/images/goryeo-khitan-war-book-h480.jpg)
+![표지](/images/book/goryeo-khitan-war-book-h480.jpg)
 
 약 30여년에 걸치 고려와 거란의 전쟁을 담은 이 책은
 소설이 아니라 역사서로 분류된다.

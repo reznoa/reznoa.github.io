@@ -9,7 +9,7 @@ tags: [책, 소설, 판타지, 동화, 창작동화, 히로시마 레이코, 이
 '백의 왕: 잿병아리(白の王)'는
 '나르만 연대기(ナルマーン年代記)' 시리즈 2부 첫번째 책이다.
 
-![표지](/images/narman-chronicles-2-shiro-no-ou-part-1-book-h480.jpg)
+![표지](/images/book/narman-chronicles-2-shiro-no-ou-part-1-book-h480.jpg)
 
 마법이 존재하는 익숙한 중세 판타지적인 배경에 마족을 중심으로 한 이야기를 하는 이 소설 시리즈는,
 마족을 색다르게 그림으로써 신선함을 느끼게 한다.

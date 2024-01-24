@@ -8,7 +8,7 @@ tags: [책, 소설, 임야비, 쌤앤파커스, 북카페 책과 콩나무, 서�
 '악의 유전학'은
 유전학을 소재로 한 소설이다.
 
-![표지](/images/vicious-genetics-book-h480.jpg)
+![표지](/images/book/vicious-genetics-book-h480.jpg)
 
 실존 인물과 역사적 사실을 토대로
 그 뒤에 있을법한 이야기를 그려낸 소설이지만,

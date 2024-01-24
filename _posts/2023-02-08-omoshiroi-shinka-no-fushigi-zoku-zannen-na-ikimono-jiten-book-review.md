@@ -11,7 +11,7 @@ tags: [책, 과학, 생물, 도감, 마루야마 다카시, 이마이즈미 다�
 '안타까운 동물사전 2: 재미있는 진화의 신비(おもしろい! 進化のふしぎ 続ざんねんないきもの事典)'는
 독특하고 흥미로운 동물들의 모습과 특징을 담은 동물도감이다.
 
-![표지](/images/omoshiroi-shinka-no-fushigi-zannen-na-ikimono-jiten-book-h480.jpg)
+![표지](/images/book/omoshiroi-shinka-no-fushigi-zannen-na-ikimono-jiten-book-h480.jpg)
 
 일종의 시리즈로서
 [1권]({% post_url 2022-06-01-omoshiroi-shinka-no-fushigi-zannen-na-ikimono-jiten-book-review %})의 후속작으로 나온 이 책은,

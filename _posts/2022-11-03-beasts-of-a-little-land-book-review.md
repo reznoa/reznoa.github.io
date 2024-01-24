@@ -10,7 +10,7 @@ published: false
 '작은 땅의 야수들(Beasts of a Little Land)'은
 일제강점기에서부터 광복 이후까지 이어지는 얽힌 인연을 그린 소설이다.
 
-![표지](/images/beasts-of-a-little-land-book-h480.jpg)
+![표지](/images/book/beasts-of-a-little-land-book-h480.jpg)
 
 한 사냥꾼으로부터 시작하는 이야기는,
 기진맥진한 그를 구하게 되는 일본군 일행과 그들이 조우하게 되는 호랑이,

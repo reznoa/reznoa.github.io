@@ -8,7 +8,7 @@ tags: [책, 소설, 청소년, 판타지, 요괴, 제리안, 이지북, YA!, 컬
 '화월 고서점 요괴 수사록'은
 현대를 배경으로 동양 판타지를 그려낸 소설이다.
 
-![표지](/images/hwawol-antique-bookstore-monster-investigation-record-book-h480.jpg)
+![표지](/images/book/hwawol-antique-bookstore-monster-investigation-record-book-h480.jpg)
 
 이 책은 [카카오페이지에서 연재했던 동명의 컨텐츠](https://page.kakao.com/content/58671052)를 책으로 엮은 것이다.
 아쉽지만 장편 연재가 아니었기 때문에 이야기가 충분히 풀리지는 않았었는데,

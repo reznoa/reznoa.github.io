@@ -8,7 +8,7 @@ tags: [책, 음악, 이화균, 해피엠뮤직, 리뷰어스 클럽, 서평]
 '기초 실용음악 화성학'은
 음악이론의 기초를 담은 책이다.
 
-![표지](/images/elementary-harmony-book-h480.jpg)
+![표지](/images/book/elementary-harmony-book-h480.jpg)
 
 한마디로 음악이론 교재라고 할 수 있겠다.
 

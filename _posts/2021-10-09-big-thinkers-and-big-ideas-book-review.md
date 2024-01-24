@@ -9,7 +9,7 @@ tags: [책, 철학, 샤론 케이, 임현정, 책과함께어린이, 책과함�
 '생각을 깨우는 철학(Big Thinkers and Big Ideas: An Introduction to Eastern and Western Philosophy for Kids)'은
 철학의 주요 개념들을 쉽고 간단하게 정리한 책이다.
 
-![표지](/images/big-thinkers-and-big-ideas-book-h480.jpg)
+![표지](/images/book/big-thinkers-and-big-ideas-book-h480.jpg)
 
 철학은 쉽지 않다.
 상당히 깊은 지식과 사색을 요구하는 경우가 많기 때문이다.

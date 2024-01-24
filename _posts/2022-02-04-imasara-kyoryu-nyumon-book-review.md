@@ -11,7 +11,7 @@ tags: [책, 생물, 공룡, 마루야마 다카시, 마쓰다 유카, 서수지,
 '모든 공룡에게는 그들만의 이야기가 있다(いまさら恐竜入門)'는
 최신 공룡 연구를 담은 공룡 입문서다.
 
-![표지](/images/imasara-kyoryu-nyumon-book-h480.jpg)
+![표지](/images/book/imasara-kyoryu-nyumon-book-h480.jpg)
 
 공룡, 그 얼마나 설레는 이름이냐.
 공룡은 겨우 몇 종만이 겨우,

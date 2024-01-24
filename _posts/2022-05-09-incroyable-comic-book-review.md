@@ -10,7 +10,7 @@ tags: [책, 만화, 동화, 창작동화, 뱅상 자뷔스, 이폴리트, 김현
 '숨을 참는 아이(Incroyable!)'는
 성장하는 아이의 이야기를 독특하게 그려낸 창작동화다.
 
-![표지](/images/incroyable-comic-book-h480.jpg)
+![표지](/images/book/incroyable-comic-book-h480.jpg)
 
 이야기의 주인공 '루이'는 좀 특별한 면이 있다.
 다소 강박적으로 보이는 행동을 반복하는 것도 그렇고,

@@ -9,7 +9,7 @@ tags: [책, 소설, 단편, SF, 표국청, 황모과, 안영선, 하승민, 박�
 '뉴 러브'는
 제목 그대로 새로운 사랑을 주제로 한 단편 소설집이다.
 
-![표지](/images/safehousekorea-anthology-7-new-love-book-h480.jpg)
+![표지](/images/book/safehousekorea-anthology-7-new-love-book-h480.jpg)
 
 사랑 이야기는 너무 많다.
 오죽하면 로맨스라고 따로 장르로까지 분류를 하겠나.

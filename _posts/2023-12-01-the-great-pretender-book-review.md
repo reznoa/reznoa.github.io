@@ -9,7 +9,7 @@ tags: [책, 의학, 수재나 캐헐런, 장호연, 북하우스, 이북카페, 
 '가짜 환자, 로젠한 실험 미스터리: 정상과 비정상의 경계를 무너뜨린 정신의학사의 위대한 진실(The Great Pretender: The Undercover Mission That Changed Our Understanding of Madness)'은
 자못 충격적이었던 정신의학 실험을 추적한 책이다.
 
-![표지](/images/the-great-pretender-book-h480.jpg)
+![표지](/images/book/the-great-pretender-book-h480.jpg)
 
 정신의학은 모든 의학 분야 중 가장 불분명한 분야다.
 바이러스나 박테리아, 암같은 물리적인 질환 원인과 그 증상을 발혀내면서

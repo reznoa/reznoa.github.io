@@ -9,7 +9,7 @@ tags: [책, 글쓰기, 사샤 블랙, 정지현, 윌북, 북카페 책과 콩나
 '히어로의 공식(10 Steps to Hero: How To Craft A Kickass Protagonist)'은
 말 그대로 히어로를 만드는 법에 대해 담은 책이다.
 
-![표지](/images/10-steps-to-hero-book-h480.jpg)
+![표지](/images/book/10-steps-to-hero-book-h480.jpg)
 
 대게 다르게 지칭하는 경우가 더 많기 때문에
 한국인에게 히어로라고 하면 자연스럽게 슈퍼히어로를 떠올리게 된다만,

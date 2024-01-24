@@ -8,7 +8,7 @@ tags: [책, 만화, 초한지, Team. StoryG, 올드스테어즈, 컬처블룸, �
 '처음 읽는 초한지 1'은
 초한지를 쉽게 볼 수 있게 그린 만화다.
 
-![표지](/images/chohanji-for-the-first-time-1-comic-book-h480.jpg)
+![표지](/images/book/chohanji-for-the-first-time-1-comic-book-h480.jpg)
 
 중국 역사 소설 중 가장 유명한건 삼국지다.
 그에비해 유명세는 좀 덜하지만,

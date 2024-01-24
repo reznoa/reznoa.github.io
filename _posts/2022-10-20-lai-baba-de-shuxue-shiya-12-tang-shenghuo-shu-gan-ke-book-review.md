@@ -9,7 +9,7 @@ tags: [책, 수학, 라이이웨이, 타오즈, 다푸차오메이, 김지혜, �
 '수학, 풀지 말고 실험해 봐 2(賴爸爸的數學實驗: 12堂生活數感課)'는
 수학을 꽤나 흥미롭게 담아낸 책이다.
 
-![표지](/images/lai-baba-de-shuxue-shiya-12-tang-shenghuo-shu-gan-ke-book-h480.jpg)
+![표지](/images/book/lai-baba-de-shuxue-shiya-12-tang-shenghuo-shu-gan-ke-book-h480.jpg)
 
 수학을 좋아하는 사람은 드물다.
 학생 시절에 워낙에 국영수, 국영수 하며 들들 볶인데다

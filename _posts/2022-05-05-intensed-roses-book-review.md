@@ -8,7 +8,7 @@ tags: [책, 소설, 이우연, 아르테, 북이십일, 북카페 책과 콩나�
 '악착같은 장미들'은
 참 쉽지 않은 책이다.
 
-![표지](/images/intensed-roses-book-h480.jpg)
+![표지](/images/book/intensed-roses-book-h480.jpg)
 
 솔직히 눈에 잘 안들어온다.
 왜 그럴까.

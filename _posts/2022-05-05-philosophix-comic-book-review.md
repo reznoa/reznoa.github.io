@@ -10,7 +10,7 @@ tags: [책, 만화, 철학, 에티엔 가르셍, A. 단, 이성엽, 허경, 북�
 '철학: 동굴 신화와 열 가지 에피소드(Philosophix: Le mythe de la caverne et autres histoires philosophiques)'는
 철학적 에피소드를 만화로 그려낸 작품이다.
 
-![표지](/images/philosophix-comic-book-h480.jpg)
+![표지](/images/book/philosophix-comic-book-h480.jpg)
 
 대게 '만화'라고 하면 좀 더 쉬운 것, 일종의 즐길거리라고 생각하는 것과 달리
 이 책은 순전히 표현적인 장점을 채택하기 위해서 만화라는 포맷을 선택했고

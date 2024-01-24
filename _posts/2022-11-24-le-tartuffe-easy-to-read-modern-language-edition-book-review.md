@@ -9,7 +9,7 @@ tags: [책, 희곡, 몰리에르, 김보희, 미래와사람, 북카페 책과 �
 '읽기 쉽게 풀어쓴 현대어판 타르튀프(Le Tartuffe)'는
 시대상을 재미있게 풍자해낸 희곡이다.
 
-![표지](/images/le-tartuffe-easy-to-read-modern-language-edition-book-h480.jpg)
+![표지](/images/book/le-tartuffe-easy-to-read-modern-language-edition-book-h480.jpg)
 
 17세기 작품인 이 희곡은,
 다분히 당대의 프랑스 종교계를 풍자한 일종의 사회예술에 가까운 것이었다.

@@ -3,52 +3,53 @@ layout: post
 title: "모든 책에 양장본과 같은 끈 북마크를! - 한스미디어 다만 부패에서_총 북마크"
 category: 도서
 tags: [책, 책갈피, 한스미디어, 문화충전200%]
+published: false
 ---
 
 '한스미디어 다만 부패에서_총 북마크'는 자석을 이용해
 간단하게 책에 양장본과 같은 끈 북마크를 쓸 수 있게 만들어주는 '마그네틱 롱테일북마크'다.
 
-![패키지](/images/magnetic-long-tail-bookmark-01.jpg)
+![패키지](/images/review/magnetic-long-tail-bookmark-01.jpg)
 
-![외형](/images/magnetic-long-tail-bookmark-02.jpg)
+![외형](/images/review/magnetic-long-tail-bookmark-02.jpg)
 
 '어둠이 돌아오라 부를 때' 출판 기념 굿즈로 받은 것이지만,
 이 책갈피는 소설 '다만 부패에서 구하소서'에서 영감을 받아 총 모양으로 만들어진 것이다.
 총 부분은 메뉴판 같은 종이로 되어있으며, 끈은 양장본 등에 책갈피로 많이 사용하는 것과 같은 것으로 보인다.
 
-![안쪽](/images/magnetic-long-tail-bookmark-03.jpg)
+![안쪽](/images/review/magnetic-long-tail-bookmark-03.jpg)
 
 권총 안쪽에는 붙이는 메뉴판이나 무폰 등에 많이 사용하는 납작한 고무 자석이 양쪽에 붙어있는데,
 이게 서로 강하게 달라붙어서 꽤 고정이 잘 되는 편이다.
 
-![사용 1-1](/images/magnetic-long-tail-bookmark-04.jpg)
+![사용 1-1](/images/review/magnetic-long-tail-bookmark-04.jpg)
 
 원하는 쪽에 끼우면 이런 모양이 된다.
 
-![사용 1-2](/images/magnetic-long-tail-bookmark-05.jpg)
+![사용 1-2](/images/review/magnetic-long-tail-bookmark-05.jpg)
 
 북마크를 끼우면, 자석 두께가 꽤 있는 편이기 때문에, 책 중간이 이렇게 뜬다.
 
-![사용 1-3](/images/magnetic-long-tail-bookmark-06.jpg)
+![사용 1-3](/images/review/magnetic-long-tail-bookmark-06.jpg)
 
 끈이 권총 아래 쪽에 달려있어서 자연스럽게 밑으로 내려오며,
 특정 판본을 겨냥해서 만든 것이 아니기 때문에
 대부분의 소설책에는 무리없이 쓸 수 있도록 길이에 여유가 있는 편이다.
 
-![제품 설명](/images/magnetic-long-tail-bookmark-07.jpg)
+![제품 설명](/images/review/magnetic-long-tail-bookmark-07.jpg)
 
 북마크가 끼워져 있던 종이에 보면 간략한 사용법이 나와있는데,
 여기서는 뒷 표지에 끼우고 사용하는 방법을 주요하게 설명한다.
 
-![사용 2-1](/images/magnetic-long-tail-bookmark-08.jpg)
+![사용 2-1](/images/review/magnetic-long-tail-bookmark-08.jpg)
 
 끼우면 이런 모양이 되는데, 끈이 아래쪽에 달려있기 때문에 위로 넘겨 한바퀴 돌리는 식으로 써야한다.
 
-![사용 2-2](/images/magnetic-long-tail-bookmark-09.jpg)
+![사용 2-2](/images/review/magnetic-long-tail-bookmark-09.jpg)
 
-![사용 2-3](/images/magnetic-long-tail-bookmark-10.jpg)
+![사용 2-3](/images/review/magnetic-long-tail-bookmark-10.jpg)
 
-![사용 2-4](/images/magnetic-long-tail-bookmark-11.jpg)
+![사용 2-4](/images/review/magnetic-long-tail-bookmark-11.jpg)
 
 그래서 끈이 힘을 받아 좀 뜨게 되며, 아래로도 별로 여유 없이 조금만 빠져나오게 된다.
 다른 디자인의 마그네틱 롱테일북마크는 어떨지 모르겠으나,

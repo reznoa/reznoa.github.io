@@ -9,7 +9,7 @@ tags: [책, 과학, 양자역학, 요비노리 다쿠미, 이지호, 전국과�
 '과학은 어렵지만 양자 역학은 알고 싶어(難しい数式はまったくわかりませんが、量子力学を教えてください!)'는
 양자역학을 좀 더 쉽게 접할 수 있게 해주는 책이다.
 
-![표지](/images/muzukashi-sushuki-ha-mattaku-wakarimasenga-ryoshirikigaku-wo-oshietekudasai-book-h480.jpg)
+![표지](/images/book/muzukashi-sushuki-ha-mattaku-wakarimasenga-ryoshirikigaku-wo-oshietekudasai-book-h480.jpg)
 
 물리학의 많은 부분은 수식으로 이루어져있다.
 그렇기 때문에 본질적으로는 수학을 모른다면 물리를 온전히 이해하기란 어렵고까지 얘기하기도 한다.

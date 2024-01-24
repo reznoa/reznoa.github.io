@@ -8,7 +8,7 @@ tags: [책, 역사, 고려, 길승수, 들녘, 컬처블룸, 서평]
 '고려거란전쟁'은
 고려와 거란의 전쟁을 그린 역사 소설이다.
 
-![표지](/images/goryeo-khitan-war-2-book-h480.jpg)
+![표지](/images/book/goryeo-khitan-war-2-book-h480.jpg)
 
 소설을 원작으로한 동명의 드라마를 보면,
 소설과의 온도차를 좀 크게 느끼게 된다.

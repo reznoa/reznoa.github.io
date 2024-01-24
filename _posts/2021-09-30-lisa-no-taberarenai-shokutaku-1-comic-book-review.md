@@ -9,7 +9,7 @@ tags: [책, 만화, 판타지, SF, 먹방, 힐링, 쿠로사토 호토리, 고�
 '리사의 먹을 수 없는 식사(リサの食べられない食卓)'는
 여러가지 요소가 잘 섞여있는 힐링 드라마다.
 
-![표지](/images/lisa-no-taberarenai-shokutaku-1-comic-book-cover.jpg)
+![표지](/images/book/lisa-no-taberarenai-shokutaku-1-comic-book-cover.jpg)
 
 이 만화는 판타지를 기본으로 하고 있다.
 당장 주인공인 리사부터가 소위 '뱀파이어'이기 때문이다.
@@ -20,9 +20,9 @@ tags: [책, 만화, 판타지, SF, 먹방, 힐링, 쿠로사토 호토리, 고�
 그것에 보통 사람들이 휘발려서는 약속된 리액션을 하고,
 그런 것으로 이야기를 가볍게 시작한다.
 
-![p7](/images/lisa-no-taberarenai-shokutaku-1-comic-book-p007.jpg)
+![p7](/images/book/lisa-no-taberarenai-shokutaku-1-comic-book-p007.jpg)
 
-![p12](/images/lisa-no-taberarenai-shokutaku-1-comic-book-p012.jpg)
+![p12](/images/book/lisa-no-taberarenai-shokutaku-1-comic-book-p012.jpg)
 
 애초에 요리에 손을 댄 이유부터가
 '먹이의 질이 더 좋은 피 맛으로 이어진다'는 꽤나 유사과학적인 것에 기댄 것이라는 점도
@@ -34,7 +34,7 @@ tags: [책, 만화, 판타지, SF, 먹방, 힐링, 쿠로사토 호토리, 고�
 이게 (애초에 그닥 하드한 장르물이 아니라서 대충 넘어가게 되서 그런 것도 있지만)
 일반적인 현대 문명의 연장인 것 같으면서도 또한 중세적인 양식과 분위기가 좋을대로 섞여있는 것을 은근히 잘 뭉개준다.
 
-![p77](/images/lisa-no-taberarenai-shokutaku-1-comic-book-p077.jpg)
+![p77](/images/book/lisa-no-taberarenai-shokutaku-1-comic-book-p077.jpg)
 
 1권에서는 살짝 맛만 보여주는 정도라 좀 사족처럼 보이기도 하고,
 이후로도 과연 어디까지 진지하게 배경 설정으로서 내밀려는 건지 잘 모르겠지만,
@@ -42,7 +42,7 @@ tags: [책, 만화, 판타지, SF, 먹방, 힐링, 쿠로사토 호토리, 고�
 그냥 없어도 상관없는 부가적인 배경 설정으로 놔둔채 일상물로 이어가도 좋고,
 반대로 이를 발전시켜 명확한 세계관을 그려내는 것도 나름 볼만할 것 같다.
 
-![p152](/images/lisa-no-taberarenai-shokutaku-1-comic-book-p152.jpg)
+![p152](/images/book/lisa-no-taberarenai-shokutaku-1-comic-book-p152.jpg)
 
 생각보다 비중이 낮긴 하지만, 먹방 요소도 꽤나 잘 담겨있다.
 만화적 표현을 위해 단순해 해서 그리는 캐릭터들과 달리
@@ -53,7 +53,7 @@ tags: [책, 만화, 판타지, SF, 먹방, 힐링, 쿠로사토 호토리, 고�
 그런 무리한 설정을 붙이기보다는 점차 발전하는 캐릭터로 만든 게
 훨씬 자연스럽고 적절하다.
 
-![p160](/images/lisa-no-taberarenai-shokutaku-1-comic-book-p160.jpg)
+![p160](/images/book/lisa-no-taberarenai-shokutaku-1-comic-book-p160.jpg)
 
 일종의 요리만화이면서도 요리의 비중은 생각보다 낫다고 했는데,
 요리 자체보다는 인물들이 만들어내는 드라마에 더 초점을 맞추고 있기 때문이다.

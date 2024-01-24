@@ -9,7 +9,7 @@ tags: [책, 만화, 순정, 로맨스, 타카나시 미즈키, 학산문화사, 
 '죽을 때는 눈부시게 1'은
 외모 콤플렉스를 가진 소녀의 안타까운 이야기를 그린 만화다.
 
-![커버](/images/shinu-tokiwa-mabayuku-1-comic-book-h480.jpg)
+![커버](/images/book/shinu-tokiwa-mabayuku-1-comic-book-h480.jpg)
 
 '**플라스틱**' 러브 스토리라고 하는 소개가 꽤 독특한데,
 주인공이 한 결심에서 비롯된 것이란 걸 생각하면 의외로 적절해 보이기도 한다.
@@ -25,7 +25,7 @@ tags: [책, 만화, 순정, 로맨스, 타카나시 미즈키, 학산문화사, 
 그렇게 상당히 우울한 이야기로 시작해서 그런지
 꽤 초반에 전환이 이루어지는데도 불구하고 계속 어두운 분위기가 남아있다.
 
-![29p](/images/shinu-tokiwa-mabayuku-1-comic-book-p029.jpg)
+![29p](/images/book/shinu-tokiwa-mabayuku-1-comic-book-p029.jpg)
 
 이야기의 속도는 좀 느린 편이어서 1권은 이제 막 시작했다는 느낌이다.
 그러면서도 앞으로 일이 얼마나 틀어질 수 있는지는 또 섬세하게 남겼는데,

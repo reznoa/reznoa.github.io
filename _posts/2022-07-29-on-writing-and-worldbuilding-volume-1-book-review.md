@@ -9,7 +9,7 @@ tags: [책, 소설, 티머시 힉슨, 정아영, 다른, 이북카페, 서평]
 '작가를 위한 세계관 구축법: 생성 편 - 마법, 제국, 운명(On Writing and Worldbuilding: Volume I)'은
 세계관 구축을 위한 유익한 내용들을 담은 책이다.
 
-![표지](/images/on-writing-and-worldbuilding-volume-1-book-h480.jpg)
+![표지](/images/book/on-writing-and-worldbuilding-volume-1-book-h480.jpg)
 
 기본적으로 소설 작법에 대해 얘기하는 이 책은,
 본디 (저자의 나라에) 동영상 강좌가 한참 유행일 때

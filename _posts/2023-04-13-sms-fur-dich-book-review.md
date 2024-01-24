@@ -9,7 +9,7 @@ tags: [책, 소설, 영화원작, 영화화, 로맨스, 조피 크라머, 강민
 '메시지가 왔습니다(SMS für Dich; Text for You)'는
 문자를 통해 시작되는 인연을 그린 로맨스 소설이다.
 
-![표지](/images/sms-fur-dich-book-h480.jpg)
+![표지](/images/book/sms-fur-dich-book-h480.jpg)
 
 아마 허투로 보고 지나칠만한 사람도 많을 것 같다.
 소재나 시놉이 좀 뻔해보이는 게 사실이기 때문이다.

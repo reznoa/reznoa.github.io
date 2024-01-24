@@ -9,7 +9,7 @@ tags: [책, 만화, 로맨스, 코미디, TS, 아마노 시노부, 학산문화�
 '리버스×리버스(リバース×リバース / Reverse x Rebirth)'는
 여학교에서의 비밀스러운 생활과 로맨스를 그린 만화다.
 
-![표지](/images/reverse-x-rebitrh-1-comic-book-h480.jpg)
+![표지](/images/book/reverse-x-rebitrh-1-comic-book-h480.jpg)
 
 장르의 장점을 참 잘 살린 만화다.
 아직 2차성징이 완전히 이뤄지지 않은 소년/소녀일 때나 가능한 TS요소나,
@@ -17,11 +17,11 @@ tags: [책, 만화, 로맨스, 코미디, TS, 아마노 시노부, 학산문화�
 이미 우려먹을대로 우려먹은 흔한 소재이기는 하다만,
 중요한 것은 소재의 신선함이 아니라 그걸 얼마나 잘 살리느냐라는 것을 잘 보여준다.
 
-![47](/images/reverse-x-rebitrh-1-comic-book-p047.jpg)
+![47](/images/book/reverse-x-rebitrh-1-comic-book-p047.jpg)
 
-![57](/images/reverse-x-rebitrh-1-comic-book-p057.jpg)
+![57](/images/book/reverse-x-rebitrh-1-comic-book-p057.jpg)
 
-![101](/images/reverse-x-rebitrh-1-comic-book-p101.jpg)
+![101](/images/book/reverse-x-rebitrh-1-comic-book-p101.jpg)
 
 거기에 가장 큰 역할을 하는 것 중 하나가 매력적인 캐릭터다.
 사실 이 만화에 등장하는 캐릭터들 역시 상황 설정 못지않게 익숙하다.
@@ -40,7 +40,7 @@ tags: [책, 만화, 로맨스, 코미디, TS, 아마노 시노부, 학산문화�
 여학교에서의 로맨스를 그린만큼 유명한 백합 장르물을 오마쥬한 것도 있는데,
 그것도 아는 사람에겐 재미있는 이스터 애그다.
 
-![5](/images/reverse-x-rebitrh-1-comic-book-p005.jpg)
+![5](/images/book/reverse-x-rebitrh-1-comic-book-p005.jpg)
 
 완성도에는 이 만화만의 것이라 할 수 있는 세부 설정도 큰 역할을 한다.
 주인공 캐릭터들에게 부여된 나름 무겁고 운명적인 사연은
@@ -52,9 +52,9 @@ tags: [책, 만화, 로맨스, 코미디, TS, 아마노 시노부, 학산문화�
 그것이 둘의 (어쩌면 공통된) 꿈을 이뤄가는 것을 쉽게 느끼게 해준다.
 이것은 코미디가 주된 전반부가 끝난 후의 드라마 역시 기대하게 하는 요소이기도 하다.
 
-![49](/images/reverse-x-rebitrh-1-comic-book-p049.jpg)
+![49](/images/book/reverse-x-rebitrh-1-comic-book-p049.jpg)
 
-![156](/images/reverse-x-rebitrh-1-comic-book-p156.jpg)
+![156](/images/book/reverse-x-rebitrh-1-comic-book-p156.jpg)
 
 번역과 편집은 좀 아쉬운 부분이 있었는데,
 일본 문화 특유의 것이 나온 부분이 여럿 있어서다.

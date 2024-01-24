@@ -8,7 +8,7 @@ tags: [책, 소설, 로맨스, 클로에 윤, 팩토리나인, 이북카페, 서
 '어느 날, 너의 심장이 멈출 거라 말했다'는
 동화같은, 귀여운 로맨스 소설이다.
 
-![표지](/images/one-day-you-said-your-heart-would-stop-book-h480.jpg)
+![표지](/images/book/one-day-you-said-your-heart-would-stop-book-h480.jpg)
 
 100일간의 연인 계약이라는 다소 발칙한 소재로 시작하지만,
 초반부 전개로 곧 알 수 있듯이 그것이 별로 중요한 역할을 하는 것은 아니다.

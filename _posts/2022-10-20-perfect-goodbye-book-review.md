@@ -8,7 +8,7 @@ tags: [책, 소설, SF, 이한칸, 델피노, 북카페 책과 콩나무, 서평
 '완벽한 작별'은
 냉동인간을 소재로 한 SF 소설이다.
 
-![표지](/images/perfect-goodbye-book-h480.jpg)
+![표지](/images/book/perfect-goodbye-book-h480.jpg)
 
 냉동인간은 지금에 와선 좀 식상한 소재다.
 이미 진지한 SF에서부터 가볍게 즐길만한 오락 액션까지 넘나들며

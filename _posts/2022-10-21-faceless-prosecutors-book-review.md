@@ -8,7 +8,7 @@ tags: [책, 사회, 최정규, 블랙피쉬, 이북카페, 서평]
 '얼굴 없는 검사들'은
 한국 검사들의 문제를 담은 책이다.
 
-![표지](/images/faceless-prosecutors-book-h480.jpg)
+![표지](/images/book/faceless-prosecutors-book-h480.jpg)
 
 정치에 관심이 없는 사람도 '검찰개혁'이라는 말 자체는 많이 들어봤을 거다.
 그만큼 뜨거운 화재이기도 했거니와,

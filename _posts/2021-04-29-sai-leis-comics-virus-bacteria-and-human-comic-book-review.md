@@ -9,7 +9,7 @@ tags: [책, 만화, 바이러스, 사이레이, 이서연, 정민미디어, 북�
 '3분 만화 바이러스 세계사(赛雷三分钟漫画：病毒、细菌与人类)'는
 쉽고 재미있게 바이러스 이야기를 살펴볼 수 있게 만든 만화다.
 
-![표지](/images/sai-leis-comics-virus-bacteria-and-human-comic-book-h480.jpg)
+![표지](/images/book/sai-leis-comics-virus-bacteria-and-human-comic-book-h480.jpg)
 
 일단 '만화'라고 하기는 한다만,
 솔직히 이 책은 만화라고 보긴 어렵다.

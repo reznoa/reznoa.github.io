@@ -8,7 +8,7 @@ tags: [책, 소설, SF, 뱀파이어, 송경혁, 고블, 고블 씬 북, 북카�
 '충청도 뱀파이어는 생각보다 빠르게 달린다'는
 뱀파이어를 소재로 한 일종의 SF 소설이다.
 
-![표지](/images/chungcheong-do-vampires-run-faster-than-expected-book-h480.jpg)
+![표지](/images/book/chungcheong-do-vampires-run-faster-than-expected-book-h480.jpg)
 
 뱀파이어를 소재로 했는데 왜 SF냐면,
 보통 하듯이 호러나 판타지 요소로서 뱀파이어를 사용한 게 아니라

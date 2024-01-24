@@ -9,7 +9,7 @@ tags: [책, 소설, 스릴러, 리사 스코토라인, 권도희, 소담출판�
 '15분마다(Every Fifteen Minutes)'는
 정신병을 흥미롭고 재미있는 이야기로 그려낸 소설이다.
 
-![표지](/images/every-fifteen-minutes-book-h480.jpg)
+![표지](/images/book/every-fifteen-minutes-book-h480.jpg)
 
 소설에는 크게 두가지 정신병이 주요하게 등장한다.
 하나는 소위 연쇄살인마의 소양처럼 유명해진 소시오패스고,

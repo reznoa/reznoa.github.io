@@ -8,7 +8,7 @@ tags: [책, 소설, 단편, 중편, 이문열, 알에이치코리아, 북카페 
 '이문열 중단편 수상작 모음집'은
 그의 중단편 소설 중 수상작 등 여섯편을 모아 엮은 책이다.
 
-![표지](/images/yi-mun-yol-award-winning-shorts-collection-book-h480.jpg)
+![표지](/images/book/yi-mun-yol-award-winning-shorts-collection-book-h480.jpg)
 
 <!--
 수록작은 다음과 같다:

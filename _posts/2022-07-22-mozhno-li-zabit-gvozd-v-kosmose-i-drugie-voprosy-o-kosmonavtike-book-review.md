@@ -9,7 +9,7 @@ tags: [책, 과학, 우주, 세르게이 랴잔스키, 알렉세이 옙투셴코
 '우주비행사에게 물어보는, 시시콜콜 우주 라이프(Можно ли забить гвоздь в космосе и другие вопросы о космонавтике)'는
 우주비행에 대한 여러가지 질의응답을 담은 책이다.
 
-![표지](/images/mozhno-li-zabit-gvozd-v-kosmose-i-drugie-voprosy-o-kosmonavtike-book-h480.jpg)
+![표지](/images/book/mozhno-li-zabit-gvozd-v-kosmose-i-drugie-voprosy-o-kosmonavtike-book-h480.jpg)
 
 우주는 얼마나 놀라운 세계인지.
 몇번을 들어도 신기하고 흥미롭다.

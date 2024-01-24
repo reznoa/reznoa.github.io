@@ -9,7 +9,7 @@ tags: [책, 역사, 그림책, 돤장취이 스튜디오, 김영미, 서울문�
 '원시인의 하루: 오늘은 어디서 잘까?(原始人的一天: 居无定所)'는
 원시인들의 집에 대해 담은 그림책이다.
 
-![표지](/images/one-day-in-ancient-time-3-how-to-build-living-palces-picture-book-h480.jpg)
+![표지](/images/book/one-day-in-ancient-time-3-how-to-build-living-palces-picture-book-h480.jpg)
 
 원시인의 생활을 하루라는 단위로 간략화해서 표현하면서도,
 환경에 따라서 또 세월에 따라서 어떤 방식으로 진화했으며

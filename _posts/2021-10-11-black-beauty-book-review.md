@@ -9,7 +9,7 @@ tags: [책, 소설, 완역, 애나 슈얼, 이미영, 레인보우퍼블릭북�
 '블랙 뷰티(Black Beauty)'는
 인간의 관점이 아닌 동물의 관점으로 쓰인 최초의 영미 소설이다.
 
-![표지](/images/black-beauty-book-h480.jpg)
+![표지](/images/book/black-beauty-book-h480.jpg)
 
 일종의 자서전적 회고록인 이 소설의 화자는 무려 말이다.
 사람의 입장에서 지켜본 말의 생애가 아니라

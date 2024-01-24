@@ -10,7 +10,7 @@ tags: [책, 만화, 전기, 루스 베이더 긴즈버그, 성차별, 데비 레
 '루스 베이더 긴즈버그의 정의를 향한 여정: RBG가 되기까지(Becoming RBG: Ruth Bader Ginsburg's Journey to Justice)'는
 한 소녀가 차별에 맞고 판사가 되기까지의 이야기를 그린 만화다.
 
-![표지](/images/becoming-rbg-comic-book-h480.jpg)
+![표지](/images/book/becoming-rbg-comic-book-h480.jpg)
 
 루스는 어떻게 보면 운이 나빴다.
 그녀가 태어난 시기가 나찌 등을 대표로 유대인 박해가 심하던 때였던데다,

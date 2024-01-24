@@ -9,11 +9,11 @@ published: false
 '해피이어쿠션'은
 FDA 승인을 받은 친환경 폴리우레탄 소재로 만든 국내산 마스크 이어가드다.
 
-![패키지 1](/images/happy-ear-cushion-review-01.jpg)
+![패키지 1](/images/review/happy-ear-cushion-review-01.jpg)
 
-![표기](/images/happy-ear-cushion-review-02.jpg)
+![표기](/images/review/happy-ear-cushion-review-02.jpg)
 
-![패키지 2](/images/happy-ear-cushion-review-03.jpg)
+![패키지 2](/images/review/happy-ear-cushion-review-03.jpg)
 
 제품 구성은 단촐하다.
 폴리우레탄으로 만들어진 마스크 이어가드만이 들어있기 때문이다.
@@ -22,15 +22,15 @@ FDA 승인을 받은 친환경 폴리우레탄 소재로 만든 국내산 마스
 별도의 설명서 없이 박스 뒷면에 간략히 표기해두었다.
 주의사항이 있기는 하지만, 한번만 훑어봐도 쉽게 내용을 파악할 수 있다.
 
-![제품 1](/images/happy-ear-cushion-review-04.jpg)
+![제품 1](/images/review/happy-ear-cushion-review-04.jpg)
 
-![제품 2](/images/happy-ear-cushion-review-05.jpg)
+![제품 2](/images/review/happy-ear-cushion-review-05.jpg)
 
-![제품 3](/images/happy-ear-cushion-review-06.jpg)
+![제품 3](/images/review/happy-ear-cushion-review-06.jpg)
 
-![끝부분 1](/images/happy-ear-cushion-review-07.jpg)
+![끝부분 1](/images/review/happy-ear-cushion-review-07.jpg)
 
-![끝부분 2](/images/happy-ear-cushion-review-08.jpg)
+![끝부분 2](/images/review/happy-ear-cushion-review-08.jpg)
 
 해피이어쿠션은 얇은 초승달 모양을 하고 있는데,
 그 위에 마스크 끈을 걸쳐놓을 수 있도록 도랑이 파져있는 형태를 하고 있다.
@@ -39,17 +39,17 @@ FDA 승인을 받은 친환경 폴리우레탄 소재로 만든 국내산 마스
 그러지 않도록 하기 위해 가운데 부분에 더 높은 가이드를 만들어두었으며,
 이어가드 양 끝쪽은 마스크 끈을 확인하게 잡고있을 수 있도록 오므려지는 형태로 만들어졌다.
 
-![끼우기 1](/images/happy-ear-cushion-review-10.jpg)
+![끼우기 1](/images/review/happy-ear-cushion-review-10.jpg)
 
-![끼우기 2](/images/happy-ear-cushion-review-11.jpg)
+![끼우기 2](/images/review/happy-ear-cushion-review-11.jpg)
 
-![끼우기 3](/images/happy-ear-cushion-review-12.jpg)
+![끼우기 3](/images/review/happy-ear-cushion-review-12.jpg)
 
 덕분에 착용 후 자유롭게 움직여도 일부러 마스크 끈을 잡아당기는 등의 행위를 하지 않는 한
 마스크 끈에서 떨어지지 않고 잘 달라붙어 있으며,
 마스크 끈에서의 위치도 처음에 고정했던대로 잘 자리잡아 있다.
 
-![탄력](/images/happy-ear-cushion-review-09.jpg)
+![탄력](/images/review/happy-ear-cushion-review-09.jpg)
 
 <center><iframe width="480" height="270" src="https://www.youtube.com/embed/pSAn1x6xq64" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
@@ -58,9 +58,9 @@ FDA 승인을 받은 친환경 폴리우레탄 소재로 만든 국내산 마스
 덕분에 마스크 이어가드의 특면 부분만이 귀에 닿지 않고 전체적으로 귀에 밀착되면서
 귀가 받는 압력을 어느정도 분산해준다.
 
-![착용 1](/images/happy-ear-cushion-review-13.jpg)
+![착용 1](/images/review/happy-ear-cushion-review-13.jpg)
 
-![착용 2](/images/happy-ear-cushion-review-14.jpg)
+![착용 2](/images/review/happy-ear-cushion-review-14.jpg)
 
 그렇게 하려면 착용할 때 귀 부분에 잘 안착되도록 위치를 잘 잡아주어야 하는데,
 처음엔 보고 조절할 수 없어서 좀 낯설지만 몇 번 하다보면 금세 익숙해진다.
@@ -69,7 +69,7 @@ FDA 승인을 받은 친환경 폴리우레탄 소재로 만든 국내산 마스
 아무래도 마스크 끈에의해 귀가 아픈 경우도 많이 있는데,
 그런 경험이 있는 사람이라면 한번 사용해 보는 것도 좋을 듯하다.
 
-![세척](/images/happy-ear-cushion-review-15.jpg)
+![세척](/images/review/happy-ear-cushion-review-15.jpg)
 
 추가로, 폴리우레탄 소재라 세척이 간편하다는 것도 이 제품의 장점 중 하나다.
 물로 씻고 간편하게 털어내면 금세 마른다.

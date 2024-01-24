@@ -10,7 +10,7 @@ tags: [책, 생물, 프라우케 피셔, 힐케 오버한스베르크, 추미란
 '모기가 우리한테 해 준 게 뭔데?(Was hat die Mücke je für uns getan?)'는
 생물 다양성과 공존에 대한 이야기를 담은 책이다.
 
-![표지](/images/was-hat-die-mucke-je-fur-uns-getan-book-h480.jpg)
+![표지](/images/book/was-hat-die-mucke-je-fur-uns-getan-book-h480.jpg)
 
 제목이 꽤나 자극적이다.
 누구든 한두번은 해봤을법한, 너 나아가 진지하게 박멸을 위한 방법까지 생각해봤을법한 그런 주제를 언급하고 있기 때문이다.

@@ -9,7 +9,7 @@ tags: [책, 소설, 라노벨, 판타지, 로맨스, 히로세 미이, 게미, �
 '블루문이 뜨는 밤, 다시 한번 그녀를 사랑하게 됐다(青い月の夜、もう一度彼女に恋をする; Love under the Blue Moon: Falling in Love again)'는
 블루문을 소재로 한 로맨스 소설이다.
 
-![표지](/images/aoi-tsuki-no-yoru-mouichido-kanojo-ni-koi-wo-suru-book-h480.jpg)
+![표지](/images/book/aoi-tsuki-no-yoru-mouichido-kanojo-ni-koi-wo-suru-book-h480.jpg)
 
 이 책은 '그것은 벚꽃 같은 사랑이었다',
 '[너와 만날 수 있었던 4%의 기적]({% post_url 2019-06-16-for-percent-of-anything-book-review %})'에 이은

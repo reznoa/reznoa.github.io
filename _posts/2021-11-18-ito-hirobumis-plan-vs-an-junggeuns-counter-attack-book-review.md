@@ -8,7 +8,7 @@ tags: [책, 역사, 안중근, 류은, 이강훈, 책과함께어린이, 북카�
 '이토 히로부미의 계획 VS 안중근의 반격'은
 대한제국의 마지막과 안중근 의사의 하얼빈 의거를 담은 책이다.
 
-![표지](/images/ito-hirobumis-plan-vs-an-junggeuns-counter-attack-book-h480.jpg)
+![표지](/images/book/ito-hirobumis-plan-vs-an-junggeuns-counter-attack-book-h480.jpg)
 
 안중근 의사는 가장 유명한 독립운동가 중 하나다.
 그만큼 그가 이룬 성과도 대단했거니와 그 과정에 보여준 면면들도 뛰어났기 때문이다.

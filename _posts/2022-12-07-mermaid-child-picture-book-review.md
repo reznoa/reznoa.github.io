@@ -8,7 +8,7 @@ tags: [책, 그림책, 자폐 스펙트럼, 제스민, 윤경, 바른북스, 북
 '인어아이'는
 자폐 스펙트럼을 독특하게 그려낸 그림책이다.
 
-![표지](/images/mermaid-child-picture-book-h480.jpg)
+![표지](/images/book/mermaid-child-picture-book-h480.jpg)
 
 가족이 갖고싶던 쓸쓸한 인어아이와
 아이를 갖고싶어하던 부부가

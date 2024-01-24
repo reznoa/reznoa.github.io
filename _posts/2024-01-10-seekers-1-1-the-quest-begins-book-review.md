@@ -9,7 +9,7 @@ tags: [책, 소설, 에린 헌터, 김진주, 가람어린이, 책세상맘수�
 '별을 쫓는 자들 1부 여정의 시작 1: 미지의 세상으로(Seekers #1 The Quest Begins)'는
 어린 곰들의 모험을 그린 동물 판타지 소설이다.
 
-![표지](/images/seekers-1-1-the-quest-begins-book-h480.jpg)
+![표지](/images/book/seekers-1-1-the-quest-begins-book-h480.jpg)
 
 이 소설 시리즈는 전사들을 쓴 오리지널 에린 헌터라 할 수 있는 소속 작가들이 참여한 작품으로,
 따지고보면 '살아남은 자들'이나 '용기의 땅'보다 더 일찍 나왔던 소설이다.

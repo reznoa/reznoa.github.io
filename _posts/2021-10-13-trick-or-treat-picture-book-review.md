@@ -8,7 +8,7 @@ tags: [책, 그림책, 판타지, 이주경, 메이킹북스, 서평]
 'Trick or Treat'는
 귀여운 마녀의 사랑스러운 실수담을 담은 그림책이다.
 
-![표지](/images/trick-or-treat-picture-book-h480.jpg)
+![표지](/images/book/trick-or-treat-picture-book-h480.jpg)
 
 책 속 마녀는 그녀의 가장 친한 친구인 검은 고양이 네오보다 겨우 몇배 더 큰 아직은 어린 마녀, 일컨데 초보 마녀다.
 그래서 그런지 당찬 포부와는 달리 아직까지는 계속 실패하기만 했다.

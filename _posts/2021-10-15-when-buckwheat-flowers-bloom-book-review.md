@@ -8,7 +8,7 @@ tags: [책, 소설, 단편, 이효석, 소담출판사, 서평]
 '메밀꽃 필 무렵'은
 이효석의 주요 작품들을 담은 소설집이다.
 
-![표지](/images/when-buckwheat-flowers-bloom-book-h480.jpg)
+![표지](/images/book/when-buckwheat-flowers-bloom-book-h480.jpg)
 
 이효석의 작품은 대게 교과서를 통해서, 추천도서의 하나로서 처음 접하게 된다.
 학교 공부의 연장으로 읽는 것이기는 하다만

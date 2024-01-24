@@ -9,7 +9,7 @@ tags: [책, 소설, 우화, 소련, 공산주의, 조지 오웰, 김승욱, 문�
 '동물농장(Animal Farm)'은
 스탈린 체제의 소련을 신랄하게 비판한 우화다.
 
-![표지](/images/animal-farm-book-h480.jpg)
+![표지](/images/book/animal-farm-book-h480.jpg)
 
 처음부터 의도가 분명했던 이 소설은
 그 내용마저도 꽤나 노골적이어서

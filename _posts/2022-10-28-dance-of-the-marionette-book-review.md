@@ -8,7 +8,7 @@ tags: [책, 소설, 청소년, 이금이, 밤티, 북카페 책과 콩나무, �
 '마리오네트의 춤'은
 진실에 대한 이야기를 담은 소설이다.
 
-![표지](/images/dance-of-the-marionette-book-h480.jpg)
+![표지](/images/book/dance-of-the-marionette-book-h480.jpg)
 
 아무런 문제도 없는 것 같은 교실에서, 어느 날 한 아이가 사라진다.
 그리고 나타난 책상 위 종이 묶음.

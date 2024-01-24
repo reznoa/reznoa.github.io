@@ -9,7 +9,7 @@ tags: [책, 미술, 가가미 다카히로, 박현정, 이아소, 북카페 책�
 '가가미 다카히로가 알려주는 손 그리는 법(加々美高浩が全力で教える「手」の描き方)'은
 기본에서부터 응용까지 손 그리는 법을 알려주는 책이다.
 
-![표지](/images/kagami-takahito-ga-zentyoku-de-oshieru-te-no-kakikata-book-h480.jpg)
+![표지](/images/book/kagami-takahito-ga-zentyoku-de-oshieru-te-no-kakikata-book-h480.jpg)
 
 간단해 보이면서도 막상 해보면 가장 그리기 어려운 것 중 하나가 손이다.
 무려 다섯개의 손가락이 여러개의 관절로 움직이는데다,

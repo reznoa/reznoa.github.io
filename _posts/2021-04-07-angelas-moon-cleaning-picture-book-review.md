@@ -8,7 +8,7 @@ tags: [책, 그림책, 동화, 창작동화, 남소영, 하움출판사, 리뷰�
 '안젤라의 달 청소'는
 귀여운 이야기로 소유와 책임에 관해 알려주는 그림책이다.
 
-![표지](/images/angelas-moon-cleaning-picture-book-h480.jpg)
+![표지](/images/book/angelas-moon-cleaning-picture-book-h480.jpg)
 
 하늘에 떠있는 달은 아름답다.
 기본적으로는 밝게 빛나서 그런 것이긴 하다만,

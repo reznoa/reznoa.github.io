@@ -3,20 +3,21 @@ layout: post
 title: "흡수력 좋은 성인용기저귀 - 라이프리 장시간용 안심언더웨어"
 category: "생활/가전"
 tags: [기저귀, 라이프리, LG생활건강, 유니참, 레뷰, 성인용기저귀, 성인용기저귀추천, 가벼운요실금, 요실금기저귀, 요실금팬티, 부모님선물]
+published: false
 ---
 
 '라이프리 장시간용 안심언더웨어'는
 라이프리 안심언더웨어 제품보다 더 좋은 흡수력을 제공하는 대용량 제품이다.
 
-![패키지](/images/lifree-extra-absorb-pants-01.jpg)
+![패키지](/images/review/lifree-extra-absorb-pants-01.jpg)
 
-![표기](/images/lifree-extra-absorb-pants-02.jpg)
+![표기](/images/review/lifree-extra-absorb-pants-02.jpg)
 
-![개봉](/images/lifree-extra-absorb-pants-03.jpg)
+![개봉](/images/review/lifree-extra-absorb-pants-03.jpg)
 
-![제품 1](/images/lifree-extra-absorb-pants-04.jpg)
+![제품 1](/images/review/lifree-extra-absorb-pants-04.jpg)
 
-![제품 2](/images/lifree-extra-absorb-pants-05.jpg)
+![제품 2](/images/review/lifree-extra-absorb-pants-05.jpg)
 
 <center><iframe width="480" height="270" src="https://www.youtube.com/embed/1syFhm16pSM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
@@ -27,11 +28,11 @@ tags: [기저귀, 라이프리, LG생활건강, 유니참, 레뷰, 성인용기�
 그래서, 몸이 불편하거나, 밤새 잠을 잘 때,
 또는 장거리 운전 등으로 장시간 화잘실 이용이 어려운 사람에게 유용할 만하다.
 
-![밴딩 1](/images/lifree-extra-absorb-pants-06.jpg)
+![밴딩 1](/images/review/lifree-extra-absorb-pants-06.jpg)
 
-![밴딩 2](/images/lifree-extra-absorb-pants-07.jpg)
+![밴딩 2](/images/review/lifree-extra-absorb-pants-07.jpg)
 
-![신축성](/images/lifree-extra-absorb-pants-10.jpg)
+![신축성](/images/review/lifree-extra-absorb-pants-10.jpg)
 
 단지 흡수력 뿐 아니라 편의성이나 착용감에도 신경을 썼다.
 스무스 밴드 존, 소프트 스크레치 존, 매직 홀드 존으로
@@ -40,13 +41,13 @@ tags: [기저귀, 라이프리, LG생활건강, 유니참, 레뷰, 성인용기�
 배뇨 후에도 쉽게 흘러내리지 않도록 잡아주며,
 복부 압박감은 크지 않도록 만들어졌다.
 
-![샘 방지](/images/lifree-extra-absorb-pants-08.jpg)
+![샘 방지](/images/review/lifree-extra-absorb-pants-08.jpg)
 
-![전면 통기성 시트](/images/lifree-extra-absorb-pants-09.jpg)
+![전면 통기성 시트](/images/review/lifree-extra-absorb-pants-09.jpg)
 
-![절취선 1](/images/lifree-extra-absorb-pants-11.jpg)
+![절취선 1](/images/review/lifree-extra-absorb-pants-11.jpg)
 
-![절취선 2](/images/lifree-extra-absorb-pants-12.jpg)
+![절취선 2](/images/review/lifree-extra-absorb-pants-12.jpg)
 
 주요 부위에 샘 방지막이 있어 앉았을 때 뿐 아니라 누워있을때도 새지않도록 만들었으며,
 전면 통기성 시트를 통해 축축하여 짓무르지 않고 보송한 피부를 유지할 수 있게 한 것도 특징이다.

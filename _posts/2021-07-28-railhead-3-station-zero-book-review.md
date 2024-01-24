@@ -11,7 +11,7 @@ tags: [책, 소설, SF, 필립 리브, 서현정, 가람어린이, 북카페 책
 '[블랙 라이트 특급열차(Black Light Express)]({% post_url 2018-09-28-railhead-2-black-light-express-book-review %})'에 이른
 철도 네트워크 제국 시리즈의 세번째 완결권이다.
 
-![표지](/images/railhead-3-station-zero-book-h480.jpg)
+![표지](/images/book/railhead-3-station-zero-book-h480.jpg)
 
 참 오래 기다렸다.
 한국어판 1, 2권이 나왔을 때 이미 시리즈는 완결된 상태였으니

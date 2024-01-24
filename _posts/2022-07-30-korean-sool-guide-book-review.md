@@ -8,7 +8,7 @@ tags: [책, 술, 탁재형, EBS, 리뷰어스 클럽, 서평]
 '우리술 익스프레스'는
 한국술에 대한 여러 지식들과 소개를 담은 책이다.
 
-![표지](/images/korean-sool-guide-book-h480.jpg)
+![표지](/images/book/korean-sool-guide-book-h480.jpg)
 
 사람들은 참 술을 좋아한다.
 한국 사람도 마찬가지다.

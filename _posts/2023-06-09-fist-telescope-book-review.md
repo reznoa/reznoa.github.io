@@ -8,7 +8,7 @@ tags: [책, 소설, 단편, 박종휘, 아르테, 컬처블룸, 서평]
 '주먹 망원경'은
 한가지 인연이 엮인 세 사람의 이야기를 담은 소설이다.
 
-![표지](/images/fist-telescope-book-h480.jpg)
+![표지](/images/book/fist-telescope-book-h480.jpg)
 
 일종의 연작이라고 할 수도 있겠다.
 

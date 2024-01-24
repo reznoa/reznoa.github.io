@@ -11,7 +11,7 @@ tags: [책, 소설, 동화, 창작동화, 다카세 미에, 가리노 타우, �
 '별의 커비 디스커버리 1: 새로운 세계를 향해 달려라!(星のカービィ ディスカバリー 新世界へ走り出せ! 編)'는
 유명 게임을 소설화한 책이다.
 
-![표지](/images/hoshi-no-kirby-discovery-1-shinsekai-he-hashiridase-hen-book-h480.jpg)
+![표지](/images/book/hoshi-no-kirby-discovery-1-shinsekai-he-hashiridase-hen-book-h480.jpg)
 
 별의 커비 시리즈는
 적을 빨아들여 같은 능력을 사용한다는 카피라는 독특한 시스템으로 유명한 시리즈로,

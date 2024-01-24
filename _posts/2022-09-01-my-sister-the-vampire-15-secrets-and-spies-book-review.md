@@ -9,7 +9,7 @@ tags: [책, 소설, 청소년, 뱀파이어, 시에나 머서, 김시경, 벽장
 '뱀파이어 시스터 15: 밤의 규칙(My Sister the Vampire: Secrets & Spies!)'는
 뱀파이어 시스터 시리즈(My Sister the Vampire Series) 15번째 책이다.
 
-![표지](/images/my-sister-the-vampire-15-secrets-and-spies-book-h480.jpg)
+![표지](/images/book/my-sister-the-vampire-15-secrets-and-spies-book-h480.jpg)
 
 어떤 시련과 고난이 닥치더라도,
 그것을 함께 나누고 이겨낼 수 있는 사람이 주변에 있다면

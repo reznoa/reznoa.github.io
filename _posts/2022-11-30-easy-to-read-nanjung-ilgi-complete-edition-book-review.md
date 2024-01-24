@@ -8,7 +8,7 @@ tags: [책, 역사, 이순신, 노승석, 여해, 북카페 책과 콩나무, �
 '쉽게 보는 난중일기 완역본'는
 알기 쉬운 한글로 풀어 쓴 난중일기다.
 
-![표지](/images/easy-to-read-nanjung-ilgi-complete-edition-book-h480.jpg)
+![표지](/images/book/easy-to-read-nanjung-ilgi-complete-edition-book-h480.jpg)
 
 '이순신'을, 그리고 그가 쓴 '난중일기'를 모르는 사람은 없을거다.
 그만큼 그가 유명하고, 그의 저작 역시 여러 의미가 있는 대단한 기록이기 때문이다.

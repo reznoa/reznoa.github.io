@@ -8,7 +8,7 @@ tags: [책, 다른그림찾기, 공룡, 고경옥, 글송이, 북카페 책과 �
 '공룡대탐험 다른 그림 찾기 177문제'는
 공룡을 테마로 한 다른 그림 찾기 문제 177개를 담은 책이다.
 
-![표지](/images/daiboken-kyoryu-machigai-sagashi-177mon-book-h480.jpg)
+![표지](/images/book/daiboken-kyoryu-machigai-sagashi-177mon-book-h480.jpg)
 
 이 책의 가장 큰 특징은 공룡을 테마로 했다는 거다.
 당연히 모든 문제에는 빠짐없이 공룡이 등장하며,

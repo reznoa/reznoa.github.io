@@ -9,7 +9,7 @@ tags: [책, 심리, 에릭 라 블랑슈, 조연희 일므디, 북카페 책과 
 '우리의 뇌는 왜 충고를 듣지 않을까?(Pourquoi votre cerveau n'en fait qu'à sa tête)'는
 우리가 쉽게 빠지는 인지 편향에 대해 다룬 책이다.
 
-![표지](/images/pourquoi-votre-cerveau-nen-fait-qua-sa-tete-book-h480.jpg)
+![표지](/images/book/pourquoi-votre-cerveau-nen-fait-qua-sa-tete-book-h480.jpg)
 
 '인지 편향'이란 쉽게 말하자면 잘못된 것을 옳다고 믿는 문제를 말하는 것이다.
 이것은 심각한 왜곡은 어떻게 보면 사소하다 할 수 있는 작은 왜곡으로부터 오류로부터 생기는데,

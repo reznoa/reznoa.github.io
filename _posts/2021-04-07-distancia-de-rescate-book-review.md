@@ -9,7 +9,7 @@ tags: [책, 소설, 호러, 영화원작, 사만타 슈웨블린, 조혜진, 창
 '피버 드림(Distancia de rescate)'은
 독특한 양식이 눈에띄는 기묘한 공포 소설이다.
 
-![표지](/images/distancia-de-rescate-book-h480.jpg)
+![표지](/images/book/distancia-de-rescate-book-h480.jpg)
 
 가장 먼저 눈에 띄는 것은 이 소설만의 독특한 형식이다.
 처음부터 끝까지 소년과 여자 두 사람의 대화로만 이뤄져 있으며,
@@ -38,7 +38,7 @@ tags: [책, 소설, 호러, 영화원작, 사만타 슈웨블린, 조혜진, 창
 왜 이야기가 두루뭉술하게 전개되어 그런 상태로 끝나는지도 더 이상은 신경쓰이지 않는다.
 그것은 하나도 중요하지 않다는 것도 충분히 이해가 된다.
 
-![표지](/images/distancia-de-rescate-book-2-w480.png)
+![표지](/images/book/distancia-de-rescate-book-2-w480.png)
 
 그래서 다시 돌아보면,
 상세를 풀어내려고 하는 대신에

@@ -8,7 +8,7 @@ tags: [책, 소설, 동화, 창작동화, 판타지, 윤주성, 유재엽, 모�
 '우주 전사 스카디'는
 우주를 배경으로 한 모험 판타지다.
 
-![표지](/images/space-warrior-skadi-book-h480.jpg)
+![표지](/images/book/space-warrior-skadi-book-h480.jpg)
 
 우주를 배경으로, 우주선을 타고 여러 행성을 오가는 이야기지만,
 이야기는 꽤나 전형적인 판타지 모험극의 모양새를 하고 있다.

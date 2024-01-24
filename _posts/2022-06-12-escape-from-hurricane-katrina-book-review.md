@@ -9,7 +9,7 @@ tags: [책, 소설, 역사, 허리케인, 주디 앨런 도드슨, 황인호, �
 '허리케인에서 탈출하기(Escape from... Hurricane Katrina)'는
 2005년 8월 허리케인 카트리나 재해를 그린 소설이다.
 
-![표지](/images/escape-from-hurricane-katrina-book-h480.jpg)
+![표지](/images/book/escape-from-hurricane-katrina-book-h480.jpg)
 
 자연재해는 인간이 어떻게 할 수 없다는 점에서 절망적이다.
 심지어 거기에는 인간들의 황당할 정도로 느슨한 예방과

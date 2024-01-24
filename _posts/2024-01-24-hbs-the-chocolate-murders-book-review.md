@@ -8,7 +8,7 @@ tags: [책, 소설, 동화, 창작동화, 김희철, 산호, 고래가숨쉬는�
 '호러 방송국: 초콜릿 살인 사건'은
 생각보다 흥미로운 호러 동화다.
 
-![표지](/images/hbs-the-chocolate-murders-book-h480.jpg)
+![표지](/images/book/hbs-the-chocolate-murders-book-h480.jpg)
 
 방송이라는 컨셉으로 만들어져 독특한 분위기를 풍기는 이 소설은,
 한 예술학교의 신축 다목적홀 지하 음악실에서 일어난 끔찍한 사건을

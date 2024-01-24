@@ -8,7 +8,7 @@ tags: [책, 만화, 도감, SCP 재단, Team. StoryG, 올드스테어즈, 리뷰
 'SCP 재단: 스페셜 에이전트 2'은
 이후가 더 기대되는 시리즈 두번째 책이다.
 
-![표지](/images/scp-foundation-special-agent-2-comic-book-h480.jpg)
+![표지](/images/book/scp-foundation-special-agent-2-comic-book-h480.jpg)
 
 이전 [1권]({% post_url 2022-03-14-scp-foundation-special-agent-1-comic-book-review %})의 완성도가 꽤나 좋았기 때문에
 2권도 상당히 기대가 되었는데,

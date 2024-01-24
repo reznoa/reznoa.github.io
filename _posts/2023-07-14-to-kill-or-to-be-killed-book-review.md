@@ -8,7 +8,7 @@ tags: [책, 소설, 허철웅, 가디언, 이북카페, 서평]
 '죽거나 죽이거나'는
 세렝게티 초원의 이야기를 그린 소설이다.
 
-![표지](/images/to-kill-or-to-be-killed-book-h480.jpg)
+![표지](/images/book/to-kill-or-to-be-killed-book-h480.jpg)
 
 아마 꽤 많은 사람들이 애니메이션 '라이온 킹(The Lion King, 1994)'으로 대표되는 드라마를 예상할 것이다.
 그게 워낙에 걸작이었어서다.

@@ -9,7 +9,7 @@ tags: [책, 만화, SF, 판타지, 웨스턴, 시바마 스구루, 학산문화�
 '프릭스 프리크 컴퍼니(Freaks Freak Company)'는
 이형(프릭스)이라는 괴물을 소재로 한 SF 판타지 서부극이다.
 
-![커버](/images/freaks-freak-company-1-comic-book-h480.jpg)
+![커버](/images/book/freaks-freak-company-1-comic-book-h480.jpg)
 
 이 만화에는 여러가지가 짬뽕되어있다.
 괴물의 정체나 과학자의 존재는 SF처럼 보이나,
@@ -19,7 +19,7 @@ tags: [책, 만화, SF, 판타지, 웨스턴, 시바마 스구루, 학산문화�
 
 서부극을 기본으로 거기에 판타지와 SF를 버무려서 얹었다고 하면 짧게 표현이 되려나.
 
-![20](/images/freaks-freak-company-1-comic-book-p020.jpg)
+![20](/images/book/freaks-freak-company-1-comic-book-p020.jpg)
 
 그렇다보니 생각보다 시대상에 안맞는 기계장치라던가 하는것도 여럿 등장하는데,
 그러면서도 서부극으로서의 분위기는 해치지 않는 걸 보면
@@ -35,13 +35,13 @@ tags: [책, 만화, SF, 판타지, 웨스턴, 시바마 스구루, 학산문화�
 
 [^1]: 얘가 왜 여기서 나와? 싶을때가 있지만, 다른 캐릭터다.
 
-![23](/images/freaks-freak-company-1-comic-book-p023.jpg)
+![23](/images/book/freaks-freak-company-1-comic-book-p023.jpg)
 
 괴물과 사람찾기로 시작한 이야기는 왕도적인 흐름으로 가는 듯하다.
 미친 과학자라는 전형적인 배후인물과 그가 남긴 유산,
 그리고 그의 자식이라 자칭하는 사람 등은 앞으로의 이야기가 다소 정해진 수순으로 이어질 것임을 짐작케 한다.
 
-![47](/images/freaks-freak-company-1-comic-book-p047.jpg)
+![47](/images/book/freaks-freak-company-1-comic-book-p047.jpg)
 
 그러므로 그걸 매꾸려면 뜻밖의 반전을 보여주던가
 화려한 액션으로 눈을 사로잡아야 하는데,

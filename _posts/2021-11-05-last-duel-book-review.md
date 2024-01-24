@@ -9,7 +9,7 @@ tags: [책, 소설, 역사, 중세, 에릭 재거, 김상훈, 오렌지디, 리�
 '라스트 듀얼(The Last Duel: A True Story of Crime, Scandal, and Trial by Combat in Medieval France)'은
 중세 프랑스의 '결투 재판'을 흥미롭게 그려낸 역사 소설이다.
 
-![표지](/images/last-duel-book-h480.jpg)
+![표지](/images/book/last-duel-book-h480.jpg)
 
 '결투 재판'이란 것에 대해서는 의외로 많은 사람들이 알 것이다.
 여러 픽션들에서 이를 소재로 한 바 있기 때문이다.

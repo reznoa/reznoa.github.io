@@ -8,11 +8,11 @@ published: false
 
 '아토샵 윈윈샴푸'는 피부가 민감한 사람이나 아이들이 사용하기에도 좋은 약산성 샴푸다.
 
-![포장](/images/atoshop-win-win-shampoo-01.jpg)
+![포장](/images/review/atoshop-win-win-shampoo-01.jpg)
 
-![제품](/images/atoshop-win-win-shampoo-02.jpg)
+![제품](/images/review/atoshop-win-win-shampoo-02.jpg)
 
-![표기](/images/atoshop-win-win-shampoo-03.jpg)
+![표기](/images/review/atoshop-win-win-shampoo-03.jpg)
 
 윈윈샴푸의 특장점은 식물유래 계면활성제와 식물유래 보습성분을 사용해 순하다는 것이다.
 
@@ -22,9 +22,9 @@ published: false
 이 성분들은 민감하고 자극받은 두피를 보호해주며
 샴푸 후에도 두피와 모발에 수분을 유지하는데 도움을 준다고 한다.
 
-![사용 1](/images/atoshop-win-win-shampoo-04.jpg)
+![사용 1](/images/review/atoshop-win-win-shampoo-04.jpg)
 
-![사용 2](/images/atoshop-win-win-shampoo-05.jpg)
+![사용 2](/images/review/atoshop-win-win-shampoo-05.jpg)
 
 제품 제형은 특이하게도 투명한 색을 띄고 있는데,
 이는 아마도 별도의 화학성분을 포함하지 않아서 생긴 특징이 아닌가 싶다.
@@ -33,9 +33,9 @@ published: false
 억지로 그러한 향을 만들어낸게 아닌 듯 향이 뚜렷한 방향성을 갖고 있지는 않지만,
 은은하게 풍기는 허브향은 독하거나 하지 않아서 개인적으로는 취향에 잘 맞았다.
 
-![사용 3](/images/atoshop-win-win-shampoo-06.jpg)
+![사용 3](/images/review/atoshop-win-win-shampoo-06.jpg)
 
-![사용 4](/images/atoshop-win-win-shampoo-07.jpg)
+![사용 4](/images/review/atoshop-win-win-shampoo-07.jpg)
 
 투명한 제형은 자칫 거품이 잘 날까, 또 천연 샴푸 특유의 뻑뻑함이 있지는 않을까 우려스러워 보이기도 하는데,
 막상 사용해보니 거품을 만들어내는 것도 굉장히 수월했고 샴푸감도 좋았다.

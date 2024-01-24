@@ -9,7 +9,7 @@ tags: [책, 소설, 엘리프 샤팍, 오은경, 소담출판사, 서평]
 '이브의 세 딸(Three Daughters of Eve)'은
 동양과 서양 사이에서 혼란스러운 튀르키예를 배경으로 한 소설이다.
 
-![표지](/images/three-daughters-of-eve-book-w600.jpg)
+![표지](/images/book/three-daughters-of-eve-book-w600.jpg)
 
 어떤 면에서 이 소설은 좀 사회소설같아 보이기도 하다.
 정치적으로나 문화적으로도, 특히 종교적으로 혼란스러운 이스탄불을 배경으로

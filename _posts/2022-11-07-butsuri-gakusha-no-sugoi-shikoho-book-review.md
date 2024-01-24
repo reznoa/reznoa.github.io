@@ -9,7 +9,7 @@ tags: [책, 과학, 물리, 하시모토 고지, 서수지, 김석현, 사람과
 '세상에서 가장 재미있는 물리 이야기(物理学者のすごい思考法)'는
 물리학자는 어떤 식으로 생각하는가를 재미있게 담은 책이다.
 
-![표지](/images/butsuri-gakusha-no-sugoi-shikoho-book-h480.jpg)
+![표지](/images/book/butsuri-gakusha-no-sugoi-shikoho-book-h480.jpg)
 
 이 책은 물리와 일상 에세이의 중간 즈음에 성격을 하고 있다.
 저자의 이야기는 일상적인 경험이나 생각에서 시작하며,

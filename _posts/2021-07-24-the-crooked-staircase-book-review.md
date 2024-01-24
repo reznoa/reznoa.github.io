@@ -9,7 +9,7 @@ tags: [책, 소설, 스릴러, 딘 쿤츠, 유소영, 북로드, 서평]
 '구부러진 계단(The Crooked Staircase)'은
 매력적인 여성 FBI 제인 호크 시리즈의 세번째 책이다.
 
-![표지](/images/the-crooked-staircase-book-h480.jpg)
+![표지](/images/book/the-crooked-staircase-book-h480.jpg)
 
 그의 소설은 그가 썼다는 걸 새삼 실감하게 할만한 특징들을 보이는 경우가 많다.
 여성 주인공이 지적이며 정의롭고 대단히 강한 의지력을 보인다던가,

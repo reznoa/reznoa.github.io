@@ -9,7 +9,7 @@ tags: [책, 과학, 로켓, 데이비드 베이커, 엄성수, 하이픈, 북카
 '로켓의 과학적 원리와 구조(Rocket Owners' Workshop Manual)'는
 로켓에 대해 세세하게 알 수 있도록 담은 책이다.
 
-![표지](/images/rocket-owners-workshop-manual-book-h480.jpg)
+![표지](/images/book/rocket-owners-workshop-manual-book-h480.jpg)
 
 이 책은 크게 두개 장으로 구성되어있다.
 

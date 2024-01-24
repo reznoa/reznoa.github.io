@@ -9,7 +9,7 @@ tags: [책, 소설, 동화, 창작동화, 노숙자, 온잘리 Q. 라우프, 피
 '얼굴 없는 도둑과 슈퍼히어로(The Night Bus Hero)'는
 노숙자와 노숙자 상징을 흥미롭게 담아낸 소설이다.
 
-![표지](/images/the-night-bus-hero-book-h480.jpg)
+![표지](/images/book/the-night-bus-hero-book-h480.jpg)
 
 노숙자 문제는 오랫동안 해결되지 않은 꽤 심각한 사회 문제 중 하나다.
 거기에는 노숙자가 생기게 되는, 말하자면 사회적으로 소외되는 문제가 있다는 근본적인 것에서부터,

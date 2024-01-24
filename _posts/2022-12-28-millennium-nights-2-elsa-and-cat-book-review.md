@@ -8,7 +8,7 @@ tags: [책, 소설, 라이트노벨, 라스트 로보, 하움출판사, 리뷰�
 '천년야화: 엘사와 고양이 - 거대한 새 우쿠리나의 전설'는
 천년야화 시리즈 두번째 책이다.
 
-![표지](/images/millennium-nights-2-elsa-and-cat-book-h480.jpg)
+![표지](/images/book/millennium-nights-2-elsa-and-cat-book-h480.jpg)
 
 따로 넘버링이 되어있지 않지만,
 이 책은 저자의 전작 '천년야화: 명탐정 스타게이저 - 사토시 나카모토 추리하기'와 같은 배경과 인물이 나오는

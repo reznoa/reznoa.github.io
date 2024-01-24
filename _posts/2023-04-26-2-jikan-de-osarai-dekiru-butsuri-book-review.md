@@ -9,7 +9,7 @@ tags: [책, 과학, 물리, 사마키 다케오, 오시연, 리듬문고, 아름
 '청소년을 위한 물리이야기(2時間でおさらいできる物理)'는
 입문자를 위한 물리 책이다.
 
-![표지](/images/2-jikan-de-osarai-dekiru-butsuri-book-h480.jpg)
+![표지](/images/book/2-jikan-de-osarai-dekiru-butsuri-book-h480.jpg)
 
 짧은 시간(2시간)만에 물리를 정리하는 것을 목표로 만들어진 이 책은,
 가능한 이미지 등을 통해 눈으로 보면서 좀 더 쉽게 이해하도록 만들어 졌으며

@@ -8,7 +8,7 @@ tags: [책, 에세이, 안재훈, 윌링북스, 리뷰어스 클럽, 서평]
 '홀로 견디는 이들과 책상 산책'은
 애니메이션 감독 안재훈의 생각과 삶을 담은 에세이다.
 
-![표지](/images/desk-walk-with-those-who-endure-alone-book-h480.jpg)
+![표지](/images/book/desk-walk-with-those-who-endure-alone-book-h480.jpg)
 
 애니메이터들은 어떤 삶을 살까.
 그러한 일을 하는 사람, 혹은 했던 사람이 아니라면 쉽게 상상이 가지 않는다.

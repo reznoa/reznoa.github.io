@@ -9,7 +9,7 @@ tags: [책, 소설, SF, 판타지, 동화, 창작동화, 김영주, 화요, 이�
 자연재해로 나뉘어 대립하는 두 나라를 배경으로 아이들의 이야기를 그린
 SF 환경 판타지 소설이다.
 
-![표지](/images/magos-wings-1-book-h480.jpg)
+![표지](/images/book/magos-wings-1-book-h480.jpg)
 
 너무 의문점이 많은 소설이었다.
 

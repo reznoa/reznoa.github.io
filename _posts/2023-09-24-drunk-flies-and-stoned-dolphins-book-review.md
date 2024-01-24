@@ -9,7 +9,7 @@ tags: [책, 생물, 오네 R. 파간, 박초월, MiD, 북카페 책과 콩나무
 '술 취한 파리와 맛이 간 돌고래(Drunk Flies and Stoned Dolphins)'는
 독특한 생물들의 이야기를 담은 책이다.
 
-![표지](/images/drunk-flies-and-stoned-dolphins-book-h480.jpg)
+![표지](/images/book/drunk-flies-and-stoned-dolphins-book-h480.jpg)
 
 생물들은 가끔 희안하다.
 어째서 그런 행동을 하는지 알 수 없는 경우가 많기 때문이다.

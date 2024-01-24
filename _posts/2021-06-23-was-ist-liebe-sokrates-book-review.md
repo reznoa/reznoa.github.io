@@ -9,7 +9,7 @@ tags: [책, 철학, 사랑, 노라 크레프트, 배명자, 예문아카이브, 
 '소크라테스, 사랑이 뭔가요?(Was ist Liebe, Sokrates?)'은
 사랑을 철학적으로 생각해보는 책이다.
 
-![표지](/images/was-ist-liebe-sokrates-book-h480.jpg)
+![표지](/images/book/was-ist-liebe-sokrates-book-h480.jpg)
 
 책에는 대표적인 철학자라고 할 수 있는 8인이 등장한다.
 시대를 뛰어넘어 모인 이들은

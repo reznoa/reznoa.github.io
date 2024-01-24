@@ -11,7 +11,7 @@ tags: [책, 소설, 동화, 창작동화, 올리비아 코리오, 클라우디�
 살아있는 문신이라는 독특한 공생체를 가진 가족의 이야기를 그린,
 시리즈 두번째 책이다.
 
-![표지](/images/le-avventure-di-nazar-malik-2-la-banda-delle-nutrie-book-h480.jpg)
+![표지](/images/book/le-avventure-di-nazar-malik-2-la-banda-delle-nutrie-book-h480.jpg)
 
 '문신이 살아 있다' 시리즈의 설정은 단순하면서도 흥미롭다.
 몸에 남들은 모르는 비밀스러운 문신이 있고,

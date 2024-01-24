@@ -9,7 +9,7 @@ tags: [책, 소설, 영한대역, 샬롯 퍼킨스 길먼, 내로라, 북카페 
 '누런 벽지(The Yellow Wallpaper)'는
 한 여인의 이야기를 일기 형식으로 담은 소설이다.
 
-![표지](/images/the-yellow-wallpaper-book-h480.jpg)
+![표지](/images/book/the-yellow-wallpaper-book-h480.jpg)
 
 이 소설은 상당히 뚜렷한 목적과 의도를 갖고 쓰여진 것이다.
 그렇기 때문에 소설을 이해하기 위해서는 소설에서 꼬집고 있는 당시의 의료 행태에 대해서 알 필요가 있다.

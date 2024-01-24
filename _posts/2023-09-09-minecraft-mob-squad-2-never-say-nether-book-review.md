@@ -10,7 +10,7 @@ tags: [책, 소설, 게임, 마인크래프트, 딜라일라 S. 도슨, 윤여�
 '마인크래프트 Go! Go! 몹 헌터스 2: 네더로 간 아이들(Minecraft: Mob Squad: Never Say Nether)'은
 몹 헌터스의 후속작이다.
 
-![표지](/images/minecraft-mob-squad-2-never-say-nether-book-h480.jpg)
+![표지](/images/book/minecraft-mob-squad-2-never-say-nether-book-h480.jpg)
 
 [전권]({% post_url 2022-09-08-minecraft-mob-squad-1-book-review %})에서 꽤나 대단한 모험을 했던 아이들이지만,
 그렇다고해서 그게 모든것을 다 바꿔놓기까지 한 것은 아니다.

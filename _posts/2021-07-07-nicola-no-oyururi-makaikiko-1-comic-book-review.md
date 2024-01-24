@@ -9,7 +9,7 @@ tags: [책, 만화, 판타지, 코미디, 미야나가 아사야, 학산문화�
 '니콜라의 느긋한 마계 기행(ニコラのおゆるり魔界紀行)'은
 꼬마 마녀의 마계에서의 여행을 그린 만화다.
 
-![표지](/images/nicola-no-oyururi-makaikiko-1-comic-book-cover.jpg)
+![표지](/images/book/nicola-no-oyururi-makaikiko-1-comic-book-cover.jpg)
 
 페이지를 열면 가장 먼저 놀라게 되는 건 굉장한 작화다.
 거친 펜선을 많이 쓴데다 생각보다 세밀하게 채워넣은 곳도 많고,
@@ -18,7 +18,7 @@ tags: [책, 만화, 판타지, 코미디, 미야나가 아사야, 학산문화�
 각 장면에서 보여주고자 하는 것 역시 확실히 눈에 띄기 때문에
 보면 볼수록 작화력이 좋다는 생각밖에 들지 않는다.
 
-![11](/images/nicola-no-oyururi-makaikiko-1-comic-book-p011.jpg)
+![11](/images/book/nicola-no-oyururi-makaikiko-1-comic-book-p011.jpg)
 
 거칠게 채워넣은 배경은 이 작품의 배경이 '마계'이기 때문에 더 잘 어울리는데,
 그런 곳에서 별 다른 두려움이라고는 없는 듯 태연하게 돌아다니는 언밸런스한 모습부터가 괜히 흥미롭다.
@@ -34,17 +34,17 @@ tags: [책, 만화, 판타지, 코미디, 미야나가 아사야, 학산문화�
 배경이나 설정을 매 화마다 조금씩 풀어놓기 때문에 아직 의문이 드는 것도 많은데,
 그것이 마뜩잖기보다는 앞으로를 기대하게 만드는 것도 그래서다.
 
-![55](/images/nicola-no-oyururi-makaikiko-1-comic-book-p055.jpg)
+![55](/images/book/nicola-no-oyururi-makaikiko-1-comic-book-p055.jpg)
 
-![108](/images/nicola-no-oyururi-makaikiko-1-comic-book-p108.jpg)
+![108](/images/book/nicola-no-oyururi-makaikiko-1-comic-book-p108.jpg)
 
 캐릭터도 잡 뽑았다.
 '마계...?'라는 의문이 절로 들게하는 귀여운 캐릭터들은 아기자기한 에피소드와도 잘 어울리며,
 마계라는 다른 세상을 느끼게 할만큼 생경한 모습을 통해 흥미로움도 잘 끌어낸다.
 
-![73](/images/nicola-no-oyururi-makaikiko-1-comic-book-p073.jpg)
+![73](/images/book/nicola-no-oyururi-makaikiko-1-comic-book-p073.jpg)
 
-![193](/images/nicola-no-oyururi-makaikiko-1-comic-book-p193.jpg)
+![193](/images/book/nicola-no-oyururi-makaikiko-1-comic-book-p193.jpg)
 
 일종의 문화차이를 이용한 코미디와 드라마는 다소 뻔한 것도 사실이나,
 그것도 마계라는 테마로 신기한 캐릭터들을 통해 보는 것은 또 색다르다.

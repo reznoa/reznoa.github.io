@@ -8,7 +8,7 @@ tags: [책, 음식, 다큐멘터리, NHK, 조윤주, 필름, 북카페 책과 �
 '인류의 진화는 구운 열매에서 시작되었다'는
 다큐멘터리 NHK 스페셜 〈식의 기원(Origin of Food)〉 시리즈 5부작을 책으로 엮은 것이다.
 
-![표지](/images/jinrui-700-mannen-no-shinka-ga-oshietekureru-risou-no-shokujijutsu-book-h480.jpg)
+![표지](/images/book/jinrui-700-mannen-no-shinka-ga-oshietekureru-risou-no-shokujijutsu-book-h480.jpg)
 
 엉뚱한 주장을 유사과학적으로 내세우는 건 아닌지 걱정할 필요는 없다.
 믿고 읽어도 된다.

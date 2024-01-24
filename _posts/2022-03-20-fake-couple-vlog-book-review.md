@@ -8,7 +8,7 @@ tags: [책, 소설, 청소년, 로맨스, SNS, 범유진, 폭스코너, 북카�
 '가짜 커플 브이로그'는
 브이로그를 재미있게 그려낸 로맨스 소설이다.
 
-![표지](/images/fake-couple-vlog-book-h480.jpg)
+![표지](/images/book/fake-couple-vlog-book-h480.jpg)
 
 지금은 바야흐로 대 동영상 시대다.
 동영상 플랫폼이 큰 인기를 끌며

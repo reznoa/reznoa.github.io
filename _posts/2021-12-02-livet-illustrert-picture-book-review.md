@@ -9,7 +9,7 @@ tags: [책, 그림책, 리사 아이사토, 김지은, 길벗어린이, 리뷰�
 '삶의 모든 색(Livet - Illustrert)'은
 삶의 다양한 면모들을 매력적인 그림으로 그려낸 그림책이다.
 
-![표지](/images/livet-illustrert-picture-book-h480.jpg)
+![표지](/images/book/livet-illustrert-picture-book-h480.jpg)
 
 먼저 눈에 들어오는 것은 절로 감탄이 나오는 그림이다.
 때론 세밀한 묘사로, 때론 우스꽝스러운 표현으로, 그리고 또 어떨 땐 화려한 색감으로

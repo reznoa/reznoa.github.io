@@ -9,7 +9,7 @@ tags: [책, 소설, SF, 청소년, 캐서린 오스틴, 이시내, 시공사, �
 '올 굿 칠드런(All Good Children)'은
 근미래 청소년들의 이야기를 흥미롭게 그린 SF 소설이다.
 
-![표지](/images/all-good-children-book-h480.jpg)
+![표지](/images/book/all-good-children-book-h480.jpg)
 
 근미래를 배경으로 하는 이 소설은 일종의 SF로서,
 단골이라 할 수 있는 디스토피아 사회를 그리고 있다.

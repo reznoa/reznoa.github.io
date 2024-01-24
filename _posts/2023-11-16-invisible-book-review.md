@@ -9,7 +9,7 @@ tags: [책, 소설, 동화, 창작동화, 엘로이 모레노, 성초림, 사파
 '보이지 않는 소년(Invisible)'은
 학교폭력 문제를 그린 소설이다.
 
-![표지](/images/invisible-book-h480.jpg)
+![표지](/images/book/invisible-book-h480.jpg)
 
 새삼 깜짝 놀라게 만든다.
 아동청소년 문제를, 학교 폭력 문제를, 더 나아가서는 현대 사회의 문제를

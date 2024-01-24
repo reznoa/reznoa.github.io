@@ -8,7 +8,7 @@ tags: [책, 소설, 단편, 로맨스, 김수연, 엘리, 이북카페, 서평]
 '스위처블 러브 스토리'는
 다양한 사랑 이야기를 담은 소설집이다.
 
-![표지](/images/switchable-love-story-book-h480.jpg)
+![표지](/images/book/switchable-love-story-book-h480.jpg)
 
 수록작 중에는 다소 뻔한 것도 있다.
 소위 '로맨틱 코미디'라고 하는 그런 류의 것 중에

@@ -9,7 +9,7 @@ tags: [책, 역사, 바이킹, 팀 쿡, 이계순, 풀빛, 책세상맘수다, �
 '토르가 바이킹의 신이라고?(A Question of History: Did Vikings wear horns on their helmets? and other questions about the Vikings)'는
 바이킹에 대한 이모저모를 담은 책이다.
 
-![표지](/images/a-question-of-history-did-vikings-wear-horns-on-their-helmets-and-other-questions-about-the-vikings-book-h480.jpg)
+![표지](/images/book/a-question-of-history-did-vikings-wear-horns-on-their-helmets-and-other-questions-about-the-vikings-book-h480.jpg)
 
 바이킹은 어떻게 보면 좀 뜬금없어 보이는 애들이다.
 갑자기 배를 타고 등장해서는,

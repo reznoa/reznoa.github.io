@@ -9,7 +9,7 @@ tags: [책, 소설, 동화, 창작동화, 타냐 슈테브너, 코마가타, 박
 '동물과 말하는 아이 릴리 8: 엄마 잃은 사슴과 겨울 산의 기적(Liliane Susewind #8 Ein kleines Reh allein im Schnee)'는
 릴리 수제빈트 시리즈 여덟번째 책이다.
 
-![표지](/images/liliane-susewind-8-ein-kleines-reh-allein-im-schnee-book-h480.jpg)
+![표지](/images/book/liliane-susewind-8-ein-kleines-reh-allein-im-schnee-book-h480.jpg)
 
 자신의 특별한 능력을 세상에 공개한 후에도 '릴리'의 생활에는 그렇게 큰 변화가 있는 것 같지는 않다.
 비록, 일부 사람들에게는 큰 관심을 끌게되긴 했지만 말이다.

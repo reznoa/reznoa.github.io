@@ -9,7 +9,7 @@ tags: [책, 소설, 에린 헌터, 서현정, 가람어린이, 북카페 책과 
 '전사들 4부 별들의 징조 2: 희미해지는 메아리(Warriors: Omen of the Stars #2 Fading Echoes)'는
 시리즈 4부 두번째 책이다.
 
-![표지](/images/warriors-4-omen-of-the-stars-2-fading-echoes-book-h480.jpg)
+![표지](/images/book/warriors-4-omen-of-the-stars-2-fading-echoes-book-h480.jpg)
 
 시작부터 흥미로운 떡밥을 뿌리고 시작하는 이번 책은,
 새삼 타이거스타가 전사들 시리즈에서 얼마나 걸출한 빌런이었는지를 다시금 생각케 한다.

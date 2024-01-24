@@ -9,7 +9,7 @@ tags: [책, 소설, 단편, 무라타 사야카, 최고은, 하빌리스, 대원
 '무성 교실(丸の内魔法少女ミラクリーナ)'은
 정상과 상식을 다시 생각해보게 하는 소설집이다.
 
-![표지](/images/marunouchi-mahoshojo-miracle-rina-book-h480.jpg)
+![표지](/images/book/marunouchi-mahoshojo-miracle-rina-book-h480.jpg)
 
 수록된 네개의 소설은 모두 일상의 이야기를 그린 것이다.
 그러면서 또한 지극히 비일상적인 이야기를 그리고 있기도 하다.

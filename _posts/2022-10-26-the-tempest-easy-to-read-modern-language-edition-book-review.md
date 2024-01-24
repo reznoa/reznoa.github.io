@@ -9,7 +9,7 @@ tags: [책, 희곡, 윌리엄 셰익스피어, 최영열, 미래와사람, 컬�
 '읽기 쉽게 풀어쓴 현대어판 템페스트(The Tempest)'은
 셰익스피어가 단독으로 집필한 마지막 희곡으로 유명한 작품이다.
 
-![표지](/images/the-tempest-easy-to-read-modern-language-edition-book-h480.jpg)
+![표지](/images/book/the-tempest-easy-to-read-modern-language-edition-book-h480.jpg)
 
 이 작품은 셰익스피어를 대표하는 작품이라고 손꼽는 4대 비극, 4대 희극에 속하지 않으면서도
 그에 못지 않을 정도로 유명한 작품인데,

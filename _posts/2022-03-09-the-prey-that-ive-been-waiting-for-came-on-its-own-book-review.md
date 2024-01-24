@@ -8,7 +8,7 @@ tags: [책, 소설, 미스터리, 고호, 델피노, 문화충전200%, 서평]
 '기다렸던 먹잇감이 제 발로 왔구나'는
 한 재벌가 영애의 납치를 둘러싼 이야기를 그린 미스터리 소설이다.
 
-![표지](/images/the-prey-that-ive-been-waiting-for-came-on-its-own-book-h480.jpg)
+![표지](/images/book/the-prey-that-ive-been-waiting-for-came-on-its-own-book-h480.jpg)
 
 이 책은 펼칠 때부터 특정 기대를 품게된다.
 '경찰과 범인들의 두뇌싸움'이라느니

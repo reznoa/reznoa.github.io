@@ -10,7 +10,7 @@ tags: [책, 퍼즐, 멘사퍼즐, 로버트 앨런, 브리티시 멘사, 보누�
 '멘사퍼즐 공간게임(Mensa: Mental Challenge)'은
 다양한 논리 퍼즐을 담은 책이다.
 
-![표지](/images/mensa-mental-challenge-book-h480.jpg)
+![표지](/images/book/mensa-mental-challenge-book-h480.jpg)
 
 제목은 조금 오해를 불러일으키기도 한다.
 이 책에 담긴 퍼즐들이 딱히 공간감각 능력을 필요로 하거나,

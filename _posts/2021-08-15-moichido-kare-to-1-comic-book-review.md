@@ -9,7 +9,7 @@ tags: [책, 만화, 로맨스, 직장, 미야조노 이즈미, 학산문화사, 
 '다시 한번 그와(もいちど彼と)'는
 8년만에 다시 만난 전남친과의 로맨스를 그린 만화다.
 
-![표지](/images/moichido-kare-to-1-comic-book-cover.jpg)
+![표지](/images/book/moichido-kare-to-1-comic-book-cover.jpg)
 
 먼저, 내가 나름 설정덕후라는 걸 얘기하고 들어가야 겠다.
 장르마다, 또 개별 작품마다 기대 수준이나 그런게 다르기는 하지만,
@@ -21,9 +21,9 @@ tags: [책, 만화, 로맨스, 직장, 미야조노 이즈미, 학산문화사, 
 
 아쉽게도 이 만화는 그 두가지 기본을 모두 제대로 갖추지 못했다.
 
-![27](/images/moichido-kare-to-1-comic-book-p027.jpg)
+![27](/images/book/moichido-kare-to-1-comic-book-p027.jpg)
 
-![120](/images/moichido-kare-to-1-comic-book-p120.jpg)
+![120](/images/book/moichido-kare-to-1-comic-book-p120.jpg)
 
 먼저 캐릭터를 제대로 잡지 못했다.
 완벽을 추구하는 쿨한 남자상을 보여주고 싶었던 모양이나 그게 전혀 제대로 그려지지 않았다.
@@ -43,12 +43,12 @@ tags: [책, 만화, 로맨스, 직장, 미야조노 이즈미, 학산문화사, 
 어쩌면 당시 두 사람의 미숙했던 심리상태가 그런 일에 이르게 한 것처럼 보여줄 수도 있었을텐데
 그걸 그냥 그런식으로 처리하다니.
 
-![14](/images/moichido-kare-to-1-comic-book-p014.jpg)
+![14](/images/book/moichido-kare-to-1-comic-book-p014.jpg)
 
 번역도 마뜩잖다.
 말투를 제대로 정리하지 않아서 어색한 부분이 있어서다.
 
-![35](/images/moichido-kare-to-1-comic-book-p035.jpg)
+![35](/images/book/moichido-kare-to-1-comic-book-p035.jpg)
 
 그나마 제대로였던 게 있다면 (이 역시 지나치게 나가 비현실적이긴 하지만)
 거지같은 남자들은 잘 보여준다는 거다.

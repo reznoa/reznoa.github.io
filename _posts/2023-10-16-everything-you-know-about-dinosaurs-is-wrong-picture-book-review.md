@@ -10,7 +10,7 @@ tags: [책, 그림책, 공룡, 닉 크럼턴, 개빈 스콧, 김맑아, 라이�
 '지금까지 우리가 알던 공룡 이야기는 모두 틀렸다!(Everything You Know About Dinosaurs is Wrong!)'는
 잘못된 공룡 상식을 집어주는 책이다.
 
-![표지](/images/everything-you-know-about-dinosaurs-is-wrong-picture-book-h480.jpg)
+![표지](/images/book/everything-you-know-about-dinosaurs-is-wrong-picture-book-h480.jpg)
 
 공룡학만큼 최신의 정보가 중요한 분야가 없다.
 왜냐하면, 우리는 아직도 여전히 공룡에 대해 제대로 알지 못하기 때문이다.

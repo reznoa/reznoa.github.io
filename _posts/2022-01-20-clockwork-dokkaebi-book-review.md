@@ -8,7 +8,7 @@ tags: [책, 소설, 역사, 일제강점기, 판타지, SF, 스팀펑크, 황모
 '클락워크 도깨비'는
 조선말과 일제강점기를 스팀펑크로 그려낸 소설이다.
 
-![표지](/images/clockwork-dokkaebi-book-h480.jpg)
+![표지](/images/book/clockwork-dokkaebi-book-h480.jpg)
 
 상당히 무난한 소설이다.
 실제 역사를 기반으로 판타지와 SF를 섞어 흥미롭게 볼만한 이야기로 만들었지만,

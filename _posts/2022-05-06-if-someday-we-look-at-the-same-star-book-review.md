@@ -9,7 +9,7 @@ tags: [책, 소설, 청소년, 성장, 역사, 일제강점기, 차인표, 제�
 '언젠가 우리가 같은 별을 바라본다면'은
 일제를 버텨낸 우리네 할머니, 할아버지들의 이야기를 담은 소설이다.
 
-![표지](/images/if-someday-we-look-at-the-same-star-book-h480.jpg)
+![표지](/images/book/if-someday-we-look-at-the-same-star-book-h480.jpg)
 
 어떻게 보면 조금 뻔한 이야기일 수 있다.
 그동안 일제와 그로인한 사람들의 이야기는

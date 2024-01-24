@@ -8,7 +8,7 @@ tags: [책, 에세이, 문화, 한국, 이어령, 디자인하우스, 북카페 
 '우리 문화 박물지'는
 이제는 한국인도 잘 모르는 우리 것에 대한 얘기들을 실은 책이다.
 
-![표지](/images/korean-cultural-library-book-h480.jpg)
+![표지](/images/book/korean-cultural-library-book-h480.jpg)
 
 2007년에 나왔던 초판본의 개정판이다.
 첫 출간일만을 기준으로 본다면, 무려 15년이나 된 책인 셈이다.

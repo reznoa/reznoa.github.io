@@ -8,7 +8,7 @@ tags: [책, 소설, 청소년, 최영희, 블랙홀, 책세상맘수다, 서평]
 '유니시티 보안관 디어루'는
 블랙홀 청소년 문고 시리즈 27번째 책이다.
 
-![표지](/images/unicity-sheriff-dear-roo-book-h480.jpg)
+![표지](/images/book/unicity-sheriff-dear-roo-book-h480.jpg)
 
 가상세계, 메타버스 같은 소재들을 이용한 이 소설은 일종의 SF라고도 할 수 있다.
 현실과 가상세계의 경계가 흐릿해할 정도로 발전한 시대를 배경으로

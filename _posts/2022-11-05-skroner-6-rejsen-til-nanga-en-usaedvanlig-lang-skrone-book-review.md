@@ -9,7 +9,7 @@ tags: [책, 소설, 자전소설, 북극, 요른 릴, 지연리, 열림원, 북�
 '북극 허풍담 6: 터무니없는 거짓말(Skrøner #6: En lodret løgn og andre skrøner)'는
 북극을 배경으로 한 자전 소설 시리즈 6번째 책이다.
 
-![표지](/images/skroner-6-en-lodret-logn-og-andre-skroner-book-h480.jpg)
+![표지](/images/book/skroner-6-en-lodret-logn-og-andre-skroner-book-h480.jpg)
 
 어떻게 보면 참 별 거 없다고도 할 수 있다.
 북극에서 지내는 사람들의 일상적이라 할 수 있는 이야기들이 이어지는 것이기 때문이다.

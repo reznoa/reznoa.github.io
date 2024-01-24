@@ -10,7 +10,7 @@ tags: [책, 소설, 라이트노벨, 로맨스, 미도 유라기, 와타, 조기
 '나에게 트라우마를 준 여자들이 힐끔힐끔 보고 있는데, 유감이지만 이미 늦었습니다(俺にトラウマを与えた女子達がチラチラ見てくるけど、残念ですが手遅れです) 1'은
 꽤 볼만한 학원 로맥틴 코미디물이다.
 
-![표지](/images/the-girls-who-traumatized-me-keep-glancing-at-me-but-alas-its-too-late-1-book-h480.jpg)
+![표지](/images/book/the-girls-who-traumatized-me-keep-glancing-at-me-but-alas-its-too-late-1-book-h480.jpg)
 
 구도는 꽤 단순한 편이다.
 왜냐하면, 작가가 딱히 서술적인 장치같은 걸 사용하려고 하지 않고

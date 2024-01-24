@@ -9,7 +9,7 @@ tags: [책, 역사, 세계사, 해적, 피터 레어, 홍우정, 레드리버, �
 '해적: 유럽에서 아시아 바이킹에서 소말리아 해적까지(Pirates: A New History, from Vikings to Somali Raiders)'는
 판타지가 아닌 실제 해적들의 이야기를 담은 책이다.
 
-![표지](/images/pirates-book-h480.jpg)
+![표지](/images/book/pirates-book-h480.jpg)
 
 대중에게 알려져 있는 해적의 이미지는 실제와는 많이 다르다.
 그들의 특정한 요소만을 강화하고,

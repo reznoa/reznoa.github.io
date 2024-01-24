@@ -8,7 +8,7 @@ tags: [책, 만화, 도감, SCP 재단, Team. StoryG, 올드스테어즈, 리뷰
 'SCP 재단 6'은
 [동명의 컨텐츠](http://ko.scp-wiki.net/)를 기반으로 한 가상 캐릭터 만화다.
 
-![표지](/images/scp-foundation-6-comic-book-h480.jpg)
+![표지](/images/book/scp-foundation-6-comic-book-h480.jpg)
 
 5권에 이어 한국 지부에서의 이야기를 그린 6권에서도
 한국 SCP들에 대한 소개가 이어진다.

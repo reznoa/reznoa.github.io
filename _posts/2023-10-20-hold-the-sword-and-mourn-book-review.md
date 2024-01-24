@@ -8,7 +8,7 @@ tags: [책, 소설, 역사, 임진왜란, 이상훈, 여백, 북카페 책과 �
 '칼을 품고 슬퍼하다'는
 사명대사의 생애를 그린 역사 소설이다.
 
-![표지](/images/hold-the-sword-and-mourn-book-h480.jpg)
+![표지](/images/book/hold-the-sword-and-mourn-book-h480.jpg)
 
 임진왜란하면 퍼뜩 떠올리는 이는 단연 이순신이다.
 그의 절절했던 생애,

@@ -9,7 +9,7 @@ tags: [책, 소설, SF, 성장, 퀴어, 게이, 샘 J. 밀러, 이윤진, 열린
 '슈퍼히어로의 단식법(The Art of Starving)'은
 민감한 소재를 재미있는 소재로 잘 풀어낸 소설이다.
 
-![표지](/images/the-art-of-starving-book-h480.jpg)
+![표지](/images/book/the-art-of-starving-book-h480.jpg)
 
 제목부터가 흥미를 확 당긴다.
 요즘 더욱 인기를 끌고있는 슈퍼히어로를 내세운 한국어 제목도 그렇고,

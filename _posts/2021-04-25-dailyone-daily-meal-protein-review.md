@@ -9,19 +9,19 @@ published: false
 '데일리원 데일리 밀 프로틴'은
 간편하게 여러 단백질을 여러 영양분과 함께 섭취할 수 있게 만든 건강기능식품이다.
 
-![포장](/images/dailyone-daily-meal-protein-review-01.jpg)
+![포장](/images/review/dailyone-daily-meal-protein-review-01.jpg)
 
-![패키지 1](/images/dailyone-daily-meal-protein-review-02.jpg)
+![패키지 1](/images/review/dailyone-daily-meal-protein-review-02.jpg)
 
-![표기 1](/images/dailyone-daily-meal-protein-review-03.jpg)
+![표기 1](/images/review/dailyone-daily-meal-protein-review-03.jpg)
 
-![표기 2](/images/dailyone-daily-meal-protein-review-04.jpg)
+![표기 2](/images/review/dailyone-daily-meal-protein-review-04.jpg)
 
-![설명서](/images/dailyone-daily-meal-protein-review-05.jpg)
+![설명서](/images/review/dailyone-daily-meal-protein-review-05.jpg)
 
-![패키지 2](/images/dailyone-daily-meal-protein-review-06.jpg)
+![패키지 2](/images/review/dailyone-daily-meal-protein-review-06.jpg)
 
-![제품](/images/dailyone-daily-meal-protein-review-07.jpg)
+![제품](/images/review/dailyone-daily-meal-protein-review-07.jpg)
 
 데일리 밀 프로틴은 먹기쉽게 개별포장된 포 형태의 제품이 1박스에 20포 들어있다.
 겉 포장지에는 원료는 물론 주의해야 할 알레르기성 성분이 무엇이고,
@@ -31,9 +31,9 @@ published: false
 자칫 큰 문제로 이어질 수 있다는 걸 생각하면
 차라리 감추는 것보다 낫다는 생각도 든다.
 
-![이지컷 1](/images/dailyone-daily-meal-protein-review-08.jpg)
+![이지컷 1](/images/review/dailyone-daily-meal-protein-review-08.jpg)
 
-![이지컷 2](/images/dailyone-daily-meal-protein-review-09.jpg)
+![이지컷 2](/images/review/dailyone-daily-meal-protein-review-09.jpg)
 
 개별포장에는 이지컷을 도입해서 맨손으로도 손쉽게 딸 수 있게 했다.
 권장 섭취량은 1일 1회, 1회 2포로
@@ -49,13 +49,13 @@ published: false
 가루 양이 많아 잘 섞일까 싶기도 하다만
 물에 잘 녹기 때문에 150ml면 2포를 먹기 딱 좋은 모양새가 된다.
 
-![분말](/images/dailyone-daily-meal-protein-review-10.jpg)
+![분말](/images/review/dailyone-daily-meal-protein-review-10.jpg)
 
-![섞기 1](/images/dailyone-daily-meal-protein-review-11.jpg)
+![섞기 1](/images/review/dailyone-daily-meal-protein-review-11.jpg)
 
-![섞기 2](/images/dailyone-daily-meal-protein-review-12.jpg)
+![섞기 2](/images/review/dailyone-daily-meal-protein-review-12.jpg)
 
-![섞기 3](/images/dailyone-daily-meal-protein-review-13.jpg)
+![섞기 3](/images/review/dailyone-daily-meal-protein-review-13.jpg)
 
 물에 녹이면 좀 더 노란빛을 띄며 단내가 강해지는데,
 막상 먹어보면 달기보다는 담백한 느낌이 더 강하다.

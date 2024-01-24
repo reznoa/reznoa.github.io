@@ -8,7 +8,7 @@ tags: [책, 소설, 판타지, 시간여행, 정해연, 텔레포터, 북멘토,
 '사실은, 단 한 사람이면 되었다'는
 시간여행을 소재로 한 판타지 소설이다.
 
-![표지](/images/in-fact-only-one-person-was-enough-book-h480.jpg)
+![표지](/images/book/in-fact-only-one-person-was-enough-book-h480.jpg)
 
 솔직히, 이런 이야기는 굉장히 많다.
 과거에 대한 후회 때문에

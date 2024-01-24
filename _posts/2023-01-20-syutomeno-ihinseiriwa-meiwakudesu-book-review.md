@@ -9,7 +9,7 @@ tags: [책, 소설, 가키야 미우, 강성욱, 문예춘추사, 이북카페, 
 '시어머니 유품정리(姑の遺品整理は、迷惑です)'는
 유품정리를 통해서 인간관계와 인생에 대해 그린 소설이다.
 
-![표지](/images/syutomeno-ihinseiriwa-meiwakudesu-book-h480.jpg)
+![표지](/images/book/syutomeno-ihinseiriwa-meiwakudesu-book-h480.jpg)
 
 실로 대단히 솔직한 소설이라 하겠다.
 유품에 얽힌 뭔가 대단한 비밀이 숨어있다든가,

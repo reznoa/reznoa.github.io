@@ -8,7 +8,7 @@ tags: [책, 생물, 도감, 임권일, 유영근, 대원키즈, 대원씨아이,
 '너무 닮아서 헷갈리는 동물'은
 헷갈릴 정도로 닮은 동물들에대해 살펴보는 책이다.
 
-![표지](/images/confused-look-alike-animals-book-h480.jpg)
+![표지](/images/book/confused-look-alike-animals-book-h480.jpg)
 
 세상엔 굉장히 많은 동물들이 있다.
 그들 중에는 한눈에 보기에도 확연히 달라 쉽게 알아볼 수 있는 동물들이 있는가 하면,

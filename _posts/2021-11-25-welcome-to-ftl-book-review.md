@@ -8,7 +8,7 @@ tags: [책, 소설, SF, 시간여행, 클레이븐, 그래비티 픽션, 그래�
 'FTL에 어서 오세요'는
 FTL이라는 독점 식품 기업에서 벌어지는 모험을 그린 SF 소설이다.
 
-![표지](/images/welcome-to-ftl-book-h480.jpg)
+![표지](/images/book/welcome-to-ftl-book-h480.jpg)
 
 시작은 작은 아이디어였다고 한다.
 거기에 타임머신과 시간여행이라는 설정이 붙고,

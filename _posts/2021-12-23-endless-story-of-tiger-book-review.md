@@ -8,7 +8,7 @@ tags: [책, 소설, 동화, 창작동화, 호랑이, 판타지, 이상권, 전�
 '호랑이의 끝없는 이야기'는
 자기다움에 대한 메시지를 담은 창작동화다.
 
-![표지](/images/endless-story-of-tiger-book-h480.jpg)
+![표지](/images/book/endless-story-of-tiger-book-h480.jpg)
 
 소설은 꽤나 전래동화처럼 쓰여졌다.
 호랑이와 산신령이라는 소재도 그렇고,

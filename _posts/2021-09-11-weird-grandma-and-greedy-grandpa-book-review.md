@@ -8,7 +8,7 @@ tags: [책, 수학, 동화, 전래동화, 정미영, 고아라, 라영, 북카�
 '별난 할머니와 욕심쟁이 할아버지'는
 '암산이 즐거운 전래동화' 시리즈 첫번째 책이다.
 
-![표지](/images/weird-grandma-and-greedy-grandpa-book-h480.jpg)
+![표지](/images/book/weird-grandma-and-greedy-grandpa-book-h480.jpg)
 
 얼핏 보면 동화책같다.
 그리고 그건 어느정도 사실인데,

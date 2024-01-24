@@ -8,7 +8,7 @@ tags: [책, 소설, 단편, 김수영, 도수영, 박이강, 오선호, 최원�
 '폴더명_울새'는
 작가 다섯 명의 폴더, 네 가지 형식의 작품을 담은 단편 소설집이다.
 
-![표지](/images/folder-name-robin-book-h480.jpg)
+![표지](/images/book/folder-name-robin-book-h480.jpg)
 
 이 소설집은 조금 독특하다.
 단지 새로운 소설들을 모았다거나,

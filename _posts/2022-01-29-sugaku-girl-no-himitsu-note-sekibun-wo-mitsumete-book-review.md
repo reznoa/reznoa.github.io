@@ -9,7 +9,7 @@ tags: [책, 수학, 유키 히로시, 오정화, 전국수학교사모임, 영�
 '고마워 적분(数学ガールの秘密ノート/積分を見つめて)'은
 적분에 대한 설명을 담은 수학 소녀의 비밀노트 시리즈의 다섯 번째 책이다.
 
-![표지](/images/sugaku-girl-no-himitsu-note-sekibun-wo-mitsumete-book-h480.jpg)
+![표지](/images/book/sugaku-girl-no-himitsu-note-sekibun-wo-mitsumete-book-h480.jpg)
 
 이 책은 제목만 봐도 무슨 책인지 알 수 있어 딱히 무슨 설명이 필요하지는 않다.
 책에 담긴 내용이 책 제목이나 첫인상을 배신하지 않기에 더 그렇다.

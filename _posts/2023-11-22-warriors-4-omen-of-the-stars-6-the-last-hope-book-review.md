@@ -9,7 +9,7 @@ tags: [책, 소설, 에린 헌터, 서현정, 가람어린이, 북카페 책과 
 '전사들 4부 별들의 징조 6: 마지막 희망(Warriors: Omen of the Stars #6 The Last Hope)'는
 시리즈 4부 마지막 책이다.
 
-![표지](/images/warriors-4-omen-of-the-stars-6-the-last-hope-book-h480.jpg)
+![표지](/images/book/warriors-4-omen-of-the-stars-6-the-last-hope-book-h480.jpg)
 
 어떤 점에서는 좀 놀랍다.
 꽤나 급진적이라 할만한 전개가 이뤄지기 때문이다.

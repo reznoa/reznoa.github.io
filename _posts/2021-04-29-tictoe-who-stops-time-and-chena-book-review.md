@@ -8,7 +8,7 @@ tags: [책, 소설, 판타지, 단편, 김윤호, 바른북스, 북카페 책과
 '시간을 멈추는 틱토, 그리고 체나'는
 김윤호의 두번째 소설집이다.
 
-![표지](/images/tictoe-who-stops-time-and-chena-book-h480.jpg)
+![표지](/images/book/tictoe-who-stops-time-and-chena-book-h480.jpg)
 
 책에는 서로 다른 세가지 이야기가 들어있다.
 셋은 모두 판타지 장르라는 것을 제외하면 딱히 주제나 이야기의 무게감 등에서 공통적이라 할만한 것은 없다.

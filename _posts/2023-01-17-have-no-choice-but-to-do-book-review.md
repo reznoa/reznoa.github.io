@@ -8,7 +8,7 @@ tags: [책, 소설, 최도담, 네오픽션, 네오픽션 ON, 컬처블룸, 서�
 '그렇게 할 수밖에'는
 살인청부를 소재로 한 소설이다.
 
-![표지](/images/have-no-choice-but-to-do-book-h480.jpg)
+![표지](/images/book/have-no-choice-but-to-do-book-h480.jpg)
 
 피해자, 또는 피해자의 주변인이
 사건의 이후로도 떨칠 수 없는 괴로움에 시달리다

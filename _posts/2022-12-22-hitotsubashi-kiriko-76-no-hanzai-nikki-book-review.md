@@ -9,7 +9,7 @@ tags: [책, 소설, 드라마원작, 하라다 히카, 김영주, 문학동네, 
 '76세 기리코의 범죄일기(一橋桐子(76)の犯罪日記)'는
 범죄를 저지르려고 하는 한 할머니의 이야기를 그린 소설이다.
 
-![표지](/images/hitotsubashi-kiriko-76-no-hanzai-nikki-book-h480.jpg)
+![표지](/images/book/hitotsubashi-kiriko-76-no-hanzai-nikki-book-h480.jpg)
 
 짧막한 소개 내용으로만 보면,
 마치 일종의 범죄물인 것 같다.

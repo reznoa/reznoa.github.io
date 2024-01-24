@@ -8,7 +8,7 @@ tags: [책, 소설, SF, 단편, 배명훈, 북하우스, 이북카페, 서평]
 '미래과거시제'는
 꽤 독특한 SF 단편들을 담은 소설집이다.
 
-![표지](/images/future-past-tense-book-h480.jpg)
+![표지](/images/book/future-past-tense-book-h480.jpg)
 
 좀 익숙하지 않다.
 SF 소설이라고 하면 보통 사용하는 소재도 아니고,

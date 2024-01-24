@@ -9,7 +9,7 @@ tags: [책, 소설, 프랑수아즈 사강, 최정수, 소담출판사, 서평]
 '어떤 미소(Un certain sourire)'는
 젊은이의 사랑과 성장을 그린 소설이다.
 
-![표지](/images/un-certain-sourire-book-h480.jpg)
+![표지](/images/book/un-certain-sourire-book-h480.jpg)
 
 당시 젊은이들의 가치관 변화 등 새로운 시대 분위기를 잘 담아냈다고 하는 이 소설은
 그래서 당대도 아니고 심지어 그러한 과거를 기억하는 프랑스인도 아닌

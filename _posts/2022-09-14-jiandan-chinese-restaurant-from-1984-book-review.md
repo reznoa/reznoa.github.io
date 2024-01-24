@@ -8,7 +8,7 @@ tags: [책, 소설, 김자령, 해와달, 시월이일, 리뷰어스 클럽, 서
 '건담 싸부'는
 한 청요리집에 얽힌 사람들의 이야기를 그린 소설이다.
 
-![표지](/images/jiandan-chinese-restaurant-from-1984-book-h480.jpg)
+![표지](/images/book/jiandan-chinese-restaurant-from-1984-book-h480.jpg)
 
 소설의 배경인 청요리집의 이름 '건담(健啖)'은
 잘 먹는다, 먹성이 좋다는 의미의 단어이다.

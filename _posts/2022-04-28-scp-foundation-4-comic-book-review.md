@@ -8,7 +8,7 @@ tags: [책, 만화, 도감, SCP 재단, Team. StoryG, 올드스테어즈, 북카
 'SCP 재단 4'는
 [동명의 컨텐츠](http://ko.scp-wiki.net/)를 기반으로 한 가상 캐릭터 만화다.
 
-![표지](/images/scp-foundation-4-comic-book-h480.jpg)
+![표지](/images/book/scp-foundation-4-comic-book-h480.jpg)
 
 이 만화 시리즈의 장점이자 단점이라 할 수 있는 가장 큰 요소는
 바로 SCP 재단 그 자체다.

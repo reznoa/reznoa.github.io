@@ -8,7 +8,7 @@ tags: [책, 역사, 세계사, 히스트, 가람누리, 북카페 책과 콩나�
 '그림 쏙 사진 쏙 세계사'는
 풍부한 그림과 사진에 담겨있는 세계사 장면들을 담은 책이다.
 
-![표지](/images/world-history-with-paintings-and-picturs-book-h480.jpg)
+![표지](/images/book/world-history-with-paintings-and-picturs-book-h480.jpg)
 
 책은 세계사 이야기들을 짧게 간추리고
 거기에 어울리는 사진이나 그림 등을 함께 실음으로써

@@ -8,7 +8,7 @@ tags: [책, 심리, 심리테스트, 정종진, 시그마북스, 북카페 책�
 '내 마음 심리학 실험실'은
 나를 알아보는 자가진단 테스트 36종을 담은 책이다.
 
-![표지](/images/my-mind-psychology-lab-book-h480.jpg)
+![표지](/images/book/my-mind-psychology-lab-book-h480.jpg)
 
 이 책이 '내 진짜 모습을 찾는 36가지 자가진단 심리테스트'라는 부제가 붙어있는데,
 이게 실로 이 책을 잘 설명한다.

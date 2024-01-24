@@ -8,7 +8,7 @@ tags: [책, 소설, 홍선주, 네오픽션, 네오픽션 ON, 이북카페, 서�
 '심심포차 심심 사건'은
 한 포차를 배경으로 벌어지는 소소한 이야기를 담은 소설이다.
 
-![표지](/images/care-snack-cart-mysteries-book-h480.jpg)
+![표지](/images/book/care-snack-cart-mysteries-book-h480.jpg)
 
 심야식당을 연상케 하는, 꽤나 거창한 이름의 '심심포차'는,
 그러나 그 발음이 전해주는 것처럼 그렇게 대단한 뭔가가 있거나 일어나는 그런 곳은 아니다.

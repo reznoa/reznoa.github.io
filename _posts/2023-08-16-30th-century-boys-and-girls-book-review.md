@@ -8,7 +8,7 @@ tags: [책, 소설, SF, 판타지, 고호관, 북트리거, 북카페 책과 콩
 '30세기 소년소녀'는
 SF와 판타지의 만남을 재미있게 그린 소설이다.
 
-![표지](/images/30th-century-boys-and-girls-book-h480.jpg)
+![표지](/images/book/30th-century-boys-and-girls-book-h480.jpg)
 
 기본은 SF다.
 배경이 되는 세계도 과학에 기반한 세계고

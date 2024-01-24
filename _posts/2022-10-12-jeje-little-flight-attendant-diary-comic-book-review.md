@@ -8,7 +8,7 @@ tags: [책, 만화, 에세이, 제제 씨, 처음북스, 컬처블룸, 서평]
 '키 작은 승무원 일기'는
 159cm의 작은 승무원 제제씨의 이야기를 담은 비행 에세이다.
 
-![표지](/images/jeje-little-flight-attendant-diary-comic-book-h480.jpg)
+![표지](/images/book/jeje-little-flight-attendant-diary-comic-book-h480.jpg)
 
 처음부터 출간을 위해 기획해서 만들어낸 것이 아니라,
 일상 공유처럼 [인스타툰](https://www.instagram.com/jeje_little/)으로

@@ -8,7 +8,7 @@ tags: [책, 소설, 김대현, 모모북스, 북카페 책과 콩나무, 서평]
 '그들은 후회하지 않는다'는
 한 살인마와 그의 뒤를 쫒는 사람들의 이야기를 그린 소설이다.
 
-![표지](/images/they-have-no-regrets-book-h480.jpg)
+![표지](/images/book/they-have-no-regrets-book-h480.jpg)
 
 일단 추리 소설로 분류되는 소설이긴 하다만,
 막상 읽어보면 별로 그런 소설 같지가 않다.

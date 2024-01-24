@@ -9,15 +9,15 @@ published: false
 '그린어스 유러피안 샐러드'는
 간편하게 먹을 수 있는 친환경 무농약 채소다.
 
-![택배 1](/images/greenus-salad-mix-review-01.jpg)
+![택배 1](/images/review/greenus-salad-mix-review-01.jpg)
 
-![택배 2](/images/greenus-salad-mix-review-02.jpg)
+![택배 2](/images/review/greenus-salad-mix-review-02.jpg)
 
 장점은 역시 택배를 이용해 집에서 편하게 받아볼 수 있다는 거다.
 신선한 채소를 스티리폼 박스에 아이스팩과 함께 넣어주고,
 배송도 오래걸리지 않기 때문에 받았을 때 상태도 좋다.
 
-![표기](/images/greenus-salad-mix-review-03.jpg)
+![표기](/images/review/greenus-salad-mix-review-03.jpg)
 
 그린어스 샐러드는 모두 친환경 무농약 채소인데,
 스마트팜을 통해 모두 국내에서 생산하므로 생산방식상
@@ -25,9 +25,9 @@ published: false
 무농약 농산물 등은 농림축산식품부로부터 인증도 받았고,
 생산도 주문 후에 한다고 하니 더 믿을 만하다.
 
-![따는 곳](/images/greenus-salad-mix-review-04.jpg)
+![따는 곳](/images/review/greenus-salad-mix-review-04.jpg)
 
-![제품](/images/greenus-salad-mix-review-05.jpg)
+![제품](/images/review/greenus-salad-mix-review-05.jpg)
 
 제품에는 종류에따라 프릴아이스, 미니로메인(로메인), 카이피라, 버터헤드, 스탠포드, 유럽시금치 등이 포함되어 있으며,
 모두 1회 분량씩 개별 포장해서 판매한다.
@@ -38,7 +38,7 @@ published: false
 이는 채소가 물러지지 않도록 설렁하게 담았기 때문이다.
 ﻿덕분에 약한 채소들도 상한 것이 없다.
 
-![씻기](/images/greenus-salad-mix-review-06.jpg)
+![씻기](/images/review/greenus-salad-mix-review-06.jpg)
 
 겉보기에는 깨끗해 보이지만 농산물인만큼 반드시 씻어먹어야 하는데
 물에 가볍게 씻어줘도 충분한 듯하다.
@@ -48,9 +48,9 @@ published: false
 그러면 채소 뒷면에 들러붙은 흙 등이 제대로 씻기지 않고 남아있는 경우도 많다.
 그런 점에서 그린어스 샐러드는 씻기도 비교적 편해서 좋았다.
 
-![먹기 1](/images/greenus-salad-mix-review-07.jpg)
+![먹기 1](/images/review/greenus-salad-mix-review-07.jpg)
 
-![먹기 2](/images/greenus-salad-mix-review-08.jpg)
+![먹기 2](/images/review/greenus-salad-mix-review-08.jpg)
 
 개인적으로 샐러드는 씻은 후 단백질과 함께 그대로 먹는 것을 선호하는데,
 거기에 약간의 매운맛이 있는 풋고추나

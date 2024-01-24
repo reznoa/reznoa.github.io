@@ -8,7 +8,7 @@ tags: [책, 소설, SF, 윤재호, 페퍼민트오리지널, 북카페 책과 �
 '제3지구'는
 새로운 행성에서 벌어지는 일을 그린 SF 판타지 소설이다.
 
-![표지](/images/the-third-earth-book-h480.jpg)
+![표지](/images/book/the-third-earth-book-h480.jpg)
 
 SF는 생각보다 범위가 넓은 장르다.
 그래서 같은 SF 소설이라고 하더라도

@@ -9,7 +9,7 @@ tags: [책, 소설, 청소년, 판타지, 장 클로드 무를르바, 정혜승,
 '거꾸로 흐르는 강: 토멕과 신비의 물(La Rivière à l'envers: Tomek)'은
 한 소년의 모험을 그린 판타지 소설이다.
 
-![표지](/images/la-riviere-a-lenvers-1-tomek-book-h480.jpg)
+![표지](/images/book/la-riviere-a-lenvers-1-tomek-book-h480.jpg)
 
 개략적인 줄거리만 요약해서 보면 그렇게 특별한 것은 없어 보인다.
 어찌보면 충동적인 이유로 모험을 떠나,

@@ -9,7 +9,7 @@ tags: [책, 소설, 가족, 성장, 댄 거마인하트, 이나경, 놀, 북카�
 '코요테의 놀라운 여행(The Remarkable Journey of Coyote Sunrise)'은
 스쿨버스를 집 삼아 전 미국을 누비고 다니는 한 가족의 이야기를 그린 소설이다.
 
-![표지](/images/the-remarkable-journey-of-coyote-sunrise-book-h480.jpg)
+![표지](/images/book/the-remarkable-journey-of-coyote-sunrise-book-h480.jpg)
 
 자동차 여행에 로망을 가진 사람은 꽤 많다.
 그것이 자동차를 집 삼아 다니는 것이라면 더 그렇다.

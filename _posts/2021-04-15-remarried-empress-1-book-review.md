@@ -8,7 +8,7 @@ tags: [책, 소설, 로맨스, 판타지, 알파타르트, 해피북스투유, �
 '재혼 황후 1'은
 꽤 흡입력이 대단한 판타지 로맨스 소설이다.
 
-![표지](/images/remarried-empress-1-book-h480.jpg)
+![표지](/images/book/remarried-empress-1-book-h480.jpg)
 
 제목만 봤을때는 일종의 복수극처럼 보인다.
 이혼당한 황후가 그대로 내쳐지고 마는 게 아니라,

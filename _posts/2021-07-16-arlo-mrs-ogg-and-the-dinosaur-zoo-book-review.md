@@ -10,7 +10,7 @@ tags: [책, 소설, 앨리스 해밍, 캐스린 더스트, 민지현, 아름다�
 '메모왕 알로와 미스터리 학교 1: 원시시대로 떠난 체험학습(Arlo, Mrs. Ogg, and the Dinosaur Zoo)'은
 메모의 장점과 공룡 상식을 등을 볼 수 있는 교양 소설이다.
 
-![표지](/images/arlo-mrs-ogg-and-the-dinosaur-zoo-book-h480.jpg)
+![표지](/images/book/arlo-mrs-ogg-and-the-dinosaur-zoo-book-h480.jpg)
 
 주인공인 알로가 있는 4X 반은 학교 내에서 유명한 일명 문제아 집단이다.
 알로처럼 말을 더듬거리거나 철자가 꼬이면서 엉뚱한 소리를 하는 것은 양반이다.

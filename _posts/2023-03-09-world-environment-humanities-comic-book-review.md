@@ -8,7 +8,7 @@ tags: [책, 만화, 인문학, Team Story G, 올드스테어즈, 컬처블룸, �
 '세계환경 인문학'은
 환경에 대학 개략을 담은 만화다.
 
-![표지](/images/world-environment-humanities-comic-book-h480.jpg)
+![표지](/images/book/world-environment-humanities-comic-book-h480.jpg)
 
 지구가 인간이 살기 좋은 환경인 것을 당연하게 생각하는 사람이 많다.
 그야, 날때부터 그러했고 죽을 때까지 그러할 것이니 그렇게 생각하는 것도 어찌보면 자연스럽다.

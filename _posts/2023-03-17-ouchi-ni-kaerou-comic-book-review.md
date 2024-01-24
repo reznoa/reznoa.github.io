@@ -9,7 +9,7 @@ tags: [책, 만화, 순정만화, 카스미 유코, 이소연, 서울미디어�
 '집으로 돌아가자(おうちにかえろう)'는
 같이 살게되는 젊은 남녀의 로맨스를 그린 만화다.
 
-![표지](/images/ouchi-ni-kaerou-comic-book-h480.jpg)
+![표지](/images/book/ouchi-ni-kaerou-comic-book-h480.jpg)
 
 어린 남녀라고 해도 되겠다.
 하나는 정식으로 활동하는 작가이긴 하지만 대학생이고,

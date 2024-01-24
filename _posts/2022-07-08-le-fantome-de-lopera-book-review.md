@@ -9,7 +9,7 @@ tags: [책, 소설, 뮤지컬원작, 가스통 르루, 이원복, 소담출판�
 '오페라의 유령(Le Fantôme de l'Opéra)'은
 모르는 사람이 없을 정도로 유명한 일종의 호러 미스터리 소설이다.
 
-![표지](/images/le-fantome-de-lopera-book-h480.jpg)
+![표지](/images/book/le-fantome-de-lopera-book-h480.jpg)
 
 '일종의'라고 덧붙이기는 했지만, 그럼에도 불구하고 '미스터리 소설'이라고 해도 좋을지 솔직히 잘 모르겠다.
 신비한 사건들이 벌어지고,

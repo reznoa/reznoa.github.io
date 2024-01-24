@@ -9,7 +9,7 @@ tags: [책, 동화, 한스 크리스티안 안데르센, 고정순, 배수아, �
 '한스 크리스티안 안데르센(Hans Christian Andersen)'의 동화를
 그림책으로 다시 만든 책이다.
 
-![표지](/images/shadow-picture-book-h480.jpg)
+![표지](/images/book/shadow-picture-book-h480.jpg)
 
 이 책은 기존의 다른 그림책과는 상당히 결이 다르다.
 일단 기본이 된 텍스트가 그림책이 아닌 동화의 형태로 쓰여진 것인데다가,

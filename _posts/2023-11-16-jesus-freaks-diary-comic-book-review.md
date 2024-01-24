@@ -8,7 +8,7 @@ tags: [책, 만화, 종교, 기독교, 왕두, 새먼스, 북카페 책과 콩�
 '예수쟁이 다이어리'는
 한 무종교인의 기독교인 경험을 그린 만화다.
 
-![표지](/images/jesus-freaks-diary-comic-book-h480.jpg)
+![표지](/images/book/jesus-freaks-diary-comic-book-h480.jpg)
 
 소위말하는 일종의 간증물이라고도 할 수 있겠다.
 기독교인으로서의 삶을 깊게 받아들인 사람이

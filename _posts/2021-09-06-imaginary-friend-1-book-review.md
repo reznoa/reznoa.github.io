@@ -9,7 +9,7 @@ tags: [책, 소설, 스릴러, 스티븐 크보스키, 박아람, 북로드, 북
 '보이지 않는 친구(Imaginary Friend)'는
 스티븐 킹 스타일의 오컬트 호러 스릴러 소설이다.
 
-![표지](/images/imaginary-friend-1-book-h480.jpg)
+![표지](/images/book/imaginary-friend-1-book-h480.jpg)
 
 사실 생각과는 조금 다른 소설이긴 했다.
 스티븐 킹이니 오컬트니 호러니 스릴러니 하는 문구들이

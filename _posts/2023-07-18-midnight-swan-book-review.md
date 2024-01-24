@@ -9,7 +9,7 @@ tags: [책, 소설, 영화화, 우치다 에이지, 현승희, 해피북스투�
 '미드나잇 스완(ミッドナイトスワン; Midnight Swan)'은
 소외된 사람들의 이야기를 그린 소설이다.
 
-![표지](/images/midnight-swan-book-h480.jpg)
+![표지](/images/book/midnight-swan-book-h480.jpg)
 
 
 

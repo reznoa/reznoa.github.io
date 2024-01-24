@@ -8,7 +8,7 @@ tags: [책, 소설, SF, 단편, 정은영, 교유서가, 교유당, 북카페 �
 '임산부 로봇이 낳아드립니다'는
 부모를 주제로 한 연작 두편을 담은 소설집이다.
 
-![표지](/images/pregnant-robot-gives-birth-book-h480.jpg)
+![표지](/images/book/pregnant-robot-gives-birth-book-h480.jpg)
 
 대게 생각의 흐름은 아래로 흐른다.
 생명으로 치자면 후손으로, 즉 새로운 세대, 자식 쪽으로 눈길이 많이 쏠린다.

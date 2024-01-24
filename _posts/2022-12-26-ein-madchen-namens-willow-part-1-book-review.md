@@ -10,7 +10,7 @@ tags: [책, 소설, 창작동화, 판타지, 자비네 볼만, 시모나 체카�
 '숲의 마녀, 윌로우 1: 고모할머니의 유산(Ein Mädchen namens Willow)'는
 현대의 어린 숲 마녀 이야기를 그린 소설이다.
 
-![표지](/images/ein-madchen-namens-willow-part-1-book-h480.jpg)
+![표지](/images/book/ein-madchen-namens-willow-part-1-book-h480.jpg)
 
 이야기는 어린 소녀 '윌로우'가
 할머니의 유산상속을 계기로 오랫만에 할머니네로 돌아오게 되면서 시작한다.

@@ -8,7 +8,7 @@ tags: [책, 소설, 로맨스, 판타지, 알파타르트, 해피북스투유, �
 '재혼 황후 2'는
 재미와 흡입력이 여전한 판타지 로맨스 소설이다.
 
-![표지](/images/remarried-empress-2-book-h480.jpg)
+![표지](/images/book/remarried-empress-2-book-h480.jpg)
 
 [전권]({% post_url 2021-04-15-remarried-empress-1-book-review %})에서 좀 우려스러웠던 것은
 자칫 여러 후보들이 난립하면서 재혼상대찾기 식의 전개로 흘러가진 않을까 했던 거였다.

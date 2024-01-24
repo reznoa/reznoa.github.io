@@ -8,7 +8,7 @@ tags: [책, 그림책, 허정윤, 잠산, 올리, 북카페 책과 콩나무, �
 '인어아빠'는
 친근한 아빠 인어 이야기를 그린 그림책이다.
 
-![표지](/images/mermaid-dad-picture-book-w480.jpg)
+![표지](/images/book/mermaid-dad-picture-book-w480.jpg)
 
 인어는 상당히 많은 이야기들에 등장하는 꽤나 낯익은 존재다.
 하지만, 그런 것 치고는 의외로 인어 자신들에 대한 이야기는 별로 없는데,

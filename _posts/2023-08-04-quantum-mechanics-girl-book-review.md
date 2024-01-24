@@ -8,7 +8,7 @@ tags: [책, 소설, 청소년, 판타지, 이민항, 다른, 도넛문고, 이�
 '양자역학 소녀'는
 양자역학을 소재로 한 청소년 소설이다.
 
-![표지](/images/quantum-mechanics-girl-book-h480.jpg)
+![표지](/images/book/quantum-mechanics-girl-book-h480.jpg)
 
 양자역학이라는 물리학 이론을 소재로 사용하고 있기는 하지만,
 별로 SF적인 소설이거나 한 것은 아니다.

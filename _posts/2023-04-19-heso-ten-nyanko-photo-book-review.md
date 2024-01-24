@@ -9,7 +9,7 @@ tags: [책, 사진집, 동물, 고양이, 스무조, 홍미화, 윌스타일, �
 '발라당 고양이들(へそ天にゃんこ)'은
 귀여운 고양이들을 담은 사진집이다.
 
-![표지](/images/heso-ten-nyanko-photo-book-h480.jpg)
+![표지](/images/book/heso-ten-nyanko-photo-book-h480.jpg)
 
 이 책은 사진집이다.
 그래서, 사실, 좀 과장하면, 번역도 별로 필요없다.

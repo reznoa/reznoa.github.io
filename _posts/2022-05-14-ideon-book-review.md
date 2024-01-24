@@ -8,7 +8,7 @@ tags: [책, 소설, SF, 고승현, 99퍼센트, 북카페 책과 콩나무, 서�
 '이데온'은
 한국에선 좀 보기드문 하드 SF 소설이다.
 
-![표지](/images/ideon-book-h480.jpg)
+![표지](/images/book/ideon-book-h480.jpg)
 
 하드 SF라 함은,
 진지함을 빡세게 박아넣은 SF라고 할 수 있다.

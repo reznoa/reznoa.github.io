@@ -8,7 +8,7 @@ tags: [책, 소설, 판타지, 동화, 창작동화, 서아람, 안병현, 라�
 '이상한 무인 아이스크림 가게'는
 일부에게만 보이는 특별한 아이스크림 가게를 소재로 한 판타지 소설이다.
 
-![표지](/images/weird-unmanned-ice-cream-shop-book-h480.jpg)
+![표지](/images/book/weird-unmanned-ice-cream-shop-book-h480.jpg)
 
 신기한 가게라는 요소와
 '원숭이 손'처럼 소원을 이뤄주는 요소를 결합한 한 이 소설은,

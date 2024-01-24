@@ -8,7 +8,7 @@ tags: [책, 소설, 판타지, 변윤하, 문학수첩, 북카페 책과 콩나�
 '보름달 안과'는
 거울 속 신기한 진료소에서의 이야기를 그린 판타지 소설이다.
 
-![표지](/images/full-moon-ophthalmic-clinic-book-h480.jpg)
+![표지](/images/book/full-moon-ophthalmic-clinic-book-h480.jpg)
 
 보름달 안과는 신비하고 비밀스러운 곳이다.
 거울을 통해서만 갈 수 있으며,

@@ -9,7 +9,7 @@ tags: [책, 소설, 에린 헌터, 윤영, 가람어린이, 북카페 책과 콩
 '용기의 땅 5: 영혼을 먹는 자들(Bravelands #5: The Spirit-Eaters)'은
 용기의 땅에서 벌어지는 동물들의 이야기를 그린 다섯번째 책이다.
 
-![표지](/images/bravelands-5-the-spirit-eaters-book-h480.jpg)
+![표지](/images/book/bravelands-5-the-spirit-eaters-book-h480.jpg)
 
 이야기는 전권에서 바로 이어진다.
 전권은 쏜의 고민을 중심으로 나름 완결성있는 이야기를 보여주기도 했지만,

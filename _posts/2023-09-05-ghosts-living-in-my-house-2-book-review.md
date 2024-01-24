@@ -8,7 +8,7 @@ tags: [책, 소설, 판타지, 요괴, 동화, 창작동화, 정설아, 한상�
 '우리 집에 귀신이 산다 2'는
 다음권도 나름 기대되는 요괴 판타지다.
 
-![표지](/images/ghosts-living-in-my-house-2-book-h480.jpg)
+![표지](/images/book/ghosts-living-in-my-house-2-book-h480.jpg)
 
 전체적인 느낌은 [1권]({% post_url 2023-09-04-ghosts-living-in-my-house-1-book-review %})과 비슷하다.
 

@@ -9,7 +9,7 @@ tags: [책, 소설, 로맨스, BB 이스턴, 김진아, 파피펍, 이북카페,
 '스킨(Skin: A 44 Chapters Novel Book 1)'은
 '[4남자에 관한 44장의 일기(44 Chapters about 4 Men)]({% post_url 2021-08-06-44-chapters-about-4-men-book-review %})'의 첫번째 스핀오프 소설이다.
 
-![표지](/images/44-chapters-spinoff-1-skin-book-h480.jpg)
+![표지](/images/book/44-chapters-spinoff-1-skin-book-h480.jpg)
 
 일종의 소설이라고는 하지만, 엄밀히 말해서 원작은 소설이라고 하기 좀 그랬다.
 소설이라면 의당 갖추고 있어야 할 몇가지가 좀 부족했기 때문이다.

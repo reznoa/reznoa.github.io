@@ -9,7 +9,7 @@ tags: [책, 소설, 델핀 베르톨롱, 권지현, 씨드북, 북카페 책과 
 '밤을 걷는 여자아이(Celle qui marche la nuit)'는
 한 소년의 기묘한 경험을 그린 소설이다.
 
-![표지](/images/celle-qui-marche-la-nuit-book-h480.jpg)
+![표지](/images/book/celle-qui-marche-la-nuit-book-h480.jpg)
 
 이야기는 대도시에 살던 소년이 가족 사정으로 한 시골마을로 이사하면서 시작한다.
 친구와도 헤어지고, 심지어 대도시 인프라라고 할만한 것들과도 멀어지게된 소년은

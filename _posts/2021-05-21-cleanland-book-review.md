@@ -9,7 +9,7 @@ tags: [책, 소설, SF, 팬데믹, 마틴 쇼이블레, 김완균, 라임, 리�
 '클린랜드(Cleanland)'는
 팬데믹을 소재로 한 SF 소설이다.
 
-![표지](/images/cleanland-book-h480.jpg)
+![표지](/images/book/cleanland-book-h480.jpg)
 
 팬데믹은 SF 소설에서 디스토피아의 계기로 흔히 차용하는 소재다.
 그래서 이 소설에서 그린 미래상도 그렇게 낯설고 신선하거나 하지는 않다.

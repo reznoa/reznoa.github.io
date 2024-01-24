@@ -9,7 +9,7 @@ tags: [책, 소설, 베라 스트레인지, 윤영, 라곰스쿨, 타인의취�
 '디즈니 기묘한 소원 4: 영원한 6학년(Disney Chills #3: Second Star to the Fright)'은
 디즈니 빌런을 등장시킨 새로운 이야기 시리즈 네번째 책이다.
 
-![표지](/images/disney-chills-3-second-star-to-the-fright-book-h480.jpg)
+![표지](/images/book/disney-chills-3-second-star-to-the-fright-book-h480.jpg)
 
 이번 소설의 빌런은 '후크 선장'으로,
 디즈니 애니메이션으로도 각색되어 만들어진 동화 '피터 팬'의 등장인물이다.

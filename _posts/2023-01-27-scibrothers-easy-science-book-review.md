@@ -8,7 +8,7 @@ tags: [책, 과학, 이과형, 유우종, 토네이도, 북카페 책과 콩나�
 '이과형의 만만한 과학책'은
 과학을 재미있게 풀어 이야기해주는 책이다.
 
-![표지](/images/scibrothers-easy-science-book-h480.jpg)
+![표지](/images/book/scibrothers-easy-science-book-h480.jpg)
 
 과학은 어렵다.
 왜냐하면, 그 내용 중 상당수가 직관적인 이해의 영역을 넘어서있기 때문이다.

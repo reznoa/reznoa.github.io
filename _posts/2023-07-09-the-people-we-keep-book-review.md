@@ -9,7 +9,7 @@ tags: [책, 소설, 가족, 엘리 라킨, 김현수, 문학사상, 컬처블룸
 '에이프릴은 노래한다(The People We Keep)'는
 가족에 대해 이야기하는 소설이다.
 
-![표지](/images/the-people-we-keep-book-h480.jpg)
+![표지](/images/book/the-people-we-keep-book-h480.jpg)
 
 '가족주의'라는 게 있다.
 혈연으로 맺어진 무리, 즉 가족이라는 단위를 특히 중요하게 생각하는 것이 기본이다.

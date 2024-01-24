@@ -8,7 +8,7 @@ tags: [책, 소설, 단편, 드라마원작, 웹툰원작, 강지영, 자음과�
 '살인자의 쇼핑목록'은
 일곱개의 단편을 담은 소설집이다.
 
-![표지](/images/the-killers-shopping-list-book-h480.jpg)
+![표지](/images/book/the-killers-shopping-list-book-h480.jpg)
 
 표제작이자 첫번째 소설인 '살인자의 쇼핑목록'은 굉장히 강렬하다.
 살인에 맞춰 쇼핑을 한다는 아이디어,

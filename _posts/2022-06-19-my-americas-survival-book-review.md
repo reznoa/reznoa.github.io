@@ -8,7 +8,7 @@ tags: [책, 소설, 청소년, 성장, 미국, 이민, 박생강, 스피리투�
 '나의 아메리카 생존기'는
 느닷없이 낯선 미국에 떨어진 청소년의 적응기를 그린 소설이다.
 
-![표지](/images/my-americas-survival-book-h480.jpg)
+![표지](/images/book/my-americas-survival-book-h480.jpg)
 
 대게 다른 나라에 가는 건 많은 준비 후에 이루어진다.
 가려는 곳에 대한 조사부터 어떤 말을 써야 할지 등등.

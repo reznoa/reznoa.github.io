@@ -9,7 +9,7 @@ tags: [책, 소설, 판타지, 멸종, 캐서린 애플게이트, 서현정, 가
 '엔들링 3: 오직 하나(Endling 3: The Only)'는
 엔들링 친구들의 모험을 그린 판타지 소설이다.
 
-![표지](/images/endling-3-the-only-book-h480.jpg)
+![표지](/images/book/endling-3-the-only-book-h480.jpg)
 
 먼저 드는 생각은 '이렇게 빨리?'라는 거였다.
 꽤 매력적인 세계를 만들어냈고

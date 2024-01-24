@@ -9,7 +9,7 @@ tags: [책, 소설, 시대소설, 조조 모예스, 이나경, 살림, 컬처블
 '별을 선사해준 사람(The Giver of Stars)'은
 미국의 이동 도서관 사업을 소재로 한 시대소설이다.
 
-![표지](/images/the-giver-of-stars-book-h480.jpg)
+![표지](/images/book/the-giver-of-stars-book-h480.jpg)
 
 1935~1943년 미국에서 시행한 '이동 도서관'은
 책을 살 수도 없고

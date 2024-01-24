@@ -9,7 +9,7 @@ tags: [책, 소설, 스릴러, 카르스텐 두세, 전은경, 세계사, 리뷰
 '명상 살인 2(Das Kind in mir will achtsam morden)'는
 독특한 살인마의 이야기를 그린 시리즈 2번째 책이다.
 
-![표지](/images/das-kind-in-mir-will-achtsam-morden-book-h480.jpg)
+![표지](/images/book/das-kind-in-mir-will-achtsam-morden-book-h480.jpg)
 
 이 소설의 주인공인 '비요른'은 꽤나 독특한 캐릭터다.
 명상과 살인이라는, 전혀 어울릴 것 같지 않은 두가지를 조합한 인물이기 때문이다.

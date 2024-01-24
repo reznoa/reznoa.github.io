@@ -9,7 +9,7 @@ tags: [책, 소설, 선협, 로맨스, 당칠, 문현선, 문학동네, 이북�
 '삼생삼세 보생연(三生三世 步生蓮)'은
 신과 인간의 이야기를 그린 선협 로맨스다.
 
-![표지](/images/san-sheng-san-shi-3-bu-sheng-lian-1-book-h480.jpg)
+![표지](/images/book/san-sheng-san-shi-3-bu-sheng-lian-1-book-h480.jpg)
 
 '보생연'은 '십리도화'로 물꼬를 튼 후 큰 인기를 얻어
 '침상서'에 이어 정식으로 발행되는 삼생삼세 세번째 시리즈다.

@@ -8,7 +8,7 @@ tags: [책, 다른그림찾기, 퍼즐, 예다움, 도서출판 큰그림, 북�
 '다른그림찾기: 화투'는
 화투 그림을 변형해 만든 놀이책이다.
 
-![표지](/images/find-the-differents-hwatu-book-h480.jpg)
+![표지](/images/book/find-the-differents-hwatu-book-h480.jpg)
 
 화투는 놀이용 카드의 하나다.
 당초 트럼프 카드를 이용한 놀이가

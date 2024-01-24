@@ -10,8 +10,8 @@ tags: [책, 소설, 판타지, E. S. 호버트, 팩토리나인, 쌤앤파커스
 예언의 주인공과 친구들의 모험을 그린 시리즈 2부다.
 
 <p class="center" markdown="1">
-![표지 1](/images/the-invisible-city-permaroot-2-part-1-book-h480.jpg)
-![표지 2](/images/the-invisible-city-permaroot-2-part-2-book-h480.jpg)
+![표지 1](/images/book/the-invisible-city-permaroot-2-part-1-book-h480.jpg)
+![표지 2](/images/book/the-invisible-city-permaroot-2-part-2-book-h480.jpg)
 </p>
 
 '1부 공중에 떠 있는 집'은 꽤나 준수한 판타지였다.

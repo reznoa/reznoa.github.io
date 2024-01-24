@@ -9,7 +9,7 @@ tags: [책, 그림책, 판타지, 니시노 아키히로, 노경실, 소미아�
 '약속의 시계탑(チックタック 約束の時計台)'은
 신기한 시계탑에 얽힌 이야기를 그린 그림책이다.
 
-![표지](/images/tick-tock-the-promised-clock-tower-picture-book-h480.jpg)
+![표지](/images/book/tick-tock-the-promised-clock-tower-picture-book-h480.jpg)
 
 마을 외각에 높게 서있는 시계탑은 오랫동안 11시 59분에 멈춘채 서있다.
 고장이 난 걸까.

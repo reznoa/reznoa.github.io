@@ -11,7 +11,7 @@ tags: [책, 소설, 우화, 이솝, 로버트 템플, 올리비아 템플, 최�
 '어른을 위한 이솝 우화 전집(Aesop: The Complete Fables)'은
 알려진 것 중 가장 완전한 전집에 가까운 이솝 우화집 중 하나다.
 
-![표지](/images/aesop-the-complete-fables-book-h480.jpg)
+![표지](/images/book/aesop-the-complete-fables-book-h480.jpg)
 
 옛날 이야기 중에서 빠지지 않는 것 중 하나가 이솝우화다.
 짧막한 이야기가 가볍게 보기도 좋을 뿐더러,

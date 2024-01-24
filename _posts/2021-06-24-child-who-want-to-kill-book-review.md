@@ -8,7 +8,7 @@ tags: [책, 소설, 청소년, 이꽃님, 우리학교, 리뷰어스 클럽, 서
 '죽이고 싶은 아이​'는
 청소년 범죄를 소재로 한 소설이다.
 
-![표지](/images/child-who-want-to-kill-book-h480.jpg)
+![표지](/images/book/child-who-want-to-kill-book-h480.jpg)
 
 
 

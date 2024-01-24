@@ -9,7 +9,7 @@ tags: [책, 만화, 성장, 젠 왕, 심연희, 보물창고, 북카페 책과 �
 '스타게이징(Stargazing)'은
 어린 소녀들의 성장을 그린 만화다.
 
-![표지](/images/stargazing-comic-book-h480.jpg)
+![표지](/images/book/stargazing-comic-book-h480.jpg)
 
 이야기는 '크리스틴'네 옆으로 '문'네 가족이 이사를 오면서 시작한다.
 크리스틴에게 문은 굉장히 특별한 존재다.

@@ -9,7 +9,7 @@ tags: [책, 소설, 아오야마 미치코, 권남희, 문예춘추사, 이북�
 '월요일의 말차 카페(月曜日の抹茶カフェ)'는
 특별한 말차 카페로부터 이어지는 이야기를 그린 연작 소설이다.
 
-![표지](/images/getsuyobi-no-maccha-cafe-book-h480.jpg)
+![표지](/images/book/getsuyobi-no-maccha-cafe-book-h480.jpg)
 
 저자의 전작 '[목요일에는 코코아를]({% post_url 2022-07-13-mokuyoubi-niwa-cocoa-wo-book-review %})'을 봤다면
 꽤나 반가울 만하다.

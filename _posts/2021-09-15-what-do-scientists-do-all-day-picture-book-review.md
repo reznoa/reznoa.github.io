@@ -10,7 +10,7 @@ tags: [책, 제인 윌셔, 매기 리, 손성화, 주니어RHK, 북카페 책과
 '과학자들은 하루 종일 어떤 일을 할까?(What Do Scientists Do All Day?)'는
 과학자들이 어떤 일을 하는지를 담은 그림책이다.
 
-![표지](/images/what-do-scientists-do-all-day-picture-book-h480.jpg)
+![표지](/images/book/what-do-scientists-do-all-day-picture-book-h480.jpg)
 
 이 책은 과학자들이 활약하는 다양한 공간을 하나씩 살펴보면서,
 각 장소에서는 어떤 사람들이 활동하고 있는지를 나열하고

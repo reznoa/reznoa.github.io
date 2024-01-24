@@ -8,7 +8,7 @@ tags: [책, 소설, 오수완, 나무옆의자, 북카페 책과 콩나무, 서�
 '지구인을 위한 축구 교실'은
 꽤 재미있게 볼만한 축구 드라마다.
 
-![표지](/images/soccer-class-for-earthlings-book-h480.jpg)
+![표지](/images/book/soccer-class-for-earthlings-book-h480.jpg)
 
 참 독특한 축구 소설이다.
 축구를 소재로 했고,

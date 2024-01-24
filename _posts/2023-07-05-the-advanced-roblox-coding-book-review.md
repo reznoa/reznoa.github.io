@@ -9,7 +9,7 @@ tags: [책, 프로그래밍, 로블록스, 게임, 히스 해스킨스, 노페�
 '로블록스 게임 스크립트로 코딩 입문하기(The Advanced Roblox Coding Book: An Unofficial Guide, Updated Edition)'는
 로블록스 코딩 입문에 적합한 책이다.
 
-![표지](/images/the-advanced-roblox-coding-book-h480.jpg)
+![표지](/images/book/the-advanced-roblox-coding-book-h480.jpg)
 
 로블록스는 오픈월드 게임이자, 샌드박스 게임으로
 세계를 자유롭게 꾸미고 그를 통해 새로운 놀이를 만들어 낼 수 있는

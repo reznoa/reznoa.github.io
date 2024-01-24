@@ -9,7 +9,7 @@ tags: [책, 소설, 청소년, 판타지, 키란 밀우드 하그레이브, 조�
 '잉크와 별의 소녀(The Girl of Ink and Stars)'는
 신화적 이야기를 나쁘지않게 재해석한 소설이다.
 
-![표지](/images/the-girl-of-ink-and-stars-book-h480.jpg)
+![표지](/images/book/the-girl-of-ink-and-stars-book-h480.jpg)
 
 일종의 판타지라고도 할 수 있겠다.
 신화적인 이야기를 소재로 사용하고,

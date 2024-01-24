@@ -9,7 +9,7 @@ tags: [책, 만화, 도감, SCP 재단, 올드스테어즈, 리뷰어스 클럽,
 [동명의 컨텐츠](http://ko.scp-wiki.net/)를 기반으로 한
 흥미로운 가상 캐릭터 도감 만화다.
 
-![표지](/images/scp-foundation-3-comic-book-h480.jpg)
+![표지](/images/book/scp-foundation-3-comic-book-h480.jpg)
 
 이 만화는 일종의 캐릭터 도감에 가깝다는 것이 장점이자 단점이다.
 

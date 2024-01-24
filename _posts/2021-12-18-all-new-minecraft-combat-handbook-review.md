@@ -8,7 +8,7 @@ tags: [책, 게임, 모장, 이주안, 영진닷컴, 북카페 책과 콩나무,
 '마인크래프트 전투 핸드북(All New Minecraft Combat Handbook)'은
 모험을 위해 꼭 필요한 크래프팅과 전투를 다룬 공식 가이드 북이다.
 
-![표지](/images/all-new-minecraft-combat-handbook-h480.jpg)
+![표지](/images/book/all-new-minecraft-combat-handbook-h480.jpg)
 
 모험은 마인크래프트의 가장 중요한 요소 중 하나다.
 마인크래프트에는 여러 지역이 있고,

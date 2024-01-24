@@ -9,7 +9,7 @@ tags: [책, 소설, 로맨스, 영화원작, 이와이 슌지, 권남희, 하빌
 '러브 레터(Love Letter)'는
 동명의 영화의 원작 소설이다.
 
-![표지](/images/love-letter-book-h480.jpg)
+![표지](/images/book/love-letter-book-h480.jpg)
 
 1995년 작 영화 러브레터는 한때 많은 사람들을 뒤흔들어 놓으며
 감독을 일약 거장의 자리에 오르게 해준 대단한 작품이었다.

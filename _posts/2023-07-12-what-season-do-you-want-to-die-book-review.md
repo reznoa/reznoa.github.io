@@ -8,7 +8,7 @@ tags: [책, 소설, 홍선기, 모모, 컬처블룸, 서평]
 '너는, 어느 계절에 죽고 싶어'는
 삶에 대한 메시지를 담은 소설이다.
 
-![표지](/images/what-season-do-you-want-to-die-book-h480.jpg)
+![표지](/images/book/what-season-do-you-want-to-die-book-h480.jpg)
 
 제목으로도 사용된 뭔가 있어보이는 대사로 시작하는 이 소설은,
 우연히 친구가 된 두 남자를 주축으로

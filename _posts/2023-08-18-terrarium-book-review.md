@@ -8,7 +8,7 @@ tags: [책, 소설, SF, 포스트 아포칼립스, 이아람, 북다, 북카페 
 '테라리움(Terrarium)'은
 인류멸망과 그 후를 그린 포스트 아포칼립스 소설이다.
 
-![표지](/images/terrarium-book-h480.jpg)
+![표지](/images/book/terrarium-book-h480.jpg)
 
 가장 좋았던 점은 이야기 전개가 꽤 매끄럽다는 거다.
 어린 소년을 주요 화자로 해서,

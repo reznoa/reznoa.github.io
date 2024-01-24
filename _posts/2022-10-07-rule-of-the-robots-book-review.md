@@ -9,7 +9,7 @@ tags: [책, 미래, 마틴 포드, 이윤진, 시크릿하우스, 북카페 책�
 '로봇의 지배: 인공지능은 어떻게 모든 것을 바꿔 놓았나(Rule of the Robots: How Artificial Intelligence Will Transform Everything)'는
 인공지능이 가져올 미래를 현실적으로 고찰해본 책이다.
 
-![표지](/images/rule-of-the-robots-book-h480.jpg)
+![표지](/images/book/rule-of-the-robots-book-h480.jpg)
 
 제목만 봤을 때는 조금 다른 것을 떠올렸을 수도 있다.
 로봇이라하면 어쨌든 완전히 격리되어 개성을 가질 수 있는 유일한 몸체를 가진 그 어떤 것이라고 상상하기 쉽기 때문이다.

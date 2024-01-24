@@ -9,7 +9,7 @@ tags: [책, 소설, 청소년, 안드리 바친스키, 이계순, 씨드북, 북
 '적막에 귀 기울일 때(140 децибелів тиші; 140 Decibels of Silence)'는
 장애인 아동의 이야기를 그린 소설이다.
 
-![표지](/images/140-detsybeliv-tyshi-book-h480.jpg)
+![표지](/images/book/140-detsybeliv-tyshi-book-h480.jpg)
 
 참 재수도 없지.
 딱히 잘못한 것도 없는데 오로지 남의 잘못에 잘못 휩쓸려 장애를 얻고

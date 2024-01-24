@@ -10,7 +10,7 @@ tags: [책, 만화, 그래픽노블, 늑대, 장 마르크 로셰트, 이자벨 
 '늑대(Le Loup)'는
 한 양치기와 늑대의 이야기를 그린 만화다.
 
-![표지](/images/le-loup-comic-book-h480.jpg)
+![표지](/images/book/le-loup-comic-book-h480.jpg)
 
 작가의 [전작]({% post_url 2021-07-28-ailefroide-altitude-3954-comic-book-review %})을 봤던 사람이라면
 의외로 익숙한 느낌이 들지도 모르겠다.

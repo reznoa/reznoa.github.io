@@ -10,7 +10,7 @@ tags: [책, 그림책, 매직렌즈, 제인 윌셔, 안드레스 로자노, 조�
 '놀라운 기계들(Marvelous Machines)'은
 다양한 기계들의 구조와 원리를 살펴볼 수 있는 그림책이다.
 
-![표지](/images/marvelous-machines-magic-lens-picture-book-h480.jpg)
+![표지](/images/book/marvelous-machines-magic-lens-picture-book-h480.jpg)
 
 그림책이라고 해서 단지 구조와 원리를 간략화하여 한장씩 담아내기만 한 건 아니다.
 거기에 '매직 렌즈'라는 것을 더해서 마치 X-레이로 속을 들여다 보는 것처럼 볼 수 있게 해 더 흥미롭게 볼 수 있도록 했다.

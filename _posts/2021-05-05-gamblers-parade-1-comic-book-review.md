@@ -10,7 +10,7 @@ tags: [책, 만화, 도박, 코다카 카즈타카, 아츠시 나카야마, 학�
 '갬블러즈 퍼레이드 1'은
 도박꾼들이 모이는 특별한 섬을 배경으로 한 만화다.
 
-![커버](/images/gamblers-parade-1-comic-book-h480.jpg)
+![커버](/images/book/gamblers-parade-1-comic-book-h480.jpg)
 
 갬블은 생각보다 만화로 만들기 좋은 소재다.
 이기고 지는 것에 따른 격차가 극적인데다,
@@ -23,7 +23,7 @@ tags: [책, 만화, 도박, 코다카 카즈타카, 아츠시 나카야마, 학�
 그런만큼 뒤에 만들어진 이 만화는 자기만의 개성을 갖추는 게 중요했는데,
 꽤나 판타지적인 설정과 연출로 그걸 나름 잘 갖추었다.
 
-![48p](/images/gamblers-parade-1-comic-book-p048.jpg)
+![48p](/images/book/gamblers-parade-1-comic-book-p048.jpg)
 
 세기말을 연상키시는 도박 무법지대 도박섬,
 도박과는 상극인 것처럼 보이는 불운체질,

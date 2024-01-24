@@ -9,7 +9,7 @@ tags: [책, 수학, 케이트 럭켓, 김수환, 하이픈, 북카페 책과 콩
 '가장 단순하게 수학을 말하다(Math Made Simple: A Complete Guide in Ten Easy Lessons)'는
 기본 수학 개념을 간락하게 정리한 책이다.
 
-![표지](/images/math-made-simple-book-h480.jpg)
+![표지](/images/book/math-made-simple-book-h480.jpg)
 
 이 책은 딱히 독자층을 한정적으로 설정하지 않았다.
 기초 산술이나 대수학을 알아야 한다거나,

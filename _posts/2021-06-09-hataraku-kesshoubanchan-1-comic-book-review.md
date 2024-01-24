@@ -10,7 +10,7 @@ tags: [책, 만화, 스핀오프, 코미디, 야스, 카키하라 유코, 시미
 '일하는 혈소판짱(はたらく血小板ちゃん)'은
 몸 속 세포를 의인화한 '시미즈 아카네(清水 茜)'의 만화 '일하는 세포(はたらく細胞)'의 혈소판을 주인공으로 한 스핀오프 만화다.
 
-![표지](/images/hataraku-kesshoubanchan-1-comic-book-h480.jpg)
+![표지](/images/book/hataraku-kesshoubanchan-1-comic-book-h480.jpg)
 
 개인적으로 '일하는 세포' 시리즈를 굉장히 좋게 봤다.
 몸 속을 하나의 세상으로 그리고
@@ -19,12 +19,12 @@ tags: [책, 만화, 스핀오프, 코미디, 야스, 카키하라 유코, 시미
 의학지식을 의외로 적절하게 (그러면서도 판타지스럽게) 재해석해 담아냈으며,
 무엇보다 세포들이 고군분투하며 살아가는 이야기가 만화로서도 꽤 재미있었기 때문이다.
 
-![4](/images/hataraku-kesshoubanchan-1-comic-book-p004.jpg)
+![4](/images/book/hataraku-kesshoubanchan-1-comic-book-p004.jpg)
 
 그래서 그 스핀오프인 이 만화도 상당히 기대를 하고 열었는데,
 결론부터 말하자면 기대하던 것과는 굉장히 다른 만화였다.
 
-![48](/images/hataraku-kesshoubanchan-1-comic-book-p048.jpg)
+![48](/images/book/hataraku-kesshoubanchan-1-comic-book-p048.jpg)
 
 이 만화는 띠지가 모든 것을 설명하는 그런 만화라고 할 수 있다.
 아무튼 귀여우니까 그린 만화랄까.

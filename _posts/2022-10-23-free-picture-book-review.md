@@ -9,7 +9,7 @@ tags: [책, 그림책, 바루, 김여진, 주니어RHK, 북카페 책과 콩나�
 '자유(Free)'는
 한 서커스단의 이야기를 그린 그림책이다.
 
-![표지](/images/free-picture-book-h480.jpg)
+![표지](/images/book/free-picture-book-h480.jpg)
 
 '새들의 서커스단'은 중요한 일정을 앞두고 있다.
 무려 대통령 앞에서 공연을 펼치게 된 것이다.

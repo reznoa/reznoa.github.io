@@ -9,7 +9,7 @@ tags: [책, 소설, 미스터리, 에드거 월리스, 양희경, 도서출판�
 '크림슨서클 살인사건(The Crimson Circle)'은
 의문의 범죄 집단의 비밀을 쫒는 미스터리 소설이다.
 
-![표지](/images/the-crimson-circle-book-h480.jpg)
+![표지](/images/book/the-crimson-circle-book-h480.jpg)
 
 소설 속 크림슨 서클은 도무지 정체를 알 수 없는 신비한 범죄집단이다.
 그들은 그들의 이름이자 상징이기도 한 진홍색 원을 통해 자신들을 드러내며

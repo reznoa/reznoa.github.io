@@ -8,7 +8,7 @@ tags: [책, 만화, 백룸, 하다Hada, 소담주니어, 소담출판사, 서평
 '하다tv의 백룸'은
 백룸을 소재로 한 만화다.
 
-![표지](/images/hadas-the-backrooms-comic-book-h480.jpg)
+![표지](/images/book/hadas-the-backrooms-comic-book-h480.jpg)
 
 '백룸(The Backrooms)'은 일종의 미궁류 도시전설이다.
 처음에는 '노클립(Noclip)'이라는 초자연적인 현상을 통해 이상한 공간에 갇혀버린다는 간단한 괴담같은 거였던 모양인데,

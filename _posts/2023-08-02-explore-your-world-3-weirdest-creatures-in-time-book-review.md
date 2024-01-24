@@ -11,7 +11,7 @@ tags: [책, 생물, 팀 플래너리, 엠마 플래너리, 모드 게슨, 천미
 '멸종 생물 대탐험(Explore Your World #3: Weirdest Creatures in Time)'은
 다양한 멸종 생물들에 대한 이야기를 담은 책이다.
 
-![표지](/images/explore-your-world-3-weirdest-creatures-in-time-book-h480.jpg)
+![표지](/images/book/explore-your-world-3-weirdest-creatures-in-time-book-h480.jpg)
 
 지금은 만나볼 수 없는, 과거에 살았던 생물을 멸종생물이라고 한다.
 이유는 여러가지가 있는데, 대게 급격한 환경변화를 가장 큰 이유로 꼽는다.

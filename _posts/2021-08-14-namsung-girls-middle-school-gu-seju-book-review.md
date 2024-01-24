@@ -8,7 +8,7 @@ tags: [책, 소설, 청소년, 양호문, 특별한서재, 북카페 책과 콩�
 '남성여중 구세주'는
 중2 소녀 넷의 우정을 그린 소설이다.
 
-![표지](/images/namsung-girls-middle-school-gu-seju-book-h480.jpg)
+![표지](/images/book/namsung-girls-middle-school-gu-seju-book-h480.jpg)
 
 '[중3 조은비]({% post_url 2018-02-01-third-grade-middle-school-student-jo-eunbi-book-review %})',
 '[공주 패밀리]({% post_url 2019-08-01-princess-family-book-review %})'에 이어

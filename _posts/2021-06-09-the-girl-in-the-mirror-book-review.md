@@ -9,7 +9,7 @@ tags: [책, 소설, 스릴러, 로즈 칼라일, 남명성, 해냄, 리뷰어스
 '걸 인 더 미러(The Girl in the Mirror)'는
 일란성 쌍둥이를 소재로 한 흥미로운 심리 스릴러 소설이다.
 
-![표지](/images/the-girl-in-the-mirror-book-h480.jpg)
+![표지](/images/book/the-girl-in-the-mirror-book-h480.jpg)
 
 자매인 '서머(Summer)'와 '아이리스(Iris)'는 그들의 부도들도 헷갈릴 정도로 똑 닮은 일란성 쌍둥이다.
 다만 특이한 게 있다면 보통 배아 단계에서부터 완전히 분리가 되는 일반적인 쌍둥이와 달리

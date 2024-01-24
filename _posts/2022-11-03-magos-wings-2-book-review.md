@@ -8,7 +8,7 @@ tags: [책, 소설, SF, 판타지, 동화, 창작동화, 김영주, 화요, 이�
 '마고의 날개 2: 안티 비크의 배후'는
 완성도가 아쉬운 SF 판타지 창작동화다.
 
-![표지](/images/magos-wings-2-book-h480.jpg)
+![표지](/images/book/magos-wings-2-book-h480.jpg)
 
 솔직히 [1권]({% post_url 2022-09-16-magos-wings-1-book-review %})은 그리 만족스럽지 않았는데
 세부 설정과 이야기, 그리고 그 전개가 좀 의문스럽거나 썩 마뜩지 않았기 때문이다.

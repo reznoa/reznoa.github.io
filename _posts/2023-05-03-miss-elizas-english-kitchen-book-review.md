@@ -9,7 +9,7 @@ tags: [책, 소설, 요리, 애너벨 앱스, 공경희, 소소의책, 컬처블
 '미스 일라이저의 영국 주방: 현대 요리책의 시초가 된 일라이저 액턴의 맛있는 인생(Miss Eliza's English Kitchen: A Novel of Victorian Cookery and Friendship)'는
 실존인물 일라이저 액턴을 소재로 한 소설이다.
 
-![표지](/images/miss-elizas-english-kitchen-book-h480.jpg)
+![표지](/images/book/miss-elizas-english-kitchen-book-h480.jpg)
 
 '현대 요리책의 시초'라는 문구는 자칫 잘못 읽힐 수도 있을 것 같다.
 언뜻, 그 이전에는 제대로 된 요리책이 없었다는 것처럼 들을 수도 있기 때문이다.

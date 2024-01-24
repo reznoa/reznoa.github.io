@@ -8,7 +8,7 @@ tags: [책, 시사, 이문현, 박윤수, 포르체, 이북카페, 서평]
 '지금 이 목소리를 듣는 것이 우리의 정의다'는
 226일간의 버닝썬 취재 기록을 담은 책이다.
 
-![표지](/images/burning-sun-scandal-226-days-report-book-h480.jpg)
+![표지](/images/book/burning-sun-scandal-226-days-report-book-h480.jpg)
 
 버닝썬 사건을 과연 모르는 사람이 있을까.
 그렇다고 주장하는 사람이 있다면, 적어도 그놈은 한국인이 아닐 것이다.

@@ -8,7 +8,7 @@ tags: [책, 소설, 판타지, 요괴, 동화, 창작동화, 정설아, 한상�
 '우리 집에 귀신이 산다 1'는
 설화와 고전을 새롭게 해석한 판타지 창작동화다.
 
-![표지](/images/ghosts-living-in-my-house-1-book-h480.jpg)
+![표지](/images/book/ghosts-living-in-my-house-1-book-h480.jpg)
 
 간단하게 설명하자면 동양풍 판타지, 소위 요괴물이라 할 수 있다.
 요괴물을 좋아한다면 많이 접해봤을 수도 있는,

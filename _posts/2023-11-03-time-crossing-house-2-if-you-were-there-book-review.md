@@ -8,7 +8,7 @@ tags: [책, 소설, 청소년, 김하연, 특별한서재, 북카페 책과 콩�
 '그곳에 네가 있어준다면'은
 시간을 건너는 집 시리즈 두번째 책이다.
 
-![표지](/images/time-crossing-house-2-if-you-were-there-book-h480.jpg)
+![표지](/images/book/time-crossing-house-2-if-you-were-there-book-h480.jpg)
 
 시간을 건너뛸 수 있는 신비한 집을 소재로,
 아이들의 고민과 갈등, 문제의 해소를 그렸던 [전작]({% post_url 2020-11-30-time-crossing-house-book-review %})은

@@ -10,7 +10,7 @@ tags: [책, 동화, 해방, 리베카 솔닛, 아서 래컴, 홍한별, 반비, 
 '해방자 신데렐라(Cinderella Liberator)'는
 익숙한 동화를 새로운 시각으로 다시 써낸 동화다.
 
-![표지](/images/cinderella-liberator-book-h480.jpg)
+![표지](/images/book/cinderella-liberator-book-h480.jpg)
 
 가장 유명한 동화 중 하나인 신데렐라는 꽤나 편향된 사고방식이 들어있는 동화다.
 신데렐라가 처한 상황도 그렇지만,

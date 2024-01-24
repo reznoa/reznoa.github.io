@@ -8,7 +8,7 @@ tags: [책, 소설, SF, 이설, 좋은땅, 이북카페, 서평]
 '베오녹스(Beo Nox)'는
 유전자 조작과 가상현실을 소재로 한 SF 소설이다.
 
-![표지](/images/beo-nox-book-h480.jpg)
+![표지](/images/book/beo-nox-book-h480.jpg)
 
 소설을 읽으며 처음 드는 생각은,
 저자가 자신의 이력을 잘 이용했다는 거다.

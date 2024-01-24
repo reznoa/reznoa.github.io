@@ -9,7 +9,7 @@ tags: [책, 소설, 프랑수아즈 사강, 최정수, 소담출판사, 서평]
 '한 달 후, 일 년 후(Dans un mois, dans un an)'는
 사랑과 삶에 대해 그린 소설이다.
 
-![표지](/images/dans-un-mois-dans-un-an-book-h480.jpg)
+![표지](/images/book/dans-un-mois-dans-un-an-book-h480.jpg)
 
 얼핏 보면 이 소설은 대단히 흥미 위주의 이야기를 그린 것처럼 보인다.
 무려 여덟명이나 되는 등장인물들이,

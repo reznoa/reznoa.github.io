@@ -9,7 +9,7 @@ tags: [책, 만화, 농구, 진 루엔 양, 조영학, 양희연, 우리학교, 
 '우리가 농구에 미치는 이유(Dragon Hoops)'는
 한 고등학교를 중심으로 농구 이야기를 잘 담아낸 만화다.
 
-![표지](/images/dragon-hoops-comic-book-h480.jpg)
+![표지](/images/book/dragon-hoops-comic-book-h480.jpg)
 
 '농구 만화'라고 하면 보통 잘 만들어진 가상의 드라마를 기대한다.
 설사 어느정도는 개인의 경험이 들어있기는 하겠지만,

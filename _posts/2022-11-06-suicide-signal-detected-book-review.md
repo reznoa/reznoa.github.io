@@ -8,7 +8,7 @@ tags: [책, 소설, SF, 시간여행, 정온샘, 팩토리나인, 쌤앤파커�
 '자살 신호가 감지되었습니다'는
 시간여행을 통해 자살을 막는 특별 TF 팀의 이야기를 그린 SF 소설이다.
 
-![표지](/images/suicide-signal-detected-book-h480.jpg)
+![표지](/images/book/suicide-signal-detected-book-h480.jpg)
 
 실로 여러가지 감정이 동시에 드는 소설이다.
 

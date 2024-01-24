@@ -9,7 +9,7 @@ tags: [책, 소설, 성장, 라자니 라로카, 김난령, 밝은미래, 북카
 '빨강, 하양 그리고 완전한 하나(Red, White, and Whole)'는
 한 이민자 2세 소녀의 성장을 그린 소설이다.
 
-![표지](/images/red-white-and-whole-book-h480.jpg)
+![표지](/images/book/red-white-and-whole-book-h480.jpg)
 
 먼저 눈에 들어오는 것은 독특한 서식이다.
 일반적인 소설과 달리 시처럼 쓰여졌기 때문이다.

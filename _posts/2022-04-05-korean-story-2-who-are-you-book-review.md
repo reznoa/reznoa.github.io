@@ -8,7 +8,7 @@ tags: [책, 인문학, 문화, 한국, 이어령, 파람북, 리뷰어스 클럽
 '너 누구니'는
 이어령의 한국인 이야기 두번째 책이다.
 
-![표지](/images/korean-story-2-who-are-you-book-h480.jpg)
+![표지](/images/book/korean-story-2-who-are-you-book-h480.jpg)
 
 이 책을 펼치는 사람에게는 어느 정도 의심하는 마음도 있었을 것이다.
 젓가락으로 과연 얼마나 이야기를 할 수 있을 것인가 하고 말이다.

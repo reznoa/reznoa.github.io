@@ -8,7 +8,7 @@ tags: [책, 소설, 청소년, 판타지, 박현숙, 북멘토, 바다로 간 �
 '1등급 상담실'은
 연애 문제에 대한 고민을 재미있게 풀어낸 소설이다.
 
-![표지](/images/first-class-consultation-room-book-h480.jpg)
+![표지](/images/book/first-class-consultation-room-book-h480.jpg)
 
 '구미호 식당' 시리즈로 유명한 저자는
 그간의 저서 경험을 통해 자기만의 소설풍을 나름 구축한 작가라고 할 수 있다.

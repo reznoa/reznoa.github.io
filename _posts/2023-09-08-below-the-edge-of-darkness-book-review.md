@@ -9,7 +9,7 @@ tags: [책, 생물, 에디스 위더, 김보영, 타인의사유, 북카페 책�
 '아무도 본 적 없던 바다: 해양생물학자의 경이로운 심해 생물 탐사기(Below The Edge of Darkness: A Memoir of Exploring Light and Life in the Deep Sea)'는
 심해 생물 탐사 이야기를 담은 책이다.
 
-![표지](/images/below-the-edge-of-darkness-book-h480.jpg)
+![표지](/images/book/below-the-edge-of-darkness-book-h480.jpg)
 
 과연 어떤 모습일까.
 가장 먼저 드는 생각은 그거다.

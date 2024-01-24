@@ -8,7 +8,7 @@ tags: [책, 의학, 박창범, MiD, 북카페 책과 콩나무, 서평]
 '더 알고 싶은 의학상식'은
 전문가가 비교적 검증된 정보를 바탕으로 건강에 관한 의문에 답을 주는 책이다.
 
-![표지](/images/medical-common-sense-what-you-want-to-know-more-book-h480.jpg)
+![표지](/images/book/medical-common-sense-what-you-want-to-know-more-book-h480.jpg)
 
 건강은 굉장히 뜨거운 이슈다.
 한때의 유행이나 특정 부류에게만 그런 것이 아니다.

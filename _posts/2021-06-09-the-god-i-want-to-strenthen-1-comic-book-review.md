@@ -9,7 +9,7 @@ tags: [책, 만화, 코미디, 운동, 린노 미키, 학산문화사, 오피니
 '내가 강하게 만들고 싶은 신(わたしが強くしたい神)'은
 쪽박 소설가와 기승전근력운동녀의 미친 캐미를 보여주는 만화다.
 
-![커버](/images/the-god-i-want-to-strenthen-1-comic-book-h480.jpg)
+![커버](/images/book/the-god-i-want-to-strenthen-1-comic-book-h480.jpg)
 
 제목만 봤을때는 현대를 배경으로 일어나는 일종의 판타지물이라고 생각했는데,
 한방 맞은 느낌도 든다.
@@ -19,11 +19,11 @@ tags: [책, 만화, 코미디, 운동, 린노 미키, 학산문화사, 오피니
 어쩌면 별 재미라곤 없을 소설가와 소녀의 만남을
 캐릭터에게 독특한 개성을 부여함으로써 기가막히게 살려냈다.
 
-![3](/images/the-god-i-want-to-strenthen-1-comic-book-p003.jpg)
+![3](/images/book/the-god-i-want-to-strenthen-1-comic-book-p003.jpg)
 
-![24](/images/the-god-i-want-to-strenthen-1-comic-book-p024.jpg)
+![24](/images/book/the-god-i-want-to-strenthen-1-comic-book-p024.jpg)
 
-![28](/images/the-god-i-want-to-strenthen-1-comic-book-p028.jpg)
+![28](/images/book/the-god-i-want-to-strenthen-1-comic-book-p028.jpg)
 
 만화는 소설가가 쉽게 넘어서기 힘든 한계라는 벽을 불행인지 다행인지 빨리 느끼게 된 한 쪽박 소설가가
 우연히 웬 이상한 여고생(아마)를 만나면서 시작한다.
@@ -42,7 +42,7 @@ tags: [책, 만화, 코미디, 운동, 린노 미키, 학산문화사, 오피니
 웃으며 만화를 즐길 수 있게 만든다.
 (스텝업 코미디가 뭔지는 모르겠지만.)
 
-![35](/images/the-god-i-want-to-strenthen-1-comic-book-p035.jpg)
+![35](/images/book/the-god-i-want-to-strenthen-1-comic-book-p035.jpg)
 
 단지 독특한 캐릭터와 황당한 상황만을 이용하는 코미디물이 아니라는 점도 좋았다.
 

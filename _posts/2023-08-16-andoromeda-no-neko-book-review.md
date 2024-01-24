@@ -9,7 +9,7 @@ tags: [책, 소설, 슈카와 미나토, 한수진, 소미미디어, 컬처블�
 '안드로메다의 고양이(アンドロメダの猫)'는
 완성도가 다소 아쉬운 사랑에 대한 이야기다.
 
-![표지](/images/andoromeda-no-neko-book-h480.jpg)
+![표지](/images/book/andoromeda-no-neko-book-h480.jpg)
 
 적당한 느와르물이라고 할 수 있겠다.
 

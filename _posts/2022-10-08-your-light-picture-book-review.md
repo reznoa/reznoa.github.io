@@ -8,7 +8,7 @@ tags: [책, 그림책, 강경수, 모든요일그림책, 북카페 책과 콩나
 '당신의 빛'은
 인간의 선함을 담아낸 그림책이다.
 
-![표지](/images/your-light-picture-book-h480.jpg)
+![표지](/images/book/your-light-picture-book-h480.jpg)
 
 옛날 종교화들을 보면 몇몇 사람들을 독특하게 표현한 것을 볼 수 있다.
 소위 후광이라고 하는 것을 그려넣었기 때문이다.

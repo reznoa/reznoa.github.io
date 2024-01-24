@@ -9,7 +9,7 @@ tags: [책, 만화, 바이러스, 사이레이, 이서연, 정민미디어, 북�
 '3분 만화 인류사 대모험(赛雷三分钟漫画人类简史)'는
 인류 진화의 역사를 가볍게 훑어보는 책이다.
 
-![표지](/images/sai-leis-3-minute-comics-human-evolution-comic-book-h480.jpg)
+![표지](/images/book/sai-leis-3-minute-comics-human-evolution-comic-book-h480.jpg)
 
 사이레이의 3분 만화 시리즈의 하나인 이 책은
 기존에 나왔던 시리즈와 동일한 장단점을 가진다.

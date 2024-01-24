@@ -10,8 +10,8 @@ tags: [책, 소설, 드라마원작, 판타지, 무협, 묘니, 메타노블, �
 장르 경계가 좀 모호한 무협 판타지다.
 
 <p class="center" markdown="1">
-![1권 표지](/images/ever-night-1-book-h480.jpg)
-![2권 표지](/images/ever-night-2-book-h480.jpg)
+![1권 표지](/images/book/ever-night-1-book-h480.jpg)
+![2권 표지](/images/book/ever-night-2-book-h480.jpg)
 </p>
 
 모호하다고는 하나,

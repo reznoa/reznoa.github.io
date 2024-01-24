@@ -9,7 +9,7 @@ tags: [책, 과학, 랜들 먼로, 이강환, 시공사, 북카페 책과 콩나
 '아주 위험한 과학책(What If? 2: Additional Serious Scientific Answers to Absurd Hypothetical Questions)'은
 엉뚱한 물음을 흥미롭게 과학적으로 풀어낸 책이다.
 
-![표지](/images/what-if-2-book-h480.jpg)
+![표지](/images/book/what-if-2-book-h480.jpg)
 
 이 책은 한국에서는 '위험한 과학책(What If?)', '더 위험한 과학책(How To)'에 이어 세번째 시리즈로 출간되는 것이지만,
 원래는 '위험한 과학책'의 후속작으로 나온 놈이다.

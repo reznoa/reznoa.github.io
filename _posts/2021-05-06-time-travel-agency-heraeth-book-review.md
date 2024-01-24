@@ -8,7 +8,7 @@ tags: [책, 소설, 시간여행, 고호, 델피노, 북카페 책과 콩나무,
 '과거여행사 히라이스'는
 시간여행을 소재로한 옴니버스식 소설이다.
 
-![표지](/images/time-travel-agency-heraeth-book-h480.jpg)
+![표지](/images/book/time-travel-agency-heraeth-book-h480.jpg)
 
 소설은 시간여행이 완전히 정립되어서 그걸 비즈니스에 이용한다는 것을 기본 아이디어로 사용했다.
 이 익숙한 설정에 몇가지 변화를 줌으로써 저자는 소설만의 개성을 만들려고 한 듯한데,

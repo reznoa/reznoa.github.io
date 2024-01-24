@@ -8,7 +8,7 @@ tags: [책, 소설, 문화, 로맨스, 조영미, SISO, 리뷰어스 클럽, 서
 '샤를로테의 고백'은
 2000년대 젊은이들의 삶과 사랑을 그린 소설이다.
 
-![표지](/images/charlottes-confession-book-h480.jpg)
+![표지](/images/book/charlottes-confession-book-h480.jpg)
 
 2000년대 대학 막바지에 선 80년대생을 주연으로 한 이 소설은
 다분히 '응답하라'와 같은 옛 시절의 풍경과 문화를 떠오르게 하는 일종의 회고 소설이다.

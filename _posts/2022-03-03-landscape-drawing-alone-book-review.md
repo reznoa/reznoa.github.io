@@ -8,7 +8,7 @@ tags: [책, 미술, 이일선, 조혜림, 그림책방, 나 혼자 드로잉, �
 '나 혼자 풍경 드로잉'은
 혼자서 익히고 즐길 수 있는 풍경 드로잉 방법을 담은 책이다.
 
-![표지](/images/landscape-drawing-alone-book-h480.jpg)
+![표지](/images/book/landscape-drawing-alone-book-h480.jpg)
 
 드로잉 방법을 알려준다고는 하지만,
 그림을 막 처음 시작하는 사람도 도움이 될만큼

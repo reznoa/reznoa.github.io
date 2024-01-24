@@ -10,8 +10,8 @@ tags: [책, 소설, 판타지, 슈퍼히어로, 나탈리 지나 월쇼츠, 진�
 슈퍼히어로물을 재미있게 비튼 소설이다.
 
 <p class="center" markdown="1">
-![표지 1](/images/hench-part-1-book-h480.jpg)
-![표지 2](/images/hench-part-2-book-h480.jpg)
+![표지 1](/images/book/hench-part-1-book-h480.jpg)
+![표지 2](/images/book/hench-part-2-book-h480.jpg)
 </p>
 
 따지고 든다면 그리 신선한 이야기인 것은 아니다.

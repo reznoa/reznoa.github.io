@@ -9,7 +9,7 @@ tags: [책, 소설, 역사소설, 김주혜, 박소현, 다산책방, 다산북�
 '작은 땅의 야수들(Beasts of a Little Land)'은
 일제강점기에서부터 광복 이후까지를 그린 역사 소설이다.
 
-![표지](/images/beasts-of-a-little-land-book-h480.jpg)
+![표지](/images/book/beasts-of-a-little-land-book-h480.jpg)
 
 무려 1917에서부터 1965년까지 약 50여년의 시간동안의 이야기를 담고있는 이 소설은
 당시를 꽤나 잘 그려낸 역사소설이라고 할 수 있다.

@@ -8,7 +8,7 @@ tags: [책, 소설, 오컬트, 미스터리, 레이먼드 조, 김준호, 안타
 '소녀무녀 봄: 청동방울편'은
 꽤나 흥미로운 미스터리 오컬트 소설이다.
 
-![표지](/images/shaman-girl-spring-1-book-h480.jpg)
+![표지](/images/book/shaman-girl-spring-1-book-h480.jpg)
 
 이 소설은 꽤나 여러가지를 제대로 잘 갖추고 있다.
 

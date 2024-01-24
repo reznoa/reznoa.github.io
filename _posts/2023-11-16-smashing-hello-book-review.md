@@ -8,7 +8,7 @@ tags: [책, 소설, 전우진, 북다, 북카페 책과 콩나무, 서평]
 '후려치는 안녕'은
 독특한 상상력이 흥미로운 소설이다.
 
-![표지](/images/smashing-hello-book-h480.jpg)
+![표지](/images/book/smashing-hello-book-h480.jpg)
 
 소재가 꽤나 흥미롭다.
 따귀를 때리면 진실을 토해내게 한다거나

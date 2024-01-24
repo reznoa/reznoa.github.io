@@ -8,7 +8,7 @@ tags: [책, 만화, 학습만화, SCP 재단, Team. StoryG, 올드스테어즈, 
 '국어 잘하는 문해력 & SCP 재단'은
 문해력을 다룬 국어 잘하는 SCP 재단 시리즈 네번째 책이다.
 
-![표지](/images/good-at-korean-literacy-with-scp-foundation-comic-book-h480.jpg)
+![표지](/images/book/good-at-korean-literacy-with-scp-foundation-comic-book-h480.jpg)
 
 이 책은 굉장히 교과서적이라고 할 수 있다.
 보통의 문해력 교과 내용이 갖고 있는 특징이나 형태를 거의 그대로 사용했기 때문이다.

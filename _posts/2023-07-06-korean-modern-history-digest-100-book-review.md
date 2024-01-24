@@ -8,7 +8,7 @@ tags: [책, 역사, 한국, 김은식, 가란기획, 북카페 책과 콩나무,
 '한국현대사 다이제스트 100'은
 한국현대사를 간추려 담은 책이다.
 
-![표지](/images/korean-modern-history-digest-100-book-h480.jpg)
+![표지](/images/book/korean-modern-history-digest-100-book-h480.jpg)
 
 한국은 참~ 희한한 국가다.
 오래 전부터 형성되어 그 맥을 이어오기도 했지만,

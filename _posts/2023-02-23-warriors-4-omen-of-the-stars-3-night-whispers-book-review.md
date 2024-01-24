@@ -9,7 +9,7 @@ tags: [책, 소설, 에린 헌터, 서현정, 가람어린이, 북카페 책과 
 '전사들 4부 별들의 징조 3: 밤의 속삭임(Warriors: Omen of the Stars #3 Night Whispers)'는
 시리즈 4부 세번째 책이다.
 
-![표지](/images/warriors-4-omen-of-the-stars-3-night-whispers-book-h480.jpg)
+![표지](/images/book/warriors-4-omen-of-the-stars-3-night-whispers-book-h480.jpg)
 
 본격적으로 어둠의 숲과의 싸움 이야기가 전개되는 이번 책은,
 본격적인 싸움을 위한 사전작업을 하는 과정을 그린 것이라 할 수 있다.

@@ -8,7 +8,7 @@ tags: [책, 역사, 세계사, 김종근, EBS, 북카페 책과 콩나무, 서�
 '지도 위의 세계사'는
 지도를 통해 보는 세계사를 담은 책이다.
 
-![표지](/images/world-history-on-the-map-book-h480.jpg)
+![표지](/images/book/world-history-on-the-map-book-h480.jpg)
 
 우리는 흔히 지리정보를 얻기위해 지도를 본다.
 그 중에서도 특히 집중하는 것은 길이다.

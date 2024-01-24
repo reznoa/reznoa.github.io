@@ -9,7 +9,7 @@ tags: [책, 관용구, 카타리나 몽네메리, 안현모, 가디언, 이북�
 '마음을 전할 땐 스칸디나비아처럼: 은유와 재치로 가득한 세상(Cows on Ice and Owls in the Bog: The Weird and Wonderful World of Scandinavian Sayings)'는
 스칸디나비아의 독특한 표현들을 담은 책이다.
 
-![표지](/images/cows-on-ice-and-owls-in-the-bog-book-h480.jpg)
+![표지](/images/book/cows-on-ice-and-owls-in-the-bog-book-h480.jpg)
 
 이렇게 말하면 이런 의미인 것으로 하자고 정해두고 관용구는
 언어적은 특징은 물론 역사적인 유례나 문화에 따르는 것이 많기 때문에

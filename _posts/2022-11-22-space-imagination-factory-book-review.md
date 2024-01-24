@@ -8,7 +8,7 @@ tags: [책, 과학, 에세이, 권재술, 특별한서재, 컬처블룸, 서평]
 '우주, 상상력 공장'은
 우주의 시작부터 끝까지를 폭넓게 얘기해보는 과학 에세이다.
 
-![표지](/images/space-imagination-factory-book-h480.jpg)
+![표지](/images/book/space-imagination-factory-book-h480.jpg)
 
 뭘 기대하고 책을 집어들었느냐에 따라 다소 호불호가 갈릴만하다.
 이 책은 과학적인 지식을 깊게 파고들어가보는 그런 책은 아니기 때문이다.

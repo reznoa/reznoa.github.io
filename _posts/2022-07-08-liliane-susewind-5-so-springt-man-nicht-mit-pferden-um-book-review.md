@@ -9,7 +9,7 @@ tags: [책, 소설, 동화, 창작동화, 타냐 슈테브너, 코마가타, 박
 '동물과 말하는 아이 릴리 5: 바람처럼 달려, 스톰!(Liliane Susewind #5 So springt man nicht mit Pferden um)'는
 릴리 수제빈트 시리즈 다섯번째 책이다.
 
-![표지](/images/liliane-susewind-5-so-springt-man-nicht-mit-pferden-um-book-h480.jpg)
+![표지](/images/book/liliane-susewind-5-so-springt-man-nicht-mit-pferden-um-book-h480.jpg)
 
 이번 이야기의 주인공은 말이다.
 

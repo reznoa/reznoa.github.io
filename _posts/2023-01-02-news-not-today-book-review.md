@@ -9,8 +9,8 @@ tags: [책, 소설, 미스터리, 뉴럭이, 팩토리나인, 컬처블룸, 서�
 한 스캔들 살인사건을 시작으로 시작되는 이야기를 그린 소설이다.
 
 <p class="center" markdown="1">
-![표지 1](/images/news-not-today-1-book-h480.jpg)
-![표지 2](/images/news-not-today-2-book-h480.jpg)
+![표지 1](/images/book/news-not-today-1-book-h480.jpg)
+![표지 2](/images/book/news-not-today-2-book-h480.jpg)
 </p>
 
 기자가 사건을 파헤친다는 것은 꽤나 고전적이다.

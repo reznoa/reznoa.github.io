@@ -8,7 +8,7 @@ tags: [책, 생물, 송태준, 신지혜, 유아이북스, 북카페 책과 콩�
 '101가지 쿨하고 흥미진진한 동물 이야기'는
 여러 동물들의 신기한 생태를 재미있게 담은 책이다.
 
-![표지](/images/101-cool-and-exciting-animal-stories-book-h480.jpg)
+![표지](/images/book/101-cool-and-exciting-animal-stories-book-h480.jpg)
 
 이 책의 가장 큰 장점은 포맷이 아닌가 싶다.
 같은 내용이라도 그냥 일반적으로 담아냈다면 별로였을 수도 있는데,

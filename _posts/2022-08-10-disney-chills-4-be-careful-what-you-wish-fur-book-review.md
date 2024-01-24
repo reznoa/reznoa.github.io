@@ -11,7 +11,7 @@ tags: [책, 소설, 호러, 베라 스트레인지, 김미선, 라곰, 북카페
 
 [^1]: 원래는 네번째 책인데, 한국어판에선 후크선장을 등장시킨 세번째 책보다 빨리나와 세번째 책이 됐다.
 
-![표지](/images/disney-chills-4-be-careful-what-you-wish-fur-book-h480.jpg)
+![표지](/images/book/disney-chills-4-be-careful-what-you-wish-fur-book-h480.jpg)
 
 디즈니에는 많은 이야기가 있고,
 그만큼 많은 주인공과 빌런이 있다.

@@ -8,7 +8,7 @@ tags: [책, 육아, 현경철, 이훈, 도토리, 리뷰어스 클럽, 서평]
 '한방에 끝내는 육아'는
 한방의학 관점에서의 육아 팁에 담은 책이다.
 
-![표지](/images/one-shot-korean-medicine-parenting-book-h480.jpg)
+![표지](/images/book/one-shot-korean-medicine-parenting-book-h480.jpg)
 
 한방의학의 관점이라고는 하지만, 딱히 유별나거나 그런 것은 아니다.
 오히려 육아를 한번이라도 해본 사람이라면 많은 부분에서 공감할만한 부분도 많다.

@@ -9,7 +9,7 @@ tags: [책, 소설, 동화, 창작동화, 호러, 단편, R. L. 스타인, 이�
 '이해하면 오싹한 호러 컬렉션 1(Stinetinglers)'은
 흥미로운 상상력이 빛나는 호러 모음집이다.
 
-![표지](/images/stinetinglers-1-book-h480.jpg)
+![표지](/images/book/stinetinglers-1-book-h480.jpg)
 
 호러는 의외로 장르라기보다는 분위기에 더 가까운 편이다.
 결국 하려는 이야기는 호러 그 자체가 아닌 다른것인 경우가 많기 때문이다.

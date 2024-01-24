@@ -8,7 +8,7 @@ tags: [책, 만화, 신화, 메소포타미아 신화, SF, 멍개, 한빛비즈,
 '만화로 보는 수메르 신화'는
 수메르 신화를 지문위주의 만화 형식으로 담은 책이다.
 
-![표지](/images/meong-gae1s-sumerian-myth-comic-book-h480.jpg)
+![표지](/images/book/meong-gae1s-sumerian-myth-comic-book-h480.jpg)
 
 수메르 신화는 아카드, 아시리아, 바빌로니아의 신화와 한데 묶어 '메소포타미아 신화'로 분류하기도 한다만,
 다른 지역 신화의 뿌리가 수메르 신화에 있기 때문에

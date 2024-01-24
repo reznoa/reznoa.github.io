@@ -9,8 +9,8 @@ tags: [책, 대본집, 차해원, 너와숲, 문화충전200%, 서평]
 대학교 응원단을 배경으로 한 청춘들의 이야기를 그린 극본이다.
 
 <p class="center" markdown="1">
-![표지 1](/images/cheer-up-1-book-h480.jpg)
-![표지 2](/images/cheer-up-2-book-h480.jpg)
+![표지 1](/images/book/cheer-up-1-book-h480.jpg)
+![표지 2](/images/book/cheer-up-2-book-h480.jpg)
 </p>
 
 소재는 꽤 나쁘지 않다.

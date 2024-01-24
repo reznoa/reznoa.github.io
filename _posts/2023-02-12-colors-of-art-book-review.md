@@ -9,7 +9,7 @@ tags: [책, 미술, 클로이 애슈비, 김하니, 아르카디아, 북카페 �
 '컬러 오브 아트: 80점의 명화로 보는 색의 미술사(Colors of Art: The Story of Art in 80 Palettes)'는
 색을 주제로 미술과 미술사를 담아낸 책이다.
 
-![표지](/images/colors-of-art-book-h480.jpg)
+![표지](/images/book/colors-of-art-book-h480.jpg)
 
 대게 작품을 구분한다고 하면 작풍을 따르는 경우가 많다.
 단순히 시기별로 잘라 나누기엔 같은 방식이 계속된 경우도 있고,

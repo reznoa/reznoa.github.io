@@ -10,7 +10,7 @@ tags: [책, 종교, 제니퍼 글로솝, 존 만사, 강창훈, 책과함께어�
 '그림으로 보는 어린이 종교 사전(The Kids Book of World Religions)'은
 세계의 여러 종교들을 대표적인 그림들과 함께 알려주는 책이다.
 
-![표지](/images/the-kids-book-of-world-religions-book-h480.jpg)
+![표지](/images/book/the-kids-book-of-world-religions-book-h480.jpg)
 
 어린이를 위한 책이라는 점에서 알 수 있듯이
 이 책은 여러 종교들을 큰 그림에서 가볍게 훑고 지나간다.

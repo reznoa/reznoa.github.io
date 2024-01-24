@@ -9,7 +9,7 @@ tags: [책, 소설, 이민, 동화, 창작동화, 켈리 양, 이민희, 다산�
 '프런트 데스크(Front Desk)'는
 이민자 소녀의 이야기를 그린 시리즈 첫번째 책이다.
 
-![표지](/images/front-desk-book-h480.jpg)
+![표지](/images/book/front-desk-book-h480.jpg)
 
 자유! 얼마나 달콤한 말인가.
 그러나, 그 과실은 너무 과장된 측면이 있다.

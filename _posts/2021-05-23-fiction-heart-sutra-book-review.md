@@ -8,7 +8,7 @@ tags: [책, 소설, 불교, 혜범 스님, 문학세계사, 북카페 책과 콩
 '소설 반야심경'은
 반야심경을 주제로 한 소설이다.
 
-![표지](/images/fiction-heart-sutra-book-h480.jpg)
+![표지](/images/book/fiction-heart-sutra-book-h480.jpg)
 
 마하반야바라밀다심경, 줄여서 반야심경은
 대승불교의 진리를 압축해 담았다고 하는 불교의 대표 경전이다.

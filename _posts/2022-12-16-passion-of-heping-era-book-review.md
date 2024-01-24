@@ -9,8 +9,8 @@ tags: [책, 소설, 시대소설, 로맨스, 김혜량, 북레시피, 컬처블�
 북송 왕조 창업 백여년 쯤의 어느 시점을 배경으로 한 시대소설이다.
 
 <p class="center" markdown="1">
-![표지 1](/images/passion-of-heping-era-1-book-h480.jpg)
-![표지 2](/images/passion-of-heping-era-2-book-h480.jpg)
+![표지 1](/images/book/passion-of-heping-era-1-book-h480.jpg)
+![표지 2](/images/book/passion-of-heping-era-2-book-h480.jpg)
 </p>
 
 이 책은 송나라(조송)의 가상 황제 '조융'와 그 주변 사람을 주인공으로 한 시대소설이면서

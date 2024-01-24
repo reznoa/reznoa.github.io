@@ -10,7 +10,7 @@ tags: [책, 미술, 벤 스트리트, 제이 대니얼 라이트, 황유진, 북
 '내 멋대로 미술가(How to Be an Art Rebel)'는
 다양하고 흥미로운 미술의 세계를 쉽고 재미있게 소개하는 책이다.
 
-![표지](/images/how-to-be-an-art-rebel-book-h480.jpg)
+![표지](/images/book/how-to-be-an-art-rebel-book-h480.jpg)
 
 대부분의 예술이 그렇지만, 특히 미술은 더 어려운 감이 있다.
 인간과 함께 해왔다고 해도 좋을만큼 역사가 길다보니

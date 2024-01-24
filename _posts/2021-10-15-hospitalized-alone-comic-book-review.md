@@ -8,7 +8,7 @@ tags: [책, 만화, 사회, 의료, 코미디, 다드래기, 창비, 이북카�
 '혼자 입원했습니다'는
 수술 투병기를 담은 만화다.
 
-![표지](/images/hospitalized-alone-comic-book-h480.jpg)
+![표지](/images/book/hospitalized-alone-comic-book-h480.jpg)
 
 이 책은 딜리헙에서 '[얼렁뚱땅 병상일기](https://kr.dillyhub.com/home/daduregi/ddung)'란 이름으로 연재했던 것을 단행본으로 엮은 것이다.
 

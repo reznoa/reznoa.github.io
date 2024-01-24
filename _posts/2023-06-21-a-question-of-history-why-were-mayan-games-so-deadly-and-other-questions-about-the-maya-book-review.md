@@ -9,7 +9,7 @@ tags: [책, 역사, 마야, 팀 쿡, 이계순, 풀빛, 책세상맘수다, 서�
 '옥수수를 신으로 섬겼다고?(A Question of History: Why were Mayan games so deadly? and other questions about the Maya)'는
 마야 문명에 대한 이모저모를 담은 책이다.
 
-![표지](/images/a-question-of-history-why-were-mayan-games-so-deadly-and-other-questions-about-the-maya-book-h480.jpg)
+![표지](/images/book/a-question-of-history-why-were-mayan-games-so-deadly-and-other-questions-about-the-maya-book-h480.jpg)
 
 고대 문명은 아직 제대로 밝혀지지 않아서 신비롭게 여겨질 때가 많다.
 마야 문명도 그런 문명 중 하나다.

@@ -8,7 +8,7 @@ tags: [책, 소설, 단편, SF, 곽재식, 김상균, 박서련, 표국청, 앤�
 '메타버스의 유령'은
 메타버스를 소재로 한 단편집이다.
 
-![표지](/images/ghost-of-the-metaverse-book-h480.jpg)
+![표지](/images/book/ghost-of-the-metaverse-book-h480.jpg)
 
 수록작들은 소재의 특성상
 대부분이 근미래를 배경으로 한 SF적인 장르 성격을 띈다.

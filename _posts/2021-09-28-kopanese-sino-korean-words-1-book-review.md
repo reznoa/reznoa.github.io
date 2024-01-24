@@ -8,7 +8,7 @@ tags: [책, 어학, 일본어, 이빈, 하움출판사, 리뷰어스 클럽, 서
 '앙대 앙~대 코패니즈 한자어 1'은
 코패니즈 한자어를 주제로 올바른 일본어 번역에 대해 담은 책이다.
 
-![표지](/images/kopanese-sino-korean-words-1-book-h480.jpg)
+![표지](/images/book/kopanese-sino-korean-words-1-book-h480.jpg)
 
 한국과 일본은 한자 문화권이라는 공통점이 있다.
 대부분 같은 한자를 비슷한 용도로 사용한다는 말이다.

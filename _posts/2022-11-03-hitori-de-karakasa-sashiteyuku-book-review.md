@@ -9,7 +9,7 @@ tags: [책, 소설, 에쿠니 가오리, 신유희, 소담출판사, 서평]
 '혼자서 종이우산을 쓰고 가다(ひとりでカラカサさしてゆく)'는
 독특한 죽음과 연관된 사람들의 이야기를 담담하게 그려낸 소설이다.
 
-![표지](/images/hitori-de-karakasa-sashiteyuku-book-h480.jpg)
+![표지](/images/book/hitori-de-karakasa-sashiteyuku-book-h480.jpg)
 
 여기, 젊어서부터 친했던 세 노인이 있다.
 이들은 각자만의 이유로 생을 마감하기로 한다.

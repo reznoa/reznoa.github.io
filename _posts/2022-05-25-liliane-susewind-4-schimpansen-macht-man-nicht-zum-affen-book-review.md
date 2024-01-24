@@ -9,7 +9,7 @@ tags: [책, 소설, 동화, 창작동화, 타냐 슈테브너, 코마가타, 박
 '동물과 말하는 아이 릴리 4: 웃는 침팬지의 비밀(Liliane Susewind #4 Schimpansen macht man nicht zum Affen)'는
 릴리 수제빈트 시리즈 네번째 책이다.
 
-![표지](/images/liliane-susewind-4-schimpansen-macht-man-nicht-zum-affen-book-h480.jpg)
+![표지](/images/book/liliane-susewind-4-schimpansen-macht-man-nicht-zum-affen-book-h480.jpg)
 
 이번 이야기의 주인공은 기묘한 행동을 하는 침팬지다.
 

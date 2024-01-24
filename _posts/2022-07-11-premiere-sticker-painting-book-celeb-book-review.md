@@ -8,7 +8,7 @@ tags: [책, 스티커, 컬러링, 베이직북스, 리뷰어스 클럽, 서평]
 '프리미어 스티커 페인팅북: 셀럽'은
 스티커를 이용해 간단하게 컬러링을 할 수 있게 해주는 책이다.
 
-![표지](/images/premiere-sticker-painting-book-celeb-book-h480.jpg)
+![표지](/images/book/premiere-sticker-painting-book-celeb-book-h480.jpg)
 
 책에는 총 10명의 셀럽들의 모습을 담은 밑그림 바탕지와
 그것을 채울 수 있는 각 240여개의 스티커가 들어있다.

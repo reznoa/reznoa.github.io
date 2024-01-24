@@ -9,7 +9,7 @@ tags: [책, 역사, 고고학, 애널리 뉴위츠, 이재황, 책과함께, 북
 '도시는 왜 사라졌는가(Four Lost Cities: A Secret History of the Urban Age)'는
 사라진 도시들에 대한 탐사를 담은 책이다.
 
-![표지](/images/four-lost-cities-book-h480.jpg)
+![표지](/images/book/four-lost-cities-book-h480.jpg)
 
 일반인들이 보통 생각하는 '사라진 도시'는,
 뭔가 대단한 재난이나 엄청난 문제가 불시에 그것도 급격하게 닥쳐서

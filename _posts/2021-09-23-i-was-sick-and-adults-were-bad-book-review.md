@@ -8,7 +8,7 @@ tags: [책, 영화, 다양성영화, 에세이, 최재훈, 걷는사람, 북카�
 '나는 아팠고, 어른들은 나빴다'는
 한국의 다양성 영화를 살펴보는 영화 에세이다.
 
-![표지](/images/i-was-sick-and-adults-were-bad-book-h480.jpg)
+![표지](/images/book/i-was-sick-and-adults-were-bad-book-h480.jpg)
 
 저자는 처음부터 딱히 비평집 같은 건 아니라고 짚고 들어간다.
 이 책을 통해 영화에 대해 분석하거나

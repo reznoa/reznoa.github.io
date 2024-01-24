@@ -9,7 +9,7 @@ tags: [책, 사회, 페미니즘, 로이 F. 바우마이스터, 서은국, 신�
 '소모되는 남자: 남녀차에 대한 새로운 사회진화적 해석(Is There Anything Good About Men?: How Cultures Flourish by Exploiting Men)'는
 작금의 소위 페미니즘 시대, 여성우월 시대를 꿰뚫는 분석을 담은 책이다.
 
-![표지](/images/is-there-anything-good-about-men-book-h480.jpg)
+![표지](/images/book/is-there-anything-good-about-men-book-h480.jpg)
 
 현재는 좀 이상한 시대다.
 모순적인 시대라고 해도 되겠다.

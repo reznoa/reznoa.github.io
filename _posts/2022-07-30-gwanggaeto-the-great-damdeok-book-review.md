@@ -8,7 +8,7 @@ tags: [책, 소설, 역사, 고구려, 엄광용, 새움, 리뷰어스 클럽, �
 '광개토태왕 담덕 1: 순풍과 역풍'은
 고구려 광개토대왕의 이야기를 그린 역사 소설이다.
 
-![표지](/images/gwanggaeto-the-great-damdeok-book-h480.jpg)
+![표지](/images/book/gwanggaeto-the-great-damdeok-book-h480.jpg)
 
 광개토대왕에 대해서 모르는 사람은 없을거다.
 그만큼 워낙 유명하기도 하거니와,

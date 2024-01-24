@@ -8,7 +8,7 @@ tags: [책, 소설, 단편, 범유진, 이선, 정이담, 고블, 북카페 책�
 '앨리스 앤솔로지: 거울 나라 이야기'는
 '거울 나라의 앨리스'를 소재로 한 두번째 앨리스 앤솔로지다.
 
-![표지](/images/alice-anthology-2-looking-glass-story-book-h480.jpg)
+![표지](/images/book/alice-anthology-2-looking-glass-story-book-h480.jpg)
 
 '푸딩 살해 재판'은 앨리스의 세계가 달라진다면 어떻게 될까를 흥미롭게 담았다.
 추리 요소도 간단하지만 적절해서 꽤나 보는 맛이 있다.

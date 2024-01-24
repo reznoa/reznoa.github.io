@@ -9,7 +9,7 @@ tags: [책, 수학, 천융밍, 리우스위엔, 김지혜, 미디어숲, 다빈�
 '기발하고 신기한 수학의 재미: 하편(写给青少年的数学故事 (下): 几何妙想)'은
 수학을 좀 더 흥미롭게 접근할 수 있게 해주는 책이다.
 
-![표지](/images/math-stories-for-teens-2-geometry-ideas-book-h480.jpg)
+![표지](/images/book/math-stories-for-teens-2-geometry-ideas-book-h480.jpg)
 
 먼저 얘기하고 넘어가고 싶은 것은,
 이 책은 딱히 쉽게 읽을 수 있게 쓴 그런 책은 아니라는 거다.

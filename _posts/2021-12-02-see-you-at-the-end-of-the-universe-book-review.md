@@ -8,7 +8,7 @@ tags: [책, 소설, 가상현실, 안지숙, 문이당, 북카페 책과 콩나�
 '우주 끝에서 만나'는
 가상현실을 소재로 한 철학적인 소설이다.
 
-![표지](/images/see-you-at-the-end-of-the-universe-book-h480.jpg)
+![표지](/images/book/see-you-at-the-end-of-the-universe-book-h480.jpg)
 
 솔직히 썩 잘 읽히는 소설은 아니다.
 별로 친절하게 쓰여진 것은 아니기 때문이다.

@@ -8,7 +8,7 @@ tags: [책, 소설, SF, 코미디, 로맨스, 임유섬, 권혜원, 페퍼민트
 '지구에는 왜 왔니?'는
 지구환경 SF 로맨틱 코미디같은 소설이다.
 
-![표지](/images/why-did-you-come-to-earth-book-h480.jpg)
+![표지](/images/book/why-did-you-come-to-earth-book-h480.jpg)
 
 단지 초반 몇문장을 읽어보는 것만으로,
 이 소설이 무엇을 지향하고 있는지는 꽤나 분명하게 느껴진다.

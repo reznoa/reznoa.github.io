@@ -10,7 +10,7 @@ tags: [책, 그림책, 동화, 프란츠 카프카, 라리사 튤, 레베카 그
 '카프카와 인형(Kafka and the Doll)'은
 아이와 작가 사이의 잔잔하고 따뜻한 이야기를 그린 그림책이다.
 
-![표지](/images/kafka-and-the-doll-picture-book-h480.jpg)
+![표지](/images/book/kafka-and-the-doll-picture-book-h480.jpg)
 
 설사 작품을 읽지는 않은 사람일지라도
 '프란츠 카프카(Franz Kafka)'라는 작가의 이름을 모르는 사람은 없을 것이다.

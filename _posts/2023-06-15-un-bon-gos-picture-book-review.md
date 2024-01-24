@@ -9,7 +9,7 @@ tags: [책, 그림책, 동화, 철학, 패런 필립스, 김경연, 책세상어
 '착한 개?(Un bon gos)'는
 좋고 나쁨에 대해 생각해보게 하는 그림책이다.
 
-![표지](/images/un-bon-gos-picture-book-h480.jpg)
+![표지](/images/book/un-bon-gos-picture-book-h480.jpg)
 
 좋다는 건 무얼까.
 나쁘다는 건 또 무얼까.

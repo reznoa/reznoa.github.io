@@ -8,7 +8,7 @@ tags: [책, 술, 조정형, 조윤주, 다온북스, 북카페 책과 콩나무,
 '전통주 비법과 명인의 술'은
 전통주에 대한 개략과 그러한 식으로 만들어진 술 소개를 담은 책이다.
 
-![표지](/images/traditional-liquor-secrets-and-masters-liquors-book-h480.jpg)
+![표지](/images/book/traditional-liquor-secrets-and-masters-liquors-book-h480.jpg)
 
 술을 조금이라도 즐기는 사람이라면
 새로운 만이나 향을 느낄 수 있는 더 다양한 술들을 찾게되고

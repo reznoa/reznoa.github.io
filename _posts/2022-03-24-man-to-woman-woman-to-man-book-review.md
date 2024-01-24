@@ -8,7 +8,7 @@ tags: [책, 소설, 공도성, 이야기연구원, 북카페 책과 콩나무, �
 '남자는 여자에게 여자는 남자에게'는
 악에 대한 고찰을 담은 소설이다.
 
-![표지](/images/man-to-woman-woman-to-man-book-h480.jpg)
+![표지](/images/book/man-to-woman-woman-to-man-book-h480.jpg)
 
 다분히 특정한 목적을 두고 쓴 소설이다.
 그래서 중간 중간 다소 교과서나 철학서같은 얘기들도 자주 나오며,

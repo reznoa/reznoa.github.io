@@ -9,7 +9,7 @@ tags: [책, 여성학, 페미니즘, 캐서린 앤젤, 조고은, 중앙북스, 
 '내일의 섹스는 다시 좋아질 것이다(Tomorrow Sex Will Be Good Again)'
 여성의 섹스에 대한 네가지 고찰을 담은 책이다.
 
-![표지](/images/tomorrow-sex-will-be-good-again-book-h480.jpg)
+![표지](/images/book/tomorrow-sex-will-be-good-again-book-h480.jpg)
 
 현대는 가히 페미니즘의 시대라고할만큼
 적극적이고 공격적인 여성 운동과

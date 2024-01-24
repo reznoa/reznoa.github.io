@@ -9,7 +9,7 @@ tags: [책, 건강, 음식, 채식, 캐서린 맥과이어, 방진이, 황소걸
 '채식 클럽 회원증(Stuff Every Vegetarian Should Know)'은
 채식 입문자들을 위한 필수 지식들을 모은 안내서다.
 
-![표지](/images/stuff-every-vegetarian-should-know-book-h480.jpg)
+![표지](/images/book/stuff-every-vegetarian-should-know-book-h480.jpg)
 
 한국어판 제목이 재미있다.
 내용과도 그렇고 원제와도 역시 상당한 차이가 있는데,

@@ -8,7 +8,7 @@ tags: [책, 소설, 이영희, 델피노, 북카페 책과 콩나무, 서평]
 '감꽃 길 시골하우스'는
 시골 마을을 배경으로 한 인간 드라마다.
 
-![표지](/images/persimmon-flower-road-country-house-book-h480.jpg)
+![표지](/images/book/persimmon-flower-road-country-house-book-h480.jpg)
 
 어떻게 보면 전작 '그 모퉁이 집'의 후속작같은 느낌도 든다.
 꽃과 꽃말을 각 에피소드를 관통하는 요소로 사용한 것이

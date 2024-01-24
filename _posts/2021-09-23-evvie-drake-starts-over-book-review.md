@@ -9,7 +9,7 @@ tags: [책, 소설, 린다 홈즈, 이한이, 리프, 북카페 책과 콩나무
 '에비 드레이크, 다시 시작하다(Evvie Drake Starts Over)'는
 한 여성의 성장과 새출발을 그린 소설이다.
 
-![표지](/images/evvie-drake-starts-over-book-h480.jpg)
+![표지](/images/book/evvie-drake-starts-over-book-h480.jpg)
 
 행복하지 않은 결혼으로부터 도망가고 싶었던 한 여성이
 다시 자신을 찾고 새출발을 향해 나아가는 이야기를 그린 이 소설은

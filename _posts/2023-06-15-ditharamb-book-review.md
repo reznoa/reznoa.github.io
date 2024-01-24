@@ -8,7 +8,7 @@ tags: [책, 소설, SF, 전현규, 메타, 북카페 책과 콩나무, 서평]
 '디타람브(DITHARAMB)'는
 가상 현실을 소재로 한 SF 소설이다.
 
-![표지](/images/ditharamb-book-h480.jpg)
+![표지](/images/book/ditharamb-book-h480.jpg)
 
 '디타람브(DITHARAMB)'란 단어는 인터넷에서도 찾기 어렵다.
 그나마 비슷한 것은 디오니소스의 별명이기도 한 디티람보스(διθύραμβος; dithyrambos; dithyramb)라는

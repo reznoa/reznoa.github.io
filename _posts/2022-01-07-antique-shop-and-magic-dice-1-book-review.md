@@ -8,7 +8,7 @@ tags: [책, 소설, 동화, 창작동화, 판타지, 시간여행, 역사, 정�
 '골동품 가게와 마법 주사위 1'은
 우연히 휘말리게 된 과거 기행담을 그린 소설이다.
 
-![표지](/images/antique-shop-and-magic-dice-1-book-h480.jpg)
+![표지](/images/book/antique-shop-and-magic-dice-1-book-h480.jpg)
 
 언제고 이 얘기는 꼭 털어놓고 싶었다.
 소위 '교과 연계'라는 책들은 정말이지 별로라는 걸 말이다.

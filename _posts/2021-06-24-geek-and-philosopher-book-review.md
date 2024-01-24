@@ -9,7 +9,7 @@ tags: [책, 철학, 차민주, 자음과모음, 북카페 책과 콩나무, 서�
 덕질을 서양 현대 철학으로 분석하고,
 덕질로 서양 현대 철학을 이해할 수 있게 풀이한 책이다.
 
-![표지](/images/geek-and-philosopher-book-h480.jpg)
+![표지](/images/book/geek-and-philosopher-book-h480.jpg)
 
 제목만 보면 상당히 가벼운 책처럼 보인다.
 덕질이란 게 워낙에 그런 이미지가 있어서,

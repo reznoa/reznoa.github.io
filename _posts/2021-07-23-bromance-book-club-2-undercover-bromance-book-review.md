@@ -9,7 +9,7 @@ tags: [책, 소설, 로맨스, 페미니즘, 리사 케이 애덤스, 최설희,
 '언더커버 브로맨스(Undercover Bromance)'는
 로맨스 소설을 읽는 남자라는 나름 독특한 소재를 이용한 '브로맨스 북클럽'의 후속작이다.
 
-![표지](/images/bromance-book-club-2-undercover-bromance-book-h480.jpg)
+![표지](/images/book/bromance-book-club-2-undercover-bromance-book-h480.jpg)
 
 이 소설이 어떤 소설인지 별 다른 정보 없이 읽기 시작했다면 조금 당황스러울 수도 있다.
 기대했던 것과는 다를 수 있기 때문이다.

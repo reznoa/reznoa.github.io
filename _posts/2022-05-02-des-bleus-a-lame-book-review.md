@@ -9,7 +9,7 @@ tags: [책, 소설, 프랑수아즈 사강, 권지현, 소담출판사, 서평]
 '마음의 푸른 상흔(Des bleus à l'âme)'는
 한 남매의 이야기와 한 작가의 에세이를 담은 소설이다.
 
-![표지](/images/des-bleus-a-lame-book-h480.jpg)
+![표지](/images/book/des-bleus-a-lame-book-h480.jpg)
 
 소설은 꽤나 독특한 형식을 하고 있다.
 남매를 중심으로 하는 이야기를 들려주는 한편,

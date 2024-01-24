@@ -9,7 +9,7 @@ tags: [책, 에세이, 프랑수아즈 사강, 최정수, 소담출판사, 서�
 '고통과 환희의 순간들(Avec mon meilleur souvenir)'은
 저자 자신의 이야기 일부를 담아낸 에세이다.
 
-![표지](/images/avec-mon-meilleur-souvenir-book-h480.jpg)
+![표지](/images/book/avec-mon-meilleur-souvenir-book-h480.jpg)
 
 제목을 참 잘 붙였다.
 과거의 어느 한 때를 회상하는 식으로 쓰인 이야기들은,

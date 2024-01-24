@@ -8,7 +8,7 @@ tags: [책, 소설, 미스터리, 잠뜰TV, 한바리, 루체, 서울문화사, 
 '블라인드 7: 서바이벌 게임 살인사건'은
 동명의 방송 컨텐츠를 소설화한 시리즈 일곱번째 책이다.
 
-![표지](/images/sleepground-blind-7-book-h480.jpg)
+![표지](/images/book/sleepground-blind-7-book-h480.jpg)
 
 원작이 게임처럼 진행되는 컨텐츠였다보니,
 배경이나 인물 설정 등은 보통의 이야기같으면서도

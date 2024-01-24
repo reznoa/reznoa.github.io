@@ -9,7 +9,7 @@ tags: [책, 소설, 드라마원작, 스릴러, 인디언, 마약, 안젤린 불
 '파이어키퍼의 딸(Firekeeper's Daughter)'은
 한 인디언 공동체에서 벌어진 사건을 그린 소설이다.
 
-![표지](/images/firekeepers-daughter-book-h480.jpg)
+![표지](/images/book/firekeepers-daughter-book-h480.jpg)
 
 책을 열면 좀 놀라게 된다.
 이런 책은 새삼 오랫만이기 때문이다.

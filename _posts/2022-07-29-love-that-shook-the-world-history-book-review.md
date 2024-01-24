@@ -8,7 +8,7 @@ tags: [책, 역사, 수다몽, 북스고, 이북카페, 서평]
 '어쩌면 당신이 원했던 세계사를 흔든 사랑'은
 세계사 속 흥미로운 사랑 이야기를 담은 책이다.
 
-![표지](/images/love-that-shook-the-world-history-book-h480.jpg)
+![표지](/images/book/love-that-shook-the-world-history-book-h480.jpg)
 
 많은 사람들이 겪고 노래하고 규정하며 탐구도 해 보았지만
 여전히 무엇인지 똑 부러지게 얘기할 수 없는 게 사랑이다.

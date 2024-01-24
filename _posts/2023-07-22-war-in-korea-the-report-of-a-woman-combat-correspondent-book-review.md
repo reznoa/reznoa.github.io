@@ -9,7 +9,7 @@ tags: [책, 역사, 한국전쟁, 마거리트 히긴스, 이현표, 코러스, 
 '한국에 가혹했던 전쟁과 휴전(War in Korea: The Report of a Woman Combat Correspondent)'은
 한국 전쟁 경험을 담은 책이다.
 
-![표지](/images/war-in-korea-the-report-of-a-woman-combat-correspondent-book-h480.jpg)
+![표지](/images/book/war-in-korea-the-report-of-a-woman-combat-correspondent-book-h480.jpg)
 
 종군 기자 중 하나로써
 한국 전쟁의 여러 면모들을 중개했었던 저자가

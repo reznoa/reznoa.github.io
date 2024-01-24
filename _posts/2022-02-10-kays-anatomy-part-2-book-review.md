@@ -10,7 +10,7 @@ tags: [책, 생물, 해부학, 애덤 케이, 헨리 파커, 박아람, 남궁�
 '닥터 K의 이상한 해부학 실험실 2(Kay’s Anatomy)'는
 우리 몸의 이모저모를 쉽고 재미있게 살펴볼 수 있게 만든 책이다.
 
-![표지](/images/kays-anatomy-part-2-book-h480.jpg)
+![표지](/images/book/kays-anatomy-part-2-book-h480.jpg)
 
 아이들을 위한 책이라고?
 생물, 그 중에서도 복잡한 내부 장기들에 대해 다루는 해부학은 워낙에 어렵다는 인상이 있기 때문에

@@ -9,7 +9,7 @@ tags: [책, 과학, 마이 티 응우옌 킴, 배명자, 한국경제신문, 이
 '세상은 온통 과학이야: 의심스러운 사회를 읽는 과학자의 정밀 확대경(Die kleinste gemeinsame Wirklichkeit: Wahr, falsch, plausibel - die größten Streitfragen wissenschaftlich geprüft)'은
 과학 사용의 문제점과 그를 대하는 방식에 대해 얘기하는 책이다.
 
-![표지](/images/die-kleinste-gemeinsame-wirklichkeit-book-h480.jpg)
+![표지](/images/book/die-kleinste-gemeinsame-wirklichkeit-book-h480.jpg)
 
 솔직히 제목은 좀 이상해 보인다.
 부제하고도 썩 어울리지 않는데다,

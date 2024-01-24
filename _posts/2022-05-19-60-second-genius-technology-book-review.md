@@ -9,7 +9,7 @@ tags: [책, 과학, 존 리차드, 서지희, 스푼북, 북카페 책과 콩나
 '매일 똑똑해지는 1분: 기술(60-Second Genius - Technology)'은
 여러가지 기술들에 대해 가볍게 훑어볼 수 있게 정리한 책이다.
 
-![표지](/images/60-second-genius-technology-book-h480.jpg)
+![표지](/images/book/60-second-genius-technology-book-h480.jpg)
 
 '매일 똑똑해지는 1분' 시리즈는,
 하루에 한 주제씩 각각 1분만 투자해도

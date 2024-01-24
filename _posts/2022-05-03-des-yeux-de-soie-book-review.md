@@ -9,7 +9,7 @@ tags: [책, 소설, 단편, 프랑수아즈 사강, 권지현, 소담출판사, 
 '길모퉁이 카페(Des yeux de soie)'는
 이별을 주제로 한 열아홉 개의 단편을 담은 소설집이다.
 
-![표지](/images/des-yeux-de-soie-book-h480.jpg)
+![표지](/images/book/des-yeux-de-soie-book-h480.jpg)
 
 다양한 배경, 다양한 인물들을 통해 그린 이야기는
 다양한 이별과 생각, 감정을 보여준다.

@@ -9,7 +9,7 @@ tags: [책, 소설, 스미노 요루, 이소담, 소미미디어, 북카페 책�
 '배를 가르면 피가 나올 뿐이야(腹を割ったら血が出るだけさ)'는
 독특한 청춘들의 이야기를 그린 소설이다.
 
-![표지](/images/harao-wattara-chiga-deru-dakesa-book-h480.jpg)
+![표지](/images/book/harao-wattara-chiga-deru-dakesa-book-h480.jpg)
 
 제목이 참 독특하다.
 하긴, 무려 고등학생 때 썼다는 데뷔작부터가 좀 그랬다.

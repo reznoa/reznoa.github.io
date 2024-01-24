@@ -9,23 +9,23 @@ published: false
 '에코앤컴퍼니 워셔코인'은
 물과 섞어 간단하게 워셔액을 만들어낼 수 있는 고체형 제품이다.
 
-![택배/패키지](/images/washer-coin-review-01.jpg)
+![택배/패키지](/images/review/washer-coin-review-01.jpg)
 
-![표기](/images/washer-coin-review-02.jpg)
+![표기](/images/review/washer-coin-review-02.jpg)
 
 제품은 작은 박스에 1개씩 개별포장된 워셔코인이 10개 들어있는 단촐한 구성으로 되어있다.
 사용법이 간단하므로 박스 뒷면 내용 외에 별도의 설명서도 없다.
 
-![오픈](/images/washer-coin-review-03.jpg)
+![오픈](/images/review/washer-coin-review-03.jpg)
 
-![개별포장](/images/washer-coin-review-04.jpg)
+![개별포장](/images/review/washer-coin-review-04.jpg)
 
 제품을 까보면 푸른색을 띈 코인 형태의 알약 같은 것이 나오는데,
 이 코인이 물과 만나 워셔액을 만들어내는 워셔코인이다.
 
-![제품 1](/images/washer-coin-review-05.jpg)
+![제품 1](/images/review/washer-coin-review-05.jpg)
 
-![제품 2](/images/washer-coin-review-06.jpg)
+![제품 2](/images/review/washer-coin-review-06.jpg)
 
 워셔코인은 레몬산, 탄산나트륨, 색소 등으로 이뤄져 있으며,
 성분이 이렇다보니 당연히 메탄올 문제 같은 것도 없다.
@@ -37,19 +37,19 @@ published: false
 그러므로 이 제품은 주로 하절기 동안에만 사용하고
 동절기에는 그냥 기성제품을 사용하는 것이 나을 수 있다.
 
-![비닐팩 1](/images/washer-coin-review-07.jpg)
+![비닐팩 1](/images/review/washer-coin-review-07.jpg)
 
-![비닐팩 2](/images/washer-coin-review-08.jpg)
+![비닐팩 2](/images/review/washer-coin-review-08.jpg)
 
 함께 구매할 수 있는 비닐팩은 위쪽에 이동 편의를 위한 손잡이가 달려있고,
 위쪽 한쪽에는 일반적인 물통 크기의 입구가 나있는 형태다.
 워셔코인은 물통입구보다 작게 만들어졌기 때문에 비닐팩 안에 쉽게 들어간다.
 
-![워셔액 만들기 1](/images/washer-coin-review-09.jpg)
+![워셔액 만들기 1](/images/review/washer-coin-review-09.jpg)
 
-![워셔액 만들기 2](/images/washer-coin-review-10.jpg)
+![워셔액 만들기 2](/images/review/washer-coin-review-10.jpg)
 
-![워셔액 만들기 3](/images/washer-coin-review-11.jpg)
+![워셔액 만들기 3](/images/review/washer-coin-review-11.jpg)
 
 사용법은 간단하다.
 물통 등에 코인을 넣고 4L 정도의 물을 넣기만 하면 된다.
@@ -61,9 +61,9 @@ published: false
 비닐팩을 사용한 경우에는 넣은 다음에도 충분히 손으로 만져 부스러뜨릴 수 있으므로
 바닥에 가라앉은 코인을 확인하고 적당히 자극을 가해주면 된다.
 
-![워셔액 만들기 4](/images/washer-coin-review-12.jpg)
+![워셔액 만들기 4](/images/review/washer-coin-review-12.jpg)
 
-![워셔액 만들기 5](/images/washer-coin-review-13.jpg)
+![워셔액 만들기 5](/images/review/washer-coin-review-13.jpg)
 
 비닐팩은 접을 수 있는 얇은 비닐로 만들어졌지만
 무려 5L에 가까운 물을 넣어도 충분히 버틸정도로 튼튼하게 만들어졌다.
@@ -73,9 +73,9 @@ published: false
 자칫 비닐팩을 모두 채워 옅은 워셔액을 만들기 쉽다.
 비닐팩은 몸체가 전부 비닐로 되어있기 때문에 따를 때 흘리기 쉽기도 하다.
 
-![이동](/images/washer-coin-review-15.jpg)
+![이동](/images/review/washer-coin-review-15.jpg)
 
-![사용](/images/washer-coin-review-16.jpg)
+![사용](/images/review/washer-coin-review-16.jpg)
 
 워셔액이 대부분 물로 이뤄져 있다는 것에서 착안해
 핵심 성분을 물에 녹여쓰는 코인 형태로 만들어
@@ -88,7 +88,7 @@ published: false
 단지 코인만 더 작게 만들기만해도 일반 생수통을 활용할 수 있었을 것이라 더 그렇다.
 생수통을 활용할 수 있다면 만든 후 별도의 용기에 옮기거나 깔대를 쓰지 않고도 쉽게 따를 수 있었을 것이다.
 
-![생수통](/images/washer-coin-review-14.jpg)
+![생수통](/images/review/washer-coin-review-14.jpg)
 
 또 1개씩 개별 포장을 할 거라면 굳이 코인형태로 만들 필요가 있었나 싶기도 하다.
 잘 녹게하기 위해서 쉽게 바스러지게 만들었는데,

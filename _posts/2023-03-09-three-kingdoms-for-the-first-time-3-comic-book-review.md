@@ -8,7 +8,7 @@ tags: [책, 만화, 삼국지, Team Story G, 올드스테어즈, 컬처블룸, �
 '처음 읽는 삼국지 3'는
 만화로 그린 요약판 삼국지 마지막권이다.
 
-![표지](/images/three-kingdoms-for-the-first-time-3-comic-book-h480.jpg)
+![표지](/images/book/three-kingdoms-for-the-first-time-3-comic-book-h480.jpg)
 
 가장 팔리고 또 읽힌 책은 당연 기독교 성경이라고 한다.
 가장 널리 퍼진 종교인데다,

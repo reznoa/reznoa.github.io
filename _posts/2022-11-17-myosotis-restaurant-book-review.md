@@ -8,7 +8,7 @@ tags: [책, 소설, 청예, 팩토리나인, 쌤앤파커스, 리디북스, K-�
 '마음을 치료하는 당신만의 물망초 식당'은
 편식을 고쳐주는 독특한 컨셉 식당 이야기를 그린 소설이다.
 
-![표지](/images/myosotis-restaurant-book-h480.jpg)
+![표지](/images/book/myosotis-restaurant-book-h480.jpg)
 
 '물망초 식당'은
 음식과 관련된 트라우마 때문에 편식을 가지게 된 사람들의 신청을 받아서,

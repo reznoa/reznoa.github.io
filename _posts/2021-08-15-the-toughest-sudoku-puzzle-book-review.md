@@ -10,7 +10,7 @@ tags: [책, 퍼즐, 스도쿠, 크리스티나 스미스, 릭 스미스, 보누�
 '슈퍼 스도쿠 익스트림(The Toughest Sudoku Puzzle Book)'은
 여러 난이도와 변형 스도쿠와 풀이법을 담은 퍼즐책이다.
 
-![표지](/images/the-toughest-sudoku-puzzle-book-h480.jpg)
+![표지](/images/book/the-toughest-sudoku-puzzle-book-h480.jpg)
 
 스도쿠는 기본 규칙이 간단해서 누구나 쉽게 접하고 도전하는 퍼즐이다.
 그래서 많은 퍼즐들이 인터넷 등으로 공개되기도 하고 책으로 나오기도 했는데,

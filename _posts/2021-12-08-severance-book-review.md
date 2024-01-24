@@ -9,7 +9,7 @@ tags: [책, 소설, 좀비, 아포칼립스, 링 마, 양미래, 황금가지, �
 '단절(Severance)'은
 신종 질병으로 닥친 종말을 한 이민자 여성의 시선에서 그려낸 소설이다.
 
-![표지](/images/severance-book-h480.jpg)
+![표지](/images/book/severance-book-h480.jpg)
 
 일종의 아포칼립스,
 그 중에서도 좀비 아포칼립스라 할 만하다.

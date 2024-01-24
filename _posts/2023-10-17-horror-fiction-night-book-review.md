@@ -8,7 +8,7 @@ tags: [책, 소설, 호러, 단편, 반고훈, 고즈넉이엔티, 북카페 책
 '호러 픽션 나이트(Horror Fiction Night)'는
 호러같으면서 또 호러같지 않은 호러 소설집이다.
 
-![표지](/images/horror-fiction-night-book-h480.jpg)
+![표지](/images/book/horror-fiction-night-book-h480.jpg)
 
 다양한 장르의 소설을 써온 작가의
 호러, 미스터리 소설을 모은 소설집이라는데

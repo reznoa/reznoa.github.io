@@ -9,7 +9,7 @@ tags: [책, 소설, 전쟁, 제2차 세계 대전, 저격수, 아이사카 토�
 '소녀 동지여, 적을 쏴라(同志少女よ、敵を撃て)'는
 여성 저격수를 소재로 한 소설이다.
 
-![표지](/images/doushi-shojo-yo-teki-wo-ute-book-h480.jpg)
+![표지](/images/book/doushi-shojo-yo-teki-wo-ute-book-h480.jpg)
 
 얼핏 최신 유행인 페미니즘 소설인 것 같은 제목이지만,
 독소전쟁 시기를 꽤 진지하게 그린 역사 소설에 더 가깝다.

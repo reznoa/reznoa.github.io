@@ -8,7 +8,7 @@ tags: [책, 만화, 판타지, 성장, 마술, 하일권, 소담출판사, 서�
 '안나라수마나라 1'은
 마술을 소재로 한 성장 드라마다.
 
-![표지](/images/annarasumanara-1-comic-book-h480.jpg)
+![표지](/images/book/annarasumanara-1-comic-book-h480.jpg)
 
 이야기는 한 마술사에 대한 소문으로 시작한다.
 망해버린 유원지에 미친 마술사가 있는데, 그가 진짜 마술을 부린다고.

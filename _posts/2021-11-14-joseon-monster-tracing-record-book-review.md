@@ -8,7 +8,7 @@ tags: [책, 소설, 판타지, 요괴, 신설, 자음과모음, 문화충전200%
 '조선 요괴 추적기'는
 사방에 여러 신이 있는 시대에 요괴를 쫓는 사람들의 이야기를 그린 소설이다.
 
-![표지](/images/joseon-monster-tracing-record-book-h480.jpg)
+![표지](/images/book/joseon-monster-tracing-record-book-h480.jpg)
 
 만약 전형적인 퇴마 판타지를 기대했다면 생각과는 많이 다를 것이다.
 애초에 작품의 주요 인물인 '구랍 법사'부터가 전혀 그런 소위 능력자가 아니기 때문이다.

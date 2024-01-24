@@ -8,7 +8,7 @@ tags: [책, 과학, YTN 사이언스, 하이픈, 북카페 책과 콩나무, 서
 'YTN 사이언스 과학만사성 1'은
 흥미로운 실험으로 알아보는 과학을 담은 책이다.
 
-![표지](/images/ytn-science-science-all-around-1-book-h480.jpg)
+![표지](/images/book/ytn-science-science-all-around-1-book-h480.jpg)
 
 이 책은 '[지헌이네 과학만사성](https://www.scienceall.com/category/science_channel/ytn-science/science-all-around/)'이란 이름으로 제작되었던 동영상 컨텐츠를
 정리하여 책으로 다시 엮은 것이다.

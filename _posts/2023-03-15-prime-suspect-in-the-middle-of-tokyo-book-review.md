@@ -8,7 +8,7 @@ tags: [책, 소설, 역사, 고호, 델피노, 문화충전200%, 서평]
 '도쿄 한복판의 유력 용의자'는
 일본과 한국의 역사 문제를 흥미롭게 담아낸 소설이다.
 
-![표지](/images/prime-suspect-in-the-middle-of-tokyo-book-h480.jpg)
+![표지](/images/book/prime-suspect-in-the-middle-of-tokyo-book-h480.jpg)
 
 소설은 딱히 정확한 역사를 담고 있는 것은 아니다.
 그러니까, 꽤나 정확하게 특정년과 월, 특정 장소까지 집어서 얘기를 하기는 한다만

@@ -9,7 +9,7 @@ tags: [책, 소설, 판타지, 츠지무라 미즈키, 오정화, 리드리드�
 '사자 츠나구(ツナグ) 2'는
 죽은 자와의 해후를 소재로 한 이야기의 후속작이다.
 
-![표지](/images/tsunagu-2-omoi-hito-no-kokoroe-book-h480.jpg)
+![표지](/images/book/tsunagu-2-omoi-hito-no-kokoroe-book-h480.jpg)
 
 영화화도 될만큼 인기를 끌었던 [전작]({% post_url 2023-08-09-tsunagu-1-book-review %})은
 그 자체로 완결된 구성을 가진 이야기였다.

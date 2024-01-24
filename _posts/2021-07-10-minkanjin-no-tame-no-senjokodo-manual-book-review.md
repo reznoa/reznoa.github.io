@@ -10,7 +10,7 @@ tags: [책, 서바이벌, S&T OUTCOMES, 가와구치 타쿠, 황명희, 이범�
 '민간인을 위한 전쟁대비행동매뉴얼(民間人のための戦場行動マニュアル: もしも戦争に巻き込まれたらこうやって生きのびる)'는
 전쟁 등의 긴급상황 대비를 위한 준비와 행동요령을 담을 책이다.
 
-![표지](/images/minkanjin-no-tame-no-senjokodo-manual-book-h480.jpg)
+![표지](/images/book/minkanjin-no-tame-no-senjokodo-manual-book-h480.jpg)
 
 전쟁상황 또는 테러라는 것을 우리는 대게 염두에 두고 생활하지 않는다.
 그것들이 일상과는 꽤 거리가 있다고 생각하기 때문이다.

@@ -9,7 +9,7 @@ tags: [책, 만화, 역사, 제1차 세계대전, 곽작가, 김수박, 레드�
 '제1차 세계대전 1: 유럽의 등불이 꺼지다'는
 제1차 세계대전을 잘 요약해서 그린 만화다.
 
-![표지](/images/ultimate-war-history-world-war-1-1-comic-book-h480.jpg)
+![표지](/images/book/ultimate-war-history-world-war-1-1-comic-book-h480.jpg)
 
 2번의 세계대전은 모르는 사람이 없을 정도로 유명한 대규모 전쟁이다.
 거기에서 활약했던 인물들,

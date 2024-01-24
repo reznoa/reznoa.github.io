@@ -8,7 +8,7 @@ tags: [책, 소설, 악플, 박현숙, 추현수, 이지북, 리뷰어스 클럽
 '신비한 유령 박물관'은
 유령을 전시해놓았다는 독특한 박물관과 악플을 소재로 한 소설이다.
 
-![표지](/images/mysterious-ghost-museum-book-h480.jpg)
+![표지](/images/book/mysterious-ghost-museum-book-h480.jpg)
 
 이 박물관의 유령들은 조금 특별하다.
 모두 기구한 사연을 가지고 있다는 것도 그렇고,

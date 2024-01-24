@@ -9,7 +9,7 @@ tags: [책, 소설, 청소년, 댄 거마인하트, 이나경, 다산책방, 북
 '미드나잇 칠드런(The Midnight Children)'은
 외톨이 소년과 기묘한 소녀의 이야기를 그린 소설이다.
 
-![표지](/images/the-midnight-children-book-h480.jpg)
+![표지](/images/book/the-midnight-children-book-h480.jpg)
 
 살짝 로맨스물같은 느낌도 있다.
 소년과 소녀가 만나서,

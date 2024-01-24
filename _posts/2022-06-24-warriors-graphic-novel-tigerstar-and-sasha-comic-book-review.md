@@ -11,7 +11,7 @@ tags: [책, 만화, 에린 헌터, 댄 졸리, 돈 허드슨, 서현정, 가람�
 '전사들 그래픽 노블: 타이거스타와 사샤(Warriors: Tigerstar and Sasha)'는
 타이거스타와 그의 짝 사샤의 이야기를 그린 만화다.
 
-![표지](/images/warriors-graphic-novel-tigerstar-and-sasha-comic-book-h480.jpg)
+![표지](/images/book/warriors-graphic-novel-tigerstar-and-sasha-comic-book-h480.jpg)
 
 '타이거스타'는 좀 미묘한 캐릭터다.
 그가 얼마나 용맹하고 강한 전사였는지 얘기하는 것 치고 허술하거나 지는 모습을 많이 보이고,

@@ -8,7 +8,7 @@ tags: [책, 소설, 판타지, 괴담, 요괴, 퇴마, 차율이, 양은봉, 고
 '괴담특공대 2: 저주받은 아이들'은
 괴담을 소재로 한 호러 동화 두번째 책이다.
 
-![표지](/images/strange-story-rangers-2-book-h480.jpg)
+![표지](/images/book/strange-story-rangers-2-book-h480.jpg)
 
 괴담은 시대를 불문하고 인기가 있는데,
 이건 곰곰히 생각해보면 이상한 일이다.

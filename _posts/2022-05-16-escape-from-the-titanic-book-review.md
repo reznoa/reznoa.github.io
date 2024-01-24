@@ -9,7 +9,7 @@ tags: [책, 소설, 역사, 타이타닉, 메리 케이 카슨, 이경택, 김�
 '타이태닉에서 탈출하기(Escape from... the Titanic)'는
 유명한 타이타닉호 침몰 사고를 그린 소설이다.
 
-![표지](/images/escape-from-the-titanic-book-h480.jpg)
+![표지](/images/book/escape-from-the-titanic-book-h480.jpg)
 
 타이타닉호 침몰 사고는 그 유명세만큼이나 그 원인과 경과 등이 비교적 잘 알려져있다.
 교신 등 기록이 남아있기도 하고,

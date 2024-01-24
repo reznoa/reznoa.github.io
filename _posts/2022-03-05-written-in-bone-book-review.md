@@ -9,7 +9,7 @@ tags: [책, 법의학, 법의인류학, 수 블랙, 조진경, 세종서적, 리
 '나는 매일 죽은 자의 이름을 묻는다(Written in Bone: Hidden Stories in What We Leave Behind)'은
 흥미로운 법의학과 그 사례를 담은 책이다.
 
-![표지](/images/written-in-bone-book-h480.jpg)
+![표지](/images/book/written-in-bone-book-h480.jpg)
 
 법의학이 대중에게 과학수사로서 많이 알려졌기 때문에
 법의학을 다룬 책, 심지어 실제로 활약했던 사건 사례를 곁들인 것이라고 하면

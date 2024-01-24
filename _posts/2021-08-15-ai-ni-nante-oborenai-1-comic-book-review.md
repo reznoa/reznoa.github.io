@@ -9,7 +9,7 @@ tags: [책, 만화, 로맨스, 직장, 미야조노 이즈미, 학산문화사, 
 '사랑 따위 빠지지 않아(愛になんて溺れない)'는
 가치관이 다른 두 사람의 로맨스를 그린 만화다.
 
-![표지](/images/ai-ni-nante-oborenai-1-comic-book-cover.jpg)
+![표지](/images/book/ai-ni-nante-oborenai-1-comic-book-cover.jpg)
 
 작가의 다른 만화인 '[다시 한번 그와 1]({$ post_url 2021-08-15-moichido-kare-to-1-comic-book-review %})'과 함께 본 것이라
 책을 펼칠때부터 좀 불안하긴 했다.
@@ -18,7 +18,7 @@ tags: [책, 만화, 로맨스, 직장, 미야조노 이즈미, 학산문화사, 
 한번 액땜을 했으니 이번엔 좀 다르지 않을까 싶어서였다.
 그러나, 과연 역시나였다.
 
-![17](/images/ai-ni-nante-oborenai-1-comic-book-p017.jpg "'...네?'는 내가 할 말이다;")
+![17](/images/book/ai-ni-nante-oborenai-1-comic-book-p017.jpg "'...네?'는 내가 할 말이다;")
 
 이 만화를 보면서 다시 한번 느낀 것은,
 이 작가가 작품을 쓰는 방향성이 명확하다는 거다.
@@ -35,11 +35,11 @@ tags: [책, 만화, 로맨스, 직장, 미야조노 이즈미, 학산문화사, 
 작은 위화감에도 민감하게 반응하는 모습이나 쉽게 다룰 수 있는 강아지같은 모습 등은
 너무 다른 캐릭터여서 잘 붙지가 않는다.
 
-![35](/images/ai-ni-nante-oborenai-1-comic-book-p035.jpg)
+![35](/images/book/ai-ni-nante-oborenai-1-comic-book-p035.jpg)
 
-![36](/images/ai-ni-nante-oborenai-1-comic-book-p036.jpg)
+![36](/images/book/ai-ni-nante-oborenai-1-comic-book-p036.jpg)
 
-![37](/images/ai-ni-nante-oborenai-1-comic-book-p037.jpg)
+![37](/images/book/ai-ni-nante-oborenai-1-comic-book-p037.jpg)
 
 그려내는 신과 전개도 좀 이상하다.
 그게 저렇게 되서 이렇게 된다고?

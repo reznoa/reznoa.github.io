@@ -8,7 +8,7 @@ tags: [책, 소설, 가상역사, 팬데믹, 심채윤, 껴안음, 북카페 책
 '게이트'는
 코로나19 팬데믹을 소재로 한 가상 역사 소설이다.
 
-![표지](/images/gate-pendemic-mystery-book-h480.jpg)
+![표지](/images/book/gate-pendemic-mystery-book-h480.jpg)
 
 애초에 민감한 소재를 호불호가 있는 관점에서 접근했다는 것에서
 이 소설은 태생적인 한계를 갖고있다.

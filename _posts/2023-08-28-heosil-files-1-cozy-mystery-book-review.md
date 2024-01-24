@@ -8,7 +8,7 @@ tags: [책, 소설, 단편, 미스터리, 범유진, 그린레보, 김영민, �
 '허실시 일상신비 사건집'은
 컨셉을 잘 살린 코지 미스터리 단편집이다.
 
-![표지](/images/heosil-files-1-cozy-mystery-book-h480.jpg)
+![표지](/images/book/heosil-files-1-cozy-mystery-book-h480.jpg)
 
 '허실시'라는 것은, 실제로는 존재하지 않는 가상의 도시다.
 '허실'이란 지명 자체는 실제로도 있기에 헷갈릴 수도 있지만,

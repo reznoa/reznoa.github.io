@@ -9,7 +9,7 @@ tags: [책, 소설, 마술, 페니 워너, 효고노스케, 윤영, 가람어린
 '탐정 클럽 4: 사라진 수영장과 탈출 게임(Magic & Mystery 4: No Escape from Middle School!)'은
 쌍둥이 마술사 & 탐정 콤비의 이야기를 담은 시리즈 네번째 책이다.
 
-![표지](/images/magic-and-mystery-4-book-h480.jpg)
+![표지](/images/book/magic-and-mystery-4-book-h480.jpg)
 
 이야기는 어느 날 쌍둥이의 친구인 '사미르'가 수영장이 사라지고 잔디밭으로 변했다고 문자를 하면서 시작한다.
 수영장이 그렇게 작은 크기도 아니니 쉽게 매꿀 수 있는 것도 아닌데다

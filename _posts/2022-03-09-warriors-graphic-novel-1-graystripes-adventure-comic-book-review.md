@@ -11,7 +11,7 @@ tags: [책, 만화, 에린 헌터, 댄 졸리, 제임스 L. 베리, 서현정, �
 '전사들 그래픽 노블: 그레이스트라이프의 모험(Warriors: Graystripe's Adventure)'은
 두발쟁이들에게 잡혀간 그레이스트라이프가 종족에게 돌아오는 여정을 그린 만화다.
 
-![표지](/images/warriors-graphic-novel-1-graystripes-adventure-comic-book-h480.jpg)
+![표지](/images/book/warriors-graphic-novel-1-graystripes-adventure-comic-book-h480.jpg)
 
 첫인상은 생각보다 훨씬 유아틱해 보인다는 거다.
 이건 재판본 표지에 익숙해진 독자라면 더 그럴만한데,

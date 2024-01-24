@@ -9,7 +9,7 @@ tags: [책, 소설, SF, 대니얼 키스, 구자언, 황금부엉이, 북카페 
 '앨저넌에게 꽃을(Flowers for Algernon)'은
 지능을 소재로 인간에 대해 그린 소설이다.
 
-![표지](/images/flowers-for-algernon-book-h480.jpg)
+![표지](/images/book/flowers-for-algernon-book-h480.jpg)
 
 '아트 리커버 에디션'으로 이 소설을 처음 접했다면 좀 속은 느낌이 들지도 모르겠다.
 이 책은 표지에서 얼핏 느낄 수 있는 것처럼 밝지도, 심지어 행복하지도 않기 때문이다.

@@ -9,7 +9,7 @@ tags: [책, 소설, 에린 헌터, 윤영, 가람어린이, 북카페 책과 콩
 '용기의 땅 6: 맹세(Bravelands #6: Oathkeeper)'는
 용기의 땅에서 벌어지는 동물들의 이야기를 그린 여섯번째 책이다.
 
-![표지](/images/bravelands-6-oathkeeper-book-h480.jpg)
+![표지](/images/book/bravelands-6-oathkeeper-book-h480.jpg)
 
 작가그룹 에린 헌터의 작품들이 대게 그렇듯,
 이 시리즈도 6권으로 1부가 마무리 되었다.

@@ -8,7 +8,7 @@ tags: [책, 소설, 제자백가, 유교, 논어, 정단비, 수류화개, 북�
 '원조얼짱 주군쟁탈전 1'은
 제자백가의 사상을 연애 이야기로 비교적 가볍게 풀어낸 책이다.
 
-![표지](/images/hundred-schools-of-thought-in-love-1-book-h480.jpg)
+![표지](/images/book/hundred-schools-of-thought-in-love-1-book-h480.jpg)
 
 제자백가는 중국의 다양한 사상가들을 두루 일컫는 말이다.
 그들의 사상에는 당대의 사회에서 뿐 아니라 인간의 대한 근본적인 통찰이 담겨있는 것도 많아서

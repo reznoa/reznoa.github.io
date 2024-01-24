@@ -8,7 +8,7 @@ tags: [책, 만화, 동화, 김종혁, 씨드북, 북카페 책과 콩나무, �
 '꽃이 된 로봇'은
 꿈을 쫒는 할머니와 로봇의 이야기를 만화 형식으로 그려낸 동화다.
 
-![표지](/images/robot-blooming-comic-book-h480.jpg)
+![표지](/images/book/robot-blooming-comic-book-h480.jpg)
 
 이야기는 꽃집을 운영하던 한 할머니가
 너무 심심해서 친구를 찾아 나서기로 결정하며 시작된다.

@@ -9,7 +9,7 @@ tags: [책, 소설, 미치 앨봄, 장성주, 윌북, 컬처블룸, 서평]
 '신을 구한 라이프보트(The Stranger in the Lifeboat)'는
 기묘한 이야기 느낌을 풍기는 소설이다.
 
-![표지](/images/the-stranger-in-the-lifeboat-book-h480.jpg)
+![표지](/images/book/the-stranger-in-the-lifeboat-book-h480.jpg)
 
 한마디로 딱 떨어지지 않는 소설이다.
 

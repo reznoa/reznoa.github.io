@@ -9,7 +9,7 @@ tags: [책, 소설, 샐리 루니, 김희용, 아르테, 북이십일, 컬처블
 '아름다운 세상이여, 그대는 어디에(Beautiful World, Where Are You)'는
 네 청년들의 우정과 사랑, 그리고 삶을 그린 소설이다.
 
-![표지](/images/beautiful-world-where-are-you-book-h480.jpg)
+![표지](/images/book/beautiful-world-where-are-you-book-h480.jpg)
 
 그렇게 쉽지는 않은 책이다.
 

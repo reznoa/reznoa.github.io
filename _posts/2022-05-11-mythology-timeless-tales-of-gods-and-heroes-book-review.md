@@ -9,7 +9,7 @@ tags: [책, 신화, 이디스 해밀턴, 서미석, 현대지성, 문화충전20
 '해밀턴의 그리스 로마 신화(Mythology: Timeless Tales of Gods and Heroes)'는
 그리스 로마 신화의 정수를 담은 책이다.
 
-![표지](/images/mythology-timeless-tales-of-gods-and-heroes-book-h480.jpg)
+![표지](/images/book/mythology-timeless-tales-of-gods-and-heroes-book-h480.jpg)
 
 어쩌면 기대와는 조금 다른 책일 수도 있다.
 신화를 담은 책이라고 의례 떠올리는,

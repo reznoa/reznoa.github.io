@@ -9,7 +9,7 @@ tags: [책, 소설, 로맨스, BB 이스턴, 김진아, 파피펍, 이북카페,
 '4남자에 관한 44장의 일기(44 Chapters about 4 Men)'는
 일기 형식으로 사랑과 섹스에 대해 거침없이 적어낸 소설이다.
 
-![표지](/images/44-chapters-about-4-men-book-h480.jpg)
+![표지](/images/book/44-chapters-about-4-men-book-h480.jpg)
 
 얼마나 거침없이 적어냈느냐면 거의 에로 소설에 가까울 정도다.
 꽤나 노골적인 성애 묘사가 있는데다 그 수위 역시 결코 낮지 않아서 더 그렇다.

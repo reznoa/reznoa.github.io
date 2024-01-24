@@ -8,7 +8,7 @@ tags: [책, 소설, 실학, 리더십, 윤종록, 행복한북클럽, 북카페 
 '대통령 정약용'은
 다산 정약용이 대통령이 된다면 어떨까란 생각을 소설로 적어낸 책이다.
 
-![표지](/images/president-jung-yakyong-book-h480.jpg)
+![표지](/images/book/president-jung-yakyong-book-h480.jpg)
 
 일단 소설의 형태를 하고 있기는 하다만,
 보통 생각하는 그런 소설은 아니다.

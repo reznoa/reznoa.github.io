@@ -8,7 +8,7 @@ tags: [책, 만화, 코미디, 엽기, 짤태식, 중앙북스, 컬처블룸, �
 '짤툰! 짐승친구들'은
 소위 '엽기'라고 하는 코드의 코미디 만화다.
 
-![표지](/images/jjaltoon-animal-friends-comic-book-h480.jpg)
+![표지](/images/book/jjaltoon-animal-friends-comic-book-h480.jpg)
 
 이 만화는 어떻게보면 좀 철지난 구식 코미디를 담은 것이다.
 이전의 엽기 코드를 꽤 제대로 그리고 있기 때문이다.

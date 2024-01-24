@@ -8,7 +8,7 @@ tags: [책, 만화, 도감, SCP 재단, Team. StoryG, 올드스테어즈, 리뷰
 'SCP 재단: 스페셜 에이전트 1'은
 SCP 재단을 활용한 또 다른 만화 시리즈다.
 
-![표지](/images/scp-foundation-special-agent-1-comic-book-h480.jpg)
+![표지](/images/book/scp-foundation-special-agent-1-comic-book-h480.jpg)
 
 SCP 재단은 이미 동명의 시리즈로 만화화 된바가 있다.
 그러나, 그 시리즈가 가능한 SCP 재단의 컨텐츠를 싣는 쪽으로 방향을 잡았고,

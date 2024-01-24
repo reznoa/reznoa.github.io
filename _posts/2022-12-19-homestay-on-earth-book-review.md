@@ -8,7 +8,7 @@ tags: [책, 소설, SF, 창작동화, 다양성, 성장, 장한애, sujan, 뉴�
 '홈스테이는 지구에서'는
 다름을 재미있게 그려낸 소설이다.
 
-![표지](/images/homestay-on-earth-book-h480.jpg)
+![표지](/images/book/homestay-on-earth-book-h480.jpg)
 
 '그럼에도 불구하고 홈스테이는 지구에서'라는 긴 풀네임을 가진
 한 홈스테이에서 벌어지는 일을 그린 이 소설은,

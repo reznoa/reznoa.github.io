@@ -14,7 +14,7 @@ tags: [책, 과학, 우주, 로버트 주브린, 김지원, 예문아카이브, 
 The Case for Space: How the Revolution in Spaceflight Opens Up a Future of Limitless Possibility
 -->
 
-![표지](/images/the-case-for-space-book-h480.jpg)
+![표지](/images/book/the-case-for-space-book-h480.jpg)
 
 이 책은 말하자면 일종의 부추기는 책이라고 할 수 있다.
 우주에 더 관심을 갖도록 하는 것은 물론 우주 개발에 뛰어들도록 하기 때문이다.

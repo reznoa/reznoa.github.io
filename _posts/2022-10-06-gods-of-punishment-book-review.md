@@ -8,7 +8,7 @@ tags: [책, 소설, 호러, 러브크래프티안, 무속, 박해로, 네오픽�
 '단죄의 신들'은
 신을 소재로 한 박해로표 공포 소설이다.
 
-![표지](/images/gods-of-punishment-book-h480.jpg)
+![표지](/images/book/gods-of-punishment-book-h480.jpg)
 
 박해로의 공포 소설은 크게 두가지 특징을 보인다.
 하나는 무속적이고,

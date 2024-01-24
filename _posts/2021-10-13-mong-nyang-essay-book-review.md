@@ -8,7 +8,7 @@ tags: [책, 에세이, 사랑, 연애, 결혼, 몽냥, 이수경, 꿈의지도, 
 '사랑한다면 몽냥처럼'은
 인스타툰 작가의 보다 깊은 이야기를 담은 에세이다.
 
-![표지](/images/mong-nyang-essay-book-h480.jpg)
+![표지](/images/book/mong-nyang-essay-book-h480.jpg)
 
 사랑, 참 달콤한 말이다.
 그건 사랑의 결실 중 하나라도고 할 수 있는 결혼 역시 그렇다.

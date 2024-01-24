@@ -8,7 +8,7 @@ tags: [책, 소설, 동화, 창작동화, 판타지, 원유순, 김종혁, 아�
 '들썩들썩 떠드렁섬'은
 아이들의 신기한 모험을 담은 판타지 동화다.
 
-![표지](/images/moving-floating-island-book-h480.jpg)
+![표지](/images/book/moving-floating-island-book-h480.jpg)
 
 얼핏 떠들썩하다던가 들썩인다는 의성어/의태어를 이용해 말장난처럼 만든 것 같은 떠드렁섬은,
 사실 떠내려왔다고 해서 붙여진 이름으로,

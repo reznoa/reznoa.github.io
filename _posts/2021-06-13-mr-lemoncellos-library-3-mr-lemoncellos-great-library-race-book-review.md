@@ -9,7 +9,7 @@ tags: [책, 소설, 크리스 그라번스타인, 정회성, 사파리, 서평]
 '레몬첼로 도서관 최첨단 논픽션 게임 레이스(Mr. Lemoncello's Great Library Race)'는
 레몬첼로 도서관 시리즈의 세번째 책이다.
 
-![표지](/images/mr-lemoncellos-library-3-mr-lemoncellos-great-library-race-book-h480.jpg)
+![표지](/images/book/mr-lemoncellos-library-3-mr-lemoncellos-great-library-race-book-h480.jpg)
 
 책은 참 아이들이 흥미롭게 볼만한 것들로 가득 차있다는 느낌이다.
 간단한 퀴즈나 퍼즐 뿐 아니라 때로는 좀 시간을 들여야 할만한 것들도 있고,

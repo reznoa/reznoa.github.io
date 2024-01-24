@@ -11,7 +11,7 @@ tags: [책, 소설, 동화, 창작동화, 다카세 미에, 가리노 타우, �
 '별의 커비 디스커버리 2: 외딴섬을 악몽에서 구해라!(星のカービィ ディスカバリー 絶島の夢をうちくだけ! 編)'는
 동명의 게임 소설판 두번째 책이다.
 
-![표지](/images/hoshi-no-kirby-discovery-2-zetto-no-yume-o-uchikudake-hen-book-h480.jpg)
+![표지](/images/book/hoshi-no-kirby-discovery-2-zetto-no-yume-o-uchikudake-hen-book-h480.jpg)
 
 [전권]({% post_url 2023-01-23-hoshi-no-kirby-discovery-1-shinsekai-he-hashiridase-hen-book-review %})에서
 '펙트 에피리스'와의 싸움이 마무리지어진 줄 알았는데

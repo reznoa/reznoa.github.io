@@ -10,7 +10,7 @@ tags: [책, 소설, 판타지, 청소년, 댄 해링, 마시케이트 코널리,
 '그렇게 스타보이가 되었다(The Star Shepherd)'는
 별을 쫒는 소년의 이야기를 그린 판타지 소설이다.
 
-![표지](/images/the-star-shepherd-book-h480.jpg)
+![표지](/images/book/the-star-shepherd-book-h480.jpg)
 
 댄 해링의 [동명의 초단편 애니메이션](https://www.youtube.com/watch?v=_OGOoiU1Sqc)을 원작으로 한 이 소설은,
 증기와 시계태엽으로 돌아가는 기계가 있는 스팀펑크적인 문명에

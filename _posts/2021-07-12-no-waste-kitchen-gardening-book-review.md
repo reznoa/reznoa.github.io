@@ -9,7 +9,7 @@ tags: [책, 케이티 엘저 피터스, 박선주, 지금이책, 리뷰어스 �
 '주방에서 시작하는 가드닝'은
 남은 채소를 이용한 주방 가드닝 방법을 알려주는 책이다.
 
-![표지](/images/no-waste-kitchen-gardening-book-h480.jpg)
+![표지](/images/book/no-waste-kitchen-gardening-book-h480.jpg)
 
 이 책의 장점은 정말 쉽게 쓰였다는 거다.
 가드닝이라는 게 기본적으로 일정 수준 이상의 시간과 정성을 쏟아야 한다는 것을,

@@ -9,7 +9,7 @@ tags: [책, 소설, 단편, 영한대역, 청교도, 신념, 나다니엘 호손
 '굿맨 브라운(Young Goodman Brown)'은
 신념에 관한 마치 우화같은 단편 소설이다.
 
-![표지](/images/young-goodman-brown-book-h480.jpg)
+![표지](/images/book/young-goodman-brown-book-h480.jpg)
 
 주인공이 길을 떠나고 그 과정에서 일종의 어떤 깨달음 같은 것을 얻는다는 전체 구도나
 등장인물들의 이름에 특정 개념을 가리키는 말을 직접적으로 사용했다는 점이

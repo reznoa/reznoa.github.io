@@ -9,7 +9,7 @@ tags: [책, 소설, 미스터리, 하드보일드, 단편, 레이먼드 챈들�
 '살인의 예술(The Simple Art of Murder)'은
 사실적인 범죄 미스터리 단편 다섯 개를 담은 소설집이다.
 
-![표지](/images/simple-art-of-murder-book-h480.jpg)
+![표지](/images/book/simple-art-of-murder-book-h480.jpg)
 
 저자는 소위 하드보일드 범죄소설의 거장이다.
 이 말은 그의 작품이 어느정도 수준 이상의 재미를 보장한다는 것이기도 한 한편,

@@ -9,7 +9,7 @@ tags: [책, 소설, 쥬세페 토르나토레, 이현경, 본북스, 리뷰어�
 '베스트 오퍼(La migliore offerta)'는
 동명 영화의 원작 소설에 가까운 글이다.
 
-![표지](/images/la-migliore-offerta-book-h480.jpg)
+![표지](/images/book/la-migliore-offerta-book-h480.jpg)
 
 영화의 원작 소설이면 원작 소설이지 가깝다는 건 무슨 말이냐.
 그건 애초에 이 글이 읽히기 위해서 쓰인 게 아니라서 그렇게 표현한 것이다.

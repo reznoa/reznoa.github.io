@@ -10,7 +10,7 @@ tags: [책, 소설, 동화, 창작동화, 다프나 벤-즈비, 오프라 아밋
 '새 친구 스누지와 써니 그리고 소소(Snoozie, Sunny, and So-So)'는
 친구가 주는 따뜻함과 위로를 담은 창작 동화다.
 
-![표지](/images/snoozie-sunny-and-so-so-picture-book-h480.jpg)
+![표지](/images/book/snoozie-sunny-and-so-so-picture-book-h480.jpg)
 
 이야기는 두 친구 '스누지'와 '써니'가 산책을 나갔다가
 우연한 계기로 슬픔에 빠져있는 '소소'를 만나면서 시작된다.

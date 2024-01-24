@@ -8,7 +8,7 @@ tags: [책, 교양, 조홍석, 트로이목마, 서평, 북촌]
 '알아두면 쓸데 있는 유쾌한 상식사전: 최초/최고편'는
 '가리지널'을 내세운 저자의 시리즈 다섯번째 책이다.
 
-![표지](/images/useful-to-know-funny-common-sense-dictionary-5-book-h480.jpg)
+![표지](/images/book/useful-to-know-funny-common-sense-dictionary-5-book-h480.jpg)
 
 책에는 분야를 막론하고 알아두면 유익할만한 다양한 상식들이 한데모여있다.
 말하자면, 일종의 잡학사전인 셈이다.

@@ -8,7 +8,7 @@ tags: [책, 소설, 동화, 창작동화, 홍종의, 이형진, 샘터사, 컬�
 '초록말 벼리'는
 경주마의 이야기를 그린 창작동화다.
 
-![표지](/images/green-horse-byeoli-book-h480.jpg)
+![표지](/images/book/green-horse-byeoli-book-h480.jpg)
 
 경주마인 '벼리'는 걸핏하면 눈물을 흘리는 울보다.
 경주마들을 대표하는 말로 손꼽힐 정도로 잘 달렸지만

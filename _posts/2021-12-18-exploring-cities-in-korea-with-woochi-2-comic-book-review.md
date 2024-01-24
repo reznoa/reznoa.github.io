@@ -8,7 +8,7 @@ tags: [책, 만화, 지리, 희용 샘, 정현희, 전국지리교사모임, 폭
 '우치와 함께하는 우리나라 도시 탐험 2: 잘린 팔 아래서 춤추는 도사를 찾아라!'는
 도사들의 이야기와 서울, 인천 소개를 담은 만화다.
 
-![표지](/images/exploring-cities-in-korea-with-woochi-2-comic-book-h480.jpg)
+![표지](/images/book/exploring-cities-in-korea-with-woochi-2-comic-book-h480.jpg)
 
 '지리쌤과 함께하는 우리나라 도시 여행'이란 책을 바탕으로 한 이 만화는,
 처음부터 우리나라의 도시를 소개하기 위한 지리정보 전달에 그 목적을 갖고 만들어진 책이다.

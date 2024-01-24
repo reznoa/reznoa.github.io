@@ -9,7 +9,7 @@ tags: [책, 소설, 치고지에 오비오마, 강동혁, 은행나무, 북카�
 '어부들(The Fishermen)'은
 굳이 말하자면 감탄이 나오는 소설이다.
 
-![표지](/images/the-fishermen-book-h480.jpg)
+![표지](/images/book/the-fishermen-book-h480.jpg)
 
 보통은 소설을 읽고 나면 이 소설은 어떻다고 대략 정리가 되는 편이다.
 '설정이 아까운 졸작'이라거나,

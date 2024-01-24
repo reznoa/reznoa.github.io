@@ -9,7 +9,7 @@ tags: [책, 소설, 조나탕 베르베르, 정혜용, 열린책들, 이북카�
 '심령들이 잠들지 않는 그곳에서(Là où les esprits ne dorment jamais)'는
 꽤 독특하고 매력적인 미스터리 소설이다.
 
-![표지](/images/la-ou-les-esprits-ne-dorment-jamais-book-h480.jpg)
+![표지](/images/book/la-ou-les-esprits-ne-dorment-jamais-book-h480.jpg)
 
 세상엔 참 신기한 게 많다.
 그 중에서는 도저히 믿을 수 없을만큼 진짜같은,

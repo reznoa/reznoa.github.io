@@ -8,7 +8,7 @@ tags: [책, 소설, 이상권, 특별한서재, 북카페 책과 콩나무, 서�
 '시간여행 가이드, 하얀 고양이'는
 히로시마 피폭 3세대의 이야기를 그린 소설이다.
 
-![표지](/images/time-travel-guide-white-cat-book-h480.jpg)
+![표지](/images/book/time-travel-guide-white-cat-book-h480.jpg)
 
 핵으로 인한 피해는 여러번 겪은 바 있으며,
 앞으로도 문제가 될만한 골칫거리이지만

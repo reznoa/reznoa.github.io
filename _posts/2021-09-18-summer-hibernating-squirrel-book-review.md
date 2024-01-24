@@ -8,7 +8,7 @@ tags: [책, 소설, 동화, 창작동화, 이지은, 프로방스, 북카페 책
 '여름잠 자는 다람이'는
 남들과 다른 한 다람쥐의 이야기를 그린 창작동화다.
 
-![표지](/images/summer-hibernating-squirrel-book-h480.jpg)
+![표지](/images/book/summer-hibernating-squirrel-book-h480.jpg)
 
 삼남매로 태어난 다람이는 여름이 오자 이상함을 느끼기 시작한다.
 몸이 나른하면서 기운이 없고, 자꾸만 졸리웠기 때문이다.

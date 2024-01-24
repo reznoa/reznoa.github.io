@@ -9,7 +9,7 @@ tags: [책, 미술, 만화, 리즈 헤르조그, 유민정, 그린페이퍼, 문
 '애니메이션 캐릭터 300(Mes 300 modelès mangas à dessiner en pas à pas)'은
 총 300개의 캐릭터를 담은 드로잉 책이다.
 
-![표지](/images/mes-300-modeles-mangas-a-dessiner-en-pas-a-pas-book-h480.jpg)
+![표지](/images/book/mes-300-modeles-mangas-a-dessiner-en-pas-a-pas-book-h480.jpg)
 
 이 책에는 별 다른 기법 설명이나 주의사항, 팁 같은 그런 건 없다.
 단지 다양한 캐릭터 디자인과 상황에 따른 포즈 등을 많이 실어서

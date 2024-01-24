@@ -9,7 +9,7 @@ tags: [책, 소설, 프랑수아즈 사강, 최정수, 소담출판사, 서평]
 '마음의 파수꾼(Le Garde du cœur)'은
 순수함의 이면을 기묘하게 보여주는 소설이다.
 
-![표지](/images/le-garde-du-coeur-book-h480.jpg)
+![표지](/images/book/le-garde-du-coeur-book-h480.jpg)
 
 이야기는 한 커플이 기묘한 자동차 사고를 일으키게 되고
 그를 계기로 한 청년과 만나게 되면서 시작한다.

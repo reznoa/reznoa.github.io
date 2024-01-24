@@ -8,7 +8,7 @@ tags: [책, 소설, 로맨스, 로즈빈, 팩토리나인, 컬처블룸, 서평]
 '조선연애실록 1'은
 가상의 조선을 배경으로 한 궁중 로맨스다.
 
-![표지](/images/the-annals-of-the-joseon-romance-1-book-h480.jpg)
+![표지](/images/book/the-annals-of-the-joseon-romance-1-book-h480.jpg)
 
 실제 조선을 배경으로 한 소설이 아니다.
 매 화마다 붙는 '해종실록'이라는 기록물도 만들어진 것이고,

@@ -10,7 +10,7 @@ tags: [책, 소설, 에린 헌터, 서현정, 가람어린이, 북카페 책과 
 '전사들 3부 셋의 힘 4 일식(Warriors: Power of Three #4 Eclipse)'에서는
 좀 더 세 고양이의 운명에 관한 이야기를 진행시킨다.
 
-![표지](/images/warriors-3-power-of-three-4-eclipse-book-h480.jpg)
+![표지](/images/book/warriors-3-power-of-three-4-eclipse-book-h480.jpg)
 
 꽤 거창했던 예언에 비하면 사실 그동안 세 고양이가 보여준 모습은 그렇게 만족스럽지는 않았다.
 때때로 그들이 아니면 달라졌을법한 대단한 활약을 보여주는 것도 사실이나

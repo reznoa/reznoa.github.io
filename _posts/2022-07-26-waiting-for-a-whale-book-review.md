@@ -8,7 +8,7 @@ tags: [책, 소설, 단편, 청소년, 홍명진, 우리학교, 리뷰어스 클
 '고래를 기다리는 일'은
 어두운 10대의 일면들을 담은 소설집이다.
 
-![표지](/images/waiting-for-a-whale-book-h480.jpg)
+![표지](/images/book/waiting-for-a-whale-book-h480.jpg)
 
 이 책은 대게의 청소년 소설들과는 조금 다르다.
 나름의 고민이 있고 그래서 방황을 하기도 하지만,

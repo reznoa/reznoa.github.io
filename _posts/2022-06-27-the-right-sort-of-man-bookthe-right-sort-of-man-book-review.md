@@ -9,7 +9,7 @@ tags: [책, 소설, 미스터리, 페미니즘, 앨리슨 몽클레어, 장성�
 '멀쩡한 남자를 찾아드립니다: 그웬과 아이리스의 런던 미스터리 결혼상담소(The Right Sort of Man: A Sparks & Bainbridge Mystery)'는
 매력적인 배경과 캐릭터로 흥미로운 이야기를 보여주는 소설이다.
 
-![표지](/images/the-right-sort-of-man-bookthe-right-sort-of-man-book-h480.jpg)
+![표지](/images/book/the-right-sort-of-man-bookthe-right-sort-of-man-book-h480.jpg)
 
 소설의 배경은 제2차 세계 대전이 갓 끝난 1940년대로,
 전쟁의 영향을 일상에서도 쉽게 느낄 수 있을만큼 짙게 남아있는 시기다.

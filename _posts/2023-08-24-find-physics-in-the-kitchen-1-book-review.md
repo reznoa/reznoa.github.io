@@ -8,7 +8,7 @@ tags: [책, 과학, 청유재 사람들, 박병윤, 권경훈, 박혜연, 박준
 '부엌에서 물리찾기 1'은
 흔하게 접할 수 있는 것을 통해 물리를 얘기하는 책이다.
 
-![표지](/images/find-physics-in-the-kitchen-1-book-h480.jpg)
+![표지](/images/book/find-physics-in-the-kitchen-1-book-h480.jpg)
 
 물리는 어렵고 멀게만 느껴지지만,
 막상 찾아보면 생각보다 가까운 곳에서도 손쉽게 찾을 수가 있다.

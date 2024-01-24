@@ -10,7 +10,7 @@ tags: [책, 오라클카드, 마이아 톨, 케이트 오하라, 송민경, 한�
 '크리스털 오라클(The Illustrated Crystallary: Guidance and Rituals from 36 Magical Gems & Minerals)'은
 보석과 광물에서 비롯한 오라클카드와 그 설명을 담은 책이다.
 
-![표지](/images/illustrated-crystallary-book-h480.jpg)
+![표지](/images/book/illustrated-crystallary-book-h480.jpg)
 
 '책'이라고 하긴 좀 애매할지도 모르겠다.
 설명을 담은 책과 점술에 사용할 카드가 한 세트로 묶여있기 때문이다.

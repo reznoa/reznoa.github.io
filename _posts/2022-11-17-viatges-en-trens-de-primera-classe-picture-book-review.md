@@ -9,7 +9,7 @@ tags: [책, 그림책, 다니 토랑, 엄지영, 요요, 컬처블룸, 서평]
 '일등석 기차 여행(Viatges en trens de primera classe)'은
 기차 여행을 떠나며 겪게되는 이야기를 그린 그림책이다.
 
-![표지](/images/viatges-en-trens-de-primera-classe-picture-book-h480.jpg)
+![표지](/images/book/viatges-en-trens-de-primera-classe-picture-book-h480.jpg)
 
 주인공인 '클레멘티나 델피'는 상류 사회 신부가 되기에 적합한 우아하고 아름다운 여성이다.
 부유하다고까지는 할 수 없지만

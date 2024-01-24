@@ -9,7 +9,7 @@ tags: [책, 소설, 퀴어, 토마시 예드로프스키, 백지민, 푸른숲, 
 '어둠 속에서 헤엄치기(Swimming in the Dark)'는
 1980년 초 폴란드를 배경으로 한 남자의 이야기를 그린 퀴어 소설이다.
 
-![표지](/images/swimming-in-the-dark-book-h480.jpg)
+![표지](/images/book/swimming-in-the-dark-book-h480.jpg)
 
 제목이 참 내용을 함축적으로 잘 담고있다.
 

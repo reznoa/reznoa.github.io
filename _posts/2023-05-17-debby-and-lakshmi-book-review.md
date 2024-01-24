@@ -8,7 +8,7 @@ tags: [책, 소설, 박송주, 에디스코, YES24 리뷰어클럽, 서평]
 '데비와 락슈미'는
 기억과 마음에 대한 이야기를 그린 소설이다.
 
-![표지](/images/debby-and-lakshmi-book-h480.jpg)
+![표지](/images/book/debby-and-lakshmi-book-h480.jpg)
 
 인간이 사라져버린 도시를 홀로 헤매는 '데비(Debby)'는 AI 로봇이다.
 그녀는 원래 식물종 채취를 위해서 만들어진 로봇이었는데,

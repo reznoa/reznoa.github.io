@@ -9,7 +9,7 @@ tags: [책, 소설, 로맨스, 크리스티나 로렌, 김진아, 파피펍, 이
 '조쉬와 헤이즐이 절대 사귀지 않는 법(Josh and Hazel's Guide to Not Dating)'은
 설정과 구성, 전개와 묘사가 상당히 훌륭한 로맨스 소설이다.
 
-![표지](/images/josh-and-hazels-guide-to-not-dating-book-h480.jpg)
+![표지](/images/book/josh-and-hazels-guide-to-not-dating-book-h480.jpg)
 
 어떻게 보면 이 소설은 조금 소수자의 이야기를 그린 것처럼 보이기도 한다.
 왜냐하면 주인공인 '헤이즐 카밀 브래드포드'가 굉-장히 독특한 인물이기 때문이다.

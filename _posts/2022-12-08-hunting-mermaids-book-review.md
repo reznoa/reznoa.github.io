@@ -8,7 +8,7 @@ tags: [책, 소설, 판타지, 인어, 차인표, 해결책, 북카페 책과 �
 '인어 사냥'은
 인어라는 존재를 통해 인간의 욕망에 대해 그려낸 사극 판타지 소설이다.
 
-![표지](/images/hunting-mermaids-book-h480.jpg)
+![표지](/images/book/hunting-mermaids-book-h480.jpg)
 
 처음 저자의 소설을 손에 쥐었던 이유는
 당연하게도 그의 유명세 때문이었다.

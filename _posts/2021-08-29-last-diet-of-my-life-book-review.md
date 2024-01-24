@@ -8,7 +8,7 @@ tags: [책, 소설, 권여름, 앤드, 넥서스, 리뷰어스 클럽, 서평]
 '내 생의 마지막 다이어트'는
 한 단식원에서 벌어지는 소동을 그린 소설이다.
 
-![표지](/images/last-diet-of-my-life-book-h480.jpg)
+![표지](/images/book/last-diet-of-my-life-book-h480.jpg)
 
 참 모순적인 시대다.
 생물이란 먹기 위해서 산다고 할 정도로 먹는게 중요하고,

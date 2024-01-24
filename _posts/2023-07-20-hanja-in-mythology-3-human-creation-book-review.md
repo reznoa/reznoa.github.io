@@ -8,7 +8,7 @@ tags: [책, 한자, 김꼴, 김끌, 꿰다, 북카페 책과 콩나무, 서평]
 '신화 속 한자, 한자 속 신화: 인간창조편'은
 신화를 통해 한자를 알려주는 시리즈 세번째 책이다.
 
-![표지](/images/hanja-in-mythology-3-human-creation-book-h480.jpg)
+![표지](/images/book/hanja-in-mythology-3-human-creation-book-h480.jpg)
 
 신화를 소재로 삼았다는 점에 주목을 했던 사람이라면
 기대와는 좀 다르다고 느낄 수도 있다.

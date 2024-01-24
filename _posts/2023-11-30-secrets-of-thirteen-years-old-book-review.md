@@ -8,7 +8,7 @@ tags: [책, 소설, 동화, 창작동화, 판타지, 민후, 북다, 북카페 �
 '열세 살의 비밀'은
 아이들의 이야기를 재미있게 써낸 소설이다.
 
-![표지](/images/secrets-of-thirteen-years-old-book-h480.jpg)
+![표지](/images/book/secrets-of-thirteen-years-old-book-h480.jpg)
 
 누구에게나 어렸을 때가 있다.
 그러나, 개구리 올챙이적 생각 못한다고,

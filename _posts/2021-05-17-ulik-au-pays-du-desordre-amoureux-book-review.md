@@ -9,7 +9,7 @@ tags: [책, 소설, 프랑수아 를로르, 지연리, 열림원, 리뷰어스 �
 '북극에서 온 남자 울릭(Ulik au pays du désordre amoureux)'은
 도시에 온 이누카 울릭을 통해 사회와 사람들의 이야기를 그려내는 소설이다.
 
-![표지](/images/ulik-au-pays-du-desordre-amoureux-book-h480.jpg)
+![표지](/images/book/ulik-au-pays-du-desordre-amoureux-book-h480.jpg)
 
 이 소설의 독특한 점 중 하나는
 꽤나 정신의학적인 이야기가 많이 나온다는 거다.

@@ -8,7 +8,7 @@ tags: [책, 소설, 동화, 창작동화, 김영주, 해랑, 웅진주니어, �
 '하얀빛의 수수께끼'는
 아이의 진로 고민을 다룬 창작동화다.
 
-![표지](/images/white-light-riddle-book-h480.jpg)
+![표지](/images/book/white-light-riddle-book-h480.jpg)
 
 주인공인 '창이'의 아버지는 숙수다.
 숙수(熟手)란 궁중에서 음식을 만드는, 말하자면 전문 요리사라고 할 수 있는데,

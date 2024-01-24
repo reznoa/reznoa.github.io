@@ -9,7 +9,7 @@ tags: [책, 수학, 마쓰카와 후미야, 김지예, 동아엠앤비, 리뷰�
 '알수록 돈이 되고 볼수록 쓸모있는 수학이야기(知って得する! おうちの数学)'는
 일상에서 사용하는 수학을 주제로 한 책이다.
 
-![표지](/images/shitte-tokusuru-ouchi-no-sugaku-book-h480.jpg)
+![표지](/images/book/shitte-tokusuru-ouchi-no-sugaku-book-h480.jpg)
 
 많은 사람들이 일상과 거리가 먼 학문으로 수학을 꼽는다.
 통계라던가 건축, 로켓 발사처럼 특정 전문 분야가 아니면

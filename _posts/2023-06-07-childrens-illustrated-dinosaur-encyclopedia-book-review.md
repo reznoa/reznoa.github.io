@@ -8,7 +8,7 @@ tags: [책, 도감, 공룡, 디엔에스공오, 글송이, 컬처블룸, 서평]
 '생생화보 유치원 공룡백과'는
 다양한 공룡들의 모습을 담은 일종의 도감이다.
 
-![표지](/images/childrens-illustrated-dinosaur-encyclopedia-book-h480.jpg)
+![표지](/images/book/childrens-illustrated-dinosaur-encyclopedia-book-h480.jpg)
 
 풍부한 공룡 정보를 집약하기보다는
 공룡들의 모습을 보여주는데 중점을 둔 이 책은,

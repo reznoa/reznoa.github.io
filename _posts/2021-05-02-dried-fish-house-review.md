@@ -9,13 +9,13 @@ published: false
 '건어물하우스'는
 다양한 건어물을 간편하게 구매할 수 있는 쇼핑몰이다.
 
-![포장](/images/dried-fish-house-01.jpg)
+![포장](/images/review/dried-fish-house-01.jpg)
 
-![제품](/images/dried-fish-house-02.jpg)
+![제품](/images/review/dried-fish-house-02.jpg)
 
-![제품소개지 1](/images/dried-fish-house-03.jpg)
+![제품소개지 1](/images/review/dried-fish-house-03.jpg)
 
-![제품소개지 2](/images/dried-fish-house-04.jpg)
+![제품소개지 2](/images/review/dried-fish-house-04.jpg)
 
 제품은 식품인만큼 잘 밀봉되어 배달된다.
 건어물을 모두 냉동창고에서 발송된다고 하는데,
@@ -26,11 +26,11 @@ published: false
 주문제품외에 맛보기를 함께 넣어주기도 하며,
 어떤 건어물들을 취급하는지 한눈에 살펴볼 수 있는 제품소개서도 함께 준다.
 
-![맛보기 1](/images/dried-fish-house-05.jpg)
+![맛보기 1](/images/review/dried-fish-house-05.jpg)
 
-![맛보기 2](/images/dried-fish-house-06.jpg)
+![맛보기 2](/images/review/dried-fish-house-06.jpg)
 
-![맛보기 3](/images/dried-fish-house-07.jpg)
+![맛보기 3](/images/review/dried-fish-house-07.jpg)
 
 내가 받은 맛보기 건어물은 동전쥐포였는데,
 맛보기인만큼 따로 상세한 정보가 붙어있지는 않았지만,
@@ -40,9 +40,9 @@ published: false
 그 상태에서 먹으면 따뜻하면서도 고소해서 맛이 더욱 좋다.
 크기도 한입에 쏙 들어가서 주전부리로 먹기에 좋아보였다.
 
-![구운아귀채 1](/images/dried-fish-house-08.jpg)
+![구운아귀채 1](/images/review/dried-fish-house-08.jpg)
 
-![구운아귀채 2](/images/dried-fish-house-09.jpg)
+![구운아귀채 2](/images/review/dried-fish-house-09.jpg)
 
 본품은 뒷면에 원료나 유통기한, 보관방법등이 제대로 표기되어있다.
 건어물은 대부분 생선살로 만든 것이지만 유통기한이 2년 정도로 긴데,
@@ -55,13 +55,13 @@ published: false
 냉동보관을 하면 먹을 때 해동을 해야하므로 번거로울 것이라고 생각하겠지만,
 건어물엔 수분이 없기 때문에 냉동보관하던 것을 꺼내도 바로 먹을 수 있을 정도로 해동이 필요 없다.
 
-![구운아귀채 3](/images/dried-fish-house-10.jpg)
+![구운아귀채 3](/images/review/dried-fish-house-10.jpg)
 
-![구운아귀채 4](/images/dried-fish-house-11.jpg)
+![구운아귀채 4](/images/review/dried-fish-house-11.jpg)
 
-![구운아귀채 5](/images/dried-fish-house-12.jpg)
+![구운아귀채 5](/images/review/dried-fish-house-12.jpg)
 
-![구운아귀채 6](/images/dried-fish-house-13.jpg)
+![구운아귀채 6](/images/review/dried-fish-house-13.jpg)
 
 구운아귀채는 구워서 만든 것이라도 조리없이 바로 꺼내 먹을 수 있다.
 소금이나 설탕 등으로 간도 적당히 되어있는데

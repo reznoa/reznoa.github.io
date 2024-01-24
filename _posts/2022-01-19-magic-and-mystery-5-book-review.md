@@ -9,7 +9,7 @@ tags: [책, 소설, 마술, 페니 워너, 효고노스케, 윤영, 가람어린
 '탐정 클럽 5: 도서관과 숨겨진 방의 비밀(Magic & Mystery 5: Secret in the Library Labyrinth)'은
 쌍둥이 마술사 & 탐정 콤비의 이야기를 담은 시리즈 다섯번째 책이다.
 
-![표지](/images/magic-and-mystery-5-book-h480.jpg)
+![표지](/images/book/magic-and-mystery-5-book-h480.jpg)
 
 이번 이야기는 도서관을 배경으로 펼쳐진다.
 방과후에도 어느정도 기능을 하는, 학교에서도 좀 예외적인 공간에서

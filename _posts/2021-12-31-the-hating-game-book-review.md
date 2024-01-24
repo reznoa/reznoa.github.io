@@ -9,7 +9,7 @@ tags: [책, 소설, 로맨스, 샐리 쏜, 비비안 한, 파피펍, 이북카�
 '헤이팅 게임(The Hating Game)'은
 꽤 볼만한 직장인 로맨스물이다.
 
-![표지](/images/the-hating-game-book-h480.jpg)
+![표지](/images/book/the-hating-game-book-h480.jpg)
 
 참 유치찬란도 하다.
 다 큰 성인이, 그것도 공적으로 일하러 회사에 나와 자리에 앉아서는

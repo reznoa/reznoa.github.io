@@ -9,7 +9,7 @@ tags: [책, 만화, 판타지, 코미디, 순정, 카우타 마토, 학산문화
 '하토코 씨는 때때로 마법소녀(鳩子さんは時々魔法少女)'는
 마법소녀물을 독특하게 재해석한 만화다.
 
-![커버](/images/hatoko-san-wa-tokidoki-maho-shojo-1-comic-book-h480.jpg)
+![커버](/images/book/hatoko-san-wa-tokidoki-maho-shojo-1-comic-book-h480.jpg)
 
 마법소녀물은 어떻게 보면 그 기력이 다했다고도 할 수 있다.
 그간 수 많은 소재와 이야기로 우려지면서
@@ -27,9 +27,9 @@ tags: [책, 만화, 판타지, 코미디, 순정, 카우타 마토, 학산문화
 귀찮은 직무외 부가업무를 수당이란 미끼에 이끌려 수행할 뿐이다.
 
 <div class="mediablock" markdown="1">
-![12](/images/hatoko-san-wa-tokidoki-maho-shojo-1-comic-book-p012.jpg)
+![12](/images/book/hatoko-san-wa-tokidoki-maho-shojo-1-comic-book-p012.jpg)
 <p class="mediablock-caption">이런 사람이..</p>
-![48](/images/hatoko-san-wa-tokidoki-maho-shojo-1-comic-book-p048.jpg)
+![48](/images/book/hatoko-san-wa-tokidoki-maho-shojo-1-comic-book-p048.jpg)
 <p class="mediablock-caption">이렇게 활동한다.</p>
 </div>
 
@@ -38,11 +38,11 @@ tags: [책, 만화, 판타지, 코미디, 순정, 카우타 마토, 학산문화
 어느정도는 직업의식도 갖고 있어서 나름대로 서비스도 하다보니
 실제 사람과 하는 행동, 그리고 결과로 비쳐지는 모습 등이 상당한 간극을 보이는데 이게 꽤 재밌다.
 
-![62](/images/hatoko-san-wa-tokidoki-maho-shojo-1-comic-book-p062.jpg)
+![62](/images/book/hatoko-san-wa-tokidoki-maho-shojo-1-comic-book-p062.jpg)
 
-![91](/images/hatoko-san-wa-tokidoki-maho-shojo-1-comic-book-p091.jpg)
+![91](/images/book/hatoko-san-wa-tokidoki-maho-shojo-1-comic-book-p091.jpg)
 
-![134](/images/hatoko-san-wa-tokidoki-maho-shojo-1-comic-book-p134.jpg)
+![134](/images/book/hatoko-san-wa-tokidoki-maho-shojo-1-comic-book-p134.jpg)
 
 주인공은 그 자신이 덕녀이기도 하지만
 또한 일종의 갭모에 대상이기도 한데다
@@ -57,7 +57,7 @@ tags: [책, 만화, 판타지, 코미디, 순정, 카우타 마토, 학산문화
 앞서 '독자의 대변자'이기도 하다고 한 것은 그만큼 쉽게 공감할 수 있다는 얘기라서
 이 공감점이 책 속 코미디들을 별로 실패하지 않게 만들어주기도 한다.
 
-![87](/images/hatoko-san-wa-tokidoki-maho-shojo-1-comic-book-p087.jpg)
+![87](/images/book/hatoko-san-wa-tokidoki-maho-shojo-1-comic-book-p087.jpg)
 
 일상은 마법소녀물에서 크게 벗어나 있지만 마법소녀로서의 활동은 전형적인 전개를 따르는 것도 재미있다.
 기존 마법소녀물의 클리셰들을 직장인물로 재해석한 것 같아서다.
@@ -81,7 +81,7 @@ tags: [책, 만화, 판타지, 코미디, 순정, 카우타 마토, 학산문화
 그걸 특정 회사가 운영한다는 점도 그렇고,
 마자폰들은 어떻게 생겨나며 어째서 마석을 떨구는가 하는 것 등도 역시 그렇다.
 
-![121](/images/hatoko-san-wa-tokidoki-maho-shojo-1-comic-book-p121.jpg)
+![121](/images/book/hatoko-san-wa-tokidoki-maho-shojo-1-comic-book-p121.jpg)
 
 코미디이자 판타지이기도 하지만 이 만화는 또한 순정만화이기도 한데,
 이미 몇개 작품을 해본 작가라서 그런지 그런 부분도 꽤 잘 살렸다.

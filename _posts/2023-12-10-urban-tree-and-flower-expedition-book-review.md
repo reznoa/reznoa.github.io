@@ -8,7 +8,7 @@ tags: [책, 생물, 손연주, 박민지, 안현지, 김홍희, 김완순, 주�
 '도시 나무·꽃 탐험대'는
 도시 탐험대 시리즈 두번째 책이다.
 
-![표지](/images/urban-tree-and-flower-expedition-book-h480.jpg)
+![표지](/images/book/urban-tree-and-flower-expedition-book-h480.jpg)
 
 어쩌면 이전 책 '도시 식물 탐험대'와 좀 겹치는 면이 있는 책이다.
 애초에 식물이 나무, 꽃을 아우르는 더 큰 개념이기 때문이다.

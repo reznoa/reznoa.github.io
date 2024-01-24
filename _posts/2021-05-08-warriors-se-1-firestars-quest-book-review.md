@@ -9,7 +9,7 @@ tags: [책, 소설, 에린 헌터, 서현정, 가람어린이, 북카페 책과 
 '전사들 슈퍼 에디션: 파이어스타의 임무(Warriors Super Edition: Firestar's Quest)'는
 고양이를 주인공으로 한 전사들 시리즈의 스핀오프 소설이다.
 
-![표지](/images/warriors-se-1-firestars-quest-book-h480.jpg)
+![표지](/images/book/warriors-se-1-firestars-quest-book-h480.jpg)
 
 전사들은 상당히 잘 만들어진 소설 시리즈다.
 하지만, 아쉬운 점도 있었으니

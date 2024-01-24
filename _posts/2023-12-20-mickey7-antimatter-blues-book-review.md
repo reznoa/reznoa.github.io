@@ -9,7 +9,7 @@ tags: [책, 소설, SF, 에드워드 애슈턴, 진서희, 황금가지, 서평]
 '미키7: 반물질의 블루스(Antimatter Blues)'은
 우주개척과 복제인간을 소재로 한 SF 소설의 후속작이다.
 
-![표지](/images/mickey7-antimatter-blues-book-h480.jpg)
+![표지](/images/book/mickey7-antimatter-blues-book-h480.jpg)
 
 전작인 미키7을 정말 재밌게 봤다. SF적인 상상력, 그걸 적절하게 뒷받침하는 설명, 그에 어울리는 이야기까지. 심지어 그건 흥미롭고 재미있기도 했으며, 무엇보다 완결성이 있었다.
 

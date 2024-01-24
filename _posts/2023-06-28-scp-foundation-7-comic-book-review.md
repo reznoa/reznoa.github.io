@@ -8,7 +8,7 @@ tags: [책, 만화, 도감, SCP 재단, Team. StoryG, 올드스테어즈, 컬처
 'SCP 재단 7'은
 [동명의 컨텐츠](http://ko.scp-wiki.net/)를 기반으로 한 가상 캐릭터 만화다.
 
-![표지](/images/scp-foundation-7-comic-book-h480.jpg)
+![표지](/images/book/scp-foundation-7-comic-book-h480.jpg)
 
 처음 이 시리즈를 볼 때는 SCP 재단이라는 원 컨텐츠에 크게 기대고 있는 느낌이 강했다.
 이야기도 거의 SCP 들을 가능한 여럿 소개할 수 있도록 하기 위해 짠듯했고,

@@ -9,7 +9,7 @@ tags: [책, 소설, 페미니즘, 낸시 스프링어, 김진희, 북레시피, 
 '우아한 가출(Enola Holmes and the Elegant Escapade)'은
 '에놀라 홈즈 시리즈(The Enola Holmes Mysteries)' 8번째 책이다.
 
-![표지](/images/enola-holmes-8-the-elegant-escapade-book-h480.jpg)
+![표지](/images/book/enola-holmes-8-the-elegant-escapade-book-h480.jpg)
 
 '셜록 홈즈(Sherlock Holmes)'라는 캐릭터에 기대는 작품은 생각보다 많다.
 그만큼 그가 희대의 탐정이라 할만큼 특별하고 매력적인 인물이었기 때문이다.

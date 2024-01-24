@@ -8,7 +8,7 @@ tags: [책, 소설, 잠뜰TV, 박미진, 루체, 서울문화사, 북카페 책�
 '써니 사이드 타운: 상'은
 동명의 방송 컨텐츠를 소설화한 책이다.
 
-![표지](/images/sleepground-sunny-side-town-1-book-h480.jpg)
+![표지](/images/book/sleepground-sunny-side-town-1-book-h480.jpg)
 
 써니 사이드 타운은 다른 컨텐츠처럼 시리즈가 아니라 개별 컨텐츠로써 제작된 것이라서 그런지
 꽤 여러가지 다른 특징들을 보인다.

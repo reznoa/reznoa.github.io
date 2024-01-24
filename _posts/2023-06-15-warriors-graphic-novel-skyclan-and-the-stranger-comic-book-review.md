@@ -11,7 +11,7 @@ tags: [책, 만화, 에린 헌터, 댄 졸리, 제임스 L. 베리, 서현정, �
 '전사들 그래픽 노블: 하늘족과 낯선 고양이(Warriors: SkyClan and the Stranger)'는
 하늘족과 솔의 뒷 이야기를 그린 만화다.
 
-![표지](/images/warriors-graphic-novel-skyclan-and-the-stranger-comic-book-h480.jpg)
+![표지](/images/book/warriors-graphic-novel-skyclan-and-the-stranger-comic-book-h480.jpg)
 
 이 그래픽 노블의 주인공은 '하늘족'과 '리프스타'라고 할 수 있다.
 처음부터 끝까지 리프스타의 관점으로 이야기가 진행되며,

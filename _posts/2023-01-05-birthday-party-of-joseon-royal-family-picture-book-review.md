@@ -8,7 +8,7 @@ tags: [책, 그림책, 역사, 박현정, 한용욱, 김윤희, 선한능력, �
 '조선 왕실의 생일잔치'는
 '정해진찬의궤'에 나타난 왕실의 생일잔치 모습을 담은 그림책이다.
 
-![표지](/images/birthday-party-of-joseon-royal-family-picture-book-h480.jpg)
+![표지](/images/book/birthday-party-of-joseon-royal-family-picture-book-h480.jpg)
 
 '고종정해진찬의궤(高宗丁亥『進饌儀軌』)'는,
 대한민국 보물 제1901호 일괄 지정되어 있는,

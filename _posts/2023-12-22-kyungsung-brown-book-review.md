@@ -8,7 +8,7 @@ tags: [책, 소설, 역사, 고예나, 산지니, 북카페 책과 콩나무, �
 '경성 브라운'은
 캐릭터와 서사가 괜찮은 역사소설이다.
 
-![표지](/images/kyungsung-brown-book-h480.jpg)
+![표지](/images/book/kyungsung-brown-book-h480.jpg)
 
 소설은 1919년 경성의 한 카페 '경성 브라운'을 주요 배경으로,
 일본에서 도망쳐온 카페의 여급과

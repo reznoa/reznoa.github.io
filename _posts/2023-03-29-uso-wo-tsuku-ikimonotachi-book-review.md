@@ -10,7 +10,7 @@ tags: [책, 생물, 모리 유민, 무라타 고이치, 이진원, 키라북스,
 '숲속의 거짓말쟁이들(ウソをつく生きものたち)'은
 생물을 독특한 시점으로 살펴보는 책이다.
 
-![표지](/images/uso-wo-tsuku-ikimonotachi-book-h480.jpg)
+![표지](/images/book/uso-wo-tsuku-ikimonotachi-book-h480.jpg)
 
 제목이 상당히 관심을 끈다.
 왜냐하면 그런 게 있어? 라는 생각이 퍼뜩 들어서다.

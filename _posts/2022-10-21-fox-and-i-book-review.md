@@ -9,7 +9,7 @@ tags: [책, 자연, 동물, 실화, 캐서린 레이븐, 노승영, 북하우스
 '여우와 나(Fox and I: An Uncommon Friendship)'는
 야생 동물과의 독특한 관계를 담은 책이다.
 
-![표지](/images/fox-and-i-book-h480.jpg)
+![표지](/images/book/fox-and-i-book-h480.jpg)
 
 동물에게 정을 붙인다는 것,
 특히 야생동물에게 그런다는 것은

@@ -8,7 +8,7 @@ tags: [책, 소설, 미스터리, 배상민, 북다, 북카페 책과 콩나무,
 '아홉 꼬리의 전설'은
 판타지와 역사를 적당히 버무리 소설이다.
 
-![표지](/images/legend-of-the-nine-tails-book-h480.jpg)
+![표지](/images/book/legend-of-the-nine-tails-book-h480.jpg)
 
 과거, 판타지는 세상을 설명하는 해답이었다.
 비올때는 치는 줄 알았던 번개가 갑작스레 내려친다든가,

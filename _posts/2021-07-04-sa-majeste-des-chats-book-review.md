@@ -10,8 +10,8 @@ tags: [책, 소설, SF, 판타지, 디스토피아, 베르나르 베르베르, �
 문명에 대한 고찰을 고양이를 중심으로 풀어낸 소설이다.
 
 <p class="center" markdown="1">
-![1권 표지](/images/sa-majeste-des-chats-1-book-h480.jpg)
-![2권 표지](/images/sa-majeste-des-chats-2-book-h480.jpg)
+![1권 표지](/images/book/sa-majeste-des-chats-1-book-h480.jpg)
+![2권 표지](/images/book/sa-majeste-des-chats-2-book-h480.jpg)
 </p>
 
 이 소설은 저자의 전작 '고양이'에서 이어지는 후속작이다.

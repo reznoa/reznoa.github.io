@@ -9,7 +9,7 @@ tags: [책, 과학, 사지 하루오, 홍성민, 전국과학교사모임, 공�
 '세상의 모든 답은 우주에 있다'는
 여러가지 의문들에 과학적인 답을 주는 책이다.
 
-![표지](/images/the-answers-subete-no-kotae-wa-uchu-ni-aru-book-h480.jpg)
+![표지](/images/book/the-answers-subete-no-kotae-wa-uchu-ni-aru-book-h480.jpg)
 
 물리가 가장 중요하다고 한다.
 왜냐하면 세상의 진실을 쫒아가는 학문이기 때문이다.

@@ -9,11 +9,11 @@ tags: [책, 그림책, 숨은그림찾기, 소피 게리브, 한성희, 시원�
 '공룡탐정의 구조 대모험(Dinosaur detective's search-and-find rescue mission)'은
 공룡을 소재로 한 그림책이다.
 
-![표지](/images/dinosaur-detectives-search-and-find-rescue-mission-picture-book-h480.jpg)
+![표지](/images/book/dinosaur-detectives-search-and-find-rescue-mission-picture-book-h480.jpg)
 
-![p3](/images/dinosaur-detectives-search-and-find-rescue-mission-picture-book-p3.jpg)
+![p3](/images/book/dinosaur-detectives-search-and-find-rescue-mission-picture-book-p3.jpg)
 
-![p23](/images/dinosaur-detectives-search-and-find-rescue-mission-picture-book-p23.jpg)
+![p23](/images/book/dinosaur-detectives-search-and-find-rescue-mission-picture-book-p23.jpg)
 
 그림책이기도 하면서 또한 이 책은 놀이책이기도 하다.
 

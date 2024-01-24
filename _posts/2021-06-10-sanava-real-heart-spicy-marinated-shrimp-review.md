@@ -3,25 +3,26 @@ layout: post
 title: "하나로도 충분한 달달하고 짭짤한 밥도둑 - 사나바 진심장, 양념에 듬뿍 진심 새우장"
 category: 요리
 tags: [절임식품, 새우장, 사나바, 진심장, 엘케이푸드, 레뷰]
+published: false
 ---
 
 '사나바 진심장' 시리즈의 하나인
 '앙념 듬뿍 진심 새우장'은
 간편하게 밥 뚝딱할 수 있게 만들어주는 절임식품이다.
 
-![택배](/images/sanava-real-heart-spicy-marinated-shrimp-01.jpg)
+![택배](/images/review/sanava-real-heart-spicy-marinated-shrimp-01.jpg)
 
-![제품](/images/sanava-real-heart-spicy-marinated-shrimp-02.jpg)
+![제품](/images/review/sanava-real-heart-spicy-marinated-shrimp-02.jpg)
 
-![밀봉 1](/images/sanava-real-heart-spicy-marinated-shrimp-03.jpg)
+![밀봉 1](/images/review/sanava-real-heart-spicy-marinated-shrimp-03.jpg)
 
-![유통기한](/images/sanava-real-heart-spicy-marinated-shrimp-04.jpg)
+![유통기한](/images/review/sanava-real-heart-spicy-marinated-shrimp-04.jpg)
 
-![QR코드](/images/sanava-real-heart-spicy-marinated-shrimp-05.jpg)
+![QR코드](/images/review/sanava-real-heart-spicy-marinated-shrimp-05.jpg)
 
-![표기 1](/images/sanava-real-heart-spicy-marinated-shrimp-06.jpg)
+![표기 1](/images/review/sanava-real-heart-spicy-marinated-shrimp-06.jpg)
 
-![표기 2](/images/sanava-real-heart-spicy-marinated-shrimp-07.jpg)
+![표기 2](/images/review/sanava-real-heart-spicy-marinated-shrimp-07.jpg)
 
 먹는 다는 것은 큰 기쁨이기는 하다만,
 언제나 그런 것은 아니다.
@@ -36,9 +37,9 @@ tags: [절임식품, 새우장, 사나바, 진심장, 엘케이푸드, 레뷰]
 양념맛과 씹는 맛을 동시에 제공하는 굉장한 식품이다.
 잘만 만들면 말이다.
 
-![밀봉 2](/images/sanava-real-heart-spicy-marinated-shrimp-08.jpg)
+![밀봉 2](/images/review/sanava-real-heart-spicy-marinated-shrimp-08.jpg)
 
-![개봉](/images/sanava-real-heart-spicy-marinated-shrimp-09.jpg)
+![개봉](/images/review/sanava-real-heart-spicy-marinated-shrimp-09.jpg)
 
 앙념 듬뿍 진심 새우장은 그런 잘 만든 장이라는 표현이 꽤 잘 어울리는 장이다.
 
@@ -56,27 +57,27 @@ tags: [절임식품, 새우장, 사나바, 진심장, 엘케이푸드, 레뷰]
 장기 보존은 안된다고 생각하는게 맞으며,
 가능한 빨리 개봉해서 먹어야 상하거나 하는 문제가 없을 수 있다.
 
-![밥과 함께 1](/images/sanava-real-heart-spicy-marinated-shrimp-10.jpg)
+![밥과 함께 1](/images/review/sanava-real-heart-spicy-marinated-shrimp-10.jpg)
 
-![새우](/images/sanava-real-heart-spicy-marinated-shrimp-11.jpg)
+![새우](/images/review/sanava-real-heart-spicy-marinated-shrimp-11.jpg)
 
-![밥과 함께 2](/images/sanava-real-heart-spicy-marinated-shrimp-12.jpg)
+![밥과 함께 2](/images/review/sanava-real-heart-spicy-marinated-shrimp-12.jpg)
 
-![밥과 함께 3](/images/sanava-real-heart-spicy-marinated-shrimp-13.jpg)
+![밥과 함께 3](/images/review/sanava-real-heart-spicy-marinated-shrimp-13.jpg)
 
 적당한 양념맛은 이것만으로 한끼를 뚝딱할 수 있게 한다.
 앙념 듬뿍 진심 새우장 하나만으로 맛과 식감이 충분해 딱히 다른 반찬의 필요를 느끼지 않기 때문이다.
 먹기 좋게 껍질을 제거했으면서도 쪽득한 식감이 살아있는 흰다리새우가 통으로 들어있어서 더 그렇다.
 밥에 비벼 먹을 때 참기름 정도만 더해줘도 훌륭한 비빔밥이 된다.
 
-![참기름](/images/sanava-real-heart-spicy-marinated-shrimp-14.jpg)
+![참기름](/images/review/sanava-real-heart-spicy-marinated-shrimp-14.jpg)
 
 단점은 자칫 과식하게 되기 쉽다는 거다.
 그러지 않으려면 조금씩 덜어먹기보다는 미리 한그릇 양을 맞춰놓고 그것만 먹는게 좋다.
 
-![완밥](/images/sanava-real-heart-spicy-marinated-shrimp-15.jpg)
+![완밥](/images/review/sanava-real-heart-spicy-marinated-shrimp-15.jpg)
 
-![완장](/images/sanava-real-heart-spicy-marinated-shrimp-16.jpg)
+![완장](/images/review/sanava-real-heart-spicy-marinated-shrimp-16.jpg)
 
 양에 비해 가격이 꽤 나간다는 것도 굳이 꼽자면 단점에 해당한다.
 그러나, 이는 절임류의 특성 때문에 의한 것으로 앙념 듬뿍 진심 새우장의 단점은 아니다.

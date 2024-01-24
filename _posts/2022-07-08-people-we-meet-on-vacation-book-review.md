@@ -9,7 +9,7 @@ tags: [책, 소설, 로맨스, 에밀리 헨리, 송섬별, 해냄, 이북카페
 '우리의 열 번째 여름(People We Meet on Vacation)'은
 조금은 뻔한 꽤나 고전적인 로맨틱 코미디다.
 
-![표지](/images/people-we-meet-on-vacation-book-h480.jpg)
+![표지](/images/book/people-we-meet-on-vacation-book-h480.jpg)
 
 이 소설은 꽤나 뻔하다.
 첫장을 펼쳤을 때부터 어떻게 끝맺을지 너무 상상이 되기 때문이다.

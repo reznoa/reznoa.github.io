@@ -8,7 +8,7 @@ tags: [책, 도감, SF, 괴수, 괴인, 고성배, 백재중, 닷텍스트, 북�
 'SF 괴수괴인 도해백과'는
 SF 영화 속 괴수와 괴인들을 파해쳐 담은 책이다.
 
-![표지](/images/sf-movie-monster-encyclopedia-book-h480.jpg)
+![표지](/images/book/sf-movie-monster-encyclopedia-book-h480.jpg)
 
 인간은 참말로 비인간적인 존재들을 사랑한다.
 세상을 과학으로 설명할 수 없었을 때에는 그걸 보완하기 위한 것인 줄 알았는데,

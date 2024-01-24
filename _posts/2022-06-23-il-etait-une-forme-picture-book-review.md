@@ -10,7 +10,7 @@ tags: [책, 그림책, 동화, 가졸, 크뤼시포름, 김현아, 한울림어�
 '뾰족반듯단단 도형 나라의 비밀(Il était une forme)'은
 도형을 이용한 기발한 상상력에 감탄하게 되는 동화 그림책이다.
 
-![표지](/images/il-etait-une-forme-picture-book-h480.jpg)
+![표지](/images/book/il-etait-une-forme-picture-book-h480.jpg)
 
 동화의 등장인물을 도형으로 그렸다고하면 얼핏 성의없어 보인다.
 기본도형에 선분을 좀 더 추가한다고 해도 그래봐야 단순한 도형에서 벗어나지 못할 것이 선하기 때문이다.

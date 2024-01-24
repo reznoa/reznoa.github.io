@@ -8,7 +8,7 @@ tags: [책, 소설, 청소년, SF, 추정경, 돌베개, 리뷰어스 클럽, �
 '언더, 스탠드'는
 이해를 주제로 한 소설이다.
 
-![표지](/images/under-stand-book-h480.jpg)
+![표지](/images/book/under-stand-book-h480.jpg)
 
 이야기의 주요 소재는 VR이다.
 그것도 꽤나 발전된 형태의 그야말로 미래 VR,

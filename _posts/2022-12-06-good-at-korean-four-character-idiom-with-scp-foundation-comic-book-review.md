@@ -8,7 +8,7 @@ tags: [책, 만화, 학습만화, 사자성어, 도감, SCP 재단, Team. StoryG
 '국어 잘하는 사자성어 & SCP 재단'은
 사자성어를 담은 국어 잘하는 SCP 재단 시리즈 세번째 책이다.
 
-![표지](/images/good-at-korean-four-character-idiom-with-scp-foundation-comic-book-h480.jpg)
+![표지](/images/book/good-at-korean-four-character-idiom-with-scp-foundation-comic-book-h480.jpg)
 
 일종의 학습만화인 이 책에는
 꽤 많은 수인 총 62개의 사자성어가 담겨있다.

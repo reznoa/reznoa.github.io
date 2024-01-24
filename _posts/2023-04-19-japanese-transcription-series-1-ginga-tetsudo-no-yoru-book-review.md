@@ -9,7 +9,7 @@ tags: [책, 시, 동화, 필사, 미야자와 겐지,오다윤, 세나북스, �
 '손끝으로 채우는 일본어 필사 시리즈 1: 은하철도의 밤(銀河鉄道の夜)'은
 미야자와 겐지의 대표작을 필사할 수 있게 만들어진 책이다.
 
-![표지](/images/japanese-transcription-series-1-ginga-tetsudo-no-yoru-book-w600.jpg)
+![표지](/images/book/japanese-transcription-series-1-ginga-tetsudo-no-yoru-book-w600.jpg)
 
 SF적인 판타지 동화로 유명한 '은하철도의 밤'은,
 그 엄청난 유명세에 비하면 줄거리를 알거나 완독한 사람이 의외로 많지 않은 편이다.

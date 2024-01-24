@@ -9,7 +9,7 @@ tags: [책, 괴담, 마츠바라 타니시, 김지혜, 레드스톤, 이북카�
 '무서운 방(恐い間取り: 事故物件怪談)'은
 사고 부동산 이야기를 담은 책이다.
 
-![표지](/images/jiko-bukken-kaidan-kowai-madori-book-h480.jpg)
+![표지](/images/book/jiko-bukken-kaidan-kowai-madori-book-h480.jpg)
 
 일본에는 '사고 부동산'이라는 꽤나 유명한 용어가 있다.
 누가 죽거나, 사건사고가 있었다거나 해서 사람들이 꺼리는 부동산을 말하는 것으로,

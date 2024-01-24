@@ -9,7 +9,7 @@ tags: [책, 도감, 생물, 두걸 딕슨, 김해용, 소미아이, 북카페 �
 '미래동물 도감(After Man: A Zoology of the Future)'은
 미래에 있을법한 동물을 상상하여 담은 동물 도감이다.
 
-![표지](/images/after-man-a-zoology-of-the-future-book-h480.jpg)
+![표지](/images/book/after-man-a-zoology-of-the-future-book-h480.jpg)
 
 먼 미래를 상상해보는 것인만큼 단순히 현재를 길게 늘이기만 하는 것은 재미 없을 것이다.
 그래서 저자는 '인류가 없어진 지 5,000만 년이 지난 지구'라는 다소 극단적인 설정을 추가했으며,

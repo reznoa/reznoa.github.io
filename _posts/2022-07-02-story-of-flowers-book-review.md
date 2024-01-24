@@ -8,7 +8,7 @@ tags: [책, 소설, 단편, 서경희, 문학정원, 리뷰어스 클럽, 서평
 '꽃들의 대화'는
 꽃을 소재로 한 단편 소설이다.
 
-![표지](/images/story-of-flowers-book.jpg)
+![표지](/images/book/story-of-flowers-book.jpg)
 
 제목인 '꽃들의 대화'는 이 소설의 제목이기도 하면서
 작중작인 희곡의 제목이기도 하다.

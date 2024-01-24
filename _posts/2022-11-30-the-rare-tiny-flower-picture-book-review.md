@@ -10,7 +10,7 @@ tags: [책, 그림책, 키티 오메라, 킴 토레스, 최현경, 보더리스,
 '언젠가 고요한 숲속에 씨앗 하나를(The Rare, Tiny Flower)'은
 이해와 경청에 대해 이야기하는 그림책이다.
 
-![표지](/images/the-rare-tiny-flower-picture-book-h480.jpg)
+![표지](/images/book/the-rare-tiny-flower-picture-book-h480.jpg)
 
 신비로운 새가 날아와 떨어뜨린 씨앗에서
 신비로운 꽃이 피어난다.

@@ -8,7 +8,7 @@ tags: [책, 소설, 정선엽, 시옷이응, 북카페 책과 콩나무, 서평]
 '검은 고양이가 안내하는 세계'는
 고민하는 한 소년의 이야기를 그린 소설이다.
 
-![표지](/images/world-guided-by-black-cat-book-h480.jpg)
+![표지](/images/book/world-guided-by-black-cat-book-h480.jpg)
 
 제목만 보면 다분히 모 만화나 애니가 떠오를법 하다.
 다분히 이세계 또는 세계의 이면으로의 여행을 연상케 하는 제목은

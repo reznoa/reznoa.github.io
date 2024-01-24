@@ -8,7 +8,7 @@ tags: [책, 소설, 스릴러, 하승민, 안전가옥, 안전가옥 쇼-트, �
 '당신의 신은 얼마'는
 암호 화폐를 소재로 한 스릴러 소설이다.
 
-![표지](/images/how-much-is-your-god-book-h480.jpg)
+![표지](/images/book/how-much-is-your-god-book-h480.jpg)
 
 먼저 얘기해두고 넘어가자면,
 암호 화폐 소위 코인이라 하는 것들의 기술적인 것이나

@@ -8,7 +8,7 @@ tags: [책, 역사, 의학, 송은호, 카시오페아, 북카페 책과 콩나�
 '히스토리×메디슨'은
 약과 그에 얽힌 역사를 흥미롭게 풀어낸 책이다.
 
-![표지](/images/history-x-medicine-book-h480.jpg)
+![표지](/images/book/history-x-medicine-book-h480.jpg)
 
 인간사는 흔히 전쟁사라고도 일컬어지기도 한다.
 그만큼 자주 전쟁을 벌여온데다

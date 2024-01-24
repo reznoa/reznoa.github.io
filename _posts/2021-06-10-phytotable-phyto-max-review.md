@@ -3,17 +3,18 @@ layout: post
 title: "병입 구성으로 간편하게 먹을 수 있는 단백질 선식 - 파이토테이블 파이토맥스"
 category: 요리
 tags: [선식, 단백질, 파이토테이블, 하이프로텍, 압구정, 레뷰]
+published: false
 ---
 
 '파이토테이블 파이토맥스' 병입으로 간편하게 먹을 수 있게 만든 단백질 선식이다.
 
-![택배](/images/phytotable-phyto-max-01.jpg)
+![택배](/images/review/phytotable-phyto-max-01.jpg)
 
-![포장](/images/phytotable-phyto-max-02.jpg)
+![포장](/images/review/phytotable-phyto-max-02.jpg)
 
-![제품 1](/images/phytotable-phyto-max-03.jpg)
+![제품 1](/images/review/phytotable-phyto-max-03.jpg)
 
-![제품 2](/images/phytotable-phyto-max-04.jpg)
+![제품 2](/images/review/phytotable-phyto-max-04.jpg)
 
 이 제품의 가장 큰 특징 중 하나는 바로 병입 제품이라는 거다.
 이게 선식 제품의 가장 큰 단점 중 하나인
@@ -28,14 +29,14 @@ tags: [선식, 단백질, 파이토테이블, 하이프로텍, 압구정, 레뷰
 양쪽의 장점을 모두 갖고있는 것이라고도 생각할 수 있을 것이다.
 
 <p class="center" markdown="1">
-![표기 1](/images/phytotable-phyto-max-05.jpg)
-![표기 2](/images/phytotable-phyto-max-06.jpg)
-![표기 3](/images/phytotable-phyto-max-07.jpg)
+![표기 1](/images/review/phytotable-phyto-max-05.jpg)
+![표기 2](/images/review/phytotable-phyto-max-06.jpg)
+![표기 3](/images/review/phytotable-phyto-max-07.jpg)
 </p>
 
-![주요성분: 단백질](/images/phytotable-phyto-max-08.jpg)
+![주요성분: 단백질](/images/review/phytotable-phyto-max-08.jpg)
 
-![주요성분: MACA, BCAA](/images/phytotable-phyto-max-09.jpg)
+![주요성분: MACA, BCAA](/images/review/phytotable-phyto-max-09.jpg)
 
 그저 선식을 소분해 담기만 한 게 아니라 성분에도 신경썼다.
 끼니를 대신하는데 부족함이 없도록 단백질 함량을 하루 섭취 기준 50%에 해당하는 28g까지 늘렸으며,
@@ -43,7 +44,7 @@ tags: [선식, 단백질, 파이토테이블, 하이프로텍, 압구정, 레뷰
 특히 마카는 무려 2000mg이나 넣어 마카의 효능을 충분히 기대해볼 만 하게 했다.
 채소나 과일에서만 발견된다는 생리활성 물질 파이토캐미컬을 담은 것도 파이토맥스의 특징이다.
 
-![물 붓는 선](/images/phytotable-phyto-max-10.jpg)
+![물 붓는 선](/images/review/phytotable-phyto-max-10.jpg)
 
 병에는 물 붓는 선을 표시하는 꼼꼼함도 보인다.
 이 선은 막상 일상에서 음용을 하다보면 제대로 맞추기는 어려운데,
@@ -51,13 +52,13 @@ tags: [선식, 단백질, 파이토테이블, 하이프로텍, 압구정, 레뷰
 어디까지나 최소 물선이라고 생각하면 좋을 듯하다.
 병을 꽉 채우워 흔들 공간이 없게 하지만 않는다면 어느정도 물을 더 넣는 것은 아무런 지장이 없다.
 
-![음용 1](/images/phytotable-phyto-max-11.jpg)
+![음용 1](/images/review/phytotable-phyto-max-11.jpg)
 
-![음용 2](/images/phytotable-phyto-max-12.jpg)
+![음용 2](/images/review/phytotable-phyto-max-12.jpg)
 
-![음용 3](/images/phytotable-phyto-max-13.jpg)
+![음용 3](/images/review/phytotable-phyto-max-13.jpg)
 
-![음용 4](/images/phytotable-phyto-max-14.jpg)
+![음용 4](/images/review/phytotable-phyto-max-14.jpg)
 
 가루가 바닥에 있고 그 위에 물을 붓는 것이다보니
 바닥면에 가루가 달라붙어 있기도 하는데,

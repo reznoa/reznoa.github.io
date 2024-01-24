@@ -9,7 +9,7 @@ tags: [책, 소설, 판타지, 후지마루, 서라미, 흐름출판, 북카페 
 '새벽 3시, 마법도구점 폴라리스(午前3時33分、魔法道具店ポラリス営業中)'는
 마음과 마법을 소재로 인간 드라마를 그려낸 판타지 소설이다.
 
-![표지](/images/gozen-3-ji-33-pun-maho-doguten-polaris-eigyochu-book-h480.jpg)
+![표지](/images/book/gozen-3-ji-33-pun-maho-doguten-polaris-eigyochu-book-h480.jpg)
 
 소설 속 마법의 존재는 조금 특이하다.
 스스로에게 잠재된 기운을 끌어올려 사용한다거나,

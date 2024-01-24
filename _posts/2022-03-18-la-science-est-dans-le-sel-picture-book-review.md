@@ -11,7 +11,7 @@ tags: [책, 과학, 세실 쥐글라, 잭 기샤르, 로랑 시몽, 김세은, �
 '소금이 짜짜짜(La Science est dans le sel)'는
 소금에 대한 여러 정보들을 담고있는 그림책이다.
 
-![표지](/images/la-science-est-dans-le-sel-picture-book-h480.jpg)
+![표지](/images/book/la-science-est-dans-le-sel-picture-book-h480.jpg)
 
 우리가 먹는 것 중에서 가장 익숙한 것 중 하나가 소금이다.
 그 소금은 어디에서 온 것일까?

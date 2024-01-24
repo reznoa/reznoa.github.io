@@ -8,7 +8,7 @@ tags: [책, 소설, 판타지, 동화, 창작동화, 함기석, 김우현, 아�
 '가리온 왕국과 하늘을 나는 아이들'은
 불연듯 떠나게 된 판타지 세계에서의 모험을 그린 창작동화다.
 
-![표지](/images/garion-kingdom-and-flying-children-book-h480.jpg)
+![표지](/images/book/garion-kingdom-and-flying-children-book-h480.jpg)
 
 꽤나 전형적인 아동 판타지 소설이다.
 낯선 세계에 들어가 그곳에 닥친 위기를 친구들과 함께 해처 나가며

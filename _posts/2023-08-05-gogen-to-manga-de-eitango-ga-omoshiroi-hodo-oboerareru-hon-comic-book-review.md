@@ -9,7 +9,7 @@ tags: [책, 영어, 만화, 히지이 가쿠, 더북에듀, 북카페 책과 콩
 '필수 어원을 만화로 잡는 4컷 영단어(語源とマンガで英単語が面白いほど覚えられる本)'는
 영어 단어를 재미있게 익힐 수 있게 만든 책이다.
 
-![표지](/images/gogen-to-manga-de-eitango-ga-omoshiroi-hodo-oboerareru-hon-comic-book-h480.jpg)
+![표지](/images/book/gogen-to-manga-de-eitango-ga-omoshiroi-hodo-oboerareru-hon-comic-book-h480.jpg)
 
 구성을 꽤나 잘 한 책이다.
 

@@ -9,7 +9,7 @@ tags: [책, 소설, 미스터리, 사회파, 사노 히로미, 김지연, 문예
 '누군가 이 마을에서(誰かがこの町で)'는
 동조 압력을 소재로 한 사회파 미스터리 소설이다.
 
-![표지](/images/darekaga-kono-machide-book-h480.jpg)
+![표지](/images/book/darekaga-kono-machide-book-h480.jpg)
 
 동조 압력(Peer Pressure)이란 특정 집단에서 암묵적으로 다수 의견에 맞추도록 강제하는 것을 콕 집어서 말하는 것이다.
 

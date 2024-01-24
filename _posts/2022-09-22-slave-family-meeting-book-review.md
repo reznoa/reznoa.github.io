@@ -8,7 +8,7 @@ tags: [책, 소설, 고호, 델피노, 문화충전200%, 서평]
 '노비 종친회'는
 족보라는 소재를 정말로 잘 풀어낸 소설이다.
 
-![표지](/images/slave-family-meeting-book-h480.jpg)
+![표지](/images/book/slave-family-meeting-book-h480.jpg)
 
 현대 한국인들은 대부분 족보라는 걸 가지고 있다.
 족보의 대부분은 왕과 양반으로 이어지는 소위 가문의 영광을 보여주는 것으로 이어지는데,

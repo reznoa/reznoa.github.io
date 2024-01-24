@@ -8,7 +8,7 @@ tags: [책, 소설, SF, 소현수, 이미솔, EBS, 북카페 책과 콩나무, �
 '사건분석관K: 미래범죄 수사일지'는
 2094년 미래를 배경으로한 범죄 사건을 그린 SF 소설이다.
 
-![표지](/images/case-analyst-k-book-h480.jpg)
+![표지](/images/book/case-analyst-k-book-h480.jpg)
 
 [EBS 공상 토크쇼 '공상가들'](https://www.youtube.com/watch?v=jWDOqFsB6CE&list=PLRcWhS_oUugGXi9mJ5IGx-g0KVg2wM3jv)을 원작으로 한 이 소설은,
 그 중 2021년 말에 인기리에 방영했던 3회분의 파일럿을 기본으로

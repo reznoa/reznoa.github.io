@@ -9,7 +9,7 @@ tags: [책, 희곡, 윌리엄 셰익스피어, 최영열, 미래와사람, 컬�
 '읽기 쉽게 풀어쓴 현대어판 햄릿(Hamlet)'은
 현대어로 읽기 쉽게 옮긴 고전 희곡이다.
 
-![표지](/images/hamlet-easy-to-read-modern-language-edition-book-h480.jpg)
+![표지](/images/book/hamlet-easy-to-read-modern-language-edition-book-h480.jpg)
 
 희곡은 지문이 거의 없고 주로 대사로만 이뤄져있다는 특성 때문에 경우에 따라 해석이 크게 갈릴 수 있다.
 이는 이 책 햄릿처럼 저자가 직접 쓴 것이 아니라 후대의 사람들이 기억에 의존해 짜집기해 만든 것일 경우 더 그렇다.

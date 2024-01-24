@@ -8,7 +8,7 @@ tags: [책, 만화, 가상화폐, 사기, 김태권, 비아북, 컬처블룸, �
 '코인 묵시록'은
 가상화폐를 둘러싼 투기와 사기를 담은 만화다.
 
-![표지](/images/coin-apocalypse-comic-book-h480.jpg)
+![표지](/images/book/coin-apocalypse-comic-book-h480.jpg)
 
 개인적으로 가상화폐에 부정적이다.
 실질적인 가치가 전혀 없기 때문이다.

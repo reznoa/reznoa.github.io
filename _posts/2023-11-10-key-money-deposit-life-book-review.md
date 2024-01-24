@@ -8,7 +8,7 @@ tags: [책, 소설, 단편, 권제훈, 김성준, 박생강, 이선진, 임국�
 '전세 인생'은
 전세를 소재로 한 단편집이다.
 
-![표지](/images/key-money-deposit-life-book-h480.jpg)
+![표지](/images/book/key-money-deposit-life-book-h480.jpg)
 
 '전세 살이'라는 말이 있을 정도로
 전세는 우리에게 익숙한 것이면서

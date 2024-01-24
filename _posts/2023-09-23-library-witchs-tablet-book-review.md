@@ -8,7 +8,7 @@ tags: [책, 소설, 청소년, 판타지, 차무진, 블랙홀, 책세상맘수�
 '도서관 마녀의 태블릿'
 마법의 태블릿을 소재로 한 청소년 성장 소설이다.
 
-![표지](/images/library-witchs-tablet-book-h480.jpg)
+![표지](/images/book/library-witchs-tablet-book-h480.jpg)
 
 설정이 꽤 재미있다.
 이제는 구식이 되어버린 오래된, 심지어 정품같지도 않아서 수상한 태블릿에

@@ -8,7 +8,7 @@ tags: [책, 에린 헌터, 웨인 매클로플린, 서현정, 가람어린이, �
 '전사들 얼티밋 가이드(Warriors: The Ultimate Guide)'는
 시리즈 캐릭터들과 이야기를 정리해서 담은 책이다.
 
-![표지](/images/warriors-the-ultimate-guide-book-h480.jpg)
+![표지](/images/book/warriors-the-ultimate-guide-book-h480.jpg)
 
 전사들이 꽤 오랫동안 이어오며 많은 사랑을 받은 시리즈다보니
 중간 중간에 여러차례 필드 가이드(Field Guides)라는 게 나오기도 했는데,

@@ -8,7 +8,7 @@ tags: [책, 소설, 단편, 소방관, 고요한, 권제훈, 김강, 도재경, 
 '소방관을 부탁해'는
 소방관을 테마로 한 단편 소설집이다.
 
-![표지](/images/take-care-of-firefighter-book-h480.jpg)
+![표지](/images/book/take-care-of-firefighter-book-h480.jpg)
 
 우리는 꽤 분명한 소방관에 대한 기대가 있다.
 자신의 위험마저 감수하며 사람들을 위해 몸을 던지는 희생정신,

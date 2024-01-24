@@ -8,7 +8,7 @@ tags: [책, 셜록 홈즈, 안병억, 열대림, 북카페 책과 콩나무, 서
 '셜록 홈즈 다시 읽기'는
 셜록 홈즈의 팬이라면 재미있게 볼만한 뒷 이야기를 담은 책이다.
 
-![표지](/images/rereading-sherlock-holmes-book-h480.jpg)
+![표지](/images/book/rereading-sherlock-holmes-book-h480.jpg)
 
 가장 유명한, 또한 가장 인기있는 탐정을 꼽으라고 하면
 대부분의 사람들이 주저없이 '셜록 홈즈'를 꼽을 것이다.

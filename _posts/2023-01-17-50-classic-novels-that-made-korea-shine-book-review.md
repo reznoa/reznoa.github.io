@@ -8,7 +8,7 @@ tags: [책, 소설, 올드스테어즈, 컬처블룸, 서평]
 '한국을 빛낸 50개의 고전들 (만화로 보자!)'는
 한국의 주요 신화, 설화, 그리고 현대소설 50편을 담은 책이다.
 
-![표지](/images/50-classic-novels-that-made-korea-shine-book-h480.jpg)
+![표지](/images/book/50-classic-novels-that-made-korea-shine-book-h480.jpg)
 
 '만화로 보자!'라는 문구가 표지에 제목과 함께 박혀있고
 학습만화로 분류하고 있기는 하지만,

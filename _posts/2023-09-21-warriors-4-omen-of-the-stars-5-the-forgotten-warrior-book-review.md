@@ -9,7 +9,7 @@ tags: [책, 소설, 에린 헌터, 서현정, 가람어린이, 북카페 책과 
 '전사들 4부 별들의 징조 5: 잊힌 전사(Warriors: Omen of the Stars #4 The Forgotten Warrior)'는
 시리즈 4부 다섯번째 책이다.
 
-![표지](/images/warriors-4-omen-of-the-stars-5-the-forgotten-warrior-book-h480.jpg)
+![표지](/images/book/warriors-4-omen-of-the-stars-5-the-forgotten-warrior-book-h480.jpg)
 
 4부는 예언의 고양이들이 가진 특별한 능력을 내세우고,
 과거와 현재를 오가며 시계를 흔드는 등

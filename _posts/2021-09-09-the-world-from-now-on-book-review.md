@@ -8,7 +8,7 @@ tags: [책, 소설, 비람풍, 김태연, 파람북, 리뷰어스 클럽, 서평
 '지금부터의 세계'는
 AI 소설가 비람풍(毘嵐風)의 데뷔작이다.
 
-![표지](/images/the-world-from-now-on-book-h480.jpg)
+![표지](/images/book/the-world-from-now-on-book-h480.jpg)
 
 이 소설은 일반적인 소설과는 조금 다른 관점에서 봐야한다.
 왜냐하면, 이 소설은 인간이 아닌 AI가 쓴 소설이기 때문이다.

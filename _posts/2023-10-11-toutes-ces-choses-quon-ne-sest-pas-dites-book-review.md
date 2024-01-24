@@ -9,7 +9,7 @@ tags: [책, 소설, 원작소설, 드라마화, 마르크 레비, 강미란, 열
 '차마 못다 한 이야기들(Toutes ces choses qu'on ne s'est pas dites; All Those Things We Never Said)'은
 뜻밖의 여정에 나서게 되는 부녀의 이야기를 그린 소설이다.
 
-![표지](/images/toutes-ces-choses-quon-ne-sest-pas-dites-book-h480.jpg)
+![표지](/images/book/toutes-ces-choses-quon-ne-sest-pas-dites-book-h480.jpg)
 
 꽤나 엉뚱하다.
 왜냐하면, 좀 말이 안되어 보이기 때문이다.

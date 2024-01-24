@@ -4,18 +4,19 @@ title: "방수, 고신축성 등을 두루 갖춘 국내최초 검정밴드 - �
 description: "상처 보호는 물론 스포츠, 일반 생활 용으로도 좋은 다용도 반창고 스킨가드 플러스 블랙을 사용해봤다."
 category: "생활/가전"
 tags: [의약외품, 멸균반창고, 스포츠, 동아제약, 티엠비, 레뷰, 체험단]
+published: false
 ---
 
 '동아제약 스킨가드 플러스 블랙'은
 스포츠 분야에도 적합한 고기능 반창고 브랜드 스킨가드 플러스의 신제품이다.
 
-![포장 1](/images/skin-guard-plus-black-01.jpg)
+![포장 1](/images/review/skin-guard-plus-black-01.jpg)
 
-![포장 2](/images/skin-guard-plus-black-02.jpg)
+![포장 2](/images/review/skin-guard-plus-black-02.jpg)
 
-![팩](/images/skin-guard-plus-black-03.jpg)
+![팩](/images/review/skin-guard-plus-black-03.jpg)
 
-![표기](/images/skin-guard-plus-black-04.jpg)
+![표기](/images/review/skin-guard-plus-black-04.jpg)
 
 스킨가드 플러스를 한마디로 말하자면 고급 반창고라고 할 수 있다.
 보통의 반창고와 달리 고밀도 우레탄 부직포를 사용해서
@@ -33,31 +34,31 @@ tags: [의약외품, 멸균반창고, 스포츠, 동아제약, 티엠비, 레뷰
 멸균성을 위해 포장에도 신경썼다.
 유통 중은 물론 한번 개봉한 후에도 가능한 오염이 적도록 여러 단계로 감싸여있다.
 
-![여는 곳](/images/skin-guard-plus-black-05.jpg)
+![여는 곳](/images/review/skin-guard-plus-black-05.jpg)
 
-![개봉](/images/skin-guard-plus-black-06.jpg)
+![개봉](/images/review/skin-guard-plus-black-06.jpg)
 
-![제품 1](/images/skin-guard-plus-black-07.jpg)
+![제품 1](/images/review/skin-guard-plus-black-07.jpg)
 
-![제품 2](/images/skin-guard-plus-black-08.jpg)
+![제품 2](/images/review/skin-guard-plus-black-08.jpg)
 
-![제품 OPEN 1](/images/skin-guard-plus-black-09.jpg)
+![제품 OPEN 1](/images/review/skin-guard-plus-black-09.jpg)
 
-![제품 OPEN 2](/images/skin-guard-plus-black-10.jpg)
+![제품 OPEN 2](/images/review/skin-guard-plus-black-10.jpg)
 
-![제품 OPEN 3](/images/skin-guard-plus-black-11.jpg)
+![제품 OPEN 3](/images/review/skin-guard-plus-black-11.jpg)
 
-![제품 OPEN 4](/images/skin-guard-plus-black-12.jpg)
+![제품 OPEN 4](/images/review/skin-guard-plus-black-12.jpg)
 
-![제품 OPEN 5](/images/skin-guard-plus-black-13.jpg)
+![제품 OPEN 5](/images/review/skin-guard-plus-black-13.jpg)
 
 스킨가드 플러스 블랙은 일반적인 반창고 형태로 만들어졌으며,
 사용법 역시 익숙한 것을 그대로 유지했다.
 그래서 기존에 반창고를 사용하던 것처럼 크게 신경쓰지 않고 사용할 수 있다.
 
-![사용 1](/images/skin-guard-plus-black-14.jpg)
+![사용 1](/images/review/skin-guard-plus-black-14.jpg)
 
-![사용 2](/images/skin-guard-plus-black-15.jpg)
+![사용 2](/images/review/skin-guard-plus-black-15.jpg)
 
 스킨가드 플러스 블랙은 국내 최초의 검정밴드인데,
 검은색은 몸에 붙였을 때 더 눈에 띄기는 하지만 묵직한 색깔은 확실히 고급스럽다.
@@ -65,18 +66,18 @@ tags: [의약외품, 멸균반창고, 스포츠, 동아제약, 티엠비, 레뷰
 그동안에는 반창고 제품이 대부분 살색으로 통일되어있어 선택권이 없었다는 걸 생각하면
 취향에 따라 고를 수 있게 됐다는 점은 긍정적이다.
 
-![우그리기](/images/skin-guard-plus-black-17.jpg)
+![우그리기](/images/review/skin-guard-plus-black-17.jpg)
 
-![펼치기](/images/skin-guard-plus-black-18.jpg)
+![펼치기](/images/review/skin-guard-plus-black-18.jpg)
 
-![사용 3](/images/skin-guard-plus-black-16.jpg)
+![사용 3](/images/review/skin-guard-plus-black-16.jpg)
 
 점착성이 대단히 좋아서 많이 또 자주 움직이는 부분에 사용했을때도 그 사용을 다 할때까지 잘 버텨준다.
 그렇다고 그를 위해 강한 점착제를 사용하지도 않았다.
 저 알러지성 점착제는 그 자체로도 피부 자극도 크지 않으며,
 점착력 역시 적당해서 떼어낼 때 피부를 잡아뜯는다거나 하여 상처를 남기지 않는다.
 
-![떼기](/images/skin-guard-plus-black-19.jpg)
+![떼기](/images/review/skin-guard-plus-black-19.jpg)
 
 스킨가드 플러스 블랙은 처음부터 기획되어있었던 것은 아니고,
 헬창 마케터가 무려 5년이나 설득해 출시하게 된 것이라고 한다.

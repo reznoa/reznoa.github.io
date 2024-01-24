@@ -9,13 +9,13 @@ published: false
 '다다나노 3D패션마스크 & 항균 산소마스크 필터'는
 패션마스크와 필터의 장점을 조금씩 함께 누릴 수 있는 조합이다.
 
-![세트](/images/dadanano-mask-and-sop-sterilizing-and-deodorizing-mask-filter-01.jpg)
+![세트](/images/review/dadanano-mask-and-sop-sterilizing-and-deodorizing-mask-filter-01.jpg)
 
-![마스크 색상](/images/dadanano-mask-and-sop-sterilizing-and-deodorizing-mask-filter-02.jpg)
+![마스크 색상](/images/review/dadanano-mask-and-sop-sterilizing-and-deodorizing-mask-filter-02.jpg)
 
-![마스크 표기](/images/dadanano-mask-and-sop-sterilizing-and-deodorizing-mask-filter-03.jpg)
+![마스크 표기](/images/review/dadanano-mask-and-sop-sterilizing-and-deodorizing-mask-filter-03.jpg)
 
-![필터 표기](/images/dadanano-mask-and-sop-sterilizing-and-deodorizing-mask-filter-04.jpg)
+![필터 표기](/images/review/dadanano-mask-and-sop-sterilizing-and-deodorizing-mask-filter-04.jpg)
 
 일반 필터 마스크의 장점은 나름 검증되어있다는 것
 완성된 마스크 제품으로 테스트를 받은 것이기 때문에
@@ -28,7 +28,7 @@ published: false
 필터를 구성하는 재질의 특성상 얼굴에 딱 맞거나 표면이 덜 자극적이기 어렵기에
 오랫동안 쓰고있는다는 게 부담스러울 때도 많다.
 
-![마스크 제품](/images/dadanano-mask-and-sop-sterilizing-and-deodorizing-mask-filter-05.jpg)
+![마스크 제품](/images/review/dadanano-mask-and-sop-sterilizing-and-deodorizing-mask-filter-05.jpg)
 
 패션마스크는 정확히 그 반대라고 할 수 있다.
 필터로서의 성능은 떨어지지만 대신 부드러운 재질로 만들어 자극적이지 않으며
@@ -39,11 +39,11 @@ published: false
 패션마스크에 필터를 부착해 사용하는 것은 그것의 중간 지점을 찾은 것이라고 할 수 있다.
 편안함은 패션마스크가 담당하고, 그에 부족한 성능은 필터를 부착해 보완한다.
 
-![필터 밀봉](/images/dadanano-mask-and-sop-sterilizing-and-deodorizing-mask-filter-06.jpg)
+![필터 밀봉](/images/review/dadanano-mask-and-sop-sterilizing-and-deodorizing-mask-filter-06.jpg)
 
-![필터 구성](/images/dadanano-mask-and-sop-sterilizing-and-deodorizing-mask-filter-07.jpg)
+![필터 구성](/images/review/dadanano-mask-and-sop-sterilizing-and-deodorizing-mask-filter-07.jpg)
 
-![필터 접힘](/images/dadanano-mask-and-sop-sterilizing-and-deodorizing-mask-filter-08.jpg)
+![필터 접힘](/images/review/dadanano-mask-and-sop-sterilizing-and-deodorizing-mask-filter-08.jpg)
 
 항균 산소마스크 필터는 거기에서 한걸음 더 나아가,
 필터에 산소발생 기능을 추가했다.
@@ -66,15 +66,15 @@ published: false
 한장씩 개별 포장되어있다는 소개와 달리 5개가 한 묶음으로 들어있어 접촉 오염에 주의해야 하는 것,
 그리고 어느쪽이 안쪽(얼굴쪽)이고 어느쪽이 바깥쪽인지 명확하게 표기 또는 설명되어있지 않은 것이 아쉬웠다.
 
-![필터 장착 1](/images/dadanano-mask-and-sop-sterilizing-and-deodorizing-mask-filter-09.jpg)
+![필터 장착 1](/images/review/dadanano-mask-and-sop-sterilizing-and-deodorizing-mask-filter-09.jpg)
 
-![필터 장착 2](/images/dadanano-mask-and-sop-sterilizing-and-deodorizing-mask-filter-10.jpg)
+![필터 장착 2](/images/review/dadanano-mask-and-sop-sterilizing-and-deodorizing-mask-filter-10.jpg)
 
-![필터 장착 3](/images/dadanano-mask-and-sop-sterilizing-and-deodorizing-mask-filter-11.jpg)
+![필터 장착 3](/images/review/dadanano-mask-and-sop-sterilizing-and-deodorizing-mask-filter-11.jpg)
 
-![필터 장착 4](/images/dadanano-mask-and-sop-sterilizing-and-deodorizing-mask-filter-12.jpg)
+![필터 장착 4](/images/review/dadanano-mask-and-sop-sterilizing-and-deodorizing-mask-filter-12.jpg)
 
-![필터 장착 5](/images/dadanano-mask-and-sop-sterilizing-and-deodorizing-mask-filter-13.jpg)
+![필터 장착 5](/images/review/dadanano-mask-and-sop-sterilizing-and-deodorizing-mask-filter-13.jpg)
 
 다다나노 마스크는 이제는 널리 알려진 기능성 원서 '아스킨'으로 만들어
 그 자체로도 꽤 좋은 항균효과를 갖고있다.
@@ -83,7 +83,7 @@ published: false
 항균 작용은 30번 정도 세척할 때까지 유지가 된다는데,
 확실한 항균이 필요한 곳에서는 더 조심할 필요가 있다.
 
-![착용](/images/dadanano-mask-and-sop-sterilizing-and-deodorizing-mask-filter-14.jpg)
+![착용](/images/review/dadanano-mask-and-sop-sterilizing-and-deodorizing-mask-filter-14.jpg)
 
 제품은 [망고컴 스마트스토어](https://smartstore.naver.com/mangocom/products/5312146630)에서 할 수 있으며,
 가격은 구성에 따라 다음과 같다.

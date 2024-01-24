@@ -9,7 +9,7 @@ tags: [책, 희곡, 윌리엄 셰익스피어, 공민희, 미래와사람, 컬�
 '읽기 쉽게 풀어쓴 현대어판 맥베스(Macbeth)'는
 가장 화려하고 잔인하다는 셰익스피어 4대 비극 중 하나이다.
 
-![표지](/images/macbeth-easy-to-read-modern-language-edition-book-h480.jpg)
+![표지](/images/book/macbeth-easy-to-read-modern-language-edition-book-h480.jpg)
 
 본작의 주인공 맥베스와 그의 부인은
 꽤나 셰익스피어가 좋아하는 인물상을 그대로 그린 것처럼 보인다.

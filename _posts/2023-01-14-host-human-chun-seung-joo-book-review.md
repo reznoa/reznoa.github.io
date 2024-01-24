@@ -8,7 +8,7 @@ tags: [책, 소설, 창작동화, 김경은, 혜캉, 열림원어린이, 열림�
 '숙주인간 천승주'는
 우주기생생물의 숙주가 되면서 벌어지는 일을 그린 이야기다.
 
-![표지](/images/host-human-chun-seung-joo-book-h480.jpg)
+![표지](/images/book/host-human-chun-seung-joo-book-h480.jpg)
 
 우주기생생물을 소재로 한만큼, 이 소설은 일종의 SF라고도 할 수 있겠다.
 미지의 생명체라는 것은 꽤나 흥미를 끄는 요소인데,

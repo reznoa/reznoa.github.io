@@ -10,7 +10,7 @@ tags: [책, 만화, 그래픽노블, 자전, 등산, 성장, 올리비에 보케
 '엘프와드: 고도 3954(Ailefroide: Altitude 3954)'는
 산의 매력을 듬뿍 담고있는 만화다.
 
-![표지](/images/ailefroide-altitude-3954-comic-book-h480.jpg)
+![표지](/images/book/ailefroide-altitude-3954-comic-book-h480.jpg)
 
 저자 목록에 '올리비에 보케'가 들어있는 것을 보면 의아하다는 생각을 할 수밖에 없을 거다.
 그도 그럴것이 이 만화의 주인공은 장 마르크 로셰트 봉인이고,

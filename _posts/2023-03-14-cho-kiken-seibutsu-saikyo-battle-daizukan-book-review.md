@@ -9,7 +9,7 @@ tags: [책, 생물, 도감, 이마이즈미 다다아키, 안소현, 소담주�
 '초위험 생물 최강 배틀 대도감(超危険生物: 最強バトル大図鑑 - ナンバーワン決定トーナメントバトル！)'은
 위험한 생물들과 그들의 가상 전투를 담은 책이다.
 
-![표지](/images/cho-kiken-seibutsu-saikyo-battle-daizukan-book-h480.jpg)
+![표지](/images/book/cho-kiken-seibutsu-saikyo-battle-daizukan-book-h480.jpg)
 
 토너먼트 방식으로 최강자를 가린다는 상상은 꽤나 재미있다.
 인간이 오랫동안 승부라는 이름의 엔터테인먼트로써 소비해온 대중적인 포맷인데다,

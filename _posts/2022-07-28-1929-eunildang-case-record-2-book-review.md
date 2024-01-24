@@ -8,7 +8,7 @@ tags: [책, 소설, 추리, 경성, 무경, 부크크, 부크크오리지널, �
 '1929년 은일당 사건 기록 2: 호랑이덫'은
 1929년 경성을 배경으로 한 시리즈 두번째 책이다.
 
-![표지](/images/1929-eunildang-case-record-2-book-h480.jpg)
+![표지](/images/book/1929-eunildang-case-record-2-book-h480.jpg)
 
 실로 기대하던 책이었다.
 그만큼 전작의 구성과 캐릭터, 그에 부합하는 이야기는 물론

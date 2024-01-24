@@ -9,7 +9,7 @@ tags: [책, 과학, 사라 에버츠, 김성훈, 한국경제신문, 북카페 �
 '땀의 과학(The Joy of Sweat)'은
 땀에 대한 여러가지 이야기를 담은 책이다.
 
-![표지](/images/the-joy-of-sweat-book-h480.jpg)
+![표지](/images/book/the-joy-of-sweat-book-h480.jpg)
 
 한국어판의 제목은 원제와 상당한 차이가 있다.
 한국어판 제목이 땀에 대한 분석을 담은 책처럼 보인다면,

@@ -9,7 +9,7 @@ tags: [책, 소설, 미스터리, 원작소설, 드라마화, 홀리 잭슨, 장
 '여고생 핍의 사건 파일: 샐 싱 미스터리 편(A Good Girl’s Guide to Murder)'은
 '여고생 핍 시리즈(A Good Girl's Guide to Murder Series)' 첫번째 책이다.
 
-![표지](/images/a-good-girls-guide-to-murder-book-h480.jpg)
+![표지](/images/book/a-good-girls-guide-to-murder-book-h480.jpg)
 
 고등학생이 학교 과제의 일환으로 살인 사건을 조사한다는 아이디어가 꽤 재미있다.
 단지 재미있을 뿐 아니라 여러면에서 장점이 있는 설정이기도 하다.

@@ -9,7 +9,7 @@ tags: [책, 소설, 동화, 창작동화, 타냐 슈테브너, 코마가타, 박
 '동물과 말하는 아이 릴리 6: 아기 판다의 엄마를 찾아 줘!(Liliane Susewind #6 Ein Panda ist kein Känguru)'는
 릴리 수제빈트 시리즈 여섯번째 책이다.
 
-![표지](/images/liliane-susewind-6-ein-panda-ist-kein-kaenguru-book-h480.jpg)
+![표지](/images/book/liliane-susewind-6-ein-panda-ist-kein-kaenguru-book-h480.jpg)
 
 동물들과 대화를 나눌 수 있기 때문에
 늘 동물들의 입장에 깊게 공감하고

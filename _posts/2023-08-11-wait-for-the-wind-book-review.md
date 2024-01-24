@@ -8,7 +8,7 @@ tags: [책, 소설, 청소년, 이옥수, 앤드, 넥서스, 컬처블룸, 서�
 '바람을 기다려'는
 정체성 문제를 담은 소설이라 할 수 있다.
 
-![표지](/images/wait-for-the-wind-book-h480.jpg)
+![표지](/images/book/wait-for-the-wind-book-h480.jpg)
 
 
 

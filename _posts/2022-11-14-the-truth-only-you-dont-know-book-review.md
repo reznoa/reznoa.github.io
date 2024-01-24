@@ -8,7 +8,7 @@ tags: [책, 소설, 청소년, 자살, 김하연, 특별한서재, 컬처블룸,
 '너만 모르는 진실'은
 한 아이의 자살과 폭로를 둘러싼 이야기를 그린 소설이다.
 
-![표지](/images/the-truth-only-you-dont-know-book-h480.jpg)
+![표지](/images/book/the-truth-only-you-dont-know-book-h480.jpg)
 
 자살한 아이에게서 갑자기 편지를 받게 된다면,
 대체 무슨 생각이 들게될까.

@@ -8,7 +8,7 @@ tags: [책, 소설, SF, 이선, 고블, 고블 씬 북, 리뷰어스 클럽, 서
 '굿 피플 프로젝트'는
 지옥을 만들려는 사람들의 이야기를 그린 소설이다.
 
-![표지](/images/good-people-project-book-h480.jpg)
+![표지](/images/book/good-people-project-book-h480.jpg)
 
 세상이 완전한 지옥이 되기 전을 그린 일종의 아포칼립스 소설인데,
 그 지옥을 인간들이 스스로 만들어내려 한다는 것이 꽤 흥미롭다.

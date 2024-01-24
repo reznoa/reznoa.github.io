@@ -10,7 +10,7 @@ tags: [책, 만화, 코미디, 로맨스, 노다 히로시, 마카마츠 타카�
 '사랑은 세계정복 후에(恋は世界征服のあとで)'는
 히어로와 비밀결사의 로맨스를 그린 코미디 만화다.
 
-![표지](/images/koi-wa-sekaiseifuku-no-atode-1-comic-book-cover.jpg)
+![표지](/images/book/koi-wa-sekaiseifuku-no-atode-1-comic-book-cover.jpg)
 
 전대물에서 히어로와 비밀결사의 간부는 서로 대립각을 이루도록 설정된 관계다.
 애초부터 비밀결사의 간부란 정의의 아군인 히어로의 반대 개념으로 만들어진 것이란 말이다.
@@ -20,7 +20,7 @@ tags: [책, 만화, 코미디, 로맨스, 노다 히로시, 마카마츠 타카�
 다른 사람들은 진지하게 한참 치고받는 중에
 오랫만에 만난 회포나 풀고있는 모양새가 그 자체로 꽤나 코믹하기 때문이다.
 
-![6~7](/images/koi-wa-sekaiseifuku-no-atode-1-comic-book-p006-007.jpg)
+![6~7](/images/book/koi-wa-sekaiseifuku-no-atode-1-comic-book-p006-007.jpg)
 
 사실 이런 구도 자체가 신선한 것은 아니다.
 특히 로맨스에서는 더 그렇다.
@@ -32,13 +32,13 @@ tags: [책, 만화, 코미디, 로맨스, 노다 히로시, 마카마츠 타카�
 그렇다고 식상하지만은 않은데,
 은근히 곳곳에 전대물 요소도 잘 살려서 보는 맛이 있기 때문이다.
 
-![21](/images/koi-wa-sekaiseifuku-no-atode-1-comic-book-p021.jpg)
+![21](/images/book/koi-wa-sekaiseifuku-no-atode-1-comic-book-p021.jpg)
 
-![29](/images/koi-wa-sekaiseifuku-no-atode-1-comic-book-p029.jpg)
+![29](/images/book/koi-wa-sekaiseifuku-no-atode-1-comic-book-p029.jpg)
 
-![70](/images/koi-wa-sekaiseifuku-no-atode-1-comic-book-p070.jpg)
+![70](/images/book/koi-wa-sekaiseifuku-no-atode-1-comic-book-p070.jpg)
 
-![112](/images/koi-wa-sekaiseifuku-no-atode-1-comic-book-p112.jpg)
+![112](/images/book/koi-wa-sekaiseifuku-no-atode-1-comic-book-p112.jpg)
 
 주인공들의 캐릭터가 극단적인 것도 그런 것 중 하나다.
 워낙 일상에 많은 제약을 받는 특수한 직업에 종사하는 사람들이니
@@ -53,7 +53,7 @@ tags: [책, 만화, 코미디, 로맨스, 노다 히로시, 마카마츠 타카�
 이야기가 단지 상황과 캐릭터에만 의존해 단순하게 흘러가지 않는 것도 좋았다.
 이런 것들은 만화 속 세계관에대해 더 상상해보게 만들기도 한다.
 
-![40](/images/koi-wa-sekaiseifuku-no-atode-1-comic-book-p040.jpg)
+![40](/images/book/koi-wa-sekaiseifuku-no-atode-1-comic-book-p040.jpg)
 
 단순한 설정과 상황을 기본으로 하고,
 연출도 대놓고 촌스러운 것을 사용하기도 했는데

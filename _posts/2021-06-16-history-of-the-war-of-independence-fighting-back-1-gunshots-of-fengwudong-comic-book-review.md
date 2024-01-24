@@ -8,7 +8,7 @@ tags: [책, 만화, 역사, 정명섭, 남문희, 신효승, 레드리버, 북�
 '봉오동의 총성'은
 봉오동 전투에 얽힌 이모저모를 만화로 재구성해 담은 책이다.
 
-![표지](/images/history-of-the-war-of-independence-fighting-back-1-gunshots-of-fengwudong-comic-book-h480.jpg)
+![표지](/images/book/history-of-the-war-of-independence-fighting-back-1-gunshots-of-fengwudong-comic-book-h480.jpg)
 
 무늬만 만화책이라는 생각도 드는 책이다.
 만화라고는 하지만 담은 내용이 많아서 밀도가 상당한게 그 첫번째다.

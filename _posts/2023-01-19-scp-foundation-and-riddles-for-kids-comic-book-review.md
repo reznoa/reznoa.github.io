@@ -8,7 +8,7 @@ tags: [책, 만화, SCP 재단, 수수께끼, 이준하, 이주한, 소담주니
 'SCP 재단 어린이 수수께끼: 재단의 비밀을 파헤치자'는
 SCP 재단 캐릭터와 수수께끼를 더한 만화다.
 
-![표지](/images/scp-foundation-and-riddles-for-kids-comic-book-h480.jpg)
+![표지](/images/book/scp-foundation-and-riddles-for-kids-comic-book-h480.jpg)
 
 '[SCP 재단](http://scpko.wikidot.com/)'은 창작물을 통해 세계관을 만들어나가는 어반판타지로,
 대게 번호가 붙는 SCP 개체를 중심으로 하므로 일종의 크리쳐물이라고도 볼 수 있다.

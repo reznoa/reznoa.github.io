@@ -9,7 +9,7 @@ tags: [책, 소설, 동화, 창작동화, 생물, 곤충, 장 앙리 파브르, 
 '파브르 곤충기 2: 파브르와 손녀 루시의 노예개미 여행'은
 동명의 원저 파브르 곤충기(Souvenirs entomologiques)를 기반으로 한 창작 동화다.
 
-![표지](/images/yolimwon-kids-souvenirs-entomologiques-2-book-h480.jpg)
+![표지](/images/book/yolimwon-kids-souvenirs-entomologiques-2-book-h480.jpg)
 
 파브르 곤충기를 모르는 사람은 없지만,
 또한 그걸 실제로 읽은 사람도 극히 드물다.

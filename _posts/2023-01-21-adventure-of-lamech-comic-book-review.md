@@ -8,7 +8,7 @@ tags: [책, 만화, 사회, 학습만화, 박영순, 굿네이버스, 초록비�
 '라멕의 모험'은
 굿네이버스 세계시민교육 만화 말라위 편이다.
 
-![표지](/images/adventure-of-lamech-comic-book-w600.jpg)
+![표지](/images/book/adventure-of-lamech-comic-book-w600.jpg)
 
 '[2022년 제14회 굿네이버스 세계시민교육 편지쓰기대회](https://www.youtube.com/watch?v=NT0YZ3QT_KA)'를 통해 공개된
 아프리카 말라위에 사는 10살 소년 라멕의 이야기를 담은 '라멕의 모험'은

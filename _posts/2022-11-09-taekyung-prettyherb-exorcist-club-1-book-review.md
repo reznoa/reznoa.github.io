@@ -8,7 +8,7 @@ tags: [책, 소설, 태쁘, 김혜련, 이소연, 샌드박스 네트워크, 겜
 '태쁘의 퇴마부 1'은
 '학교 탈출 퇴마부'으로 방송되었던 것을 소설화한 것이다.
 
-![표지](/images/taekyung-prettyherb-exorcist-club-1-book-h480.jpg)
+![표지](/images/book/taekyung-prettyherb-exorcist-club-1-book-h480.jpg)
 
 샌드박스 네트워크 소속 크리에이터의 게임 컨텐츠를 원작으로 삼아 소설화한 책이 꽤 많다보니
 이 책도 첫인상으론 그 연장선상에 있는 것 같은 느낌이 든다.

@@ -9,7 +9,7 @@ tags: [책, 소설, 판타지, 성장, 가족, 에이미 벤더, 황근하, 멜�
 '레몬 케이크의 특별한 슬픔(The Particular Sadness of Lemon Cake)'은
 독특한 능력을 지닌 소녀의 이야기를 그린 소설이다.
 
-![표지](/images/the-particular-sadness-of-lemon-cake-book-h480.jpg)
+![표지](/images/book/the-particular-sadness-of-lemon-cake-book-h480.jpg)
 
 일종의 판타지 소설이라고도 할 수 있겠다.
 주인공인 '로즈'가 가진 독특한 능력 때문이다.

@@ -8,7 +8,7 @@ tags: [책, 만화, 전기, 정진주, 생각나눔, 컬처블룸, 서평]
 '악마와 크리스찬 디올과 뉴 룩'은
 크리스찬 디올의 좌절과 재기를 담은 만화다.
 
-![표지](/images/the-devil-and-christian-dior-and-the-new-look-comic-book-h480.jpg)
+![표지](/images/book/the-devil-and-christian-dior-and-the-new-look-comic-book-h480.jpg)
 
 크리스찬 디올은 한국에서도 가장 유명한 브랜드 중 하나, 소위 명품 중 하나다.
 디올은 주로 패션 쪽 그러니까 의류나 가방, 화장품을 떠올리게 하는 브랜드지만,

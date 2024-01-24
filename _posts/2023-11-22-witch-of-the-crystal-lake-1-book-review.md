@@ -8,7 +8,7 @@ tags: [책, 소설, 판타지, 사트, 요가와책, 북카페 책과 콩나무,
 '수정 호수의 마녀 1'는
 마녀를 새롭게 그려낸 판타지 소설이다.
 
-![표지](/images/witch-of-the-crystal-lake-1-book-h480.jpg)
+![표지](/images/book/witch-of-the-crystal-lake-1-book-h480.jpg)
 
 소설의 배경이 좀 묘하다.
 기본적으로는 동양풍으로 그려진 듯하나,

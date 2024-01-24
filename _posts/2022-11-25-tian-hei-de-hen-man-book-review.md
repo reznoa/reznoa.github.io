@@ -9,7 +9,7 @@ tags: [책, 소설, 저우다신, 홍민경, 책과이음, 컬처블룸, 서평]
 '우아한 인생(天黑得很慢)'은
 안타까운 노년의 삶을 그린 소설이다.
 
-![표지](/images/tian-hei-de-hen-man-book-w640.jpg)
+![표지](/images/book/tian-hei-de-hen-man-book-w640.jpg)
 
 구성이 참 독특한 책이다.
 행사 일정으로 꾸며진 차례부터가 그렇다.

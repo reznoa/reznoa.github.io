@@ -11,7 +11,7 @@ tags: [책, 생물, 식물, 도감, 이시이 히데오, 시모마 아야에, �
 '상상 초월 식물 능력 도감(ほんとうはびっくりな植物図鑑: ありふれた草花の秘密がおもしろい!)'은
 식물의 특색이 흥미롭게 담아낸 책이다.
 
-![표지](/images/hontou-wa-bikkuri-na-shokubutsu-zukan-book-h480.jpg)
+![표지](/images/book/hontou-wa-bikkuri-na-shokubutsu-zukan-book-h480.jpg)
 
 생물학이라고 하면 일단 어렵게 생각하고 보기 쉽다.
 생물마다 각양 각색의 특징이 있는데,

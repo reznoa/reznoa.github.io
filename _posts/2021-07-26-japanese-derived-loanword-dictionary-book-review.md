@@ -8,7 +8,7 @@ tags: [책, 한국어, 일본어, 외래어, 다산교육콘텐츠연구소, 김
 '일본어 유래 사전'은
 우리말 속 일본어 205가지를 정리해 담은 책이다.
 
-![표지](/images/japanese-derived-loanword-dictionary-book-h480.jpg)
+![표지](/images/book/japanese-derived-loanword-dictionary-book-h480.jpg)
 
 현존 한국어의 문제점 중 하나는 외래어가 지나치게 많다는 거다.
 외래어중에는 오랫동안 사용했기에 떼어내기 어려운 한자어에서부터

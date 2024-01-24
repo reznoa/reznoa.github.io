@@ -8,7 +8,7 @@ tags: [책, 탈모, 가발, 전서현, 바이북스, 북카페 책과 콩나무,
 '황제도 탈모는 무서워: 가발, 운명을 바꾸다'는
 탈모와 그 대응 방법에 대해 다룬 책이다.
 
-![표지](/images/even-the-emperor-is-afraid-of-hair-loss-book-h480.jpg)
+![표지](/images/book/even-the-emperor-is-afraid-of-hair-loss-book-h480.jpg)
 
 이 책은 기본적으로 탈모에 대한 지식을 담은 것이다.
 왜 탈모가 생기는가 하는 것에서부터,

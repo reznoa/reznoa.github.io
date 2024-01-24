@@ -9,7 +9,7 @@ tags: [책, 과학, 우주, 아가타 히데히코, 박재영, 이광식, 더숲
 '무섭지만 재밌어서 밤새 읽는 천문학 이야기(怖くて眠れなくなる天文学)'은
 우주를 독특한 컨셉으로 살펴보는 책이다.
 
-![표지](/images/kowakute-nemurenakunaru-tenmongaku-book-h480.jpg)
+![표지](/images/book/kowakute-nemurenakunaru-tenmongaku-book-h480.jpg)
 
 독특하다고 했지만, 사실 이 책의 컨셉인 '공포'는 꽤나 전형적인 것이기도 하다.
 인간이란 잘 모르겠으면 무서워하는 습성이 있는 동물이기 때문이다.

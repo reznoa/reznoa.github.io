@@ -9,7 +9,7 @@ tags: [책, 소설, 동화, 창작동화, 타냐 슈테브너, 코마가타, 박
 '동물과 말하는 아이 릴리 7: 외톨이 늑대의 숲(Liliane Susewind #7 Rückt dem Wolf nicht auf den Pelz!)'는
 릴리 수제빈트 시리즈 일곱번째 책이다.
 
-![표지](/images/liliane-susewind-7-rueckt-dem-wolf-nicht-auf-den-pelz-book-h480.jpg)
+![표지](/images/book/liliane-susewind-7-rueckt-dem-wolf-nicht-auf-den-pelz-book-h480.jpg)
 
 6권의 마지막이 마치 급하게 마무리를 지으려는 듯 급작스러웠기 때문에
 그 후폭풍이 어떻게 불어닥칠지 좀 걱정이 되기도 했는데,

@@ -9,8 +9,8 @@ tags: [책, 소설, 판타지, 불휘영, 샤스타, 북카페 책과 콩나무,
 흥미로운 세계와 이야기를 보여주는 판타지 소설이다.
 
 <p class="center" markdown="1">
-![표지](/images/exit-on-back-cover-1-book-h480.jpg)
-![표지](/images/exit-on-back-cover-2-book-h480.jpg)
+![표지](/images/book/exit-on-back-cover-1-book-h480.jpg)
+![표지](/images/book/exit-on-back-cover-2-book-h480.jpg)
 </p>
 
 이 판타지 소설은 조금 적응이 필요하다.

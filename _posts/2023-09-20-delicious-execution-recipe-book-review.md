@@ -8,7 +8,7 @@ tags: [책, 소설, 이석용, 앤드, 넥서스, 컬처블룸, 서평]
 '맛있는 사형 집행 레시피'는
 사형제를 소재로 한 소설이다.
 
-![표지](/images/delicious-execution-recipe-book-h480.jpg)
+![표지](/images/book/delicious-execution-recipe-book-h480.jpg)
 
 '제3회 넥서스 경장편 작가상 우수상 수상작'인 이 소설은
 작가가 처음 모티브를 얻고 구상을 시작했을 때로부터

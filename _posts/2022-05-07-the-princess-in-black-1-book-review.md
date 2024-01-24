@@ -10,7 +10,7 @@ tags: [책, 소설, 동화, 창작동화, 샤넌 헤일, 딘 헤일, 르웬 팜,
 '복면공주 1: 완벽한 공주의 깜짝 비밀(The Princess in Black)'은
 비밀스런 공주의 이야기를 그린 창작 동화다.
 
-![표지](/images/the-princess-in-black-1-book-h480.jpg)
+![표지](/images/book/the-princess-in-black-1-book-h480.jpg)
 
 예의바르고 단전한 매그놀리아 공주에게는 비밀이 있다.
 사실은 그녀가 몬스터와 싸우는 복면공주라는 거다.

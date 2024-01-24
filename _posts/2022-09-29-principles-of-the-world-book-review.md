@@ -8,7 +8,7 @@ tags: [책, 철학, 과학, 김동희, 빚은책들, 크레용하우스, 이북�
 '세상을 이해하려는 치열한 노력, 세상이치'은
 철학과 과학으로 보는 세상의 모습을 담은 책이다.
 
-![표지](/images/principles-of-the-world-book-h480.jpg)
+![표지](/images/book/principles-of-the-world-book-h480.jpg)
 
 철학과 과학을 한 책에 담았다고 하면 얼핏 묘한 조합인 것처럼 보인다.
 사실에 기반한 것처럼 느껴지는 과학과 달리

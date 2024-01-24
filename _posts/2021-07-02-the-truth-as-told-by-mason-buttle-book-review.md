@@ -9,7 +9,7 @@ tags: [책, 소설, 레슬리 코너, 민지현, 밝은미래, 북카페 책과 
 '메이슨 버틀이 말하는 진실(The Truth as Told by Mason Buttle)'은
 한 아이의 죽음에 관한 진실과 그 주변 사람들의 이야기를 그린 소설이다.
 
-![표지](/images/the-truth-as-told-by-mason-buttle-book-h480.jpg)
+![표지](/images/book/the-truth-as-told-by-mason-buttle-book-h480.jpg)
 
 이야기는 '메이슨 버틀'이라는 한 소년의 시점에서 펼쳐진다.
 난독증이 있는 메이슨은 학습 장애가 있어 다른 사람들보다 받아들이는 것이 느리다.

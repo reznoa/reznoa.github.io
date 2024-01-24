@@ -8,7 +8,7 @@ tags: [책, 소설, 직장, 박소연, 알에이치코리아, 북카페 책과 �
 '재능의 불시착'은
 일하는 사람들의 모습을 사실적으로 그려낸 소설집이다.
 
-![표지](/images/crash-landing-of-talent-book-h480.jpg)
+![표지](/images/book/crash-landing-of-talent-book-h480.jpg)
 
 이 소설에 붙은 '하이퍼리얼리즘'이라는 수식어는
 과연 얼마나 현실을 제대로 담고 있는지 어디 한번 보겠다는

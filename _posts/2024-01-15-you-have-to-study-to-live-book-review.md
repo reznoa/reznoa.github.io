@@ -8,7 +8,7 @@ tags: [책, 소설, 미완, 김찬수, 중앙북스, 컬처블룸, 서평]
 '공부해야 산다'는
 일종의 광고용 책이다.
 
-![표지](/images/you-have-to-study-to-live-book-h480.jpg)
+![표지](/images/book/you-have-to-study-to-live-book-h480.jpg)
 
 신규 컨텐츠 개발을 위한 작가 발굴을 목적으로 하는
 'WWW 월드와이드웹소설 공모전'에서 무려 대상작을 수상한 이 소설은,

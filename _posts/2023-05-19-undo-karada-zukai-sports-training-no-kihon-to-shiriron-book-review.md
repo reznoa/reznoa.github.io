@@ -10,7 +10,7 @@ tags: [책, 의학, 사쿠마 카즈히코, 홍희정, 민경훈, 성안당, 그
 '스포츠트레이닝의 기본과 이론(スポーツトレーニングの基本と新理論)'은
 스포츠 관계자를 위한 참고서다.
 
-![표지](/images/undo-karada-zukai-sports-training-no-kihon-to-shiriron-book-h480.jpg)
+![표지](/images/book/undo-karada-zukai-sports-training-no-kihon-to-shiriron-book-h480.jpg)
 
 스포츠 트레이닝을 위한 해부생리학과 이론, 트레이닝 방법, 그리고 부상관리 등을 다루는 이 책은
 가볍게 보는 교양서적보다는 좀 더 본격적인 교재에 가깝다.

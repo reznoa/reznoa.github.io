@@ -9,7 +9,7 @@ tags: [책, 소설, 선협, 로맨스, 십사랑, 서미영, 한스미디어, �
 '삼천아살(三千鴉殺)'은
 선협 로맨스를 대표하는 중국 웹소설 작가 십사랑의 대표작이다.
 
-![표지](/images/love-of-thousand-years-2-book-h480.jpg)
+![표지](/images/book/love-of-thousand-years-2-book-h480.jpg)
 
 딱히 1부 2부로 나눠지는 것 없이 연이어 계속되는 이야기이기는 하지만
 1권과 2권은 분위기가 조금 다르다.

@@ -9,7 +9,7 @@ tags: [책, 만화, 미술, 한국화, 서은경, 북멘토, 북카페 책과 �
 조선 명화를 소재로 한 만화로,
 '마음으로 느끼는 조선의 명화'의 개정 증보판이다.
 
-![표지](/images/masterpiece-paintings-of-joseon-comic-book-red-h480.jpg)
+![표지](/images/book/masterpiece-paintings-of-joseon-comic-book-red-h480.jpg)
 
 조선 시대 화가들과 그들의 작품을 소개하는 이 책은,
 그 이야기를 한국화풍으로 그려낸 만화로 보여줌으로써

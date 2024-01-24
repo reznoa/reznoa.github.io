@@ -8,7 +8,7 @@ tags: [책, 게임, 꿀딴지곰, 보누스, 북카페 책과 콩나무, 서평]
 '꿀딴지곰의 레트로 게임 대백과: 열혈 겜돌이의 명작 고전 게임 추억 찾기 연구소'는
 고전 게임에 대한 추억과 추천할만한 고전 게임들을 소개하는 책이다.
 
-![표지](/images/honey-pot-bears-retro-game-encyclopedia-book-h480.jpg)
+![표지](/images/book/honey-pot-bears-retro-game-encyclopedia-book-h480.jpg)
 
 레트로 게임, 고전 게임이란 무엇일까.
 저자는 2000년대 이전 게임이라는 의견을,

@@ -10,7 +10,7 @@ tags: [책, 과학, 뮈리엘 플로랭, 쥘리 레가레, 김수진, 인싸이�
 '잠의 쓸모(Le sommeil à l'oeil nu)'는
 수면에 대한 여러 궁금증과 사실을 담은 과학책이다.
 
-![표지](/images/le-sommeil-a-l-oeil-nu-book-h480.jpg)
+![표지](/images/book/le-sommeil-a-l-oeil-nu-book-h480.jpg)
 
 한번 쯤 생각해보지 않은 사람이 없을거다.
 대체 잠은 왜 자야만 하는가 하고 말이다.

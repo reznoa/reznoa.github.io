@@ -9,7 +9,7 @@ tags: [책, 소설, 인종차별, 스테프 차, 이나경, 황금가지, 서평
 '너의 집이 대가를 치를 것이다(Your House Will Pay)'는
 실제 사건을 모티브로 한 스릴러 소설이다.
 
-![표지](/images/your-house-will-pay-book-h480.jpg)
+![표지](/images/book/your-house-will-pay-book-h480.jpg)
 
 이 소설이 모티브로 한 사건은 1992년의 'LA 폭동'과
 그로 이어지는데 상당한 영향을 끼친 것으로 짐작되고 있는

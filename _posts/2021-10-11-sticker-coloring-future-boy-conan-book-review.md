@@ -8,7 +8,7 @@ tags: [책, 스티커, 컬러링, 미술, 일과놀이콘텐츠랩, 북센스, �
 '스티커 컬러링 : 미래소년 코난'은
 명작 애니메이션 미래소년 코난의 캐릭터들을 스티커 컬러링으로 재구성한 책이다.
 
-![표지](/images/sticker-coloring-future-boy-conan-book-h480.jpg)
+![표지](/images/book/sticker-coloring-future-boy-conan-book-h480.jpg)
 
 책에는 폴리곤 아트 기법을 이용해 단순화하고
 스티커를 붙여 완성할 수 있게 만든 총 5개의 스티커 컬러링이 도안이 들어있다.

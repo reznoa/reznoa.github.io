@@ -10,7 +10,7 @@ tags: [책, 그림책, 환경, 재활용, 에밀리 S. 스미스, 하이디 쿠�
 '쓰레기 괴물(Garbage Guts)'은
 쓰레기 문제와 재활용을 재미있게 그려낸 그림책이다.
 
-![표지](/images/garbage-guts-picture-book-h480.jpg)
+![표지](/images/book/garbage-guts-picture-book-h480.jpg)
 
 바닷속에는 '바다 불청객', 일명 '골칫덩이'라 불리는 녀석이 살고있다.
 그 녀석은 넓은 바다에서 온갖 쓰레기를 먹어치우면서 바다를 오염시키는 골칫거리인데,

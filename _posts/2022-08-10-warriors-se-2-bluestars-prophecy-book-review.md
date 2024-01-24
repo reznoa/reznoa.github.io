@@ -9,7 +9,7 @@ tags: [책, 소설, 에린 헌터, 서현정, 가람어린이, 북카페 책과 
 '전사들 슈퍼 에디션: 블루스타의 예언(Warriors Super Edition: Bluestar's Prophecy '은
 전사들 시리즈의 스핀오프인 슈퍼 에디션 두번째 책이다.
 
-![표지](/images/warriors-se-2-bluestars-prophecy-book-h480.jpg)
+![표지](/images/book/warriors-se-2-bluestars-prophecy-book-h480.jpg)
 
 한 고양이에게 초점을 맞춰 본편 외의 이야기를 담은 스핀오프인 슈퍼 에디션 시리즈는
 개별 고양이의 뒷 이야기를 볼 수 있다는 점에서 시리즈 팬들에게는 꽤 의미가 있다.

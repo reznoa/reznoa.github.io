@@ -8,7 +8,7 @@ tags: [책, 만화, 소설원작, 판타지, 이세계, 타임루프, Bill.K, �
 'SSS급 죽어야 사는 헌터 1'은
 동명의 판타지 소설을 각색해 만든 만화다.
 
-![표지](/images/sss-class-suicide-hunter-1-comic-book-h480.jpg)
+![표지](/images/book/sss-class-suicide-hunter-1-comic-book-h480.jpg)
 
 처음엔 원작 제목에 따라 'SSS급 자살헌터'라는 이름으로 연재되었던 이 만화는,
 원작 제목이 지금처럼 바뀌게 되면서 덩달아 바뀌게 되었는데

@@ -8,7 +8,7 @@ tags: [책, 소설, 동화, 창작동화, 김우수, 정은경, 박현주, 길�
 '달빛 그림자 가게 1: 그림자 외 출입금지'는
 그림자를 소재로한 판타지 동화다.
 
-![표지](/images/moonlight-shadow-shop-1-book-h480.jpg)
+![표지](/images/book/moonlight-shadow-shop-1-book-h480.jpg)
 
 이야기는 다분히 신화를 연상케하는 과거 이야기로 시작한다.
 여기서 이 동화의 주요 소재인 그림자에 대한 배경을 조금 알 수 있으며,

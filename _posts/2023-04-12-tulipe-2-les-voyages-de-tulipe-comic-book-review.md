@@ -9,7 +9,7 @@ tags: [책, 만화, 철학, 소피 게리브, 정혜경, 팡 그래픽노블, �
 'TULiPE 2: 튤립의 여행(Les voyages de Tulipe)'은
 튤립 시리즈 두번째 책이다.
 
-![표지](/images/tulipe-2-les-voyages-de-tulipe-comic-book-h480.jpg)
+![표지](/images/book/tulipe-2-les-voyages-de-tulipe-comic-book-h480.jpg)
 
 여행기 같은 것도 아니고 튤립을 중심으로 한 것도 아니라서 좀 의아할 수도 있는 이 책은,
 단발적인 여행이 아니라

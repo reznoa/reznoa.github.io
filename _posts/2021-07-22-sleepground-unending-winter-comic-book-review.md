@@ -8,7 +8,7 @@ tags: [책, 소설, 잠뜰TV, uno, 김기수, 권수영, 서울문화사, 북카
 '겨울 신화'는
 동명의 잠뜰TV 상황극 컨텐츠를 만화화 한 책이다.
 
-![표지](/images/sleepground-unending-winter-comic-book-h480.jpg)
+![표지](/images/book/sleepground-unending-winter-comic-book-h480.jpg)
 
 마인크래프를 활용한 컨텐츠를 만드는 잠뜰TV는,
 보고있자면 새삼 마인크래프트로 이런 것까지 가능하구나 싶은 감탄이 절로 나오는 게 많다.

@@ -10,7 +10,7 @@ tags: [책, 미술, 역사, 휴 루이스-존스, 카리 허버트, 최파일, �
 '탐험가의 스케치북(Explorers' Sketchbooks: The Art of Discovery & Adventure)'은
 탐험가와 그들의 기록을 담은 책이다.
 
-![표지](/images/explorers-sketchbooks-book-w480.jpg)
+![표지](/images/book/explorers-sketchbooks-book-w480.jpg)
 
 탐험.
 이 얼마나 가슴 떨리는 울림이냐.

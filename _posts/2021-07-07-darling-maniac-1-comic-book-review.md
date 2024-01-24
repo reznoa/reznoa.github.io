@@ -9,13 +9,13 @@ tags: [책, 만화, 로맨스, 코미디, 호시모리 유키모, 학산문화�
 '달링 매니악(ダーリンマニアック)'은
 감정 표현이 서툰 소녀와 꽃미남 쌍둥이의 로맨스를 그린 만화다.
 
-![표지](/images/darling-maniac-1-comic-book-cover.jpg)
+![표지](/images/book/darling-maniac-1-comic-book-cover.jpg)
 
 결론부터 말하자면, 나와는 맞지 않는 만화였다.
 뭐 있는 것처럼 시작한 것 치고는
 설정부터 캐릭터까지 좀처럼 공감하기 어려웠기 때문이다.
 
-![11](/images/darling-maniac-1-comic-book-p011.jpg)
+![11](/images/book/darling-maniac-1-comic-book-p011.jpg)
 
 먼저 주인공 부터가 이상하다.
 감정 표현이 서툴다못해 오히려 오해를 사기도 하는 사람 자체는 생각보다 많다.
@@ -38,7 +38,7 @@ tags: [책, 만화, 로맨스, 코미디, 호시모리 유키모, 학산문화�
 해서 이것저것 되는대로 붙였다가
 결국 이것도 저것도 아니게 된 것 같다.
 
-![46](/images/darling-maniac-1-comic-book-p046.jpg)
+![46](/images/book/darling-maniac-1-comic-book-p046.jpg)
 
 로맨스 대상인 쌍둥이들은 더 가관이다.
 어떻게하면 '양보 못하니까 둘다 연인이 되야겠다'는 결론을 내릴 수 있는걸까.

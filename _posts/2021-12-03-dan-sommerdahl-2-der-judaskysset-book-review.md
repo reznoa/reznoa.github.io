@@ -9,7 +9,7 @@ tags: [책, 소설, 미스터리, 아나 그루에, 송경은, 북로드, 리뷰
 '유다의 키스(Der Judaskysset)'는
 '단 소메르달 시리즈' 두번째 책이다.
 
-![표지](/images/der-judaskysset-book-h480.jpg)
+![표지](/images/book/der-judaskysset-book-h480.jpg)
 
 소위 '대머리 탐정'이라 불리는 '단 소메르달'이 이번에는 결혼 사기꾼을 쫓는다.
 그것도 단독으로 사건을 위임받아서 말이다.

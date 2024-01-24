@@ -21,8 +21,8 @@ tags: [책, 소설, 동화, 마이리 매키넌, 카를로 콜로디, 파블로 
 -->
 
 <p class="center" markdown="1">
-![피노키오 표지](/images/usborne-world-masterpiece-pinocchio-book-h480.jpg)
-![프랑켄슈타인 표지](/images/usborne-world-masterpiece-frankenstein-book-h480.jpg)
+![피노키오 표지](/images/book/usborne-world-masterpiece-pinocchio-book-h480.jpg)
+![프랑켄슈타인 표지](/images/book/usborne-world-masterpiece-frankenstein-book-h480.jpg)
 </p>
 
 어린이들은 주로 세계 명작 모음집 같은 걸로 소설을 읽기 시작하는 경우가 많다.

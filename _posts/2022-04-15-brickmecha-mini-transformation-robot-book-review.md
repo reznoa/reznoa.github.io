@@ -8,7 +8,7 @@ tags: [책, 레고, 조립설명서, 변신로봇, 최상철, 위키미디어, �
 '브릭메카의 미니 변신 로봇'은
 레고를 이용해 쉽고 간단하게 변신 로봇 만드는 법을 소개하는 책이다.
 
-![표지](/images/brickmecha-mini-transformation-robot-book-h480.jpg)
+![표지](/images/book/brickmecha-mini-transformation-robot-book-h480.jpg)
 
 레고(LEGO)는 볼 수록 대단하다.
 여러가지 것들을 재현해놓은 제품을 잘 내놓기 때문만이 아니다.

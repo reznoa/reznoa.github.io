@@ -9,7 +9,7 @@ tags: [책, 신화, 그리스 로마 신화, 토머스 불핀치, 손길영, 스
 '그리스 로마 신화: 세상을 다스린 신들의 사생활(The Age of Fable)'은
 그의 대표작 중 일부를 완역해 내놓은 것이다.
 
-![표지](/images/the-age-of-fable-book-h480.jpg)
+![표지](/images/book/the-age-of-fable-book-h480.jpg)
 
 그리스 로마 신화는 현대인들이 가장 널리 알고 가장 사랑하는 신화 중 하나다.
 어떻게 이런 게 가능할까.

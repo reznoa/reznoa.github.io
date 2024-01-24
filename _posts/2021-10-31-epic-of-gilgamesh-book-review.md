@@ -9,7 +9,7 @@ tags: [책, 신화, 서사시, 앤드류 조지, 공경희, 현대지성, 북카
 '길가메시 서사시'는
 수메르의 도시국가 우르크 왕의 이야기를 그린 서사시다.
 
-![표지](/images/epic-of-gilgamesh-book-h480.jpg)
+![표지](/images/book/epic-of-gilgamesh-book-h480.jpg)
 
 인류 최초의 신화로 일컬어지는 길가메시 서사시는
 또한 인류 최초의 영웅 서사시이기도 하다.

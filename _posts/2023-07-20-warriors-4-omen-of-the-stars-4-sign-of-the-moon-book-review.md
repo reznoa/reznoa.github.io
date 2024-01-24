@@ -9,7 +9,7 @@ tags: [책, 소설, 에린 헌터, 서현정, 가람어린이, 북카페 책과 
 '전사들 4부 별들의 징조 4: 달의 신호(Warriors: Omen of the Stars #4 Sign of the Moon)'는
 시리즈 4부 네번째 책이다.
 
-![표지](/images/warriors-4-omen-of-the-stars-4-sign-of-the-moon-book-h480.jpg)
+![표지](/images/book/warriors-4-omen-of-the-stars-4-sign-of-the-moon-book-h480.jpg)
 
 전사들 시리즈를 계속 보다보면, 계속해서 드는 감정이 있다.
 

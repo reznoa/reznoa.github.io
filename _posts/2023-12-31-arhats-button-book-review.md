@@ -8,7 +8,7 @@ tags: [책, 소설, 불교, 홍단, 고즈넉이엔티, 북카페 책과 콩나�
 '아라한의 버튼'은
 독특한 복수를 소재로 한 소설이다.
 
-![표지](/images/arhats-button-book-h480.jpg)
+![표지](/images/book/arhats-button-book-h480.jpg)
 
 '아라한(阿羅漢; 羅漢; Arhat)'이란 불교의 성자를 일컷는 말로,
 원래는 부처를 가리키는 칭호 중 하나이기도 했다.

@@ -9,7 +9,7 @@ tags: [책, 소설, 로맨스, 성장, 키나 치렌, 주승현, 제우미디어
 '4.7인치의 세계에서 사랑을 했다(これは花子による花子の為の花物語)'는
 스마트폰을 소재로 한 특별한 로맨스를 그린 소설이다.
 
-![표지](/images/kore-wa-kako-ni-yoru-hanako-no-tame-no-hanamonogatari-book-h480.jpg)
+![표지](/images/book/kore-wa-kako-ni-yoru-hanako-no-tame-no-hanamonogatari-book-h480.jpg)
 
 스마트폰 게임과 게임 속 한 요소인 친구, 그리고 친구끼리의 채팅을 소재로 한 이 소설은
 새로운 요소들이 여럿 있는 것과 달리 꽤나 익숙하다.

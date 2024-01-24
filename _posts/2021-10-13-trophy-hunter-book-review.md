@@ -8,7 +8,7 @@ tags: [책, 소설, 단편, 노은희, 메이킹북스, 서평]
 '트로피 헌터'는
 세 편의 단편을 담은 소설집이다.
 
-![표지](/images/trophy-hunter-book-h480.jpg)
+![표지](/images/book/trophy-hunter-book-h480.jpg)
 
 사냥과 박제, 종교 등 조금씩 다른 소설을 생각나게 하는 요소가 있어서일까.
 분명히 별개인데도 불구하고

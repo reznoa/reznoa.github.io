@@ -10,7 +10,7 @@ tags: [책, 청소년, 엘리자베트 슈타인켈너, 안나 구젤라, 전은
 '스무디 파라다이스에서 만나(Papierklavier)'는
 여러가지 생각거리를 담은 청소년 소설이다.
 
-![표지](/images/papierklavier-book-h480.jpg)
+![표지](/images/book/papierklavier-book-h480.jpg)
 
 이 책은 묘한 위치에 있다.
 소설이면서, 또 어떻게 보면 만화같기도 하고,

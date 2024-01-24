@@ -8,7 +8,7 @@ tags: [책, 소설, 판타지, 안제도, 리버북스, 북카페 책과 콩나�
 '계절을 건너는 모험가'는
 꽤 흥미롭게 볼만한 정통 판타지 단편집이다.
 
-![표지](/images/adventurer-through-the-seasons-book-h480.jpg)
+![표지](/images/book/adventurer-through-the-seasons-book-h480.jpg)
 
 서로 다른 세가지 이야기를,
 누군가가 마치 여행담을 늘어놓는 식으로 들려주는 구성으로 만들어진 이 소설은

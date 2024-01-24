@@ -9,7 +9,7 @@ tags: [책, 소설, 미스터리, 야요이 사요코, 김소영, 양파, 북카
 '바람아 우리의 앞머리를(風よ僕らの前髪を)'은
 어떻게 보면 좋고, 어떻게 보면 아쉬운 미묘함을 가진 소설이다.
 
-![표지](/images/kazeyo-bokurano-maegamiwo-book-h480.jpg)
+![표지](/images/book/kazeyo-bokurano-maegamiwo-book-h480.jpg)
 
 소설은 마치 전형적인 탐정 소년물의 일종인 것처럼 시작한다.
 탐정사무소에서 아르바이트를 했었다는 화자를 주인공으로

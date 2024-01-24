@@ -9,7 +9,7 @@ tags: [책, 소설, 라이트노벨, 후지이시 나미야, 이나라, JM북스
 '어제의 너는, 나만의 너였다(昨日の君は、僕だけの君だった)'는
 셰어 연애라는 독특한 사랑에 얽힌 사람들의 이야기를 그린 소설이다.
 
-![표지](/images/kinou-no-kimiwa-bokudake-no-kimidatta-book-h480.jpg)
+![표지](/images/book/kinou-no-kimiwa-bokudake-no-kimidatta-book-h480.jpg)
 
 반했던 여자에게 셰어 연애라는 황당한 제안을 받으면서 시작하는 이 소설은,
 연애를 소재로 했다는 점에서 일종의 연애소설이기도 하다.

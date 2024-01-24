@@ -12,7 +12,7 @@ tags: [책, 과학, 생물, 도감, 이마이즈미 다다아키, 시모마 아�
 '안타까운 동물사전 1: 재미있는 진화의 신비(おもしろい! 進化のふしぎ ざんねんないきもの事典)'는
 흥미로운 동물들의 모습과 특징을 담은 동물도감이다.
 
-![표지](/images/omoshiroi-shinka-no-fushigi-zannen-na-ikimono-jiten-book-h480.jpg)
+![표지](/images/book/omoshiroi-shinka-no-fushigi-zannen-na-ikimono-jiten-book-h480.jpg)
 
 수록된 동물들 중에는 꽤나 널리 알려졌고, 그래서 딱히 이상해 보이지 않는 놈들도 있다.
 예를들어, 방귀냄새가 지독하고 그럴수록 인기가 있는 스컹크라던가

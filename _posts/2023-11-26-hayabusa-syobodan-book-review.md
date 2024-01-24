@@ -9,7 +9,7 @@ tags: [책, 소설, 미스터리, 이케이도 준, 천선필, 소미미디어, 
 '하야부사 소방단(ハヤブサ消防団)'은
 방화를 소재로 한 미스터리 소설이다.
 
-![표지](/images/hayabusa-syobodan-book-h480.jpg)
+![표지](/images/book/hayabusa-syobodan-book-h480.jpg)
 
 방화와 살인 사건을 다루면서
 형사나 소방관이 아니라

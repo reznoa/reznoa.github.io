@@ -8,7 +8,7 @@ tags: [책, 소설, SF, 전윤호, 그래비티북스, 그래비티 픽션, 리�
 '경계 너머로, 지맥(GEMAC)'은
 BCI를 소재로 한 하드 SF 소설이다.
 
-![표지](/images/gemac-book-h480.jpg)
+![표지](/images/book/gemac-book-h480.jpg)
 
 BCI(Brain–Computer Interface)란 말 그대로 뇌와 컴퓨터를 연결하는 장치를 말한다.
 과거에 그저 상상력의 영역에 머물러 있던 BCI는

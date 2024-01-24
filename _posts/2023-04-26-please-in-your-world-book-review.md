@@ -8,7 +8,7 @@ tags: [책, 소설, 호러, 단편, 남유하, 고블, 북카페 책과 콩나�
 '부디 너희 세상에도'는
 꽤나 흥미로운 호러 단편들을 모은 소설집이다.
 
-![표지](/images/please-in-your-world-book-h480.jpg)
+![표지](/images/book/please-in-your-world-book-h480.jpg)
 
 이 책에 수록된 단편들은,
 딱히 소설집을 위해 작업된 것들은 아니다.

@@ -12,7 +12,7 @@ tags: [책, 만화, 소설원작, 장 클로드 무를르바, 막스 레르메�
 '장 클로드 무를르바(Jean-Claude Mourlevat)'의
 동명의 원작 소설을 간추려 담은 만화다.
 
-![표지](/images/la-riviere-a-lenvers-1-tomek-comic-book-h480.jpg)
+![표지](/images/book/la-riviere-a-lenvers-1-tomek-comic-book-h480.jpg)
 
 이야기는 주인공인 '토멕(Tomek)'이 어느 날 자신의 잡화점에 방문한 소녀 '한나(Hannah)'에게 반하면서 시작한다.
 그녀를 다시 만나고 싶었던 토멕은 결국 그녀가 구하고자 했던 강물을 찾아서 여행을 떠나는데,

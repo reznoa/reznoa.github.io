@@ -11,8 +11,8 @@ tags: [책, 소설, 판타지, 동화, 창작동화, 청소년, 성장, 사토 �
 마법 사회를 배경으로 한 성장 판타지다.
 
 <p class="center" markdown="1">
-![1권 표지](/images/magic-out-1-book-h480.jpg)
-![2권 표지](/images/magic-out-2-book-h480.jpg)
+![1권 표지](/images/book/magic-out-1-book-h480.jpg)
+![2권 표지](/images/book/magic-out-2-book-h480.jpg)
 </p>
 
 이야기의 배경이 되는 '에테르리아'는 꽤 흥미로운 사회다.

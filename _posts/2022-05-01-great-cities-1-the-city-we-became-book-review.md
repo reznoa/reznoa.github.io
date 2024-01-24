@@ -9,7 +9,7 @@ tags: [책, 소설, 판타지, 혐오, N. K. 제미신, 박슬라, 황금가지,
 '우리는 도시가 된다(The City We Became)'는
 '위대한 도시들(Great Cities)'이라는 어반 판타지 2부작의 1편이다.
 
-![표지](/images/great-cities-1-the-city-we-became-book-h480.jpg)
+![표지](/images/book/great-cities-1-the-city-we-became-book-h480.jpg)
 
 작가는 이제까지 꽤나 확고한 방향성을 가지고 작품을 써왔다.
 넓게 보자면 혐오라는 것을 주제로 사회에 뿌리내린 것들을 꼬집 작품들은,

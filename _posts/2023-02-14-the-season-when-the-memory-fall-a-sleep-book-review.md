@@ -8,7 +8,7 @@ tags: [책, 소설, 로맨스, 스릴러, 진설라, 델피노, 북카페 책과
 '기억이 잠든 계절'은
 미스터리 스릴러와 로맨스를 적당히 섞어놓은 소설이다.
 
-![표지](/images/the-season-when-the-memory-fall-a-sleep-book-h480.jpg)
+![표지](/images/book/the-season-when-the-memory-fall-a-sleep-book-h480.jpg)
 
 적당히 섞었다고 하는 것은,
 부정적인 면에서 보자면 그렇게 잘 섞인 것은 아니라는 말이다.

@@ -8,7 +8,7 @@ tags: [책, 그림책, 노래워작, 선우정아, 곽수진, 언제나북스, �
 '도망가자'는
 선우정아의 동명의 노래를 원작으로 한 그림책이다.
 
-![표지](/images/run-with-me-picture-book-h480.jpg)
+![표지](/images/book/run-with-me-picture-book-h480.jpg)
 
 당연히 처음 들어오는 것은 화제성이다.
 워낙에 유명하고 그만큼 많은 사랑을 받은 노래를 원작으로 한데다,

@@ -10,7 +10,7 @@ tags: [책, 소설, 로맨스, 역사, 차별, 청소년, 에릭 월터스, 캐�
 '끊어진 줄(Broken Strings)'은
 차별 문제를 역사적인 사건과 함께 담아낸 소설이다.
 
-![표지](/images/broken-strings-book-h480.jpg)
+![표지](/images/book/broken-strings-book-h480.jpg)
 
 홀로코스트와 9.11테러를 담아냈다고 것은
 이 소설이 꽤나 무거우리라는 것을 예상케 한다.

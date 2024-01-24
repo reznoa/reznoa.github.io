@@ -9,7 +9,7 @@ tags: [책, 소설, 실화바탕, 스톡홀름 신드롬, 페미니즘, 롤라 �
 '17일(Mercy, Mary, Patty)'은
 퍼트리샤 허스트의 유명한 납치사건을 소재로 한 소설이다.
 
-![표지](/images/mercy-mary-patty-book-h480.jpg)
+![표지](/images/book/mercy-mary-patty-book-h480.jpg)
 
 실제 사건을 소재로 했을 뿐 아니라
 그것을 거의 변조없이 그대로 사용했지만,

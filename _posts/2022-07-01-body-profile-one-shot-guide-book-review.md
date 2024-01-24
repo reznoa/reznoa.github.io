@@ -8,7 +8,7 @@ tags: [책, 건강, 오현승, 대한의학서적, 리뷰어스 클럽, 서평]
 '바디프로필 한 권으로 끝내기'는
 바디프로필에 대해 시작부터 끝까지 잘 설명해주는 책이다.
 
-![표지](/images/body-profile-one-shot-guide-book-h480.jpg)
+![표지](/images/book/body-profile-one-shot-guide-book-h480.jpg)
 
 바디프로필이란 간단하게 말하면 몸짱 사진 찍는 것이다.
 빵빵하면서도 잘 갈라진 근육과 잘 빠진 몸매를 멋들어진 배경이나 자세와 함께 담아낸 사진은

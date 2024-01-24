@@ -8,7 +8,7 @@ tags: [책, 만화, 일상, 고양이, 난, 중앙북스, 리뷰어스 클럽, �
 '틴틴팅클!'은
 단짝 틴틴과 팅클의 귀엽고 사랑스러운 일상을 그린 만화다.
 
-![표지](/images/thinthin-tingcle-comic-book-h480.jpg)
+![표지](/images/book/thinthin-tingcle-comic-book-h480.jpg)
 
 고양이를 의인화한 캐릭터를 통해
 아기자기함을 듬뿍 담아낸 이 만화는

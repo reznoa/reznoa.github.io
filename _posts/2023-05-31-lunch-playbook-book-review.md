@@ -8,7 +8,7 @@ tags: [책, 말랑탱크, 바른북스, 컬처블룸, 서평]
 '슬기로운 점심생활'은
 점심을 위한 일종의 활동북이다.
 
-![표지](/images/lunch-playbook-book-h480.jpg)
+![표지](/images/book/lunch-playbook-book-h480.jpg)
 
 늘 하는 것이지만,
 좀처럼 익숙해지기는 커녕

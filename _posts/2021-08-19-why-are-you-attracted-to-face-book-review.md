@@ -8,7 +8,7 @@ tags: [책, 과학, 심리, 최훈, 블랙피쉬, 리뷰어스 클럽, 서평]
 '(내면이 중요하다면서) 왜 얼굴에 혹할까'는
 얼굴에 관한 이모저모에 대해 얘기하는 책이다.
 
-![표지](/images/why-are-you-attracted-to-face-book-h480.jpg)
+![표지](/images/book/why-are-you-attracted-to-face-book-h480.jpg)
 
 책 제목만 얼핏 보면 마치 유사과학을 다루는 책인 것 같다.
 예를들면, 관상이라던가 그런 것 말이다.

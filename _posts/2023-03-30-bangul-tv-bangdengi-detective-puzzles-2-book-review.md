@@ -8,7 +8,7 @@ tags: [책, 퍼즐, 방울이TV, 유경원, 차현진, 서울문화사, 컬처�
 '방울이TV 방뎅이 탐정 추리퀴즈 2: 공포의 놀이공원'은
 여러가지 추리 퀴즈를 담은 스토리북 2탄이다.
 
-![표지](/images/bangul-tv-bangdengi-detective-puzzles-2-book-h480.jpg)
+![표지](/images/book/bangul-tv-bangdengi-detective-puzzles-2-book-h480.jpg)
 
 [1권]({% post_url 2023-01-24-bangul-tv-bangdengi-detective-puzzles-1-book-review %})이
 여러 의뢰인으로부터 의뢰를 받아 하나씩 해결해 나가는 옴니버스식 구성이었던 것과 달리,

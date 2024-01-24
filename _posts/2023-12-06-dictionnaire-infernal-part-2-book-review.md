@@ -9,7 +9,7 @@ tags: [책, 사전, 판타지, 자크 콜랭 드 플랑시, 장비안, 닷텍스
 '지옥사전(Dictionnaire Infernal) Part 2'는
 지옥사전 두번째 책이다.
 
-![표지](/images/dictionnaire-infernal-part-2-book-h480.jpg)
+![표지](/images/book/dictionnaire-infernal-part-2-book-h480.jpg)
 
 이 책은 1818년 처음 발행된 후,
 6번이나 재출간을 할 정도로 인기를 끈 원서의

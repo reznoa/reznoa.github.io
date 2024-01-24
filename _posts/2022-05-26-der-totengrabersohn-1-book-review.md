@@ -9,7 +9,7 @@ tags: [책, 소설, 판타지, 샘 포이어바흐, 이희승, 글루온, 사일
 '매장꾼의 아들(Der Totengrabersohn) 1'은
 이후 이야기를 기대하게 하는 시리즈 1편이다.
 
-![표지](/images/der-totengrabersohn-1-book-h480.jpg)
+![표지](/images/book/der-totengrabersohn-1-book-h480.jpg)
 
 제목인 '매장꾼의 아들'은 무슨 비유같은 게 아니라
 말 그대로 매장꾼 일을 하고 있는 아버지를 둔,

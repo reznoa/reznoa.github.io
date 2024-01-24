@@ -9,7 +9,7 @@ tags: [책, 소설, 판타지, 제시카 타운센드, 박혜원, 디오네, 아
 '할로우폭스: 모리건 크로우와 네버무어의 새로운 위협(Hollowpox: The Hunt for Morrigan Crow) 1'은
 신비한 세계를 배경으로 한 '네버무어 시리즈(Nevermoor Series)'의 세번째 이야기다.
 
-![표지](/images/nevermoor-3-hollowpox-part-1-book-h480.jpg)
+![표지](/images/book/nevermoor-3-hollowpox-part-1-book-h480.jpg)
 
 우여곡절 끝에 마침내 원더스미스로서 교육을 받게 된 모리건은
 신기하고 매력적인 원더스미스의 세계에 빠져들어간다.

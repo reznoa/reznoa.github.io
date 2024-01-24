@@ -9,7 +9,7 @@ tags: [책, 소설, 청춘, 미스터리, 아오야 마미, 천감재, 모모, �
 '독서를 싫어하는 사람을 위한 도서실 안내(読書嫌いのための図書室案内)'는
 캐릭터와 소재를 상당히 잘 살린 청춘 비블리오 미스터리다.
 
-![표지](/images/dokusho-girai-no-tame-no-toshoshitsu-annai-book-h480.jpg)
+![표지](/images/book/dokusho-girai-no-tame-no-toshoshitsu-annai-book-h480.jpg)
 
 소설 등을 보다보면 의외로 나라에 따라서 특장점이 다르다는 걸 느낄 때가 있다.
 소재의 독특함이라던가,

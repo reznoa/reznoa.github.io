@@ -10,7 +10,7 @@ tags: [책, 도감, 생물, 공룡, 고바야시 요시쓰구, 구마아트, 이
 '최강 공룡 서바이벌 대백과(超リアル 恐竜サバイバル図鑑)'는
 다양한 공룡들에 관한 흥미로운 이야기들을 잘 담은 도감이다.
 
-![표지](/images/cho-real-kroryu-survival-zukan-book-h480.jpg)
+![표지](/images/book/cho-real-kroryu-survival-zukan-book-h480.jpg)
 
 책에는 그다지 두껍지 않은 두께에 생각보다 많은 무려 108종의 공룡이 실려있다.
 이게 가능한 것은 개별 공룡들을 하나씩 집어가며 설명을 한 것이 아니라

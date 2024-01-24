@@ -8,7 +8,7 @@ tags: [책, 과학, 역사, EBS, 북카페 책과 콩나무, 서평]
 '알면 똑똑해지는 과학 속 비하인드 스토리'는
 EBS 알똑비 시리즈 두번째 책이다.
 
-![표지](/images/ebs-behind-story-2-science-book-h480.jpg)
+![표지](/images/book/ebs-behind-story-2-science-book-h480.jpg)
 
 사람들이 잘 모르는 역사의 (말하자면) 뒷 이야기를 다룬 첫번째 책과는 달리
 두번째 책에서는 과학을 테마로 하고 있지만,

@@ -11,7 +11,7 @@ tags: [책, 만화, 그래픽노블, 과학, 인공지능, 피브르티그르, �
 '인공지능 유리(Intelligences Artificielles: Miroirs de nos vies)'는
 AI와 AI가 가져올 미래를 그린 그래픽노블이다.
 
-![표지](/images/intelligences-artificielles-miroirs-de-nos-vies-comic-book-h480.jpg)
+![표지](/images/book/intelligences-artificielles-miroirs-de-nos-vies-comic-book-h480.jpg)
 
 얼핏 보면 인공지능을 소재로 한 SF 만화인 것 같다.
 그리고 어느 정도는 그런 부분도 있다.

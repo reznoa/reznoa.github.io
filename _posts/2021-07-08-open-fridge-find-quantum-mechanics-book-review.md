@@ -8,7 +8,7 @@ tags: [책, 과학, 물리학, 양자역학, 박재용, MiD, 북카페 책과 �
 '냉장고를 여니 양자역학이 나왔다'는
 복잡한 양자역학을 비교적 쉽게 써낸 책이다.
 
-![표지](/images/open-fridge-find-quantum-mechanics-book-h480.jpg)
+![표지](/images/book/open-fridge-find-quantum-mechanics-book-h480.jpg)
 
 슈뢰딩거의 고양이로 유명한 양자역학은
 현대에 가장 뜨거운 과학 중 하나다.

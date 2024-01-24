@@ -10,7 +10,7 @@ tags: [책, 우주, 루카 페리, 마르코 타빌리오, 황지영, 북스힐,
 '우주비행사에 대한 모든 것(Partenze a razzo: Tutto ciò che c’è da sapere prima di diventare un astronauta)'은
 우주여행과 우주비행사의 역사와 뒷 이야기를 담은 책이다.
 
-![표지](/images/partenze-a-razzo-book-h480.jpg)
+![표지](/images/book/partenze-a-razzo-book-h480.jpg)
 
 이 책은 대놓고 그짓말로 쓰여졌다.
 어떤 점에서 그러냐면, 우주비행사 따위 할 것이 못된다며,

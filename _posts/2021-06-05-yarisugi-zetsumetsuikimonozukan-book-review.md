@@ -10,7 +10,7 @@ tags: [책, 도감, 생물, 멸종, 이마이즈미 타다아키, 가와사키 �
 '너무 과해서 멸종한 생물 도감'은
 다소 극단적이어 보이는 잔화를 이룬 생물들을 담은 도감이다.
 
-![표지](/images/yarisugi-zetsumetsuikimonozukan-book-h480.jpg)
+![표지](/images/book/yarisugi-zetsumetsuikimonozukan-book-h480.jpg)
 
 이 책은 '[너무 진화한 공룡 도감]({% post_url 2020-06-05-yarisugi-kyoryuzukan-nande-kokomade-shinkashita-book-review %})',
 '[좀 더 진화한 공룡 도감]({% post_url 2020-06-28-motto-yarisugi-kyoryuzukan-book-review %})',

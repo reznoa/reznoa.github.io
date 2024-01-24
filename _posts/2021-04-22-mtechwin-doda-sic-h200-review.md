@@ -9,13 +9,13 @@ published: false
 '엠테크윈 두다 SIC-H200'은
 사용법과 휴대가 편한 충전식 헤드형 UVC 칫솔살균기다.
 
-![패키지](/images/mtechwin-doda-sic-h200-review-01.jpg)
+![패키지](/images/review/mtechwin-doda-sic-h200-review-01.jpg)
 
-![표기](/images/mtechwin-doda-sic-h200-review-02.jpg)
+![표기](/images/review/mtechwin-doda-sic-h200-review-02.jpg)
 
-![제품 1](/images/mtechwin-doda-sic-h200-review-03.jpg)
+![제품 1](/images/review/mtechwin-doda-sic-h200-review-03.jpg)
 
-![제품 2](/images/mtechwin-doda-sic-h200-review-04.jpg)
+![제품 2](/images/review/mtechwin-doda-sic-h200-review-04.jpg)
 
 구성은 본체와 붙여놓는데 이용할 수 있는 철편으로만 이뤄져 있다.
 사용법이 간단하다보니 설명서도 제품 포장에 있는 것만으로 끝이다.
@@ -32,9 +32,9 @@ published: false
 그래도 자력이 약해서 툭 하고 떨어지진 않고 서서히 미끄러진 걸 보면
 그 외의 장소에는 대부분 잘 붙지 않을까 싶다.
 
-![자석 1](/images/mtechwin-doda-sic-h200-review-11.jpg)
+![자석 1](/images/review/mtechwin-doda-sic-h200-review-11.jpg)
 
-![자석 2](/images/mtechwin-doda-sic-h200-review-12.jpg)
+![자석 2](/images/review/mtechwin-doda-sic-h200-review-12.jpg)
 
 제품 안쪽에는 거울도 부착되어있다.
 거울은 비록 뚜껑을 다 덮는게 아니라 가운데에만 있는 작은 크기이지만,
@@ -46,11 +46,11 @@ published: false
 3분 후에는 자동으로 꺼져 배터리를 절약한다.
 덕분에 한번 완충하면 무려 60회 정도를 사용할 수 있다고 한다.
 
-![UVC LED 1](/images/mtechwin-doda-sic-h200-review-05.jpg)
+![UVC LED 1](/images/review/mtechwin-doda-sic-h200-review-05.jpg)
 
-![UVC LED 2](/images/mtechwin-doda-sic-h200-review-06.jpg)
+![UVC LED 2](/images/review/mtechwin-doda-sic-h200-review-06.jpg)
 
-![UVC LED 3](/images/mtechwin-doda-sic-h200-review-07.jpg)
+![UVC LED 3](/images/review/mtechwin-doda-sic-h200-review-07.jpg)
 
 충전은 스마트폰에 많이 쓰인 micro-USB (5핀) 단자를 이용한다.
 여전히 많이 쓰이는 단자를 적용해 구성품과 가격을 줄이고
@@ -59,20 +59,20 @@ published: false
 앞으로 점점 사라져 갈 구 단자를 채택한 것은 역시 조금 아쉬움이 남는다.
 (아마 가격 때문이 아닐까 싶다.)
 
-![충전 1](/images/mtechwin-doda-sic-h200-review-13.jpg)
+![충전 1](/images/review/mtechwin-doda-sic-h200-review-13.jpg)
 
-![충전 2](/images/mtechwin-doda-sic-h200-review-14.jpg)
+![충전 2](/images/review/mtechwin-doda-sic-h200-review-14.jpg)
 
 자동으로 이뤄지는 SIC-H200의 동작 방식은 의외로 장점이 많다.
 UVC 살균의 단점인 긴 시간 살균 시의 칫솔모 부식 문제를 줄여주는데다,
 뚜껑을 닫고서야 동작하기 때문에 빛을 직접 보지 않도록 막았다.
 무엇보다도 따로 조작할 필요가 없어 쓰기 편하다.
 
-![사용 1](/images/mtechwin-doda-sic-h200-review-08.jpg)
+![사용 1](/images/review/mtechwin-doda-sic-h200-review-08.jpg)
 
-![사용 2](/images/mtechwin-doda-sic-h200-review-09.jpg)
+![사용 2](/images/review/mtechwin-doda-sic-h200-review-09.jpg)
 
-![사용 3](/images/mtechwin-doda-sic-h200-review-10.jpg)
+![사용 3](/images/review/mtechwin-doda-sic-h200-review-10.jpg)
 
 다만, 단점도 있다.
 UVC 램프는 엄염히 수명이 있는데 낭비되는 경우가 꽤 많다는 것이 그렇다.

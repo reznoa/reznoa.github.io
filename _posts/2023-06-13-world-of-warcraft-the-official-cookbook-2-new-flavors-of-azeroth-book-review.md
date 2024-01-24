@@ -9,7 +9,7 @@ tags: [책, 요리, 첼시 먼로 카셀, 최경남, 아르누보, 컬처블룸,
 '월드 오브 워크래프트 공식 요리책 2: 아제로스의 새로운 맛(World of Warcraft: New Flavors of Azeroth: The Official Cookbook)'은
 게임 월드 오브 워크래프트를 소재로 한 요리책이다.
 
-![표지](/images/world-of-warcraft-the-official-cookbook-2-new-flavors-of-azeroth-book-h480.jpg)
+![표지](/images/book/world-of-warcraft-the-official-cookbook-2-new-flavors-of-azeroth-book-h480.jpg)
 
 컨셉이 참 재미있다.
 게임 속 세계에서 실제로 어떤 음식을 먹고 있는지,

@@ -8,7 +8,7 @@ tags: [책, 소설, 동화, 창작동화, 판타지, 시간여행, 역사, 장�
 '골동품 가게와 마법 주사위 2: 또 다른 시간 여행자'는
 시간여행이라는 흥미로운 소재와 역사를 꽤 잘 결합시킨 판타지 창작동화다.
 
-![표지](/images/antique-shop-and-magic-dice-2-book-h480.jpg)
+![표지](/images/book/antique-shop-and-magic-dice-2-book-h480.jpg)
 
 [전권]({% post_url 2022-01-07-antique-shop-and-magic-dice-1-book-review %})의 완성도가 꽤 좋았기 때문에 이번권도 기대를 했는데,
 기본적인 기대는 꽤나 잘 충족했다.
