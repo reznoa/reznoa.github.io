@@ -133,6 +133,8 @@ h3 { font-size: 1.5em; }
 #site-bannber img {
 	border: 0;
 	vertical-align: middle;
+	max-width: 125px;
+	max-height: 125px;
 }
 
 #site-footer {
