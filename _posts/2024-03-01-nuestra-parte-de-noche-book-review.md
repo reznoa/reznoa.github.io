@@ -5,8 +5,8 @@ category: 도서
 tags: [책, 소설, 드라마화, 마리아나 엔리케스, 김정아, 오렌지디, 이북카페, 서평]
 ---
 
-'마리아나 엔리케스'의
-'우리 몫의 밤'은
+'마리아나 엔리케스(Mariana Enríquez)'의
+'우리 몫의 밤(Nuestra parte de noche; Our Share of Night)'은
 주술과 오컬트를 소재로한 호러 소설이다.
 
 <p class="center" markdown="1">
