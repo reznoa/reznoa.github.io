@@ -8,7 +8,7 @@ tags: [책, 만화, 네이버웹툰, 백원달, 므큐, 컬처블룸, 서평]
 '화가 살리에르'는
 전형적이지만 완성도가 높은 만화다.
 
-![표지](/images/comic/painter-salieri-2-comic-cook.jpg)
+![표지](/images/comic/painter-salieri-2-comic-book.jpg)
 
 화가들의 삶을 꽤 제대로 조명했지만,
 그렇다고해서 특별한 이야기를 하거나 하는 건 아니다.

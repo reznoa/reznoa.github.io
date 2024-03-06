@@ -8,7 +8,7 @@ tags: [책, 만화, 네이버웹툰, 백원달, 므큐, 컬처블룸, 서평]
 '화가 살리에르'는
 화가들의 씁쓸한 삶과 사랑을 그린 만화다.
 
-![표지](/images/comic/painter-salieri-1-comic-cook.jpg)
+![표지](/images/comic/painter-salieri-1-comic-book.jpg)
 
 첫 인상은 좀 이상하다는 거다.
 캐릭터 설정이 좀 과하달까, 무리해 보이는 측면이 있어서다.
