@@ -15,7 +15,7 @@ tags: [SFC, 게임, 만화원작, 한국어패치]
 롬 구조가 단순해서 한글화 도전 겸 프로그래밍 연습 겸 겸사겸사해서 해봤다.
 
 
-![변변치않은 블루스(ろくでなし BLUES) 한국어 패치 적용 스크린샷](https://lh5.googleusercontent.com/-UrO3a3nH78k/VNUUO8m_HYI/AAAAAAAAO3Y/jMP8BFNCdyw/s0/rblues_kr.png "초반에 오프닝으로 나오는 화면 중 일부다. 롬 구조가 단순했기 때문에 작업 자체는 어렵지 않았다.")
+![변변치않은 블루스(ろくでなし BLUES) 한국어 패치 적용 스크린샷](/images/game/rblues-kr.png)
 
 
 만화 제목은 굳이 해석하자면 '변변치않은 블루스'정도일 듯하다.
@@ -99,7 +99,7 @@ imp는 지금 생각해도 (기능적으로는) 꽤 잘 만든 놈이어서,
 희망사항일 뿐이긴 하나, 후에라도 누군가 '그래픽 보완 패치'를 내주면 기쁘겠다.
 
 
-- [rblues_kr_beta5.zip](https://docs.google.com/uc?id=0BwvGvF1Iv2uASGZWTjlldmJoSms&export=download "변변치않은 블루스 한국어 패치 beta #5")
+- [rblues_kr_beta5.zip](/images/game/rblues_kr_beta5.zip "변변치않은 블루스 한국어 패치 beta #5")
 
 
 뭐, 즐기시라!
