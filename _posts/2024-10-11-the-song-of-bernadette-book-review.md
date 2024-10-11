@@ -9,7 +9,7 @@ tags: [책, 소설, 역사, 기독교, 프란츠 베르펠, 이효상, 이선화
 '베르나데트의 노래(The Song of Bernadette; Das Lied von Bernadette)'는
 베르나데트의 생애를 그린 소설이다.
 
-![표지](/images/book/ayaminis-great-monster-adventure-2-book.jpg)
+![표지](/images/book/the-song-of-bernadette-book.jpg)
 
 성녀 '베르나데트 수비루(Bernadette Soubirous)'의 생에는
 사실상 '루르드의 성모(Notre Dame de Lourdes)' 발현 사건과 동등한 것이라고도 할 수 있다.
