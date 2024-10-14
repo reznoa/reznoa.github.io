@@ -4,6 +4,7 @@ title: "휴대와 사용성이 좋은 다기능 옷걸이 - 평면 접이식 옷
 description: "ABS로 만들어 튼튼하며, 다용도로 사용할 수 있게 만든 평면 접이식 옷걸이 WING을 사용해봤다."
 category: "생활/가전"
 tags: [접이식, 옷걸이, 7Pen, 리뷰플레이스]
+published: false
 ---
 
 ## 제품 소개 및 사용 후기

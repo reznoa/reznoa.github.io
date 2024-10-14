@@ -4,6 +4,7 @@ title: "SOOD for YOU 강좌 후기"
 description: "충치와 잇몸질환 예방을 위한 올바른 칫솔질 방법, SOOD 교육을 받았다."
 category: "건강"
 tags: [강좌, 칫솔질, 큐라덴, 위블]
+published: false
 ---
 
 ## SOOD 강좌 소개

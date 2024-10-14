@@ -4,6 +4,7 @@ title: "No 계면활성제, Yes 불소, 저 마모도, 저 자극성 치약 - �
 description: "치약의 중요한 선택 기준을 모두 만족하는 치약 큐라프록스 엔자이칼 950을 사용해봤다."
 category: "건강"
 tags: [큐라덴, 치약]
+published: false
 ---
 
 최근, [칫솔질과 칫솔 및 치약 선택법에 대한 교육]({% post_url 2017-07-29-sood-for-you-lecture-review %})을 받았다.

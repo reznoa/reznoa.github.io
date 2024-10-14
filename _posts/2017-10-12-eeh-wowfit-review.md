@@ -4,6 +4,7 @@ title: "핏을 살려주는 기능성 보정 속옷 - EEF 와우핏"
 description: "티나지않게 살들을 잡아줘 핏을 살려주는 기능성 보정 속옥 EEF 와우핏을 입어봤다."
 category: "패션"
 tags: [옷, 속옷, 스판, 기능성, EEH, 리뷰플레이스]
+published: false
 ---
 
 ## 제품 소개 및 사용 후기

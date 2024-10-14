@@ -4,6 +4,7 @@ title: "MSM, 글루코사민, 자생보강수를 함유한 온열 마사지 크�
 description: "사용감이 좋은 마사지 크림, 자생비책 MSM 크림을 사용해봤다."
 category: "건강"
 tags: [마사지, MSM, 자생바이오, 메이포레, 리뷰플레이스]
+published: false
 ---
 
 ## 소개 및 후기

@@ -4,6 +4,7 @@ title: "생각보다 더 즐거운 가상체험 - 홍대 히트브이알"
 description: "VR 다크라이드부터 룸스케일까지 경험해볼 수 있는 VR 체험공간, 홍대 히트브이알에 다녀왔다."
 category: 문화
 tags: [VR, 룸스케일VR, 게임, 다크라이드, 홍대, 리뷰플레이스]
+published: false
 ---
 
 ## 소개

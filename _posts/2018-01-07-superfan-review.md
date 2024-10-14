@@ -4,6 +4,7 @@ title: "동영상 클립을 보면서 공부도 하는 영어 학습 서비스 -
 description: "SNS 보듯 동영상 클립을 보면서 영어 공부도 하는 슈퍼팬을 사용해봤다."
 category: "공부"
 tags: [영어, 동영상, 리뷰플레이스]
+published: false
 ---
 
 ## 소개 및 후기
