@@ -28,7 +28,6 @@ feed:
  truncate: 150  # ignored if type is full
 
 disqus_shortname: 'rezlog'
-google_analytics: 'UA-2606866-2'
 google_tag: 'G-XYV20WKC88'
 google_search:    '001425118784033334076:fhu_ptlyqxa'
 google_adsense:
