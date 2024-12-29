@@ -9,7 +9,7 @@ tags: [책, 만화, 생물, 진화, 소설, 하세가와 마사미, 우라켄 �
 '만화로 쉽게 배우는 인류 진화사 사피엔스(ご先祖さまは弱かった！激ヨワ人類史)'는
 인류의 진화를 가볍게 볼 수 있게 담은 만화다.
 
-![표지](/images/book/gosenzosama-wa-yowakatta-gekiyowa-jinruishi-comic-book-h480.jpg)
+![표지](/images/comic/gosenzosama-wa-yowakatta-gekiyowa-jinruishi-comic-book.jpg)
 
 재미있게 볼 수 있도록 하기 위해 꽤나 여러 노력을 기울인 책이다.
 그래서 그건 이 책의 장점이기도 하지만,

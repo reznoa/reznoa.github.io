@@ -10,7 +10,7 @@ tags: [책, 동화, 퍼즐, 기무라 유이치, 이케다 아키코, 고향옥,
 '고양이 탐정 다얀: 바닐라 납치 사건(ねこねこたんてい なぞときダヤン: バニラをすくえ！！)'은
 쉽게 즐길 수 있는 퍼즐들을 담은 추리 동화다.
 
-![표지](https://lh3.googleusercontent.com/UDStJsD9_h-5J_tyv2u-c5aTheCt0jZY3Qj8ZgNwyJ0lohk3mFyS2ySAy2NQAMudBsPa3Umf4AG1Gg=s480)
+![표지](/images/book/nekoneko-tantei-nazotoki-dayan-vanilla-wo-sukue-book.jpg)
 
 이야기는 '지탄'의 여동생 '바닐라'가 사라지면서 시작한다.
 바닐라가 사라진 뒤에는 납치범이 남긴 것으로 보이는 단서들이 남아있었는데,
