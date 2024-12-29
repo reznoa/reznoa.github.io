@@ -10,7 +10,7 @@ tags: [책, 소설, 어린이, 동화, 호러, 크리스 프리스틀리, 데이
 '몬터규 아저씨의 무서운 이야기 2(Uncle Montague's Tales of Terror)'는
 무서운 이야기 시리즈(Tales of Terror Series) 첫번째 책의 완결권이다.
 
-![표지](https://images2.imgbox.com/6b/fa/LjLeISuw_o.jpg)
+![표지](/images/book/tales-of-terror-1-uncle-montaguess-tales-of-terror-part-2-book.jpg)
 
 책에는 다양한 무서운 이야기들이 담겨있는데,
 그를 뭔가 사연이 있는 듯한 '몬터규 아저씨'라는 화자를 통해 들려줌으로써

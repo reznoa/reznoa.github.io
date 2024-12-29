@@ -10,7 +10,7 @@ tags: [책, 소설, 어린이, 동화, 호러, 크리스 프리스틀리, 데이
 '몬터규 아저씨의 무서운 이야기 3: 폭풍우 속 방문객(Tales of Terror from the Black Ship)'은
 무서운 이야기 시리즈(Tales of Terror Series) 두번째 책의 앞권이다.
 
-![표지](/images/book/tales-of-terror-2-tales-of-terror-from-the-black-ship-part-1-book-h480.jpg)
+![표지](/images/book/tales-of-terror-2-tales-of-terror-from-the-black-ship-part-1-book.jpg)
 
 이야기는 폭풍우가 치던 날 아버지가 나간 사이에
 흠뻑 젖은 한 청년 군인(으로 보이는 사람)이 잠시 비를 피하게 해달라며 찾아오면서 시작된다.

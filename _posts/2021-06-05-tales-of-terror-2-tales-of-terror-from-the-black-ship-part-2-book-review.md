@@ -10,7 +10,7 @@ tags: [책, 소설, 어린이, 동화, 호러, 크리스 프리스틀리, 데이
 '몬터규 아저씨의 무서운 이야기 4: 검은 배의 저주(Tales of Terror from the Black Ship)'는
 무서운 이야기 시리즈(Tales of Terror Series) 두번째 책의 완결권이다.
 
-![표지](/images/book/tales-of-terror-2-tales-of-terror-from-the-black-ship-part-2-book-h480.jpg)
+![표지](/images/book/tales-of-terror-2-tales-of-terror-from-the-black-ship-part-2-book.jpg)
 
 4권은 본디 [3권]({% post_url 2021-06-05-tales-of-terror-2-tales-of-terror-from-the-black-ship-part-1-book-review %})과 함께 한권이었던 책이다.
 그것을 반으로 쪼개어 3권과 4권으로 나누어 낸 것인데,

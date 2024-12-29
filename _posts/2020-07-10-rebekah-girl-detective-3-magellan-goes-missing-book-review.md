@@ -10,7 +10,7 @@ tags: [책, 소설, 퀴즈, 미로, 다른그림찾기, 어린이, 동화, PJ �
 '아홉살 탐정 레베카 3: 의문의 마젤란 실종 사건(Rebekah - Girl Detective #3: Magellan Goes Missing)'은
 아홉살 탐정 레베카의 활약을 그린 추리 동화다.
 
-![표지](https://images2.imgbox.com/a5/8f/2y64Svqt_o.jpg)
+![표지](/images/book/rebekah-girl-detective-3-magellan-goes-missing-book.jpg)
 
 아홉살 레베카는 모험을 하고 싶다.
 그래서 주변을 살펴보며 뭔가 사건이 없을까 관찰하고 의심해보기도 한다.
