@@ -2,7 +2,7 @@
 layout: post
 title: "조금은 뻔한 선택지 - 찬란한 선택"
 category: 도서
-tags: [책, 소설, 이동워느 라곰, 타인의취향, 북카페 책과 콩나무, 서평]
+tags: [책, 소설, 이동원, 라곰, 타인의취향, 북카페 책과 콩나무, 서평]
 ---
 
 <div class="ftc-ad-notice">
