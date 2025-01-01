@@ -16,7 +16,11 @@ layout: default
 		{% if post.description %}
 			{{ post.description }}
 		{% else %}
-			{{ post.excerpt | strip_html }}
+			{% assign excerpt = post.excerpt %}
+			{% if excerpt contains '출판사로부터 책을 받고 작성했다.' %}
+				{% assign excerpt = post.content | split: "</p>" | first | strip_html | split: '출판사로부터 책을 받고 작성했다.' | last %}
+			{% endif %}
+			{{ excerpt }}
 		{% endif %}
 	</div>
 	{% endif %}
