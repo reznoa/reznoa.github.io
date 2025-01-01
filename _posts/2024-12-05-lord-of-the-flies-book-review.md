@@ -5,9 +5,11 @@ category: 도서
 tags: [책, 소설, 팬픽, 우화, 윌리엄 골딩, 이덕형, 문예출판사, 북카페 책과 콩나무, 서평]
 ---
 
-<div class="im im-info">
+<div class="ftc-ad-notice">
 이 리뷰는 북카페 책과 콩나무를 통해 출판사로부터 책을 받고 작성했다.
 </div>
+
+
 
 '윌리엄 골딩(William Golding)'의
 '파리대왕(The Lord of Flies)'은

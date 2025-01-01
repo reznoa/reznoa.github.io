@@ -386,6 +386,34 @@ div.mediablock p.mediablock-caption{
 	content:'\f057';
 }
 
+.ftc-ad-notice {
+	display: flex;
+	align-items: center;
+
+	color: #9F6000;
+	background-color: #FEEFB3;
+
+	width: fit-content;
+	max-width: 90%;
+	margin: 3em auto;
+	padding: 1.5em;
+	border-radius:         0.5em;
+	-moz-border-radius:    0.5em;
+	-webkit-border-radius: 0.5em;
+}
+.ftc-ad-notice:before {
+	display: flex;
+	align-items: center;
+	margin-right: 0.4em;
+
+	content:"\f05a";
+
+	font-size: 3em;
+	font-family:FontAwesome;
+	-webkit-font-smoothing:antialiased;
+	-moz-osx-font-smoothing:grayscale
+}
+
 .center {
 	text-align: center;
 }

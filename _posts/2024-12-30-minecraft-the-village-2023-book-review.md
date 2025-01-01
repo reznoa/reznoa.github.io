@@ -5,7 +5,7 @@ category: 도서
 tags: [책, 소설, 게임, 마인크래프트, 맥스 브룩스, 윤여림, 제제의숲, 심야책방, 책세상맘수다, 서평]
 ---
 
-<div class="im im-info">
+<div class="ftc-ad-notice">
 이 리뷰는 책세상맘수다를 통해 출판사로부터 책을 받고 작성했다.
 </div>
 

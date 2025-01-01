@@ -5,9 +5,11 @@ category: 도서
 tags: [책, 만화, 에린 헌터, 댄 졸리, 제임스 L. 베리, 서현정, 가람어린이, 북카페 책과 콩나무, 서평]
 ---
 
-<div class="im im-info">
+<div class="ftc-ad-notice">
 이 리뷰는 북카페 책과 콩나무를 통해 출판사로부터 책을 받고 작성했다.
 </div>
+
+
 
 '댄 졸리(Dan Jolley)'가 쓰고
 '제임스 L. 베리(James L. Barry)'가 그린

@@ -5,7 +5,7 @@ category: 도서
 tags: [책, 에세이, 이빈, 비에이블, 북카페 책과 콩나무, 서평]
 ---
 
-<div class="im im-info">
+<div class="ftc-ad-notice">
 이 리뷰는 북카페 책과 콩나무를 통해 출판사로부터 책을 받고 작성했다.
 </div>
 
