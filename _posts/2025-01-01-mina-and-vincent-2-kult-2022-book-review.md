@@ -16,7 +16,7 @@ tags: [책, 소설, 미스터리, 스릴러, 카밀라 레크베리, 헨리크 �
 '컬트(Kult)'는
 아동 납치사건을 그린 미스터리 스릴러 소설이다.
 
-![표지 1](/images/book/kult-1-book.jpg)
+![표지 1](/images/book/mina-and-vincent-2-kult-1-2022-book.jpg)
 
 소재가 그렇게까지 흥미로운 건 아니다.
 같은 소재의 이야기가 꽤나 여럿 있었고,
