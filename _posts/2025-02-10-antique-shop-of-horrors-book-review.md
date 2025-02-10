@@ -5,7 +5,7 @@ category: 도서
 tags: [책, 소설, 호러, 허아른, 브릿G, 서평]
 ---
 
-'엔틱샵 오브 호러스: 기물괴담'는
+'엔틱샵 오브 호러스: 기물괴담'은
 한 기묘한 엔틱샵을 소재로 한 소설이다.
 
 ![표지](/images/book/antique-shop-of-horrors-book.jpg)
