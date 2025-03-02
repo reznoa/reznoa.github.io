@@ -14,7 +14,7 @@ tags: [책, 소설, 미스터리, 스릴러, 양수련, 책과나무, 그믐, �
 '해피 벌쓰데이(Happy Birthday)'는
 일가독 살인을 소재로 한 미스터리 범죄 스릴러다.
 
-![표지](/images/book/the-day-the-sun-died-book.jpg)
+![표지](/images/book/happy-birthday-2024-book.jpg)
 
 처음엔 거의 인간 드라마, 약간은 로맨스물인 것처럼도 느껴진다.
 물론 약간의 미스터리도 있긴 하다.
