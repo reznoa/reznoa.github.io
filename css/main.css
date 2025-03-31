@@ -431,3 +431,10 @@ div.mediablock p.mediablock-caption{
 {
 	color: #ccc;
 }
+
+.donate-buttons
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}

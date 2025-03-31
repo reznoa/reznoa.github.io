@@ -38,6 +38,15 @@ paypal_button:
  type: "donate_SM" # donate_SM | donate_LG | donateCC_LG
 toonation:
  id: 'reznoa'
+buymeacoffee_button:
+ slug: 'reznoa'
+ color: '#FFDD00'
+ emoji: ''
+ text: 'Buy me a coffee'
+ font: 'Cookie'
+ outline_color: '#000000'
+ font_color: '#000000'
+ coffee_color: '#ffffff'
 
 # Navigation
 links:

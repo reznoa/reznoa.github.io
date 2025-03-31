@@ -13,3 +13,25 @@
 .twitter-tweet {
 	margin: 0 auto;
 }
+
+{% if site.buymeacoffee_button.slug %}
+.bmc-btn
+{
+	min-width: 114px;
+	font-size: 10px;
+	letter-spacing: -0.5px;
+	height: 20px;
+	padding: 0px 6px;
+	border-radius: 3px;
+}
+
+.bmc-btn svg
+{
+	height: 16px !important;
+}
+
+.bmc-btn-text
+{
+	margin-left: 6px;
+}
+{% endif %}
