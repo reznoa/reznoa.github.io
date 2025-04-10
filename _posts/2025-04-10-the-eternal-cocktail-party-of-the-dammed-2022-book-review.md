@@ -11,7 +11,7 @@ tags: [책, 소설, 단편, 판타지, 블랙 코미디, 슬래셔, 폰다 리, 
 
 
 
-<div class="im im-warning">
+<div class="im im-info" markdown="1">
 원문은 [Uncanny Magazine](https://www.uncannymagazine.com/article/the-eternal-cocktail-party-of-the-damned/)에서 무료로,
 번역본은 [브릿G](https://britg.kr/novel-group/novel-posts/?novel_post_id=210485)에서 500원에 볼 수 있다.
 </div>
