@@ -6,7 +6,7 @@ tags: [책, 소설, SF, 사이먼 케이, 샘터, 북카페 책과 콩나무, �
 ---
 
 '사이먼 케이(Simon Kay)'의
-'홀랜프(Hollanp) 2: 메시아의 수호자'는
+'홀랜프 2: 메시아의 수호자(Hollanp 2. The new world)'는
 외계인과의 전쟁으로 소재로 한 SF 소설이다.
 
 ![표지](/images/book/hollanp-2-2024-book.jpg)
