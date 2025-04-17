@@ -9,9 +9,9 @@ tags: [책, 소설, SF, 사이먼 케이, 샘터, 북카페 책과 콩나무, �
 '홀랜프(Hollanp) 2: 메시아의 수호자'는
 외계인과의 전쟁으로 소재로 한 SF 소설이다.
 
-![표지](/images/book/hollanp-2-book.jpg)
+![표지](/images/book/hollanp-2-2024-book.jpg)
 
-[앞서]({% post_url 2024-10-05-hollanp-1-book-review %}), 현대판타지적인 느낌이 강하다고 하기는 했지만,
+[앞서]({% post_url 2024-10-05-hollanp-1-2024-book-review %}), 현대판타지적인 느낌이 강하다고 하기는 했지만,
 굳이 어느 한쪽을 골라야만 한다면 그래도 SF적인 면모를 많이 보이긴 한다.
 이건 현대판타지에 SF적인 요소를 더한 것과는 좀 다르다.
 

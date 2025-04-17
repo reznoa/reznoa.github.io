@@ -9,7 +9,7 @@ tags: [책, 소설, SF, 사이먼 케이, 샘터, 북카페 책과 콩나무, �
 '홀랜프(Hollanp) 1: 거룩한 땅의 수호자'는
 외계인과의 전쟁으로 소재로 한 SF 소설이다.
 
-![표지](/images/book/hollanp-1-book.jpg)
+![표지](/images/book/hollanp-1-2024-book.jpg)
 
 탄생과 관련된 이야기가 좀 흥미롭다.
 작가가 헐리우드에서도 일한 적 있으며
