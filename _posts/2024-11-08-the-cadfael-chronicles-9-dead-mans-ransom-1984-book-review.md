@@ -9,7 +9,7 @@ tags: [책, 소설, 역사, 미스터리, 엘리스 피터스, 송은경, 북하
 '죽은 자의 몸값(Dead Man's Ransom)'은
 '캐드펠 수사 시리즈(The Cadfael Chronicles)' 아홉번째 책이다.
 
-![표지](/images/book/the-cadfael-chronicles-9-dead-mans-ransom-book.jpg)
+![표지](/images/book/the-cadfael-chronicles-9-dead-mans-ransom-1984-book.jpg)
 
 참 여러모로 감탄이 나오는 소설이다.
 
