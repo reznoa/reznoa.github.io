@@ -12,9 +12,9 @@ author:
  github:  reznoa
  twitter: reznoa
 
-url: "http://reznoa.github.io"
+url: "https://reznoa.github.io"
 
-favicon: /images/favicon.ico
+favicon: /favicon.ico
 
 # Build settings
 markdown: kramdown
