@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "낙태/임신중단 약물 허용에 대한 생각"
+description: "낙태/임신중단 약물 허용에 대한 생각을 끄적여본다."
 category: 시사
 tags: [낙태]
 ---
